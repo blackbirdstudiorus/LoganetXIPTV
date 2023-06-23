@@ -35,9 +35,9 @@ http://185.23.80.26:8080/lb/KapitanFantastika/index.m3u8
 http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
 #EXTINF:-1, Уникум 
 http://185.23.80.25:8080/Unikum/index.m3u8
-#EXTINF:-1, Лева HD 
+#EXTINF:-1, Лëва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1, Смотрим Детям 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1, Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
@@ -59,5 +59,5 @@ http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 http://192.162.64.99:5100/play/a032/index.m3u8
 #EXTINF:-1, Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-#EXTINF:-1, Жара Kids TV
+#EXTINF:-1 tvg-id="zhara", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
