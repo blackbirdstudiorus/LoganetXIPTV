@@ -11,3 +11,7 @@ https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
 http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
 #EXTINF:-1, Мульт HD
 http://46.151.151.245:10002/play/a0b4
+#EXTINF:-1, СТС Kids
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/720p.m3u8
+#EXTINF:-1, СТС Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
