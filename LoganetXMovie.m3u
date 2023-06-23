@@ -19,3 +19,7 @@ http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 #EXTINF:-1, Киномикс
 http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1, Киносвидание
+http://192.162.64.99:5100/play/a029/index.m3u8
+#EXTINF:-1, Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
