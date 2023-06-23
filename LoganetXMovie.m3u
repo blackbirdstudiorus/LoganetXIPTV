@@ -23,3 +23,7 @@ http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
 http://192.162.64.99:5100/play/a029/index.m3u8
 #EXTINF:-1, Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
+#EXTINF:-1, Дом кино
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+#EXTINF:-1, Дом кино Премиум HD
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
