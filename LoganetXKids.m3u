@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Карусель
 http://185.90.224.28:8080/8/index.m3u8
+#EXTINF:-1, Карусель +2
+http://213.59.128.165:8888/play/Karusel/index.m3u8
+#EXTINF:-1, Карусель +4
+http://94.230.240.17:8080/karusel/index.m3u8
