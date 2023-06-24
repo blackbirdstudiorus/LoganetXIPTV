@@ -8,7 +8,7 @@ http://192.162.64.99:5200/play/a02p/index.m3u8
 #EXTINF:-1, Мужское кино
 http://192.162.64.99:5100/play/a028/index.m3u8
 #EXTINF:-1, Родное кино 
-http://178.68.215.18:81/play/a093
+http://192.162.64.99:5100/play/a01z/index.m3u8
 #EXTINF:-1, Наше новое кино 
 http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
 #EXTINF:-1, Индийское кино
