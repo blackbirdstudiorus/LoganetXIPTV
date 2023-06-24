@@ -65,3 +65,11 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1, .sci-fi 
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1, Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1, Cinema
+http://176.74.80.162:8099/Cinema/index.m3u8
+#EXTINF:-1, FAN 
+http://80.251.49.103:8003/play/143
+#EXTINF:-1, Filmbox 
+http://94.230.240.17:8080/film_box/index.m3u8
