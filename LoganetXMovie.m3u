@@ -27,3 +27,17 @@ http://109.197.192.121:8080/kinouzhas/index.m3u8
 http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:-1, Дом кино Премиум HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+#EXTINF:-1, Viju+ Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Viju+ Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Viju+ Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Viju+ Serial 
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Viju TV1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Viju TV1000 Action 
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
+#EXTINF:-1, Viju TV1000 Русское кино 
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
