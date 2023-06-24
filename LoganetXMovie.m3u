@@ -51,3 +51,11 @@ http://192.162.64.99:5100/play/a022/index.m3u8
 http://192.162.64.99:5100/play/a021/index.m3u8
 #EXTINF:-1, Fox
 http://europe3.livetv.az/russia/fox_russia_sd_2023/playlist.m3u8
+#EXTINF:-1, A1 HD
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1, A2 HD
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1, Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1, Amedia Premium HD 
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
