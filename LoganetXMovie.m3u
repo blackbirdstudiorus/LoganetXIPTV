@@ -97,3 +97,35 @@ http://91.207.238.25:2503/play/TV_XXI
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1, Блокбастер HD
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+#EXTINF:-1, День Победы HD
+https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTINF:-1, Дорама HD 
+http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
+#EXTINF:-1, Еврокино
+http://192.162.64.99:5100/play/a02s/index.m3u8
+#EXTINF:-1, Иллюзион+
+http://92.100.39.32:2289/play/a03w/index.m3u8
+#EXTINF:-1, Камеди HD 
+http://185.23.80.26:8080/lb/Camedi/index.m3u8
+#EXTINF:-1, Кинеко HD 
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1, Кино ТВ HD 
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:-1, Киноман 
+http://185.23.80.26:8080/lb/KinoSat/index.m3u8
+#EXTINF:-1, Кинопоказ HD
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1, Наш кинопоказ HD 
+http://185.23.80.26:8080/lb/NashKinopokaz/index.m3u8
+#EXTINF:-1, Комедия 
+http://192.162.64.99:5100/play/a02k/index.m3u8
+#EXTINF:-1, Комедийное HD 
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
+#EXTINF:-1, Наше любимое кино 
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
+#EXTINF:-1, Мир сериала 
+http://mfe.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
+#EXTINF:-1, Мосфильм. Золотая коллекция 
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+#EXTINF:-1, Наше мужское HD 
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
