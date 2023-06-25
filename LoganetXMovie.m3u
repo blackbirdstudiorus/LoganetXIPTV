@@ -85,3 +85,9 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1, Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1, Shot TV
+http://92.100.39.32:2289/play/ShotTV/index.m3u8
+#EXTINF:-1, Timeless Dizi Channel 
+http://192.162.64.99:5200/play/a02l/index.m3u8
+#EXTINF:-1, Trash HD 
+https://livetv.mylifeisgood.ml/channels/trash.m3u8
