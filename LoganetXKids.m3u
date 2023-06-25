@@ -59,6 +59,8 @@ http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1, JimJam
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1, Тип-Топ HD
+http://185.23.80.25:8080/TipTop/index.m3u8
 #EXTINF:-1, Мультимузыка
 http://192.162.64.99:5100/play/a032/index.m3u8
 #EXTINF:-1, Baby Time 
