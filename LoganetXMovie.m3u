@@ -119,6 +119,8 @@ http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 http://185.23.80.26:8080/lb/NashKinopokaz/index.m3u8
 #EXTINF:-1, Комедия 
 http://192.162.64.99:5100/play/a02k/index.m3u8
+#EXTINF:-1, Комедийное HD
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 #EXTINF:-1, Наше любимое кино 
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:-1, Мир сериала 
