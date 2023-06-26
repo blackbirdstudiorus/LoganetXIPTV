@@ -71,25 +71,25 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:-1, FAN 
 http://80.251.49.103:8003/play/143
-#EXTINF:-1, Filmbox 
+#EXTINF:-1 tvg-id="filmbox-ru", Filmbox 
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1, Hollywood HD 
 http://80.251.49.103:8003/play/82
-#EXTINF:-1, Plan B HD
+#EXTINF:-1 tvg-id="plan-b", Plan B HD
 http://192.162.64.99:5100/play/a02t/index.m3u8
-#EXTINF:-1, Star Cinema HD
+#EXTINF:-1 tvg-id="star-cinema", Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1, Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
-#EXTINF:-1, Start Air HD
+#EXTINF:-1 tvg-id="start-air", Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
-#EXTINF:-1, Start World HD
+#EXTINF:-1 tvg-id="start-world", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1, Shot TV
 http://192.162.64.99:5100/play/a02y/index.m3u
 #EXTINF:-1, Timeless Dizi Channel 
 http://192.162.64.99:5200/play/a02l/index.m3u8
-#EXTINF:-1, Trash HD 
+#EXTINF:-1 tvg-id="trashtv", Trash HD 
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1, TV XXI
 http://91.207.238.25:2503/play/TV_XXI
@@ -107,11 +107,11 @@ http://192.162.64.99:5100/play/a02s/index.m3u8
 http://92.100.39.32:2289/play/a03w/index.m3u8
 #EXTINF:-1, Камеди HD 
 http://185.23.80.26:8080/lb/Camedi/index.m3u8
-#EXTINF:-1, Кинеко HD 
+#EXTINF:-1 tvg-id="kineko", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1, Кино ТВ HD 
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
-#EXTINF:-1, Киноман 
+#EXTINF:-1, Киносат
 http://192.162.64.99:5100/play/a02d/index.m3u8
 #EXTINF:-1, Кинопоказ HD
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
@@ -121,7 +121,7 @@ http://185.23.80.26:8080/lb/NashKinopokaz/index.m3u8
 http://192.162.64.99:5100/play/a02k/index.m3u8
 #EXTINF:-1, Комедийное HD
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
-#EXTINF:-1, Наше любимое кино 
+#EXTINF:-1, Любимое кино 
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:-1, Мир сериала 
 http://mfe.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
@@ -129,9 +129,9 @@ http://mfe.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1, Наше мужское HD 
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
-#EXTINF:-1, НТВ-Хит HD 
+#EXTINF:-1 tvg-id="ntv-xit", НТВ-Хит HD 
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1, НТВ-Сериал HD 
+#EXTINF:-1 tvg-id="ntv-serial", НТВ-Сериал HD 
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1, Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -145,7 +145,7 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1, Хит HD 
 http://80.251.49.103:8003/play/81
-#EXTINF:-1, BackusTV HD 
+#EXTINF:-1 tvg-id="backustv", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1, BackusTV Dark HD 
+#EXTINF:-1 tvg-id="backustv-horror", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv/index.m3u8
