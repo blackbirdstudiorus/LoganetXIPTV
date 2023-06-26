@@ -148,4 +148,4 @@ http://80.251.49.103:8003/play/81
 #EXTINF:-1 tvg-id="backustv", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror", BackusTV Dark HD 
-http://stream.backustv.ru/live/btv/index.m3u8
+http://stream.backustv.ru/live/btv2/index.m3u8
