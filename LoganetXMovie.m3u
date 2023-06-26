@@ -21,7 +21,7 @@ http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
 #EXTINF:-1, Киносвидание
 http://192.162.64.99:5100/play/a029/index.m3u8
-#EXTINF:-1 tvg-group="Страшное", Киноужас
+#EXTINF:-1 group-title="Страшное", Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1, Дом кино
 http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
@@ -89,7 +89,7 @@ https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 http://192.162.64.99:5100/play/a02y/index.m3u
 #EXTINF:-1, Timeless Dizi Channel 
 http://192.162.64.99:5200/play/a02l/index.m3u8
-#EXTINF:-1 tvg-group="Страшное" tvg-id="trashtv", Trash HD 
+#EXTINF:-1 group-title="Страшное" tvg-id="trashtv", Trash HD 
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1, TV XXI
 http://91.207.238.25:2503/play/TV_XXI
@@ -133,7 +133,7 @@ http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 tvg-id="ntv-serial", НТВ-Сериал HD 
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 tvg-group="Страшное", Остросюжетное HD 
+#EXTINF:-1 group-title="Страшное", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1, Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
