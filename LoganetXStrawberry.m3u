@@ -9,3 +9,5 @@ http://93.125.29.22:8901/playboy-tv
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1, Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1, Penthouse Gold HD
+http://51.159.102.100/PenthouseGold/index.m3u8
