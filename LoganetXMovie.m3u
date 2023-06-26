@@ -1,3 +1,4 @@
+
 #EXTINF:-1, #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1, Кинопремьера HD
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
@@ -129,3 +130,13 @@ http://mfe.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1, Наше мужское HD 
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1, НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1, НТВ-Сериал HD 
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1, Остросюжетное HD 
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1, Премиальное HD 
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1, Про любовь HD 
+http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
