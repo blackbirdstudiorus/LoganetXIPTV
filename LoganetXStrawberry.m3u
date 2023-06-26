@@ -1,1 +1,9 @@
-
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, O-la-la
+http://93.125.29.22:8787/Olala
+#EXTINF:-1, Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1, Playboy
+http://93.125.29.22:8901/playboy-tv
+#EXTINF:-1, Visit-X 
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
