@@ -33,7 +33,7 @@ http://91.233.47.254:8887/udp/224.200.202.146
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", JimJam
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
-#EXTINF:-1 group-title="Мультсериалы", Тип-Топ HD
+#EXTINF:-1 group-title="Мультсериалы", ТипТоп
 http://185.23.80.25:8080/TipTop/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Gulli Girl
 http://live-3.otcnet.ru/Gulli_OT/index.m3u8
