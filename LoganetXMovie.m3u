@@ -11,7 +11,7 @@ http://192.162.64.99:5100/play/a028/index.m3u8
 http://192.162.64.99:5100/play/a01z/index.m3u8
 #EXTINF:-1, Наше новое кино 
 http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
-#EXTINF:-1, Индийское кино
+#EXTINF:-1 group-title="Национальное", Индийское кино
 http://192.162.64.99:5100/play/a02m/index.m3u8
 #EXTINF:-1, Киносемья 
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
@@ -87,19 +87,19 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1, Shot TV
 http://192.162.64.99:5100/play/a02y/index.m3u
-#EXTINF:-1, Timeless Dizi Channel 
+#EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
 http://192.162.64.99:5200/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Страшное" tvg-id="trashtv", Trash HD 
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1, TV XXI
 http://91.207.238.25:2503/play/TV_XXI
-#EXTINF:-1, Индия
+#EXTINF:-1 group-title="Национальное", Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1, Блокбастер HD
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 #EXTINF:-1, День Победы HD
 https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1, Дорама HD 
+#EXTINF:-1 group-title="Национальное", Дорама HD 
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1, Еврокино
 http://192.162.64.99:5100/play/a02s/index.m3u8
@@ -107,7 +107,7 @@ http://192.162.64.99:5100/play/a02s/index.m3u8
 http://92.100.39.32:2289/play/a03w/index.m3u8
 #EXTINF:-1, Камеди HD 
 http://185.23.80.26:8080/lb/Camedi/index.m3u8
-#EXTINF:-1 tvg-id="kineko", Кинеко HD 
+#EXTINF:-1 tvg-id="kineko" group-title="Национальное", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1, Кино ТВ HD 
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
@@ -139,7 +139,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1, Про любовь HD 
 http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
-#EXTINF:-1, Сапфир HD
+#EXTINF:-1 group-title="Национальное", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1, Феникс+Кино 
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
