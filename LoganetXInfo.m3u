@@ -1,1 +1,15 @@
-
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, 2x2
+https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1, 360 HD 
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1, 360 Новости HD 
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1, 365 дней ТВ 
+http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1, Aiva HD
+http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Animal Planet HD 
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8 
+#EXTINF:-1, Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
