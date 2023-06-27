@@ -65,3 +65,33 @@ http://45.142.213.81:8001/playlist.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1, TVM Channel 
 https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Viju+ Planet HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1, Viju Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1, Viju History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1, Viju Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1, Zooпарк
+http://192.162.64.99:5000/play/a02q/index.m3u8 
+#EXTINF:-1, Анекдот ТВ
+https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+#EXTINF:-1, Арсенал HD
+http://45.143.108.104:80/arsenal/index.m3u8
+#EXTINF:-1, Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1, В мире животных HD
+http://185.23.80.26:8080/lb/VMireZhivotnyx/index.m3u8
+#EXTINF:-1, Время 
+http://92.100.39.32:2289/play/VeremaDelako/index.m3u8 
+#EXTINF:-1, Доктор 
+http://92.100.39.32:2289/play/a07j/index.m3u8
+#EXTINF:-1, Домашние животные 
+http://192.162.64.99:5300/play/a027/index.m3u8 
+#EXTINF:-1, ЕГЭ 
+http://146.158.0.56:80/EGETV/index.m3u8
+#EXTINF:-1, Живая планета
+http://185.23.80.25:8080/ZhivayaPlaneta/index.m3u8 
+#EXTINF:-1, Живая природа 
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
