@@ -57,3 +57,11 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 https://cdn-cache01.voka.tv:443/live/5117.m3u8
 #EXTINF:-1, Travel Channel HD
 http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Travel+Adventure HD
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1, Travel&Adventure HD
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1, TV Brics 
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1, TVM Channel 
+https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
