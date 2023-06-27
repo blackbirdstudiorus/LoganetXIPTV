@@ -33,3 +33,25 @@ http://80.251.49.103:8003/play/174
 http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 #EXTINF:-1, History 2 HD
 https://vsd210.mycdn.me/hls/4652241193710.m3u8/sig/VYjJgHi63YE/expires/1687928322169/srcIp/213.87.139.28/urls/45.136.21.89/clientType/0/srcAg/CHROME_ANDROID/mid/5582104370926/video.m3u8?p
+#EXTINF:-1, Nano HD
+http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, National Geographic
+http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
+#EXTINF:-1, National Geographic Wild 
+http://europe3.livetv.az/russia/nat_geo_wild_hd_2023/playlist.m3u8 
+#EXTINF:-1, Океан
+http://146.158.0.56:80/OceanTV/index.m3u8
+#EXTINF:-1, RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1, RTG Int.
+http://88.216.83.245/rtg/index.m3u8
+#EXTINF:-1, San Porto 
+http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
+#EXTINF:-1, Terra HD 
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1, Top Secret
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1, TLC 
+https://cdn-cache01.voka.tv:443/live/5117.m3u8
