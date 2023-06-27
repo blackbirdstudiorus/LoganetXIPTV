@@ -55,3 +55,5 @@ https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1, TLC 
 https://cdn-cache01.voka.tv:443/live/5117.m3u8
+#EXTINF:-1, Travel Channel HD
+http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
