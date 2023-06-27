@@ -33,5 +33,3 @@ http://80.251.49.103:8003/play/174
 http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 #EXTINF:-1, History 2 HD
 https://vsd210.mycdn.me/hls/4652241193710.m3u8/sig/VYjJgHi63YE/expires/1687928322169/srcIp/213.87.139.28/urls/45.136.21.89/clientType/0/srcAg/CHROME_ANDROID/mid/5582104370926/video.m3u8?p
-#EXTINF:-1, Insight UHD
-http://185.162.8.175:6878/ace/manifest.m3u8?id=d28da522cd7e82220af8e99b9cf5e1bbc2c1aadf
