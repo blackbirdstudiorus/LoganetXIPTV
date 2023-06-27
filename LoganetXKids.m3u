@@ -67,3 +67,5 @@ http://192.162.64.99:5100/play/a032/index.m3u8
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="UA", ПлюсПлюс
+http://91.146.94.234:10001/play/a04v
