@@ -94,4 +94,16 @@ http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1, Живая планета
 http://185.23.80.25:8080/ZhivayaPlaneta/index.m3u8 
 #EXTINF:-1, Живая природа 
-https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8 
+#EXTINF:-1, Зал суда
+http://192.162.64.99:5000/play/a02n/index.m3u8 
+#EXTINF:-1, Звезда Плюс 
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1, Здоровое ТВ
+http://109.197.192.121:8080/zdorovoe/index.m3u8 
+#EXTINF:-1, Зоо ТВ 
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test 
+#EXTINF:-1, Известия 
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
+#EXTINF:-1, История 
+http://92.100.39.32:2289/play/a05t/index.m3u8
