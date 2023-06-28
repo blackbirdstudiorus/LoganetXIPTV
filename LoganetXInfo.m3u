@@ -107,3 +107,17 @@ http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
 #EXTINF:-1, История 
 http://92.100.39.32:2289/play/a05t/index.m3u8
+#EXTINF:-1, Калейдоскоп ТВ
+https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
+#EXTINF:-1, КВН ТВ
+http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8 
+#EXTINF:-1, Ключ
+http://185.23.80.26:8080/lb/Klyuch/index.m3u8 
+#EXTINF:-1, Крик ТВ 
+https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8 
+#EXTINF:-1, Кто есть кто 
+http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8 
+#EXTINF:-1, Министерство идей 
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
+#EXTINF:-1, Мир 24 
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
