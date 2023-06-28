@@ -12,7 +12,7 @@ http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="Микс", Plan B HD
 http://192.162.64.99:5100/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Микс", TV XXI
-http://91.207.238.25:2503/play/TV_XXI
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 #EXTINF:-1 group-title="Микс", Блокбастер HD
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 #EXTINF:-1 group-title="Микс", Иллюзион+
