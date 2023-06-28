@@ -120,4 +120,8 @@ http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
 #EXTINF:-1, Министерство идей 
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
 #EXTINF:-1, Мир 24 
-https://strm.yandex.ru/kal/mir24/mir240.m3u8
+https://strm.yandex.ru/kal/mir24/mir240.m3u8 
+#EXTINF:-1, МосОбр ТВ 
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8 
+#EXTINF:-1, Моя планета HD 
+http://185.23.80.26:8080/lb/MoyaPlaneta/index.m3u8
