@@ -116,4 +116,20 @@ https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1, МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8 
 #EXTINF:-1, Моя планета HD 
-http://185.23.80.26:8080/lb/MoyaPlaneta/index.m3u8
+http://185.23.80.26:8080/lb/MoyaPlaneta/index.m3u8 
+#EXTINF:-1, Наука 2.0
+http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test 
+#EXTINF:-1, Наша сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
+#EXTINF:-1, Наша сибирь 4k
+https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1, Ностальгия
+http://146.158.0.56:80/Nostalgiya/index.m3u8 
+#EXTINF:-1, НТВ Право 
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1, Открытый мир
+http://146.158.0.56/OtkritiyMir/mono.m3u8 
+#EXTINF:-1, Первый космический HD 
+http://stream01.vnet.am/Evrika/mono.m3u8 
+#EXTINF:-1, Победа
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
