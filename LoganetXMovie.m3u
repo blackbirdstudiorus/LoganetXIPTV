@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Микс", Киномикс HD
-http://192.162.64.99:5100/play/a02g/index.m3u8
+http://80.251.49.103:8002/play/136
 #EXTINF:-1 group-title="Микс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Русский бестселлер
@@ -38,7 +38,7 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
 http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Хиты", Кинохит HD
-http://192.162.64.99:5100/play/a027/index.m3u8
+http://80.251.49.103:8003/play/99
 #EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
@@ -104,7 +104,7 @@ http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Комедии", Viju+ Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Комедии", Shot TV
-http://192.162.64.99:5100/play/a02y/index.m3u
+http://80.251.49.103:8003/play/23
 #EXTINF:-1 group-title="Комедии", Камеди HD 
 http://185.23.80.26:8080/lb/Camedi/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедия 
@@ -138,7 +138,7 @@ http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Еврокино
 http://192.162.64.99:5100/play/a02s/index.m3u8
 #EXTINF:-1 group-title="Национальное", Индийское кино 
-http://192.162.64.99:5100/play/a02m/index.m3u8
+http://80.251.49.103:8003/play/78
 #EXTINF:-1 group-title="Национальное", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 group-title="Страшное", Киноужас
