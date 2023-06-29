@@ -12,7 +12,7 @@ http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт HD
 http://46.151.151.245:10002/play/a0b4
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
-http://192.162.64.222:4000/play/a05q/index.m3u8
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
 http://138.201.67.145:8081/stskids/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
@@ -64,7 +64,7 @@ http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
 http://185.23.80.25:8080/Unikum/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Мультимузыка
-http://192.162.64.99:5100/play/a032/index.m3u8
+http://92.100.39.32:2289/play/Multimuzika/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
