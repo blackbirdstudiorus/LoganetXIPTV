@@ -20,7 +20,7 @@ http://92.100.39.32:2289/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Микс", Кино ТВ HD 
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Микс", Киносат
-http://192.162.64.99:5100/play/a02d/index.m3u8
+http://88.216.83.245/nicktoons/index.m3u8
 #EXTINF:-1 group-title="Микс", Кинопоказ HD
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Микс", Наш кинопоказ HD 
@@ -74,7 +74,7 @@ http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейное", Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", Киносвидание
-http://192.162.64.99:5100/play/a029/index.m3u8
+http://92.100.39.32:2289/play/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Женское", Русский роман
 http://80.251.49.103:8003/play/162
 #EXTINF:-1 group-title="Женское", A2 HD
@@ -136,7 +136,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Дорама HD 
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Еврокино
-http://192.162.64.99:5100/play/a02s/index.m3u8
+http://92.100.39.32:2289/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Национальное", Индийское кино 
 http://80.251.49.103:8003/play/78
 #EXTINF:-1 group-title="Национальное", Сапфир HD
