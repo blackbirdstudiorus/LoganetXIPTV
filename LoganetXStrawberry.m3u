@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1, O-la-la
-http://93.125.29.22:8787/Olala
+http://80.251.49.103:8003/play/212
 #EXTINF:-1, Erox
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1, Playboy
