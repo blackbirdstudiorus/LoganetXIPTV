@@ -76,7 +76,7 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", Киносвидание
 http://192.162.64.99:5100/play/a029/index.m3u8
 #EXTINF:-1 group-title="Женское", Русский роман
-http://192.162.64.99:5100/play/a022/index.m3u8
+http://80.251.49.103:8003/play/162
 #EXTINF:-1 group-title="Женское", A2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", .red
