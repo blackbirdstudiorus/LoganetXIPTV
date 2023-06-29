@@ -10,7 +10,7 @@ http://europe3.livetv.az/russia/fox_russia_sd_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Микс", Filmbox 
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="Микс", Plan B HD
-http://192.162.64.99:5100/play/a02t/index.m3u8
+http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Микс", TV XXI
 http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 #EXTINF:-1 group-title="Микс", Блокбастер HD
@@ -56,7 +56,7 @@ http://80.251.49.103:8003/play/81
 #EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
 #EXTINF:-1 group-title="Мужское", Мужское кино
-http://192.162.64.99:5100/play/a028/index.m3u8
+http://80.251.49.103:8002/play/167
 #EXTINF:-1 group-title="Мужское", Русский детектив 
 http://92.100.39.32:2289/play/Detektiv/index.m3u8
 #EXTINF:-1 group-title="Мужское", A1 HD
@@ -86,7 +86,7 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", Про любовь HD 
 http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
 #EXTINF:-1 group-title="Отечественное", Родное кино 
-http://192.162.64.99:5100/play/a01z/index.m3u8
+http://31.148.48.15:80/Rodnoe_kino/index.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
 http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
