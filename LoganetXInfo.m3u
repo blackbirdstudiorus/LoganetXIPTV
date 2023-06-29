@@ -17,6 +17,8 @@ https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
 http://88.216.83.245/discovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1, Discovery Science HD
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80201
+#EXTINF:-1, Investigation Discovery
+http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 #EXTINF:-1, DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1, Euronews
@@ -132,4 +134,20 @@ http://146.158.0.56/OtkritiyMir/mono.m3u8
 #EXTINF:-1, Первый космический HD 
 http://stream01.vnet.am/Evrika/mono.m3u8 
 #EXTINF:-1, Победа
-http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8 
+#EXTINF:-1, Поехали!
+http://46.151.151.245:10007/play/a004
+#EXTINF:-1, Приключения HD
+http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8 
+#EXTINF:-1, Продвижение 
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1, Просвещение 
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ратник 
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8 
+#EXTINF:-1, РБК 
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1, Ретро
+http://138.201.67.145:8081/retro/index.m3u8
+#EXTINF:-1, РЖД HD 
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
