@@ -58,7 +58,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мужское", Мужское кино
 http://192.162.64.99:5100/play/a028/index.m3u8
 #EXTINF:-1 group-title="Мужское", Русский детектив 
-http://192.162.64.99:5100/play/a021/index.m3u8
+http://92.100.39.32:2289/play/Detektiv/index.m3u8
 #EXTINF:-1 group-title="Мужское", A1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", .black 
