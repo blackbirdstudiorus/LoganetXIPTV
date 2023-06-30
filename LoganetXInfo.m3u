@@ -1,57 +1,57 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1, 2x2
+#EXTINF:-1 group-title="Развлекательные", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1, 360 HD 
+#EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1, 360 Новости
+#EXTINF:-1 group-title="Новости", 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
-#EXTINF:-1, 365 дней ТВ 
+#EXTINF:-1 group-title="История", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
-#EXTINF:-1, Animal Planet HD 
+#EXTINF:-1 group-title="Природа", Animal Planet HD 
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8 
-#EXTINF:-1, Big Planet
+#EXTINF:-1 group-title="Научпоп", Big Planet
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
-#EXTINF:-1, Da Vinci 
+#EXTINF:-1 group-title="Научпоп", Da Vinci 
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
-#EXTINF:-1, Discovery HD
+#EXTINF:-1 group-title="Развлекательные", Discovery HD
 http://88.216.83.245/discovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1, Discovery Science HD
+#EXTINF:-1 group-title="Научпоп", Discovery Science HD
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80201
-#EXTINF:-1 tvg-id="id-xtra-eu", Investigation Discovery
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
-#EXTINF:-1, DTX HD
+#EXTINF:-1 group-title="Автомобили", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
-#EXTINF:-1, Euronews
+#EXTINF:-1 group-title="Новости", Euronews
 http://88.216.83.245/euronews/index.m3u8
-#EXTINF:-1, Global Star
+#EXTINF:-1 group-title="Развлекательные", Global Star
 http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
-#EXTINF:-1, HDL
+#EXTINF:-1 group-title="Документальные", HDL
 http://80.251.49.103:8003/play/174
-#EXTINF:-1, History HD 
+#EXTINF:-1 group-title="Документальные", History HD 
 http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
-#EXTINF:-1, Nano HD
+#EXTINF:-1 group-title="Научпоп", Nano HD
 http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Неизвестная Россия
+#EXTINF:-1 group-title="Документальные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, National Geographic
+#EXTINF:-1 group-title="Документальные", National Geographic
 http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
-#EXTINF:-1, Nat Geo Wild 
+#EXTINF:-1 group-title=Природа", Nat Geo Wild 
 http://europe3.livetv.az/russia/nat_geo_wild_hd_2023/playlist.m3u8 
-#EXTINF:-1 tvg-id="ocean-tv", Океан
+#EXTINF:-1 tvg-id="ocean-tv" group-title="Природа", Океан
 http://146.158.0.56:80/OceanTV/index.m3u8
-#EXTINF:-1, RTG HD
+#EXTINF:-1 group-title="Туризм", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-#EXTINF:-1, RTG International
+#EXTINF:-1 group-title="Туризм", RTG International
 http://88.216.83.245/rtg/index.m3u8
-#EXTINF:-1, San Porto 
+#EXTINF:-1 group-title="Развлекательные", San Porto 
 http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru", Terra HD
+#EXTINF:-1 tvg-id="terra-ru" group-title="Документальные", Terra HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
-#EXTINF:-1, Top Secret
+#EXTINF:-1 group-title="Документальные", Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
-#EXTINF:-1, TLC 
+#EXTINF:-1 group-title="Развлекательные", TLC 
 https://cdn-cache01.voka.tv:443/live/5117.m3u8
-#EXTINF:-1, Travel Channel HD
+#EXTINF:-1 group-title="Туризм", Travel Channel HD
 http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
 #EXTINF:-1, Travel+Adventure HD
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
