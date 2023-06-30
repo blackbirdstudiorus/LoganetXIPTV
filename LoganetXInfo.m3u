@@ -153,3 +153,49 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8 
 #EXTINF:-1, Сарафан
 http://92.100.39.32:2289/play/Sarafan/index.m3u8
+#EXTINF:-1, Светлое ТВ HD
+http://185.23.80.25:8080/SvetloeTV/index.m3u8
+#EXTINF:-1, СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+#EXTINF:-1, Суббота! HD 
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1, Техно 24
+http://31.211.77.158:8000/play/a147/index.m3u8
+#EXTINF:-1, Galaxy
+http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
+#EXTINF:-1, Танцуй!
+http://92.100.39.32:2289/play/a05j/index.m3u8
+#EXTINF:-1, ТВ Экстра HD 
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:-1, ТДК 
+http://31.148.48.15:80/TDK/index.m3u8?token=test
+#EXTINF:-1, Театр 
+http://146.158.0.56:80/Teatr/index.m3u8
+#EXTINF:-1, Телепутешествия 
+http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
+#EXTINF:-1, ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Точка ТВ 
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:-1, Точка Отрыва 
+http://185.23.80.26:8080/lb/TochkoOtryva/index.m3u8
+#EXTINF:-1, Успех 
+http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1, Че!
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:-1, Эхо TV 
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1, Ю 
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1, RT Doc 
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1, Вместе-РФ 
+https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Дума ТВ 
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Красная линия 
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ЛДПР ТВ 
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:-1, Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
