@@ -3,7 +3,7 @@
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1, 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1, 360 Новости HD 
+#EXTINF:-1, 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
 #EXTINF:-1, 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
@@ -17,7 +17,7 @@ https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
 http://88.216.83.245/discovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1, Discovery Science HD
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80201
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1 tvg-id="id-xtra-eu", Investigation Discovery
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 #EXTINF:-1, DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
@@ -35,17 +35,17 @@ http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, National Geographic
 http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
-#EXTINF:-1, National Geographic Wild 
+#EXTINF:-1, Nat Geo Wild 
 http://europe3.livetv.az/russia/nat_geo_wild_hd_2023/playlist.m3u8 
-#EXTINF:-1, Океан
+#EXTINF:-1 tvg-id="ocean-tv", Океан
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1, RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-#EXTINF:-1, RTG Int.
+#EXTINF:-1, RTG International
 http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1, San Porto 
 http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
-#EXTINF:-1, Terra HD 
+#EXTINF:-1 tvg-id="terra-ru", Terra HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:-1, Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
@@ -153,19 +153,19 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8 
 #EXTINF:-1, Сарафан
 http://92.100.39.32:2289/play/Sarafan/index.m3u8
-#EXTINF:-1, Светлое ТВ HD
+#EXTINF:-1 tvg-id="svetloe-tv", Светлое ТВ HD
 http://185.23.80.25:8080/SvetloeTV/index.m3u8
 #EXTINF:-1, СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
-#EXTINF:-1, Суббота! HD 
+#EXTINF:-1 tvg-id="super", Суббота! HD 
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1, Техно 24
 http://31.211.77.158:8000/play/a147/index.m3u8
-#EXTINF:-1, Galaxy
+#EXTINF:-1, Galaxy TV
 http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
 #EXTINF:-1, Танцуй!
 http://92.100.39.32:2289/play/a05j/index.m3u8
-#EXTINF:-1, ТВ Экстра HD 
+#EXTINF:-1, ТВ Экстра
 http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1, ТДК 
 http://31.148.48.15:80/TDK/index.m3u8?token=test
