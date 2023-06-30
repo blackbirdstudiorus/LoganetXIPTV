@@ -23,8 +23,6 @@ http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1, Euronews
 http://88.216.83.245/euronews/index.m3u8
-#EXTINF:-1, Gagsnetwork
-http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 #EXTINF:-1, Global Star
 http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HDL
@@ -151,3 +149,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://138.201.67.145:8081/retro/index.m3u8
 #EXTINF:-1, РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1, Родной канал HD 
+http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8 
+#EXTINF:-1, Сарафан
+http://92.100.39.32:2289/play/Sarafan/index.m3u8
