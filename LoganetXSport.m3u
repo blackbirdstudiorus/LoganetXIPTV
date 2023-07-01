@@ -44,3 +44,9 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, Мир баскетбола 
 http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+#EXTINF:-1, Старт Live
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1, Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1, Футбол 
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
