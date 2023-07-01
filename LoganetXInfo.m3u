@@ -3,6 +3,64 @@
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Discovery HD
+http://88.216.83.245/discovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Global Star
+http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", San Porto 
+http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", TVM Channel 
+https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
+https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+#EXTINF:-1 group-title="Развлекательные", TLC 
+https://cdn-cache01.voka.tv:443/live/5117.m3u8
+#EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
+https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="Развлекательные", КВН ТВ
+http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные", Ключ
+http://185.23.80.26:8080/lb/Klyuch/index.m3u8 
+#EXTINF:-1 group-title="Развлекательные", Министерство идей 
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные", НТВ Право 
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Продвижение 
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Точка ТВ 
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
+http://185.23.80.26:8080/lb/TochkoOtryva/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Успех 
+http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Че!
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:-1 group-title="Развлекательные", Эхо TV 
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ю 
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ратник 
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
+http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные", Сарафан
+http://92.100.39.32:2289/play/Sarafan/index.m3u8
+#EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
+http://185.23.80.25:8080/SvetloeTV/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Танцуй!
+http://92.100.39.32:2289/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТДК 
+http://31.148.48.15:80/TDK/index.m3u8?token=test
+#EXTINF:-1 group-title="Развлекательные", Театр 
+http://146.158.0.56:80/Teatr/index.m3u8
+
+
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
@@ -13,8 +71,7 @@ http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 group-title="Научпоп", Da Vinci 
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
-#EXTINF:-1 group-title="Развлекательные", Discovery HD
-http://88.216.83.245/discovery/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80201
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
@@ -23,8 +80,7 @@ http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
 http://88.216.83.245/euronews/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Global Star
-http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Документальные", HDL
 http://80.251.49.103:8003/play/174
 #EXTINF:-1 group-title="Документальные", History HD 
@@ -43,14 +99,12 @@ http://146.158.0.56:80/OceanTV/index.m3u8
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Приключения", RTG International
 http://88.216.83.245/rtg/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", San Porto 
-http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
+
 #EXTINF:-1 tvg-id="terra-ru" group-title="Документальные", Terra HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:-1 group-title="Документальные", Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
-#EXTINF:-1 group-title="Развлекательные", TLC 
-https://cdn-cache01.voka.tv:443/live/5117.m3u8
+
 #EXTINF:-1 group-title="Приключения", Travel Channel HD
 http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Приключения", Travel+Adventure HD
@@ -59,8 +113,7 @@ http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1 group-title="Документальные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Развлекательные", TVM Channel 
-https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Природа", Viju+ Planet HD
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 group-title="Природа", Viju Nature HD
@@ -69,8 +122,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="Приключения", Viju Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
-#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
-https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+
 #EXTINF:-1 group-title="Научпоп", Арсенал HD
 http://45.143.108.104:80/arsenal/index.m3u8
 #EXTINF:-1 group-title="Документальные", Большая Азия HD
@@ -99,18 +151,12 @@ http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
 #EXTINF:-1 group-title="История", История 
 http://92.100.39.32:2289/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
-https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="Развлекательные", КВН ТВ
-http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Ключ
-http://185.23.80.26:8080/lb/Klyuch/index.m3u8 
+
 #EXTINF:-1 group-title="Новости", Крик ТВ 
 https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Документальные", Кто есть кто 
 http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Министерство идей 
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
+
 #EXTINF:-1 group-title="Новости", Мир 24 
 https://strm.yandex.ru/kal/mir24/mir240.m3u8 
 #EXTINF:-1 group-title="Обучение", МосОбр ТВ 
@@ -125,8 +171,7 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
 http://146.158.0.56:80/Nostalgiya/index.m3u8 
-#EXTINF:-1 group-title="Развлекательные", НТВ Право 
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+
 #EXTINF:-1 group-title="Здоровье", Открытый мир
 http://146.158.0.56/OtkritiyMir/mono.m3u8 
 #EXTINF:-1 group-title="Научпоп", Первый космический HD 
@@ -137,56 +182,28 @@ http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 http://46.151.151.245:10007/play/a004
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Продвижение 
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+
 #EXTINF:-1 group-title="Обучение", Просвещение 
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", Ратник 
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8 
+
 #EXTINF:-1 group-title="Новости", РБК 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="История", Ретро
 http://138.201.67.145:8081/retro/index.m3u8
 #EXTINF:-1 group-title="Транспорт", РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
-http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Сарафан
-http://92.100.39.32:2289/play/Sarafan/index.m3u8
-#EXTINF:-1 tvg-id="svetloe-tv", Светлое ТВ HD
-http://185.23.80.25:8080/SvetloeTV/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
-https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Научпоп", Техно 24
 http://31.211.77.158:8000/play/a147/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
 http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Танцуй!
-http://92.100.39.32:2289/play/a05j/index.m3u8
+
 #EXTINF:-1 group-title="Научпоп" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
 http://194.190.78.91:8080/tvextra720b/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТДК 
-http://31.148.48.15:80/TDK/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные", Театр 
-http://146.158.0.56:80/Teatr/index.m3u8
+
 #EXTINF:-1 group-title="Приключения", Телепутешествия 
 http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
-https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Точка ТВ 
-http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
-http://185.23.80.26:8080/lb/TochkoOtryva/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Успех 
-http://146.158.0.56:80/Uspeh/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Че!
-http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
-#EXTINF:-1 group-title="Развлекательные", Эхо TV 
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Ю 
-https://strm.yandex.ru/kal/utv/utv0.m3u8
+
 #EXTINF:-1 group-title="Документальные", RT Doc 
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
