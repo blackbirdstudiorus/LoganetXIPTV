@@ -59,7 +59,6 @@ http://92.100.39.32:2289/play/a05j/index.m3u8
 http://31.148.48.15:80/TDK/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", Театр 
 http://146.158.0.56:80/Teatr/index.m3u8
-
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80201
 #EXTINF:-1 group-title="Научпоп", Big Planet
@@ -80,7 +79,28 @@ http://194.190.78.91:8080/tvextra720b/index.m3u8
 http://stream01.vnet.am/Evrika/mono.m3u8 
 #EXTINF:-1 group-title="Научпоп", Наука 2.0
 http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
-
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
+http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+#EXTINF:-1 group-title="Документальные", HDL
+http://80.251.49.103:8003/play/174
+#EXTINF:-1 group-title="Документальные", History HD 
+http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+#EXTINF:-1 group-title="Документальные", Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Документальные", National Geographic
+http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Документальные", Top Secret
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 group-title="Документальные", TV Brics 
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Документальные", Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Документальные", Кто есть кто 
+http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="Документальные", Terra HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1 group-title="Документальные", RT Doc 
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Природа", Animal Planet HD 
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild 
@@ -105,7 +125,6 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
 http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test 
-
 #EXTINF:-1 group-title="История", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
@@ -122,95 +141,56 @@ http://146.158.0.56:80/Nostalgiya/index.m3u8
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="История", Ретро
 http://138.201.67.145:8081/retro/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Новости", 360 Новости
-https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
-
- 
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
-http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 #EXTINF:-1 group-title="Транспорт", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Новости", Euronews
-http://88.216.83.245/euronews/index.m3u8
-#EXTINF:-1 group-title="Документальные", HDL
-http://80.251.49.103:8003/play/174
-#EXTINF:-1 group-title="Документальные", History HD 
-http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
-#EXTINF:-1 group-title="Документальные", Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Документальные", National Geographic
-http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
-
+#EXTINF:-1 group-title="Транспорт", РЖД HD 
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Приключения", RTG International
 http://88.216.83.245/rtg/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="Документальные", Terra HD
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
-#EXTINF:-1 group-title="Документальные", Top Secret
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Приключения", Travel Channel HD
 http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Приключения", Travel+Adventure HD
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
 http://45.142.213.81:8001/playlist.m3u8
-#EXTINF:-1 group-title="Документальные", TV Brics 
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-
-
 #EXTINF:-1 group-title="Приключения", Viju Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
-#EXTINF:-1 group-title="Документальные", Большая Азия HD
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
- 
-#EXTINF:-1 group-title="Здоровье", Доктор 
-http://92.100.39.32:2289/play/a07j/index.m3u8
- 
-#EXTINF:-1 group-title="Обучение", ЕГЭ 
-http://146.158.0.56:80/EGETV/index.m3u8
-  
-
-#EXTINF:-1 group-title="Здоровье", Здоровое ТВ
-http://109.197.192.121:8080/zdorovoe/index.m3u8 
-
-#EXTINF:-1 group-title="Новости", Известия 
-https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
-
-#EXTINF:-1 group-title="Новости", Крик ТВ 
-https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="Документальные", Кто есть кто 
-http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8 
-#EXTINF:-1 group-title="Новости", Мир 24 
-https://strm.yandex.ru/kal/mir24/mir240.m3u8 
-#EXTINF:-1 group-title="Обучение", МосОбр ТВ 
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8 
-#EXTINF:-1 group-title="Приключения", Моя планета HD 
-http://185.23.80.26:8080/lb/MoyaPlaneta/index.m3u8 
-
- 
-#EXTINF:-1 group-title="Здоровье", Открытый мир
-http://146.158.0.56/OtkritiyMir/mono.m3u8 
- 
+#EXTINF:-1 group-title="Приключения", Телепутешествия 
+http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Приключения", Поехали!
 http://46.151.151.245:10007/play/a004
 #EXTINF:-1 group-title="Приключения", Приключения HD
-http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8 
+http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
+#EXTINF:-1 group-title="Приключения", Моя планета HD 
+http://185.23.80.26:8080/lb/MoyaPlaneta/index.m3u8 
+#EXTINF:-1 group-title="Здоровье", Доктор 
+http://92.100.39.32:2289/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Здоровье", Здоровое ТВ
+http://109.197.192.121:8080/zdorovoe/index.m3u8 
+#EXTINF:-1 group-title="Здоровье", Открытый мир
+http://146.158.0.56/OtkritiyMir/mono.m3u8 
+#EXTINF:-1 group-title="Обучение", ЕГЭ 
+http://146.158.0.56:80/EGETV/index.m3u8
+#EXTINF:-1 group-title="Обучение", Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Обучение", Просвещение 
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Обучение", МосОбр ТВ 
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Новости", 360 Новости
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1 group-title="Новости", Euronews
+http://88.216.83.245/euronews/index.m3u8
 #EXTINF:-1 group-title="Новости", РБК 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-
-#EXTINF:-1 group-title="Транспорт", РЖД HD 
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Приключения", Телепутешествия 
-http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="Документальные", RT Doc 
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="Новости", Мир 24 
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Новости", Известия 
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
+#EXTINF:-1 group-title="Новости", Крик ТВ 
+https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
 https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Дума ТВ 
@@ -219,5 +199,3 @@ https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", ЛДПР ТВ 
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Обучение", Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
