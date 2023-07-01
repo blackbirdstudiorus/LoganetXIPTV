@@ -34,3 +34,13 @@ http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1, Матч! Планета
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Футбол 1 HD 
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Футбол 2 HD 
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Футбол 3 HD 
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, Мир баскетбола 
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
