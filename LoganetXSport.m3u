@@ -12,3 +12,25 @@ http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1, Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1, FightBox HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1, KHL HD 
+https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1, KHL Prime HD 
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1, MMA-TV
+http://94.230.240.17:8080/m1global/index.m3u8
+#EXTINF:-1, Viju+ Sport
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
+#EXTINF:-1, Бокс ТВ
+http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+#EXTINF:-1, Матч! Премьер HD 
+http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Арена HD 
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Боец
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Игра HD
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+#EXTINF:-1, Матч! Планета
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
