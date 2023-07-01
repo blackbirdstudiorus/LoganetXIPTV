@@ -4,3 +4,11 @@ https://ua.aviator.tv/stream37/index.m3u8
 https://ua.aviator.tv/stream38/index.m3u8
 #EXTINF:-1, Setanta Sport Ukraina HD
 https://ua.aviator.tv/stream39/index.m3u8
+#EXTINF:-1, Eurosport 1 HD
+http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
+#EXTINF:-1, Eurosport 2 HD 
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
+#EXTINF:-1, Extreme Sport 
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1, Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
