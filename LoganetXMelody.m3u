@@ -1,3 +1,31 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, 1HD
+http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1, Aiva HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1, Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1, Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1, Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1, Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1, Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1, Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1, Classic Music
+http://92.100.39.32:2289/play/a075/index.m3u8
+#EXTINF:-1, Clubbing TV 
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, Europa Plus TV HD
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:-1, MCM Top
+http://92.100.39.32:2289/play/a05m/index.m3u8
+#EXTINF:-1, Mezzo 
+http://92.100.39.32:2289/play/a09n/index.m3u8
+#EXTINF:-1, Mezzo Live 
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
