@@ -27,6 +27,8 @@ https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
@@ -49,6 +51,8 @@ http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 http://92.100.39.32:2289/play/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
 http://185.23.80.25:8080/SvetloeTV/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница! HD
