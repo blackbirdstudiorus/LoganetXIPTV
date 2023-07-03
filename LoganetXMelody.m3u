@@ -1,1 +1,3 @@
-
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, Aiva HD
+http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
