@@ -35,3 +35,13 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1, Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1, Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1, Жар птица 
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1, Жара 
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1, Ля-минор 
+http://146.158.0.56:80/Lya-Minor/index.m3u8
+#EXTINF:-1, Музыка Первого 
+http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
