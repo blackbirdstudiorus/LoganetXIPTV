@@ -131,6 +131,8 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 http://80.251.49.103:8003/play/115
 #EXTINF:-1 group-title="Национальное", Hollywood HD 
 http://80.251.49.103:8003/play/82
+#EXTINF:-1 group-title="Национальное", Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
 http://192.162.64.99:5200/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Национальное", Индия
