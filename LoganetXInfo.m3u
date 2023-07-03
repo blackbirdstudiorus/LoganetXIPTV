@@ -51,6 +51,8 @@ http://92.100.39.32:2289/play/Sarafan/index.m3u8
 http://185.23.80.25:8080/SvetloeTV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+#EXTINF:-1 group-title="Развлекательные", Пятница! HD
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
