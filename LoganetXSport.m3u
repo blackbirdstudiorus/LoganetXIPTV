@@ -51,3 +51,5 @@ http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Экстрии", Extreme Sports
 http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="Экстрим", Russian Extreme
+http://193.33.240.8:8080/rus-extrim/tracks-v1a1/mono.m3u8
