@@ -45,3 +45,11 @@ http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
 http://146.158.0.56:80/Lya-Minor/index.m3u8
 #EXTINF:-1, Музыка Первого 
 http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
+#EXTINF:-1, О2ТВ
+http://185.23.80.26:8080/lb/O2/index.m3u8
+#EXTINF:-1, Страна FM TV 
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1, ТНТ Music HD
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1, Шансон-ТВ 
+http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
