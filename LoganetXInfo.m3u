@@ -120,7 +120,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="Природа", В мире животных HD 
 http://185.23.80.26:8080/lb/VMireZhivotnyx/index.m3u8
 #EXTINF:-1 group-title="Природа", Домашние животные 
-http://92.100.39.32:2289/play/a09d/index.m3u8
+http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
 http://185.23.80.25:8080/ZhivayaPlaneta/index.m3u8 
 #EXTINF:-1 group-title="Природа", Живая природа 
