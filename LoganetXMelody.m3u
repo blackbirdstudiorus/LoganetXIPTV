@@ -39,9 +39,9 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Национальная", Жар птица 
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
-#EXTINF:-1 group-title="Муз Микс", Жара 
+#EXTINF:-1 group-title="Муз микс", Жара 
 http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
-#EXTINF:-1 tvg-id="la-minor" group-title="Русская", Ля-минор 
+#EXTINF:-1 tvg-id="la-minor" group-title="Национальная", Ля-минор 
 http://146.158.0.56:80/Lya-Minor/index.m3u8
 #EXTINF:-1 group-title="Муз микс", Музыка Первого 
 http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
