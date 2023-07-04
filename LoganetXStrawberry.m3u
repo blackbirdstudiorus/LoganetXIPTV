@@ -11,3 +11,5 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1, Русская ночь
+http://94.154.83.88:10000/russiannight
