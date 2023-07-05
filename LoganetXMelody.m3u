@@ -7,6 +7,8 @@ https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музмикс", Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV Classic
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Жара 
@@ -27,6 +29,8 @@ http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
 http://92.100.39.32:2289/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музхиты", MTV Hits
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/153/index.m3u8
 #EXTINF:-1 group-title="Рок", Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная", Clubbing TV 
