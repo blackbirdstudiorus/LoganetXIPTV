@@ -164,13 +164,13 @@ http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Viju Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="Приключения", Телепутешествия 
-http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
+http://193.33.240.8:8080/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Приключения", Поехали!
 http://31.148.48.15:80/Poehali/index.m3u8?token=test
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета HD 
-http://185.23.80.26:8080/lb/MoyaPlaneta/index.m3u8 
+http://193.33.240.8:8080/planeta_hd/index.m3u8 
 #EXTINF:-1 group-title="Здоровье", Доктор 
 http://92.100.39.32:2289/play/a07j/index.m3u8
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
