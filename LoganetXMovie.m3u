@@ -78,7 +78,7 @@ http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейное", Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", Киносвидание
-http://92.100.39.32:2289/play/kinosvidanie/index.m3u8
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Женское", Русский роман
 http://80.251.49.103:8003/play/162
 #EXTINF:-1 group-title="Женское", A2 HD
@@ -98,7 +98,7 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Русский иллюзион
 http://80.251.49.103:8003/play/190
 #EXTINF:-1 group-title="Отечественное", Любимое кино 
-http://45.132.87.69:8080/nashelubimoe/index.m3u8
+http://91.233.215.250:7272/JS7lUbMstASMl0r
 #EXTINF:-1 tvg-id="start-air" group-title="Отечественное", Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Отечественное", Мосфильм. Золотая коллекция 
@@ -112,7 +112,7 @@ http://80.251.49.103:8003/play/23
 #EXTINF:-1 group-title="Комедии", Камеди HD 
 http://185.23.80.26:8080/lb/Camedi/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедия 
-http://92.100.39.32:2289/play/a08u/index.m3u8
+http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
 #EXTINF:-1 group-title="Комедии", Комедийное HD
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 #EXTINF:-1 group-title="Сериалы", Киносерия
@@ -142,7 +142,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Дорама HD 
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Еврокино
-http://92.100.39.32:2289/play/a05q/index.m3u8
+http://176.74.80.162:8099/EuroKino/index.m3u8
 #EXTINF:-1 group-title="Национальное", Индийское кино 
 http://80.251.49.103:8003/play/78
 #EXTINF:-1 group-title="Национальное", Сапфир HD
