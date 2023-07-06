@@ -18,7 +18,7 @@ http://138.201.67.145:8081/stskids/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
 http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
-http://46.151.151.245:10007/play/a006
+https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
