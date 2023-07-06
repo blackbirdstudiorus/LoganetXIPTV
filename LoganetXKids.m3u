@@ -64,7 +64,7 @@ http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
 http://92.100.39.32:2289/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Мультимузыка
-http://92.100.39.32:2289/play/Multimuzika/index.m3u8
+http://31.211.77.158:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
