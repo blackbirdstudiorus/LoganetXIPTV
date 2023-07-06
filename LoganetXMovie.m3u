@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Микс", Киномикс HD
-http://80.251.49.103:8002/play/136
+#EXTINF:-1 group-title="Микс", Киномикс
+http://88.216.83.245/kinomix/index.m3u8
 #EXTINF:-1 group-title="Микс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Русский бестселлер
@@ -41,8 +41,8 @@ http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
 http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Кинохит HD
-http://80.251.49.103:8003/play/99
+#EXTINF:-1 group-title="Хиты", Кинохит
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 #EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
@@ -60,7 +60,7 @@ http://80.251.49.103:8003/play/81
 #EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
 #EXTINF:-1 group-title="Мужское", Мужское кино
-http://80.251.49.103:8002/play/167
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 group-title="Мужское", Русский детектив 
 http://185.23.80.26:8080/lb/RusskijDetektiv/index.m3u8
 #EXTINF:-1 group-title="Мужское", A1 HD
@@ -80,7 +80,7 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", Киносвидание
 http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Женское", Русский роман
-http://80.251.49.103:8003/play/162
+http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="Женское", A2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", .red
@@ -96,7 +96,7 @@ http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Русский иллюзион
-http://80.251.49.103:8003/play/190
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Отечественное", Любимое кино 
 http://91.233.215.250:7272/JS7lUbMstASMl0r
 #EXTINF:-1 tvg-id="start-air" group-title="Отечественное", Start Air HD
