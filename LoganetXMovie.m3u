@@ -118,7 +118,7 @@ http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 #EXTINF:-1 group-title="Комедии", Comedy Central
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/157/index.m3u8
 #EXTINF:-1 group-title="Сериалы", Киносерия
-http://80.251.49.103:8001/play/25
+http://dmi3y-tv.ru/hls/CH_KINOSERIYAHD.m3u8
 #EXTINF:-1 group-title="Сериалы", Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Сериалы", Мир сериала 
@@ -128,13 +128,13 @@ https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 group-title="Фантастика", .sci-fi 
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Фантастика", FAN 
-http://80.251.49.103:8003/play/143
+http://94.230.240.17:8080/fan/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Национальное", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Cinema HD
 http://80.251.49.103:8003/play/115
 #EXTINF:-1 group-title="Национальное", Hollywood HD 
-http://80.251.49.103:8003/play/82
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
@@ -146,7 +146,7 @@ http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Еврокино
 http://176.74.80.162:8099/EuroKino/index.m3u8
 #EXTINF:-1 group-title="Национальное", Индийское кино 
-http://80.251.49.103:8003/play/78
+https://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:-1 group-title="Национальное", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 group-title="Страшное", Киноужас
