@@ -140,7 +140,7 @@ http://46.151.151.245:10007/play/a002
 #EXTINF:-1 group-title="История", Звезда Плюс 
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 group-title="История", История 
-http://92.100.39.32:2289/play/a05t/index.m3u8
+http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
 http://146.158.0.56:80/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="История", Победа
@@ -172,7 +172,7 @@ http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета HD 
 http://193.33.240.8:8080/planeta_hd/index.m3u8 
 #EXTINF:-1 group-title="Здоровье", Доктор 
-http://92.100.39.32:2289/play/a07j/index.m3u8
+http://31.148.48.15:80/Doktor/index.m3u8?token=test
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8 
 #EXTINF:-1 group-title="Здоровье", Открытый мир
