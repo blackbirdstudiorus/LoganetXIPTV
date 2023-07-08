@@ -1,3 +1,75 @@
-#EXTM3U
-#EXTINF:-1, 1HD
-http://127.0.0.1:6878/ace/m/5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59/f47acb080dfaad67732a50f0eda661dd.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Мультсериалы", Карусель
+http://88.216.83.245/karusel/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Карусель +2
+http://213.59.128.165:8888/play/Karusel/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Карусель +4
+http://94.230.240.17:8080/karusel/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Солнце
+http://streamer1.ruslanatv.ru/russia/disney_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Мульт 
+http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Мульт HD
+http://46.151.151.245:10002/play/a0b4
+#EXTINF:-1 group-title="Мультсериалы", СТС Kids
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
+http://138.201.67.145:8081/stskids/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Мультиландия 
+http://217.107.34.114:8008/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", О!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Рыжий 
+http://193.33.240.8:8080/ryzhiy/index.m3u8
+#EXTINF:-1 group-title="aceStream", Капитан Фантастика HD
+acestream://5bfc90fb33d6046da53943364b3d68d0e19e4464
+#EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Чижик 
+http://91.233.47.254:8887/udp/224.200.202.146
+#EXTINF:-1 group-title="Мультсериалы", Ani
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", JimJam
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", ТипТоп
+http://185.23.80.25:8080/TipTop/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Gulli Girl
+http://live-3.otcnet.ru/Gulli_OT/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Cartoon Network
+http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Nicktoons
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Семейные", Детский мир
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Семейные", В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Семейные", Cartoonito
+http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
+#EXTINF:-1 group-title="Семейные", Nickelodeon
+http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8
+#EXTINF:-1 group-title="Для маленьких", СуперГерои 
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="liova" group-title="Для маленьких", Лëва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Для маленьких", TiJi
+http://europe3.livetv.az/russia/tiji_2023/playlist.m3u8
+#EXTINF:-1 group-title="Для маленьких", Duck TV HD
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+#EXTINF:-1 group-title="Для маленьких", Nick Jr.
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1 group-title="Познавательные", Радость моя
+http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="aceStream", Уникум 
+acestream://dc5cf63b879b13f10c439d90b82bd91a5ba957ee
+#EXTINF:-1 group-title="Музыкальные", Мультимузыка
+http://31.211.77.158:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Baby Time 
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="UA", ПлюсПлюс
+http://91.146.94.234:10001/play/a04v
+#EXTINF:-1 group-title="UA", Пiксель
+http://91.146.94.234:10001/play/a057
