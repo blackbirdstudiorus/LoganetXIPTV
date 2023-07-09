@@ -130,7 +130,9 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 group-title="Природа", Наша сибирь 4k
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
-http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test 
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа", Zooпарк
+http://94.230.128.172:7272/1.ts
 #EXTINF:-1 group-title="История", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
