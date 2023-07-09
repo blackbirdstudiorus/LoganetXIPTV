@@ -7,3 +7,31 @@ https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1, FashionBox
 http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1, Shopping Live
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1, Авто Плюс
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
+#EXTINF:-1, Авто 24
+http://138.201.67.145:8081/Avto24/index.m3u8
+#EXTINF:-1, Бобëр
+http://88.216.83.245/bober/index.m3u8
+#EXTINF:-1, Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1, Дикая рыбалка HD
+http://217.107.219.67:8008/playlist.m3u8
+#EXTINF:-1, Дикая охота HD 
+http://81.177.136.209:8007/playlist.m3u8
+#EXTINF:-1, Дикий 
+http://217.107.34.114:8007/playlist.m3u8
+#EXTINF:-1, Драйв
+http://109.197.192.121:8080/drive/index.m3u8
+#EXTINF:-1, Food Time
+http://31.211.77.158:8000/play/a193/index.m3u8
+#EXTINF:-1, Еда
+http://94.230.128.172:7135/1.ts
+#EXTINF:-1, Живи
+http://138.201.67.145:8081/zhivi/index.m3u8
+#EXTINF:-1, Загородная жизнь
+http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1, Загородный 
+http://45.144.31.195:8024/playlist.m3u8
