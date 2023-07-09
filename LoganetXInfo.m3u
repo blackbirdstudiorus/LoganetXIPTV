@@ -122,7 +122,7 @@ http://185.23.80.26:8080/lb/VMireZhivotnyx/index.m3u8
 #EXTINF:-1 group-title="Природа", Домашние животные 
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
-http://185.23.80.25:8080/ZhivayaPlaneta/index.m3u8 
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test 
 #EXTINF:-1 group-title="Природа", Живая природа 
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Природа", Наша сибирь
