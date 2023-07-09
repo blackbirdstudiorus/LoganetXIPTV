@@ -35,3 +35,7 @@ http://138.201.67.145:8081/zhivi/index.m3u8
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1, Загородный 
 http://45.144.31.195:8024/playlist.m3u8
+#EXTINF:-1, Конный мир 
+https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+#EXTINF:-1, КтоКуда
+http://146.158.0.56:80/MirUvlecheniy/index.m3u8
