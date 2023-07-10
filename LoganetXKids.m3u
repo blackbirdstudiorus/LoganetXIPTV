@@ -22,7 +22,7 @@ https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
-http://193.33.240.8:8080/ryzhiy/index.m3u8
+http://94.230.128.172:7374/1.ts
 #EXTINF:-1 group-title="Мультсериалы", Капитан Фантастика HD
 http://185.23.80.26:8080/lb/KapitanFantastika/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
@@ -62,9 +62,9 @@ http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Познавательные", Радость моя
 http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
-http://92.100.39.32:2289/play/a03s/index.m3u8
+http://94.230.128.172:7073/1.ts
 #EXTINF:-1 group-title="Музыкальные", Мультимузыка
-http://31.211.77.158:8000/play/a063/index.m3u8
+http://94.230.128.172:7426/1.ts
 #EXTINF:-1 group-title="Музыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
