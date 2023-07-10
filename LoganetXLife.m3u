@@ -21,10 +21,16 @@ https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Охота и рыбалка
 http://94.230.128.172:7031/1.ts
+#EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов International
+https://vsd192.mycdn.me:443/hls/356234103508.m3u8/sig/LxocZ6I4D2c/expires/1689058914087/srcIp/213.87.150.142/urls/45.136.21.63/clientType/0/srcAg/CHROME_ANDROID/mid/404041965268/356234103508_fullhd/index.m3u8
 #EXTINF:-1 group-title="Мода", Fashion TV HD
 https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мода", FashionBox
 http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Мода", World Fashion Channel
+https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
 #EXTINF:-1 group-title="Мода", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Загородная жизнь
