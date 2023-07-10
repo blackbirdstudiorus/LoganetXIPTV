@@ -7,7 +7,7 @@ http://138.201.67.145:8081/Avto24/index.m3u8
 http://109.197.192.121:8080/drive/index.m3u8
 #EXTINF:-1 group-title="Автохобби", Моторспорт ТВ
 http://146.158.0.56/Motosport/mono.m3u8
-#EXTINF:-1 group-title="Игры", E HD
+#EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Рыбалка", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
@@ -29,6 +29,8 @@ http://217.107.34.114:8009/playlist.m3u8
 http://45.144.31.195:8024/playlist.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Усадьба
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
+#EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
+http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Еда", Food Time
 http://31.211.77.158:8000/play/a193/index.m3u8
 #EXTINF:-1 group-title="Еда", Еда
