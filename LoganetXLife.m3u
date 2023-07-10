@@ -9,14 +9,18 @@ http://109.197.192.121:8080/drive/index.m3u8
 http://146.158.0.56/Motosport/mono.m3u8
 #EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Рыбалка", Диалоги о рыбалке
+#EXTINF:-1 group-title="Охота и рыбалка", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-#EXTINF:-1 group-title="Рыбалка", Дикая рыбалка HD
+#EXTINF:-1 group-title="Охота и рыбалка", Дикая рыбалка HD
 http://217.107.219.67:8008/playlist.m3u8
-#EXTINF:-1 group-title="Оружие", Дикая охота HD 
+#EXTINF:-1 group-title="Охота и рыбалка", Дикая охота HD 
 http://81.177.136.209:8007/playlist.m3u8
-#EXTINF:-1 group-title="Оружие", Оружие
+#EXTINF:-1 group-title="Охота и рыбалка", Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикий 
+http://217.107.34.114:8007/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охота и рыбалка
+http://94.230.128.172:7031/1.ts
 #EXTINF:-1 group-title="Мода", Fashion TV HD
 https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мода", FashionBox
@@ -39,23 +43,19 @@ http://94.230.128.172:7135/1.ts
 http://146.158.0.56:80/KuhnyaTV/index.m3u8
 #EXTINF:-1 group-title="Еда", Телекафе
 http://46.151.151.245:10007/play/a003
-#EXTINF:-1 group-title="Хобби", Дикий 
-http://217.107.34.114:8007/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", КтоКуда
+#EXTINF:-1 group-title="Все хобби", КтоКуда
 http://146.158.0.56:80/MirUvlecheniy/index.m3u8
-#EXTINF:-1 group-title="Хобби", Мужской 
+#EXTINF:-1 group-title="Все хобби", Мужской 
 http://81.177.136.209:8006/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Охота и рыбалка
-http://94.230.128.172:7031/1.ts
-#EXTINF:-1 group-title="Хобби", Наша тема 
+#EXTINF:-1 group-title="Все хобби", Наша тема 
 http://live-1.otcnet.ru/nashatema1/index.m3u8
-#EXTINF:-1 group-title="Другое", Мама
+#EXTINF:-1 group-title="Другие хобби", Мама
 http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
-#EXTINF:-1 group-title="Другое", Моя стихия 
+#EXTINF:-1 group-title="Другие хобби", Моя стихия 
 http://93.125.29.22:8623/morskoi
-#EXTINF:-1 group-title="Другое", Живи
+#EXTINF:-1 group-title="Другие хобби", Живи
 http://138.201.67.145:8081/zhivi/index.m3u8
-#EXTINF:-1 group-title="Другое", Конный мир 
+#EXTINF:-1 group-title="Другие хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Союз
 http://94.230.128.172:7132/1.ts
