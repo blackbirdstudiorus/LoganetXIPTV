@@ -34,7 +34,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
 http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
-http://185.23.80.26:8080/lb/TochkoOtryva/index.m3u8
+http://46.19.100.174:4455/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Успех 
 http://146.158.0.56:80/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
@@ -50,7 +50,7 @@ http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://138.201.67.145:8081/sarafan/index.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
-http://185.23.80.25:8080/SvetloeTV/index.m3u8
+http://82.209.254.71:7781/udp/236.1.1.2:20000
 #EXTINF:-1 group-title="Развлекательные", СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
@@ -76,7 +76,7 @@ http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Арсенал HD
 http://45.143.108.104:80/arsenal/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Техно 24
-http://31.211.77.158:8000/play/a147/index.m3u8
+http://94.230.128.172:7422/1.ts
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
 http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
@@ -88,7 +88,7 @@ http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 #EXTINF:-1 group-title="Документальные", HDL
-http://80.251.49.103:8003/play/174
+http://94.230.128.172:7435/1.ts
 #EXTINF:-1 group-title="Документальные", History HD 
 http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 #EXTINF:-1 group-title="Документальные", Неизвестная Россия
@@ -171,8 +171,10 @@ http://193.33.240.8:8080/Teleputeshestviya/index.m3u8
 http://31.148.48.15:80/Poehali/index.m3u8?token=test
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
-#EXTINF:-1 group-title="Приключения", Моя планета HD 
-http://193.33.240.8:8080/planeta_hd/index.m3u8 
+#EXTINF:-1 group-title="Приключения", Моя планета
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Приключения", Моя планета HD
+http://94.230.128.172:7147/1.ts
 #EXTINF:-1 group-title="Здоровье", Доктор 
 http://31.148.48.15:80/Doktor/index.m3u8?token=test
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
