@@ -157,3 +157,42 @@ https://livetv.mylifeisgood.ml/channels/trash.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+72:7147/1.ts
+#EXTINF:-1 group-title="Здоровье", Доктор 
+http://31.148.48.15:80/Doktor/index.m3u8?token=test
+#EXTINF:-1 group-title="Здоровье", Здоровое ТВ
+http://109.197.192.121:8080/zdorovoe/index.m3u8 
+#EXTINF:-1 group-title="Здоровье", Открытый мир
+http://146.158.0.56/OtkritiyMir/mono.m3u8 
+#EXTINF:-1 group-title="Обучение", ЕГЭ 
+http://146.158.0.56:80/EGETV/index.m3u8
+#EXTINF:-1 group-title="Обучение", Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Обучение", Просвещение 
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Обучение", МосОбр ТВ 
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Новости", 360 Новости
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1 group-title="Новости", Euronews
+http://88.216.83.245/euronews/index.m3u8
+#EXTINF:-1 group-title="Новости", РБК 
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="Новости", Мир 24 
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Новости", Известия 
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
+#EXTINF:-1 group-title="Новости", Крик ТВ 
+https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости", Москва 24
+http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
+https://federaltv-migra.cdnvideo.ru/RussiaToday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Вместе-РФ 
+https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Дума ТВ 
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Красная линия 
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", ЛДПР ТВ 
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
