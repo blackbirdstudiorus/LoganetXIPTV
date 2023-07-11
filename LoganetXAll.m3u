@@ -1,121 +1,121 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Микс", Киномикс
+#EXTINF:-1 group-title="Киномикс", Киномикс
 http://88.216.83.245/kinomix/index.m3u8
-#EXTINF:-1 group-title="Микс", Viju TV1000 HD
+#EXTINF:-1 group-title="Киномикс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Микс", Русский бестселлер
+#EXTINF:-1 group-title="Киномикс", Русский бестселлер
 http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
-#EXTINF:-1 group-title="Микс", Fox  
+#EXTINF:-1 group-title="Киномикс", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="Микс", Fox HD
+#EXTINF:-1 group-title="Киномикс", Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Микс", Filmbox 
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Киномикс", Filmbox 
 http://94.230.240.17:8080/film_box/index.m3u8
-#EXTINF:-1 tvg-id="plan-b" group-title="Микс", Plan B HD
+#EXTINF:-1 tvg-id="plan-b" group-title="Киномикс", Plan B HD
 http://31.148.6.4:10236/index.m3u8
-#EXTINF:-1 group-title="Микс", TV XXI
+#EXTINF:-1 group-title="Киномикс", TV XXI
 http://star8iptv.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/224265
-#EXTINF:-1 group-title="Микс", Блокбастер HD
+#EXTINF:-1 group-title="Киномикс", Блокбастер HD
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
-#EXTINF:-1 group-title="Микс", Иллюзион+
+#EXTINF:-1 group-title="Киномикс", Иллюзион+
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
-#EXTINF:-1 group-title="Микс", Кино ТВ +7
+#EXTINF:-1 group-title="Киномикс", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
-#EXTINF:-1 group-title="Микс", Кино ТВ HD 
+#EXTINF:-1 group-title="Киномикс", Кино ТВ HD 
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Микс", Киносат
+#EXTINF:-1 group-title="Киномикс", Киносат
 http://88.216.83.245/nicktoons/index.m3u8
-#EXTINF:-1 group-title="Микс", Кинопоказ HD
+#EXTINF:-1 group-title="Киномикс", Кинопоказ HD
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
-#EXTINF:-1 group-title="Микс", Наш кинопоказ HD 
+#EXTINF:-1 group-title="Киномикс", Наш кинопоказ HD 
 http://185.23.80.26:8080/lb/NashKinopokaz/index.m3u8
-#EXTINF:-1 group-title="Микс", Феникс+Кино 
+#EXTINF:-1 group-title="Киномикс", Феникс+Кино 
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
-#EXTINF:-1 tvg-id="backustv" group-title="Микс", BackusTV HD 
+#EXTINF:-1 tvg-id="backustv" group-title="Киномикс", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="start-world" group-title="Микс", Start World HD
+#EXTINF:-1 tvg-id="start-world" group-title="Киномикс", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:-1 group-title="Премьеры", Кинопремьера HD
+#EXTINF:-1 group-title="Кинопремьеры", Кинопремьера HD
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
-#EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
+#EXTINF:-1 group-title="Кинопремьеры", Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Премьеры", Наше новое кино 
+#EXTINF:-1 group-title="Кинопремьеры", Наше новое кино 
 http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Кинохит
+#EXTINF:-1 group-title="Кинохиты", Кинохит
 http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
+#EXTINF:-1 group-title="Кинохиты", Дом кино Премиум HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
+#EXTINF:-1 group-title="Кинохиты", Viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Amedia Hit HD
+#EXTINF:-1 group-title="Кинохиты", Amedia Hit HD
 http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
-#EXTINF:-1 group-title="Хиты", Amedia Premium HD 
+#EXTINF:-1 group-title="Кинохиты", Amedia Premium HD 
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
-#EXTINF:-1 group-title="Хиты" tvg-id="ntv-xit", НТВ-Хит HD 
+#EXTINF:-1 group-title="Кинохиты" tvg-id="ntv-xit", НТВ-Хит HD 
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="Хиты", Премиальное HD 
+#EXTINF:-1 group-title="Кинохиты", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Хиты", Хит HD 
+#EXTINF:-1 group-title="Кинохиты", Хит HD 
 http://80.251.49.103:8003/play/81
-#EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
+#EXTINF:-1 group-title="Мужское кино", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
-#EXTINF:-1 group-title="Мужское", Мужское кино
+#EXTINF:-1 group-title="Мужское кино", Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1 group-title="Мужское", Русский детектив 
+#EXTINF:-1 group-title="Мужское кино", Русский детектив 
 http://185.23.80.26:8080/lb/RusskijDetektiv/index.m3u8
-#EXTINF:-1 group-title="Мужское", A1 HD
+#EXTINF:-1 group-title="Мужское кино", A1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
-#EXTINF:-1 group-title="Мужское", .black 
+#EXTINF:-1 group-title="Мужское кино", .black 
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
-#EXTINF:-1 group-title="Мужское", Bolt HD
+#EXTINF:-1 group-title="Мужское кино", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
-#EXTINF:-1 group-title="Мужское", День Победы HD
+#EXTINF:-1 group-title="Мужское кино", День Победы HD
 https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1 group-title="Мужское", Наше мужское HD 
+#EXTINF:-1 group-title="Мужское кино", Наше мужское HD 
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
-#EXTINF:-1 group-title="Семейное", Киносемья 
+#EXTINF:-1 group-title="Семейное кино", Киносемья 
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Семейное", Star Family HD 
+#EXTINF:-1 group-title="Семейное кино", Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
-#EXTINF:-1 group-title="Женское", Киносвидание
+#EXTINF:-1 group-title="Женское кино", Киносвидание
 http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Женское", Русский роман
+#EXTINF:-1 group-title="Женское кино", Русский роман
 http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 group-title="Женское", A2 HD
+#EXTINF:-1 group-title="Женское кино", A2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
-#EXTINF:-1 group-title="Женское", .red
+#EXTINF:-1 group-title="Женское кино", .red
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
-#EXTINF:-1 tvg-id="star-cinema" group-title="Женское", Star Cinema HD
+#EXTINF:-1 tvg-id="star-cinema" group-title="Женское кино", Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:-1 group-title="Женское", Про любовь HD 
+#EXTINF:-1 group-title="Женское кино", Про любовь HD 
 http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
-#EXTINF:-1 group-title="Отечественное", Родное кино 
+#EXTINF:-1 group-title="Отечественное кино", Родное кино 
 http://31.148.48.15:80/Rodnoe_kino/index.m3u8
-#EXTINF:-1 group-title="Отечественное", Дом кино
+#EXTINF:-1 group-title="Отечественное кино", Дом кино
 http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
-#EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
+#EXTINF:-1 group-title="Отечественное кино", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Отечественное", Русский иллюзион
+#EXTINF:-1 group-title="Отечественное кино", Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
-#EXTINF:-1 group-title="Отечественное", Любимое кино 
+#EXTINF:-1 group-title="Отечественное кино", Любимое кино 
 http://91.233.215.250:7272/JS7lUbMstASMl0r
-#EXTINF:-1 tvg-id="start-air" group-title="Отечественное", Start Air HD
+#EXTINF:-1 tvg-id="start-air" group-title="Отечественное кино", Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
-#EXTINF:-1 group-title="Отечественное", Мосфильм. Золотая коллекция 
+#EXTINF:-1 group-title="Отечественное кино", Мосфильм. Золотая коллекция 
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
-#EXTINF:-1 group-title="Комедии", Кинокомедия
+#EXTINF:-1 group-title="Кинокомедии", Кинокомедия
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
-#EXTINF:-1 group-title="Комедии", Viju+ Comedy HD
+#EXTINF:-1 group-title="Кинокомедии", Viju+ Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Комедии", Shot TV
+#EXTINF:-1 group-title="Кинокомедии", Shot TV
 http://80.251.49.103:8003/play/23
-#EXTINF:-1 group-title="Комедии", Камеди HD 
+#EXTINF:-1 group-title="Кинокомедии", Камеди HD 
 http://185.23.80.26:8080/lb/Camedi/index.m3u8
-#EXTINF:-1 group-title="Комедии", Комедия 
+#EXTINF:-1 group-title="Кинокомедии", Комедия 
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/9144/index.m3u8
-#EXTINF:-1 group-title="Комедии", Комедийное HD
+#EXTINF:-1 group-title="Кинокомедии", Комедийное HD
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
-#EXTINF:-1 group-title="Комедии", Comedy Central
+#EXTINF:-1 group-title="Кинокомедии", Comedy Central
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/157/index.m3u8
 #EXTINF:-1 group-title="Сериалы", Киносерия
 http://dmi3y-tv.ru/hls/CH_KINOSERIYAHD.m3u8
@@ -129,33 +129,33 @@ https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Фантастика", FAN 
 http://94.230.240.17:8080/fan/index.m3u8
-#EXTINF:-1 tvg-id="kineko" group-title="Национальное", Кинеко HD 
+#EXTINF:-1 tvg-id="kineko" group-title="Национальное кино", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:-1 group-title="Национальное", Cinema HD
+#EXTINF:-1 group-title="Национальное кино", Cinema HD
 http://176.74.80.162:8099/Cinema/index.m3u8
-#EXTINF:-1 group-title="Национальное", Hollywood HD 
+#EXTINF:-1 group-title="Национальное кино", Hollywood HD 
 http://stream01.vnet.am/ParamountChannel/mono.m3u8
-#EXTINF:-1 group-title="Национальное", Bollywood HD
+#EXTINF:-1 group-title="Национальное кино", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
+#EXTINF:-1 group-title="Национальное кино", Timeless Dizi Channel 
 http://192.162.64.99:5200/play/a02l/index.m3u8
-#EXTINF:-1 group-title="Национальное", Индия
+#EXTINF:-1 group-title="Национальное кино", Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 group-title="Национальное", Дорама HD 
+#EXTINF:-1 group-title="Национальное кино", Дорама HD 
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
-#EXTINF:-1 group-title="Национальное", Еврокино
+#EXTINF:-1 group-title="Национальное кино", Еврокино
 http://176.74.80.162:8099/EuroKino/index.m3u8
-#EXTINF:-1 group-title="Национальное", Индийское кино 
+#EXTINF:-1 group-title="Национальное кино", Индийское кино 
 https://sc.id-tv.kz/Indiiskoe_kino.m3u8
-#EXTINF:-1 group-title="Национальное", Сапфир HD
+#EXTINF:-1 group-title="Национальное кино", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
-#EXTINF:-1 group-title="Страшное", Киноужас
+#EXTINF:-1 group-title="Страшное кино", Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
-#EXTINF:-1 group-title="Страшное" tvg-id="trashtv", Trash HD 
+#EXTINF:-1 group-title="Страшное кино" tvg-id="trashtv", Trash HD 
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
-#EXTINF:-1 tvg-id="backustv-horror" tvg-group="Страшное", BackusTV Dark HD 
+#EXTINF:-1 tvg-id="backustv-horror" tvg-group="Страшное кино", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="Страшное", Остросюжетное HD 
+#EXTINF:-1 group-title="Страшное кино", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель
 http://88.216.83.245/karusel/index.m3u8
@@ -199,37 +199,37 @@ http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 group-title="Семейные", Детский мир
+#EXTINF:-1 group-title="Семейные мультфильмы", Детский мир
 http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
-#EXTINF:-1 group-title="Семейные", В гостях у сказки
+#EXTINF:-1 group-title="Семейные мультфильмы", В гостях у сказки
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-#EXTINF:-1 group-title="Семейные", Cartoonito
+#EXTINF:-1 group-title="Семейные мультфильмы", Cartoonito
 http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
-#EXTINF:-1 group-title="Семейные", Nickelodeon
+#EXTINF:-1 group-title="Семейные мультфильмы", Nickelodeon
 http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8
-#EXTINF:-1 group-title="Для маленьких", СуперГерои 
+#EXTINF:-1 group-title="Мультфильмы для маленьких", СуперГерои 
 http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
-#EXTINF:-1 tvg-id="liova" group-title="Для маленьких", Лëва HD
+#EXTINF:-1 tvg-id="liova" group-title="Мультфильмы для маленьких", Лëва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1 group-title="Для маленьких", TiJi
+#EXTINF:-1 group-title="Мультфильмы для маленьких", TiJi
 http://europe3.livetv.az/russia/tiji_2023/playlist.m3u8
-#EXTINF:-1 group-title="Для маленьких", Duck TV HD
+#EXTINF:-1 group-title="Мультфильмы для маленьких", Duck TV HD
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
-#EXTINF:-1 group-title="Для маленьких", Nick Jr.
+#EXTINF:-1 group-title="Мультфильмы для маленьких", Nick Jr.
 http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
-#EXTINF:-1 group-title="Познавательные", Радость моя
+#EXTINF:-1 group-title="Познавательное для детей", Радость моя
 http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Уникум 
+#EXTINF:-1 group-title="Познавательное для детей", Уникум 
 http://94.230.128.172:7073/1.ts
-#EXTINF:-1 group-title="Музыкальные", Мультимузыка
+#EXTINF:-1 group-title="Десткомузыкальные", Мультимузыка
 http://94.230.128.172:7426/1.ts
-#EXTINF:-1 group-title="Музыкальные", Baby Time 
+#EXTINF:-1 group-title="Детскомузыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-#EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
+#EXTINF:-1 tvg-id="zhara" group-title="Детскомузыкальные", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
-#EXTINF:-1 group-title="UA", ПлюсПлюс
+#EXTINF:-1 group-title="Детские UA", ПлюсПлюс
 http://91.146.94.234:10001/play/a04v
-#EXTINF:-1 group-title="UA", Пiксель
+#EXTINF:-1 group-title="Детские UA", Пiксель
 http://91.146.94.234:10001/play/a057
 #EXTINF:-1 group-title="Развлекательные", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
@@ -609,61 +609,61 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/153/index.m3u8
 #EXTINF:-1 group-title="Рок", Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная", Clubbing TV 
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная музыка", Clubbing TV 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Шансон", Шансон-ТВ 
 http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Шансон", Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 tvg-id="classic-music" group-title="Классическая", Classic Music
+#EXTINF:-1 tvg-id="classic-music" group-title="Классическая музыка", Classic Music
 http://92.100.39.32:2289/play/a075/index.m3u8
-#EXTINF:-1 group-title="Классическая", Mezzo 
+#EXTINF:-1 group-title="Классическая музыка", Mezzo 
 https://sc.id-tv.kz:443/mezzo.m3u8
-#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая", Mezzo Live 
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая музыка", Mezzo Live 
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:-1 group-title="Национальная", RU.TV 
+#EXTINF:-1 group-title="Национальная музыка", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 group-title="Национальная", Russian MusicBox
+#EXTINF:-1 group-title="Национальная музыка", Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 group-title="Национальная", Жар птица 
+#EXTINF:-1 group-title="Национальная музыка", Жар птица 
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
-#EXTINF:-1 tvg-id="la-minor" group-title="Национальная", Ля-минор 
+#EXTINF:-1 tvg-id="la-minor" group-title="Национальная музыка", Ля-минор 
 http://146.158.0.56:80/Lya-Minor/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Национальная", Bridge TV Русский Хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Национальная музыка", Bridge TV Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 tvg-id="aiva" group-title="Национальная", Aiva HD
+#EXTINF:-1 tvg-id="aiva" group-title="Национальная музыка", Aiva HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
-#EXTINF:-1, O-la-la
+#EXTINF:-1 group-title="Клубника", O-la-la
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1, Erox
+#EXTINF:-1 group-title="Клубника", Erox
 http://94.229.250.73:8008/play/a002
-#EXTINF:-1, Playboy
+#EXTINF:-1 group-title="Клубника", Playboy
 http://93.125.29.22:8901/playboy-tv
-#EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
+#EXTINF:-1 group-title="Клубника" tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, Шелк
+#EXTINF:-1 group-title="Клубника", Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1, Penthouse Gold HD
+#EXTINF:-1 group-title="Клубника", Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1, Русская ночь
+#EXTINF:-1 group-title="Клубника", Русская ночь
 http://94.154.83.88:10000/russiannight
-#EXTINF:-1, Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1, Шалун
+#EXTINF:-1 group-title="Клубника", Кино 18+
+https://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="Клубника", Шалун
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/290291
-#EXTINF:-1, Babes TV
+#EXTINF:-1 group-title="Клубника", Babes TV
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/296234
-#EXTINF:-1, Barely Legal 
+#EXTINF:-1 group-title="Клубника", Barely Legal 
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/92037
-#EXTINF:-1, Blue Hustler 
+#EXTINF:-1 group-title="Клубника", Blue Hustler 
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/37296
-#EXTINF:-1, Hustler HD
+#EXTINF:-1 group-title="Клубника", Hustler HD
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/6028
-#EXTINF:-1, Red Lips
+#EXTINF:-1 group-title="Клубника", Red Lips
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/296761
-#EXTINF:-1, Brazzers TV Europe
+#EXTINF:-1 group-title="Клубника", Brazzers TV Europe
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/79
-#EXTINF:-1, Private HD
+#EXTINF:-1 group-title="Клубника", Private HD
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/3281
-#EXTINF:-1, Redlight HD
+#EXTINF:-1 group-title="Клубника", Redlight HD
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/85
