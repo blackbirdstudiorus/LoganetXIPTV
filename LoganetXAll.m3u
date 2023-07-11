@@ -157,7 +157,72 @@ https://livetv.mylifeisgood.ml/channels/trash.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-72:7147/1.ts
+", Nat Geo Wild 
+http://europe3.livetv.az/russia/nat_geo_wild_hd_2023/playlist.m3u8 
+#EXTINF:-1 tvg-id="ocean-tv" group-title="Природа", Океан
+http://146.158.0.56:80/OceanTV/index.m3u8
+#EXTINF:-1 group-title="Природа", Viju+ Planet HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 group-title="Природа", Viju Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="Природа", В мире животных HD 
+http://185.23.80.26:8080/lb/VMireZhivotnyx/index.m3u8
+#EXTINF:-1 group-title="Природа", Домашние животные 
+http://45.144.31.195:8013/playlist.m3u8
+#EXTINF:-1 group-title="Природа", Живая планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test 
+#EXTINF:-1 group-title="Природа", Живая природа 
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
+#EXTINF:-1 group-title="Природа", Наша сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
+#EXTINF:-1 group-title="Природа", Наша сибирь 4k
+https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1 group-title="Природа", Зоо ТВ 
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа", Zooпарк
+http://94.230.128.172:7272/1.ts
+#EXTINF:-1 group-title="История", 365 дней ТВ 
+http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1 group-title="История", Viju History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="История", Время 
+http://46.151.151.245:10007/play/a002
+#EXTINF:-1 group-title="История", Звезда Плюс 
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1 group-title="История", История 
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1 group-title="История", Ностальгия
+http://146.158.0.56:80/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="История", Победа
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="История", Ретро
+http://138.201.67.145:8081/retro/index.m3u8
+#EXTINF:-1 group-title="Транспорт", DTX HD
+http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Транспорт", РЖД HD 
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Приключения", RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Приключения", RTG International
+http://88.216.83.245/rtg/index.m3u8
+#EXTINF:-1 group-title="Приключения", Travel Channel HD
+http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Приключения", Travel+Adventure HD
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Приключения" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 group-title="Приключения", Viju Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 group-title="Приключения", Телепутешествия 
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1 group-title="Приключения", Поехали!
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
+#EXTINF:-1 group-title="Приключения", Приключения HD
+http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
+#EXTINF:-1 group-title="Приключения", Моя планета
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Приключения", Моя планета HD
+http://94.230.128.172:7147/1.ts
 #EXTINF:-1 group-title="Здоровье", Доктор 
 http://31.148.48.15:80/Doktor/index.m3u8?token=test
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
