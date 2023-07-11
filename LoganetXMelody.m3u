@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Музмикс", 1HD
-http://146.158.0.56:80/1HD/index.m3u8
+http://193.33.240.8:8080/1hd/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Bridge TV
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 group-title="Музмикс", Bridge TV Classic
