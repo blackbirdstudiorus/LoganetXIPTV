@@ -399,3 +399,61 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 http://91.146.94.234:10001/play/a04v
 #EXTINF:-1 group-title="UA", Пiксель
 http://91.146.94.234:10001/play/a057
+#EXTINF:-1 group-title="Музмикс", 1HD
+http://193.33.240.8:8080/1hd/index.m3u8
+#EXTINF:-1 group-title="Музмикс", Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музмикс", Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музмикс", Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV Classic
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1 group-title="Музмикс", Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музмикс", Жара 
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 group-title="Музмикс", Музыка Первого 
+http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
+#EXTINF:-1 group-title="Музмикс", О2ТВ
+http://185.23.80.26:8080/lb/O2/index.m3u8
+#EXTINF:-1 group-title="Музмикс", Телеканал Радио Страна ФМ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музмикс", ТНТ Music HD
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Музхиты", Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музхиты", Europa Plus TV HD
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музхиты", MCM Top
+http://92.100.39.32:2289/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Музхиты", MusicBox Gold 
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музхиты", MTV Hits
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/153/index.m3u8
+#EXTINF:-1 group-title="Рок", Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная", Clubbing TV 
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" group-title="Шансон", Шансон-ТВ 
+http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Шансон", Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="classic-music" group-title="Классическая", Classic Music
+http://92.100.39.32:2289/play/a075/index.m3u8
+#EXTINF:-1 group-title="Классическая", Mezzo 
+https://sc.id-tv.kz:443/mezzo.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая", Mezzo Live 
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:-1 group-title="Национальная", RU.TV 
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Национальная", Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Национальная", Жар птица 
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 tvg-id="la-minor" group-title="Национальная", Ля-минор 
+http://146.158.0.56:80/Lya-Minor/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Национальная", Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="aiva" group-title="Национальная", Aiva HD
+http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
