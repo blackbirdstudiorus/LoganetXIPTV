@@ -457,3 +457,37 @@ http://146.158.0.56:80/Lya-Minor/index.m3u8
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="aiva" group-title="Национальная", Aiva HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Вкусная клубника", O-la-la
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:-1 group-title="Вкусная клубника", Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 group-title="Вкусная клубника", Playboy
+http://93.125.29.22:8901/playboy-tv
+#EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg" group-title="Вкусная клубника", Visit-X 
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="Вкусная клубника", Шелк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1 group-title="Вкусная клубника", Penthouse Gold HD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 group-title="Вкусная клубника", Русская ночь
+http://94.154.83.88:10000/russiannight
+#EXTINF:-1 group-title="Вкусная клубника", Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="Вкусная клубника", Шалун
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/290291
+#EXTINF:-1 group-title="Вкусная клубника", Babes TV
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/296234
+#EXTINF:-1 group-title="Вкусная клубника", Barely Legal 
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/92037
+#EXTINF:-1 group-title="Вкусная клубника", Blue Hustler 
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/37296
+#EXTINF:-1 group-title="Вкусная клубника", Hustler HD
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/6028
+#EXTINF:-1 group-title="Вкусная клубника", Red Lips
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/296761
+#EXTINF:-1 group-title="Вкусная клубника", Brazzers TV Europe
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/79
+#EXTINF:-1 group-title="Вкусная клубника", Private HD
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/3281
+#EXTINF:-1 group-title="Вкусная клубника", Redlight HD
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/85
