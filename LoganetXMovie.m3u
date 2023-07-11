@@ -62,7 +62,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мужское", Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 group-title="Мужское", Русский детектив 
-http://185.23.80.26:8080/lb/RusskijDetektiv/index.m3u8
+http://31.41.99.166:81/udp/225.0.55.179:1234
 #EXTINF:-1 group-title="Мужское", A1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", .black 
@@ -110,7 +110,7 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Комедии", Shot TV
 http://80.251.49.103:8003/play/23
 #EXTINF:-1 group-title="Комедии", Камеди HD 
-http://212.193.179.56:81/udp/239.195.6.135:1234
+http://31.41.99.166:81/udp/225.0.56.15:1234
 #EXTINF:-1 group-title="Комедии", Комедия 
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/9144/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедийное HD
@@ -157,3 +157,5 @@ https://livetv.mylifeisgood.ml/channels/trash.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Страшное", НСТ 
+http://31.41.99.166:81/udp/225.0.55.76:1234
