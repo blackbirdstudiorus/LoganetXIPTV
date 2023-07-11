@@ -196,3 +196,77 @@ https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", ЛДПР ТВ 
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Автохобби", Авто Плюс
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
+#EXTINF:-1 group-title="Автохобби", Авто 24
+http://138.201.67.145:8081/Avto24/index.m3u8
+#EXTINF:-1 group-title="Автохобби", Драйв
+http://109.197.192.121:8080/drive/index.m3u8
+#EXTINF:-1 group-title="Автохобби", Моторспорт ТВ
+http://146.158.0.56/Motosport/mono.m3u8
+#EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикая рыбалка HD
+http://217.107.219.67:8008/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикая охота HD 
+http://81.177.136.209:8007/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикий 
+http://217.107.34.114:8007/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охота и рыбалка
+http://94.230.128.172:7031/1.ts
+#EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов International
+https://vsd192.mycdn.me:443/hls/356234103508.m3u8/sig/LxocZ6I4D2c/expires/1689058914087/srcIp/213.87.150.142/urls/45.136.21.63/clientType/0/srcAg/CHROME_ANDROID/mid/404041965268/356234103508_fullhd/index.m3u8
+#EXTINF:-1 group-title="Мода", Fashion TV HD
+https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
+#EXTINF:-1 group-title="Мода", FashionBox
+http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Мода", World Fashion Channel
+https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+#EXTINF:-1 group-title="Мода", НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Домохозяйство", Загородная жизнь
+http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1 group-title="Домохозяйство", Загородный 
+http://45.144.31.195:8024/playlist.m3u8
+#EXTINF:-1 group-title="Домохозяйство", Усадьба
+http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
+#EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
+http://195.26.83.96:7022/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Еда", Food Time
+http://31.211.77.158:8000/play/a193/index.m3u8
+#EXTINF:-1 group-title="Еда", Еда
+http://94.230.128.172:7135/1.ts
+#EXTINF:-1 group-title="Еда", Кухня ТВ
+http://146.158.0.56:80/KuhnyaTV/index.m3u8
+#EXTINF:-1 group-title="Еда", Телекафе
+http://46.151.151.245:10007/play/a003
+#EXTINF:-1 group-title="Все хобби", КтоКуда
+http://146.158.0.56:80/MirUvlecheniy/index.m3u8
+#EXTINF:-1 group-title="Все хобби", Мужской 
+http://81.177.136.209:8006/playlist.m3u8
+#EXTINF:-1 group-title="Все хобби", Наша тема 
+http://live-1.otcnet.ru/nashatema1/index.m3u8
+#EXTINF:-1 group-title="Другие хобби", Мама
+http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
+#EXTINF:-1 group-title="Другие хобби", Моя стихия 
+http://93.125.29.22:8623/morskoi
+#EXTINF:-1 group-title="Другие хобби", Живи
+http://138.201.67.145:8081/zhivi/index.m3u8
+#EXTINF:-1 group-title="Другие хобби", Конный мир 
+https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Союз
+http://94.230.128.172:7132/1.ts
+#EXTINF:-1 group-title="Религия", МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Телемагазины", Ювелирочка
+http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Телемагазины", Leomax 24
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Телемагазины", Shopping Live
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
