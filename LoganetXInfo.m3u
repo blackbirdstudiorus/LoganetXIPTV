@@ -90,7 +90,7 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Наука 2.0
 http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
-http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Документальные", HDL
 http://94.230.128.172:7435/1.ts
 #EXTINF:-1 group-title="Документальные", History HD 
