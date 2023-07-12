@@ -140,7 +140,7 @@ http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
-http://192.162.64.99:5200/play/a02l/index.m3u8
+http://77.240.45.106:3333/play/a08u
 #EXTINF:-1 group-title="Национальное", Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Дорама HD 
