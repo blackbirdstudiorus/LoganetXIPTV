@@ -426,7 +426,9 @@ http://31.148.48.15:80/Doktor/index.m3u8?token=test
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8 
 #EXTINF:-1 group-title="Здоровье", Открытый мир
-http://146.158.0.56/OtkritiyMir/mono.m3u8 
+http://146.158.0.56/OtkritiyMir/mono.m3u8
+#EXTINF:-1 group-title="Здоровье", MyZen.tv
+http://31.41.99.166:81/udp/225.0.56.21:1234
 #EXTINF:-1 group-title="Обучение", ЕГЭ 
 http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1 group-title="Обучение", Univer TV
