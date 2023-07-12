@@ -35,6 +35,8 @@ http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Микс", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 group-title="Микс", FlixSnip 
+http://79.143.20.110:8000/play/40
 #EXTINF:-1 group-title="Премьеры", Кинопремьера HD
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
