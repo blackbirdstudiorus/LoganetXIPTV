@@ -567,6 +567,8 @@ http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl-hd", KHL Prime HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1 group-title="Хоккей", Хоккейный
+http://46.43.214.85:4022/udp/239.254.3.80:1234
 #EXTINF:-1 group-title="Борьба", Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Борьба", FightBox HD
