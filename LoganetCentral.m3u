@@ -1,0 +1,23 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1, Первый канал
+http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
+#EXTINF:-1, Первый канал HD 
+http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Первый канал +2
+http://213.59.128.165:8888/play/Pervij/index.m3u8
+#EXTINF:-1, Первый канал +4
+http://94.230.240.12:8080/ort/index.m3u8
+#EXTINF:-1, Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz_540/chunks.m3u8
+#EXTINF:-1, Россия 1
+http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
+#EXTINF:-1, Россия 1 HD
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1, Россия 1 +2
+http://213.59.128.165:8888/play/Rossiya_1/index.m3u8
+#EXTINF:-1, Россия 1 +4
+http://94.230.240.17:8080/rossia1/index.m3u8
+#EXTINF:-1, Матч!
+http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1, Матч! HD 
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
