@@ -160,4 +160,4 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Страшное", НСТ 
-http://31.41.99.166:81/udp/225.0.55.76:1234
+http://31.184.194.43:8000/play/a008
