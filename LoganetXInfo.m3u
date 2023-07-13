@@ -109,6 +109,8 @@ http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:-1 group-title="Документальные", RT Doc 
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="Документальные", DocuBox
+http://31.41.99.166:81/udp/225.0.56.8:1234
 #EXTINF:-1 group-title="Природа", Animal Planet HD 
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild 
