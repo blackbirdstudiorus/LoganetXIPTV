@@ -69,3 +69,61 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 http://213.59.128.165:8888/play/Ren_TV/index.m3u8
 #EXTINF:-1, РенТВ +4
 http://94.230.240.12:8080/rentv/index.m3u8
+#EXTINF:-1, Спас
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1, СТС
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
+#EXTINF:-1, СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1, СТС +2
+http://213.59.128.165:8888/play/STS/index.m3u8
+#EXTINF:-1, СТС +4
+http://94.230.240.12:8080/sts/index.m3u8
+#EXTINF:-1, Домашний
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/480p.m3u8
+#EXTINF:-1, Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1, Домашний +2
+http://213.59.128.165:8888/play/Domashnij/index.m3u8
+#EXTINF:-1, ТВ3 
+http://91.220.135.165:81/15/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1, ТВ3 +2
+http://213.59.128.165:8888/play/TV_3/index.m3u8
+#EXTINF:-1, ТВ3 +4
+http://94.230.240.17:8080/tv3/index.m3u8
+#EXTINF:-1, Пятница
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/480p.m3u8
+#EXTINF:-1, Пятница HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:-1, Пятница +2
+http://213.59.128.165:8888/play/Pyatnica/index.m3u8
+#EXTINF:-1, Пятница +4
+http://94.230.240.17:8080/friday/index.m3u8
+#EXTINF:-1, Звезда
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
+#EXTINF:-1, Звезда +2
+http://213.59.128.165:8888/play/Zvezda/index.m3u8
+#EXTINF:-1, Звезда +4
+http://94.230.240.12:8080/zvezda/index.m3u8
+#EXTINF:-1, Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1, Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1, Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1, ТНТ 
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
+#EXTINF:-1, ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1, ТНТ +2
+http://213.59.128.165:8888/play/TNT/index.m3u8
+#EXTINF:-1, ТНТ +4
+http://94.230.240.17:8080/tnt/index.m3u8
+#EXTINF:-1, Муз-ТВ
+http://91.220.135.165:81/20/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1, Муз-ТВ +2
+http://213.59.128.165:8888/play/Muz_TV/index.m3u8
+#EXTINF:-1, Муз-ТВ +4
+http://94.230.240.17:8080/muztv/index.m3u8
