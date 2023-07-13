@@ -16,7 +16,7 @@ http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музмикс", Музыка Первого 
 http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
 #EXTINF:-1 group-title="Музмикс", О2ТВ
-http://185.23.80.26:8080/lb/O2/index.m3u8
+http://31.41.99.166:81/udp/225.0.55.72:1234
 #EXTINF:-1 group-title="Музмикс", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музмикс", BackusTV Music 
