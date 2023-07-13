@@ -299,8 +299,6 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://92.100.39.32:2289/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТДК 
 http://31.148.48.15:80/TDK/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные", Театр 
-http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", English Club TV 
 https://cdn-cache01.voka.tv:443/live/239.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
@@ -439,6 +437,10 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Обучение", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Искусство", Museum TV
+http://31.41.99.166:81/udp/225.0.56.11:1234
+#EXTINF:-1 group-title="Искусство", Театр 
+http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
