@@ -112,7 +112,7 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Shot TV
 http://80.251.49.103:8003/play/23
 #EXTINF:-1 group-title="Кинокомедии", Камеди
-http://95.215.126.136:5000/udp/225.1.2.70:1234
+http://31.41.99.166:81/udp/225.0.56.15:1234
 #EXTINF:-1 group-title="Кинокомедии", Комедия 
 http://91.220.135.165:81/56/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедийное HD
