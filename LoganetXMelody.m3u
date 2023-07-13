@@ -23,6 +23,10 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="Музмикс", ТНТ Music HD
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Музмикс", Stingray CMusic
+http://77.240.45.106:3333/play/a09x
+#EXTINF:-1 group-title="Музмикс", Stingray iConcerts
+http://77.240.45.106:3333/play/a079
 #EXTINF:-1 group-title="Музхиты", Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музхиты", Europa Plus TV HD
