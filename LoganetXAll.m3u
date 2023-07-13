@@ -477,6 +477,8 @@ http://217.107.34.114:8007/playlist.m3u8
 http://94.230.128.172:7031/1.ts
 #EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
 https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов
+http://31.41.99.166:81/udp/225.0.56.31:1234
 #EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов International
 https://vsd192.mycdn.me:443/hls/356234103508.m3u8/sig/LxocZ6I4D2c/expires/1689058914087/srcIp/213.87.150.142/urls/45.136.21.63/clientType/0/srcAg/CHROME_ANDROID/mid/404041965268/356234103508_fullhd/index.m3u8
 #EXTINF:-1 group-title="Мода", Fashion TV HD
