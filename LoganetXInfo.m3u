@@ -20,7 +20,7 @@ https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Ключ
-http://185.23.80.26:8080/lb/Klyuch/index.m3u8 
+http://31.41.99.166:81/udp/225.0.55.195:1234 
 #EXTINF:-1 group-title="Развлекательные", Министерство идей 
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
