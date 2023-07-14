@@ -128,7 +128,7 @@ http://dmi3y-tv.ru/hls/CH_KINOSERIYAHD.m3u8
 #EXTINF:-1 group-title="Сериалы", Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Сериалы", Мир сериала 
-http://80.251.49.103:8003/play/165
+http://91.220.135.165:81/72/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 group-title="Фантастика", .sci-fi 
