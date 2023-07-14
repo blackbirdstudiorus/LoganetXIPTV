@@ -236,7 +236,7 @@ http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Детскомузыкальные", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Детские UA", ПлюсПлюс
-http://91.146.94.234:10001/play/a04v
+http://149.5.17.34:20041/play/a06q
 #EXTINF:-1 group-title="Детские UA", Пiксель
 http://91.146.94.234:10001/play/a057
 #EXTINF:-1 group-title="Развлекательные", 2x2
