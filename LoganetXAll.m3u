@@ -237,8 +237,10 @@ http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Детские UA", ПлюсПлюс
 http://149.5.17.34:20041/play/a06q
-#EXTINF:-1 group-title="Детские UA", Пiксель
-http://91.146.94.234:10001/play/a057
+#EXTINF:-1 group-title="Детские UA", Пiксель 
+http://149.5.17.34:20041/play/a05r
+#EXTINF:-1 group-title="Детские UA", Пiксель HD
+http://149.5.17.34:20041/play/a05s
 #EXTINF:-1 group-title="Развлекательные", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
