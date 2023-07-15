@@ -7,8 +7,12 @@ https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музмикс", Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV 
+http://195.24.89.82:80/MTV_SD/index.m3u8
 #EXTINF:-1 group-title="Музмикс", MTV Classic
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV 00's
+http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="Музмикс", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Жара 
