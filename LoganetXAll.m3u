@@ -360,7 +360,9 @@ http://31.41.99.166:81/udp/225.0.56.8:1234
 #EXTINF:-1 group-title="Природа", Animal Planet HD 
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild 
-http://europe3.livetv.az/russia/nat_geo_wild_hd_2023/playlist.m3u8 
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Природа", Nat Geo Wild HD
+http://45.144.31.195:8005/playlist.m3u8 
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Природа", Океан
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Природа", Viju+ Planet HD
