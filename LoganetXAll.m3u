@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Киномикс", Киномикс
-http://88.216.83.245/kinomix/index.m3u8
+http://188.143.128.24:30000/play/a47/index.m3u8
 #EXTINF:-1 group-title="Киномикс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Русский бестселлер
