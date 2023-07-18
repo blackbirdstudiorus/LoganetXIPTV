@@ -59,7 +59,7 @@ http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Борьба" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230717_071826.jpg", Поединок
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4
-#EXTINF:-1 group-title="Экстрим" tvg-id="fastfunbox-hd", Extreme Sports
+#EXTINF:-1 group-title="Экстрим", Extreme Sports
 http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Экстрим", Russian Extreme
 http://195.26.83.96:7029/play/a008
