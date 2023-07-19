@@ -400,7 +400,7 @@ http://31.148.48.15:80/Vremya/index.m3u8?token=test
 #EXTINF:-1 group-title="История", Звезда Плюс 
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 group-title="История", История 
-http://stream01.vnet.am/Istoria/mono.m3u8
+https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
 http://146.158.0.56:80/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="История", Победа
