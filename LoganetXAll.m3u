@@ -405,6 +405,8 @@ https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 http://146.158.0.56:80/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="История", Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="История", Победа HD
+http://31.148.48.15:80/BBC_World_News/index.m3u8
 #EXTINF:-1 group-title="История", Ретро
 http://138.201.67.145:8081/retro/index.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX HD
