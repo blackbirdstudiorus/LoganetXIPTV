@@ -126,7 +126,7 @@ http://91.220.135.165:81/56/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедийное HD
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Comedy Central
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/157/index.m3u8
+http://138.201.67.145:8081/ParamountComedy/index.m3u8
 #EXTINF:-1 group-title="Сериалы", Киносерия
 http://dmi3y-tv.ru/hls/CH_KINOSERIYAHD.m3u8
 #EXTINF:-1 group-title="Сериалы", Viju+ Serial HD
