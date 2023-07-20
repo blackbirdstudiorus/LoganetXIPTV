@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, Animal Planet HD 
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Animal Planet HD 
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1, Animal Planet HD 
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
