@@ -41,10 +41,10 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Матч! Футбол 3 HD 
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Футбол", Футбол 
-http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Матч! Премьер HD 
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Футбол", Футбол 
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
 http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl", KHL HD 
