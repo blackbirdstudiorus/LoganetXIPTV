@@ -338,7 +338,9 @@ http://45.143.108.104:80/arsenal/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Техно 24
 http://94.230.128.172:7422/1.ts
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
-http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
+http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Научпоп" tvg-id="galaxy-tv", Galaxy HD
+http://195.161.68.11:8005/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
 http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический HD 
