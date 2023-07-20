@@ -311,8 +311,10 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://92.100.39.32:2289/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТДК 
 http://31.148.48.15:80/TDK/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные", English Club TV 
+#EXTINF:-1 group-title="Развлекательные", English Club
 https://cdn-cache01.voka.tv:443/live/239.m3u8
+#EXTINF:-1 group-title="Развлекательные", English Club HD
+https://tbs01-edge11.itdc.ge/engclub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
 http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
@@ -365,6 +367,8 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 http://77.240.45.106:3333/play/a08o
 #EXTINF:-1 group-title="Документальные", DocuBox HD
 http://31.41.99.166:81/udp/225.0.56.8:1234
+#EXTINF:-1 group-title="Документальные", Animal Planet
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Природа", Animal Planet HD 
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild 
