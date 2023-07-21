@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", 1080.1920 16.9 25fps 6792kbs VirusNet AM
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", FHD 16.9 25fp 6792k.V VirusNet AM
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8 
-#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", 1080.1920 16.9 25fps 6804kbs VirusNet AM
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", FHD 16.9 25fp 6804k.V VirusNet AM
 https://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", 1080.1920 16.9 25fps 3500kbs EULiveTV AZ
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", FHD 16.9 25fp 3500k.V EULiveTV AZ
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
-#EXTINF:-1 tvg-id="ani" group-title="Ani",
+#EXTINF:-1 tvg-id="ani" group-title="Ani", 720.576 16.9 25fp 1490k.C Ракета Иркутск Россия
 http://31.148.48.15:80/Ani/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ani" group-title="Ani",
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8 
