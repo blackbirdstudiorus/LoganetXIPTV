@@ -5,3 +5,11 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 https://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet HD", 1080.1920 16.9 25fps 3500kbs EULiveTV AZ
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="ani" group-title="Ani",
+http://31.148.48.15:80/Ani/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ani" group-title="Ani",
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8 
+#EXTINF:-1 tvg-id="ani" group-title="Ani",
+http://94.230.128.172:7167/1.ts
+#EXTINF:-1 tvg-id="ani" group-title="Ani",
+http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
