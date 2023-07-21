@@ -1,7 +1,7 @@
-#EXTM3U
-#EXTINF:-1, Animal Planet HD 
-http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
-#EXTINF:-1, Animal Planet HD 
-http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
-#EXTINF:-1, Animal Planet HD
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="animal-planet-eu", Animal Planet HD 1080.1920 16.9 25fps 6792kbs VirusNet AM
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8 
+#EXTINF:-1 tvg-id="animal-planet-eu", Animal Planet HD 1080.1920 16.9 25fps 6804kbs VirusNet AM
 https://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu", Animal Planet HD 1080.1920 16.9 25fps 3500kbs EULiveTV AZ
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
