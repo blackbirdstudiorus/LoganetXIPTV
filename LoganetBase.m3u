@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", 800.450 16.9 25fp 1000k.V Pin,Санкт-Петербург RU
 http://31.184.194.43:8000/play/a001 
-#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", 365 дней
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", FHD 16.9 25fp Base,Иркутск RU
 http://31.41.99.166:81/udp/225.0.55.152:1234
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StandSD 4.3 25fp 1536k.V Silknet GE
 https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
