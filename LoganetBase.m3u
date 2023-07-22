@@ -1,4 +1,12 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG" 
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", 365 дней
+http://31.184.194.43:8000/play/a001 
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", 365 дней
+http://31.41.99.166:81/udp/225.0.55.152:1234
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", 365 дней
+https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", 365 дней
+http://146.158.0.56/365dney/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", FHD 16.9 25fp 6800k.V VirusNet AM
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", FHD 16.9 25fp 6800k.V VirusNet AM
@@ -19,7 +27,4 @@ http://31.148.48.15:80/Ani/index.m3u8?token=test
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8 
 #EXTINF:-1 tvg-id="ani" group-title="Ani", 1024.576 16.9 25fp 3000k.V Инфодом,Тюменская обл. RU
 http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
-http://31.184.194.43:8000/play/a001 
-http://31.41.99.166:81/udp/225.0.55.152:1234
-https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
-http://146.158.0.56/365dney/mono.m3u8
+
