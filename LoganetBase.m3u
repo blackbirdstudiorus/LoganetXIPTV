@@ -1,17 +1,25 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
-#EXTINF:-1 group-title="1HD" tvg-id="1hd", HD 16.9 Kaspnet,Каспийск RU
+#EXTINF:-1 group-title="1HD" tvg-id="1hd", HD 16.9 Kaspnet.Каспийск RU
 http://193.33.240.8:8080/1hd/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="1HD" tvg-id="1hd", HD 16.9 СеверСвязь,Ноябрьск RU
+#EXTINF:-1 group-title="1HD" tvg-id="1hd", HD 16.9 СеверСвязь.Ноябрьск RU
 http://146.158.0.56/1HD/mono.m3u8 
-#EXTINF:-1 group-title="1HD" tvg-id="1hd", FHD 16.9 Кристалл,Уфа RU
-http://91.247.68.229:8000/play/1HD/index.m3u8
-#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", SD 16.9 Pin,Санкт-Петербург RU
+#EXTINF:-1 group-title="1HD" tvg-id="1hd", FHD 16.9 Кристалл.Уфа RU
+http://91.247.68.229:8000/play/1HD/index.m3u8 
+#EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", FHD 16.9 СеверСвязь.Ноябрьск RU
+http://146.158.0.56:80/360HD/index.m3u8 
+#EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", StSD 16.9 Pin.Санкт-Петербург RU
+http://188.143.128.24:30000/play/a24/index.m3u8 
+#EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", StSD+ 16.9 NLS KZ
+http://77.240.45.106:3333/play/a07e 
+#EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", HD 16.9 ЯндексЭфир RU
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", SD 16.9 Pin.Санкт-Петербург RU
 http://31.184.194.43:8000/play/a001 
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StSD 4.3 Silknet GE
 https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", FHD 16.9 Base,Иркутск RU
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", FHD 16.9 Base.Иркутск RU
 http://31.41.99.166:81/udp/225.0.55.152:1234
-#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", SD 5.4 СеверСвязь,Ноябрьск RU
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", SD 5.4 СеверСвязь.Ноябрьск RU
 http://146.158.0.56/365dney/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", FHD 16.9 VirusNet AM
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8 
@@ -27,10 +35,10 @@ https://cdn-cache01.voka.tv:443/live/3158-req_offset_28000000-req_window_0-vid-3
 https://cdn-cache01.voka.tv:443/live/3158-req_offset_28000000-req_window_0-vid-2k_v5.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", MiSD 16.9 AtlantTelecom BY 
 https://cdn-cache01.voka.tv:443/live/3158-req_offset_28000000-req_window_0-vid-1k_v5.m3u8
-#EXTINF:-1 tvg-id="ani" group-title="Ani", SD 5.4 Ракета,Иркутск RU
+#EXTINF:-1 tvg-id="ani" group-title="Ani", SD 5.4 Ракета.Иркутск RU
 http://31.148.48.15:80/Ani/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ani" group-title="Ani", SD 5.4 RuslanaTV RU
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8 
-#EXTINF:-1 tvg-id="ani" group-title="Ani", StSD 16.9 Инфодом,Тюменская обл. RU
+#EXTINF:-1 tvg-id="ani" group-title="Ani", StSD 16.9 Инфодом.Тюменская обл. RU
 http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
 
