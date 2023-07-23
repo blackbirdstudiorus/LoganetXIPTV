@@ -12,7 +12,9 @@ http://188.143.128.24:30000/play/a24/index.m3u8
 #EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", StSD+ 16.9 NLS KZ
 http://77.240.45.106:3333/play/a07e 
 #EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", HD 16.9 ЯндексЭфир RU
-https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8 
+#EXTINF:-1 group-title="360°" tvg-id="360-podmoskovie", FHD 16.9 ВГТРКСмотрим
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", SD 16.9 Pin.Санкт-Петербург RU
 http://31.184.194.43:8000/play/a001 
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StSD 4.3 Silknet GE
