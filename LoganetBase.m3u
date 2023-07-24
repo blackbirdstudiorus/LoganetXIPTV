@@ -32,7 +32,11 @@ https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", FHD 16.9 Base.Иркутск RU
 http://31.41.99.166:81/udp/225.0.55.152:1234
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StSD 16.9 СеверСвязь.Ноябрьск RU
-http://146.158.0.56/365dney/mono.m3u8
+http://146.158.0.56/365dney/mono.m3u8 
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StSD+ 16.9 MediaOperator.Санкт-Петербург RU
+http://89.104.114.7:8080/365-dney/index.m3u8
+#EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StSD+ 16.9 Crelcom.Симферополь RU
+http://109.200.135.130:8080/365_dnej/index.m3u8
 #EXTINF:-1 group-title="A1" tvg-id="amedia1", FHD 16.9 Base.Иркутск RU
 http://31.41.99.166:81/udp/225.0.56.9:1234
 #EXTINF:-1 group-title="A1" tvg-id="amedia1", StSD+ 16.9 Egrisi GE
