@@ -33,6 +33,36 @@ https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 http://31.41.99.166:81/udp/225.0.55.152:1234
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", SD 5.4 СеверСвязь.Ноябрьск RU
 http://146.158.0.56/365dney/mono.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://31.41.99.166:81/udp/225.0.56.9:1234
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://176.74.80.162:8099/Amedia1/index.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://77.240.45.106:3333/play/a07i
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://31.184.194.43:8000/play/a00e
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://45.143.108.104:80/AMEDIA1_SD/index.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/480p.m3u8 
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8 
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+ #EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", FHD 16.9 VirusNet AM
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", FHD 16.9 VirusNet AM
