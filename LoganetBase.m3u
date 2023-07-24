@@ -55,13 +55,13 @@ http://okkotv-live.cdnvideo.ru/channel/A1_HD/480p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8 
 #EXTINF:-1 group-title="A1" tvg-id="amedia1", FHD 16.9 Okko RU
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
- #EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+ #EXTINF:-1 group-title="A1" tvg-id="amedia1", MiSD 16.9 AtlantTelecom BY
 https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", StSD 16.9 AtlantTelecom BY
 https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-2k_v5.m3u8
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", HD 16.9 AtlantTelecom BY
 https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", FHD 16.9 AtlantTelecom BY
 https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Animal Planet", FHD 16.9 VirusNet AM
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8 
