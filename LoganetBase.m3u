@@ -33,7 +33,7 @@ https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 http://31.41.99.166:81/udp/225.0.55.152:1234
 #EXTINF:-1 group-title="365 дней" tvg-id="365-dnej", StSD 16.9 СеверСвязь.Ноябрьск RU
 http://146.158.0.56/365dney/mono.m3u8
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", FHD 16.9 Base.Иркутск RU
 http://31.41.99.166:81/udp/225.0.56.9:1234
 #EXTINF:-1 group-title="A1" tvg-id="amedia1", StSD+ 16.9 Egrisi GE
 http://176.74.80.162:8099/Amedia1/index.m3u8
@@ -49,11 +49,11 @@ http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
 http://45.143.108.104:80/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 group-title="A1" tvg-id="amedia1", StSD+ 16.9 Ракета.Иркутск RU
 http://31.148.48.15:80/A1/index.m3u8?token=test
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", MiSD+ 16.9 Okko RU
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/480p.m3u8 
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", HD 16.9 Okko RU
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8 
-#EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
+#EXTINF:-1 group-title="A1" tvg-id="amedia1", FHD 16.9 Okko RU
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
  #EXTINF:-1 group-title="A1" tvg-id="amedia1", A1
 https://cdn-cache01.voka.tv:443/live/1500-req_offset_28000000-req_window_0-1k_v5.m3u8
