@@ -238,9 +238,9 @@ http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Познавательное для детей", Радость моя
 http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательное для детей", Уникум 
-http://94.230.128.172:7073/1.ts
+http://91.197.104.34:8080/Unicum/video.m3u8
 #EXTINF:-1 group-title="Детскомузыкальные", Мультимузыка
-http://94.230.128.172:7426/1.ts
+http://109.200.135.130:8080/strana/index.m3u8
 #EXTINF:-1 group-title="Детскомузыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Детскомузыкальные", Жара Kids TV
