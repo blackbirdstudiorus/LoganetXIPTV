@@ -4,7 +4,7 @@ https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery HD
-http://88.216.83.245/discovery/tracks-v1a2/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/5115.m3u8
 #EXTINF:-1 group-title="Развлекательные", Global Star
 http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", San Porto 
@@ -84,7 +84,7 @@ http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Арсенал HD
 http://45.143.108.104:80/arsenal/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Техно 24
-http://94.230.128.172:7422/1.ts
+https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
 http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Научпоп" tvg-id="galaxy-tv", Galaxy HD
@@ -196,7 +196,7 @@ http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета
 http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Приключения", Моя планета HD
-http://94.230.128.172:7147/1.ts
+http://109.200.135.130:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-id="travel-xp-hd", TravelXP English HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Здоровье", Доктор 
@@ -222,7 +222,7 @@ http://31.41.99.166:81/udp/225.0.56.11:1234
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://88.216.83.245/euronews/index.m3u8
+https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", РБК 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
