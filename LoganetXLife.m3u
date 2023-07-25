@@ -18,7 +18,7 @@ http://81.177.136.209:8007/playlist.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Дикий 
 http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Охота и рыбалка
-http://94.230.128.172:7031/1.ts
+https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
 https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов
@@ -44,7 +44,7 @@ http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="hgtv", HGTV NOT RU
 http://star8iptv.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207084
 #EXTINF:-1 group-title="Еда", Food Time
-http://31.211.77.158:8000/play/a193/index.m3u8
+http://31.134.132.245:8080/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Еда", Еда
 http://94.230.128.172:7135/1.ts
 #EXTINF:-1 group-title="Еда", Кухня ТВ
@@ -60,7 +60,7 @@ http://live-1.otcnet.ru/nashatema1/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Мама
 http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
 #EXTINF:-1 group-title="Другие хобби", Моя стихия 
-http://93.125.29.22:8623/morskoi
+http://ott.watch/stream/KD8IR5FDPF/141.m3u8
 #EXTINF:-1 group-title="Другие хобби", Живи
 http://138.201.67.145:8081/zhivi/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Конный мир 
