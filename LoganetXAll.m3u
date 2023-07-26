@@ -120,7 +120,7 @@ http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Русский иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Любимое кино 
 http://91.233.215.250:7272/JS7lUbMstASMl0r
 #EXTINF:-1 tvg-id="start-air" group-title="Отечественное кино", Start Air HD
