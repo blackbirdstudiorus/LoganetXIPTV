@@ -52,7 +52,9 @@ http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Наше новое кино 
-http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
+http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Кинопремьеры", Наше новое кино HD
+http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Кинохиты", Кинохит
 https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Кинохиты", Кинохит HD
