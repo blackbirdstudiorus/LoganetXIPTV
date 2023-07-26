@@ -96,7 +96,9 @@ http://109.200.135.130:8080/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Семейное кино", Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское кино", Киносвидание
-http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Женское кино", Киносвидание HD
+http://109.200.135.130:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Женское кино", Русский роман
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="Женское кино", Русский роман HD
