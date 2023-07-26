@@ -164,13 +164,13 @@ https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="История", Время 
-http://31.148.48.15:80/Vremya/index.m3u8?token=test
+http://109.200.135.130:8080/vremya/index.m3u8
 #EXTINF:-1 group-title="История", Звезда Плюс 
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 group-title="История", История 
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
-http://146.158.0.56:80/Nostalgiya/index.m3u8
+http://109.200.135.130:8080/nostalgia/index.m3u8
 #EXTINF:-1 group-title="История", Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="История", Победа HD
@@ -188,13 +188,13 @@ http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1 group-title="Приключения", Travel Channel HD
 http://91.233.215.250:7272/07pqiSOeAdHpghx
 #EXTINF:-1 group-title="Приключения", Travel+Adventure HD
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
 http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Viju Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="Приключения", Телепутешествия 
-http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+http://89.104.114.7:8080/teletravel/index.m3u8
 #EXTINF:-1 group-title="Приключения", Поехали!
 http://109.200.135.130:8080/Poehali/index.m3u8
 #EXTINF:-1 group-title="Приключения", Приключения HD
