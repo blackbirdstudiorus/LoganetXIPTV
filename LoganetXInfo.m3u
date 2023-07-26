@@ -158,7 +158,7 @@ http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Природа", Zooпарк
 https://tbs01-edge11.itdc.ge/zoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
-http://146.158.0.56:80/365dney/index.m3u8
+https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="История", Время 
