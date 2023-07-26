@@ -60,7 +60,7 @@ https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хиты", Кинохит HD
 http://109.200.135.130:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
-http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Хиты", Amedia Hit HD
@@ -75,8 +75,8 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/0
 http://212.193.179.56:81/udp/239.195.6.132:1234
 #EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
-#EXTINF:-1 group-title="Мужское", Мужское кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1 group-title="Мужское", Мужское кино HD
+http://109.200.135.130:8080/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Мужское", Русский детектив 
 http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мужское", A1 HD
