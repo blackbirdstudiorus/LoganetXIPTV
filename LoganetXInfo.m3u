@@ -240,7 +240,9 @@ https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
 http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
-https://federaltv-migra.cdnvideo.ru/RussiaToday/tracks-v1a1/mono.m3u8
+https://federaltv-migra.cdnvideo.ru/RussiaToday/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="Новости", BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
 https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Дума ТВ 
