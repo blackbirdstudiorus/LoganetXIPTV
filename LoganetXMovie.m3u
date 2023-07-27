@@ -177,7 +177,7 @@ http://176.74.80.162:8099/EuroKino/index.m3u8
 https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
-#EXTINF:-1 group-title="Страшное", Киноужас
+#EXTINF:-1 group-title="Страшное", Киноужас HD
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Страшное" tvg-id="trashtv", Trash HD 
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
@@ -186,6 +186,4 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Страшное", НСТ 
-http://31.184.194.43:8000/play/a008
-#EXTINF:-1 group-title="Страшное", Шокирующее HD
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4
+http://109.200.135.130:8080/nstv/index.m3u8
