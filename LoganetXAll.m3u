@@ -510,7 +510,9 @@ https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
 #EXTINF:-1 group-title="Новости", Крик ТВ 
 https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
-http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
+http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Новости", Москва. Доверие
+http://95.217.196.109:8081/russia/moskva_dov_2023/chunks.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
 https://federaltv-migra.cdnvideo.ru/RussiaToday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", BBC World News
