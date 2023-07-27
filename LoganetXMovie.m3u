@@ -168,13 +168,13 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
 http://77.240.45.106:3333/play/a08u
 #EXTINF:-1 group-title="Национальное", Индия
-https://stream01.vnet.am/ZeeTV/mono.m3u8
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Дорама HD 
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Еврокино
 http://176.74.80.162:8099/EuroKino/index.m3u8
 #EXTINF:-1 group-title="Национальное", Индийское кино 
-https://sc.id-tv.kz/Indiiskoe_kino.m3u8
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 #EXTINF:-1 group-title="Страшное", Киноужас
