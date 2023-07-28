@@ -567,8 +567,8 @@ http://45.144.31.195:8024/playlist.m3u8
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
 http://195.26.83.96:7022/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV NOT RU
-http://star8iptv.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207084
+#EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English
+http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8
 #EXTINF:-1 group-title="Еда", Food Time
 http://31.134.132.245:8080/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Еда", Еда
