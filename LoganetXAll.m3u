@@ -662,7 +662,7 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Борьба" tvg-id="m1global", MMA-TV
 http://94.230.240.17:8080/m1global/index.m3u8
 #EXTINF:-1 group-title="Борьба", Бокс ТВ
-http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Борьба", Матч! Боец
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Экстрим", Extreme Sports
