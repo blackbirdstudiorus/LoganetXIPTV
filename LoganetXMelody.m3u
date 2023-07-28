@@ -18,9 +18,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Жара 
 http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музмикс", Музыка Первого 
-http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
+http://89.104.114.7:8080/muz-pervogo/index.m3u8
 #EXTINF:-1 group-title="Музмикс", О2ТВ
-http://31.41.99.166:81/udp/225.0.55.72:1234
+http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музмикс", BackusTV Music 
@@ -62,7 +62,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Национальная", Жар птица 
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Национальная", Ля-минор 
-http://146.158.0.56:80/Lya-Minor/index.m3u8
+https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Национальная", Bridge TV Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="aiva" group-title="Национальная", Aiva HD
