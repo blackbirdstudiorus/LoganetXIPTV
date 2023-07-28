@@ -148,15 +148,15 @@ http://31.41.99.166:81/udp/225.0.56.73:1234
 #EXTINF:-1 group-title="Природа", Домашние животные 
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
-http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test 
+https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Природа", Живая природа 
-https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
+http://109.200.135.130:8080/jivaya_priroda_hd/index.m3u8
 #EXTINF:-1 group-title="Природа", Наша сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
 #EXTINF:-1 group-title="Природа", Наша сибирь 4k
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
-http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+http://109.200.135.130:8080/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Природа", Zooпарк
 https://tbs01-edge11.itdc.ge/zoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
