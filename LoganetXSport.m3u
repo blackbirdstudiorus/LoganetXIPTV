@@ -66,6 +66,6 @@ http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Экстрим", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 group-title="Экстрим", Russian Extreme HD
-http://31.41.99.166:81/udp/225.0.56.64:1234
+http://109.200.135.130:8080/rus-extrim-hd/index.m3u8
 #EXTINF:-1 group-title="Экстрим", Fast&FunBox
 http://77.240.45.106:3333/play/a08q
