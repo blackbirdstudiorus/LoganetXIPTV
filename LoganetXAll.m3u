@@ -544,9 +544,11 @@ https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
 https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов
-http://31.41.99.166:81/udp/225.0.56.31:1234
+http://109.200.135.130:8080/ohot_i_rybolov_hd/index.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов International
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4 
+#EXTINF:-1 group-title="Охота и рыбалка", Рыболов
+http://109.200.135.130:8080/ohotnik/index.m3u8
 #EXTINF:-1 group-title="Мода", Fashion TV HD
 https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мода", FashionBox
