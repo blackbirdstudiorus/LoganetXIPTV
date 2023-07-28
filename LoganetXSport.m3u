@@ -12,7 +12,9 @@ http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Матч! Арена HD 
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Viju+ Sport
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8 
+#EXTINF:-1 group-title="Мультиспорт", Матч! HD
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Матч! Игра HD
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Матч! Планета
