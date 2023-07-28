@@ -4,7 +4,7 @@ http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 #EXTINF:-1, Erox
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1, Playboy
-http://93.125.29.22:8901/playboy-tv
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1, Шелк
