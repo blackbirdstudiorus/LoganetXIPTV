@@ -101,8 +101,6 @@ https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Киномикс", TV XXI
 https://cdn-cache01.voka.tv:443/live/2018.m3u8
-#EXTINF:-1 group-title="Киномикс", Блокбастер HD
-http://95.215.126.136:5000/udp/225.1.2.68:1234
 #EXTINF:-1 group-title="Киномикс", Иллюзион+
 http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Кино ТВ +7
