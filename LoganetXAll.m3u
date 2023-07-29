@@ -113,8 +113,6 @@ http://109.200.135.130:8080/kino_tv_hd/index.m3u8
 http://109.200.135.130:8080/kinosat/index.m3u8
 #EXTINF:-1 group-title="Киномикс", Кинопоказ HD
 http://109.200.135.130:8080/kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Киномикс", Наш кинопоказ HD 
-http://95.215.126.136:5000/udp/225.1.2.193:1234
 #EXTINF:-1 group-title="Киномикс", Феникс+Кино 
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Киномикс", BackusTV HD 
@@ -153,8 +151,6 @@ http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Кинохиты", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8 
-#EXTINF:-1 group-title="Кинохиты", Хит HD 
-http://212.193.179.56:81/udp/239.195.6.132:1234
 #EXTINF:-1 group-title="Мужское кино", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
 #EXTINF:-1 group-title="Мужское кино", Мужское кино HD
@@ -191,10 +187,6 @@ http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Женское кино", Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:-1 group-title="Женское кино", Про любовь HD 
-http://212.193.179.56:81/udp/239.195.6.30:1234
-#EXTINF:-1 group-title="Женское кино", Романтичное HD
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id496_MSKSG-PVR-1--Romantichnoe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4
 #EXTINF:-1 group-title="Отечественное кино", Родное кино 
 http://109.200.135.130:8080/nashe-kino/index.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Дом кино
@@ -434,9 +426,7 @@ https://tbs01-edge11.itdc.ge/engclub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
 http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
-http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt
-#EXTINF:-1 tvg-id="insight-tv-hd" group-title="Развлекательные", Insight TV 
-https://stream-msk-09.ott.tricolor.tv:443/dtv/id687_MSKSG-PVR-1--INSIGHT/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4 
+http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Развлекательные", RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
