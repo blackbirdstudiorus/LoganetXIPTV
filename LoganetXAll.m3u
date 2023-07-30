@@ -284,7 +284,7 @@ http://109.200.135.130:8080/thlum_hd/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
-http://138.201.67.145:8081/stskids/index.m3u8
+http://109.200.135.130:8080/sts_kids/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
 http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
