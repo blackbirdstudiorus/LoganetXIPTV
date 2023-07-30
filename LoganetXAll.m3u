@@ -304,7 +304,7 @@ http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", JimJam
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", ТипТоп
-http://185.23.80.25:8080/TipTop/index.m3u8
+http://ch01.spr24.net/5818/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Мультсериалы", Gulli Girl
 http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Cartoon Network
