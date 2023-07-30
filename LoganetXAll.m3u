@@ -12,7 +12,9 @@ https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 +2
 http://213.59.128.165:8888/play/Rossiya_1/index.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 +4
-http://94.230.240.17:8080/rossia1/index.m3u8
+http://94.230.240.17:8080/rossia1/index.m3u8 
+#EXTINF:-1 group-title="Общие", Россия 1 +6
+http://farm-vgtrk.rfn.ru/hls/russia1_plus6/playlist_5.m3u8
 #EXTINF:-1 group-title="Общие", НТВ
 http://cdn.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", НТВ HD
@@ -24,7 +26,9 @@ http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", НТВ +4
 http://cdn.ntv.ru/ntv4_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", НТВ +7
-http://cdn.ntv.ru/ntv7_sd/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/ntv7_sd/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="Общие", НТВ Мир
+http://streamer1.ruslanatv.ru/russia/ntv_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Общие", Пятый канал
 http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:-1 group-title="Общие", Пятый канал +2
@@ -34,7 +38,9 @@ http://94.230.240.17:8080/5kanal/index.m3u8
 #EXTINF:-1 group-title="Общие", Россия К 
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:-1 group-title="Общие", Россия К +4
-http://94.230.240.17:8080/kultura/index.m3u8
+http://94.230.240.17:8080/kultura/index.m3u8 
+#EXTINF:-1 group-title="Общие", Россия К +7
+http://farm-vgtrk.rfn.ru/hls/russia_k_dubl1/playlist_3.m3u8
 #EXTINF:-1 group-title="Общие", ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Общие", ОТР +2
