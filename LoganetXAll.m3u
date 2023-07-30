@@ -822,7 +822,7 @@ https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музхиты", Europa Plus TV HD
 http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музхиты", MCM Top
-http://92.100.39.32:2289/play/a05m/index.m3u8
+http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музхиты", MTV Hits
