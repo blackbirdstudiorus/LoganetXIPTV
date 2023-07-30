@@ -134,7 +134,9 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8 
 #EXTINF:-1 group-title="Киномикс", Блокбастер HD
-http://195.161.68.11:8003/playlist.m3u8
+http://195.161.68.11:8003/playlist.m3u8 
+#EXTINF:-1 group-title="Киномикс", Наш кинопоказ HD
+http://195.161.68.11:8019/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Кинопремьера HD
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Viju+ Premiere HD
