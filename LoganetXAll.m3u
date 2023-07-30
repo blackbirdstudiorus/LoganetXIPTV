@@ -534,7 +534,7 @@ http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="История", Победа HD
 http://31.134.132.245:8080/pobeda_hd/index.m3u8
 #EXTINF:-1 group-title="История", Ретро
-http://138.201.67.145:8081/retro/index.m3u8
+http://91.220.135.165:81/34/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", РЖД HD 
@@ -584,7 +584,7 @@ http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1 group-title="Обучение", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Обучение", Просвещение 
-https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+https://federaltv-migra.cdnvideo.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Обучение", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Искусство", Museum TV
