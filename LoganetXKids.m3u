@@ -4,7 +4,9 @@ http://188.143.128.24:30000/play/a8/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель +2
 http://213.59.128.165:8888/play/Karusel/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель +4
-http://94.230.240.17:8080/karusel/index.m3u8
+http://94.230.240.17:8080/karusel/index.m3u8 
+#EXTINF:-1 group-title="Мультсериалы", Карусель International 
+https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Солнце
 http://streamer1.ruslanatv.ru/russia/disney_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт 
