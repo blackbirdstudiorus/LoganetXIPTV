@@ -30,7 +30,7 @@ http://31.211.77.158:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Чижик 
-http://91.233.47.254:8887/udp/224.200.202.146
+http://ch01.spr24.net/7309/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Мультсериалы", Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", JimJam
