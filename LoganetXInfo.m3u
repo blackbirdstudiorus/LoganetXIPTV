@@ -266,7 +266,10 @@ http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Москва. Доверие
 http://95.217.196.109:8081/russia/moskva_dov_2023/chunks.m3u8 
 #EXTINF:-1 group-title="Новости", Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
 https://federaltv-migra.cdnvideo.ru/RussiaToday/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Новости", BBC World News
