@@ -124,7 +124,9 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Отечественное", Мосфильм. Золотая коллекция 
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Kinojam 1
-http://77.240.45.106:3333/play/a0a3
+http://77.240.45.106:3333/play/a0a3 
+#EXTINF:-1 group-title="Отечественное", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Комедии", Кинокомедия
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Комедии", Кинокомедия HD
