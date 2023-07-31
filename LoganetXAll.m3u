@@ -364,6 +364,8 @@ http://149.5.17.34:20041/play/a06q
 http://149.5.17.34:20041/play/a05r
 #EXTINF:-1 group-title="Детские UA", Пiксель HD
 http://149.5.17.34:20041/play/a05s
+#EXTINF:-1 group-title="Детские DE" tvg-logo="https://ewsat.com/img/KIKA.png", KIKA HD
+https://s4.hopslan.com:443/kika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
