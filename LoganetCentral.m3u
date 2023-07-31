@@ -70,12 +70,18 @@ http://213.59.128.165:8888/play/Karusel/index.m3u8
 http://94.230.240.17:8080/karusel/index.m3u8
 #EXTINF:-1, ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otr", ОТР (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1, ОТР +2
 http://94.230.240.17:8080/otp/index.m3u8
 #EXTINF:-1, ОТР +4
 http://213.59.128.165:8888/play/OTR/index.m3u8
 #EXTINF:-1, ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tvcentr", ТВ Центр (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1, ТВ Центр +2
 http://213.59.128.165:8888/play/TV_Centr/index.m3u8
 #EXTINF:-1, ТВ Центр +4
