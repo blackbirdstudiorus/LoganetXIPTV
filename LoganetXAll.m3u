@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" url-tvg="http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 group-title="Общие", Первый канал HD 
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+EXTINF:-1 group-title="Общие", Первый канал HD 
 http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал +2
 http://213.59.128.165:8888/play/Pervij/index.m3u8
