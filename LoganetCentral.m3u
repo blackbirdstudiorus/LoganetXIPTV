@@ -7,11 +7,14 @@ http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 http://213.59.128.165:8888/play/Pervij/index.m3u8
 #EXTINF:-1, Первый канал +4
 http://94.230.240.12:8080/ort/index.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy", Первый канал HD (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1, Россия 1
-http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
+http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1", Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1, Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1, Россия 1 +2
