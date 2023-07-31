@@ -765,6 +765,8 @@ https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8 
 #EXTINF:-1 group-title="Мультиспорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Мультиспорт", Okko.Спорт HD
+https://kinescope.io/204564915/master.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Мультиспорт", Q Sport
 http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1 group-title="Футбол", Матч! Футбол 1
