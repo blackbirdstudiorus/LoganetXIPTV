@@ -174,9 +174,10 @@ https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Природа", Живая природа 
 http://109.200.135.130:8080/jivaya_priroda_hd/index.m3u8
 #EXTINF:-1 group-title="Природа", Наша сибирь
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
-#EXTINF:-1 group-title="Природа", Наша сибирь 4k
-https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Природа", Наша Сибирь 4k (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
 http://109.200.135.130:8080/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Природа", Zooпарк
