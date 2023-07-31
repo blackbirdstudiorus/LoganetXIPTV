@@ -305,6 +305,9 @@ http://109.200.135.130:8080/nstv/index.m3u8
 http://195.161.68.11:8006/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель
 http://188.143.128.24:30000/play/a8/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультсериалы" tvg-id="karusel", Карусель (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель +2
 http://213.59.128.165:8888/play/Karusel/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель +4
