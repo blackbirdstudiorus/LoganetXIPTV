@@ -12,7 +12,7 @@ http://94.230.240.12:8080/ort/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1, Россия 1
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1", Россия 1
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1", Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1, Россия 1 HD
@@ -29,6 +29,9 @@ http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1, НТВ
 http://cdn.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv", НТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1, НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, НТВ +1
