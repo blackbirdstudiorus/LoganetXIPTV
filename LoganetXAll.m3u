@@ -136,7 +136,10 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Блокбастер HD
 http://195.161.68.11:8003/playlist.m3u8 
 #EXTINF:-1 group-title="Киномикс", Наш кинопоказ HD
-http://195.161.68.11:8019/playlist.m3u8
+http://195.161.68.11:8019/playlist.m3u8 
+#EXTINF:-1 group-title="Киномикс", Kino24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
+http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
 #EXTINF:-1 group-title="Кинопремьеры", Кинопремьера HD
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Viju+ Premiere HD
