@@ -152,13 +152,19 @@ http://213.59.128.165:8888/play/Pyatnica/index.m3u8
 #EXTINF:-1, Пятница +4
 http://94.230.240.17:8080/friday/index.m3u8
 #EXTINF:-1, Звезда
-https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda", Звезда (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1, Звезда +2
 http://213.59.128.165:8888/play/Zvezda/index.m3u8
 #EXTINF:-1, Звезда +4
 http://94.230.240.12:8080/zvezda/index.m3u8
 #EXTINF:-1, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mir", Мир (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1, Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1, Мир +4
