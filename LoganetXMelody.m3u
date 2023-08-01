@@ -33,6 +33,9 @@ http://77.240.45.106:3333/play/a09x
 http://77.240.45.106:3333/play/a079 
 #EXTINF:-1 group-title="Музмикс", Муз-ТВ
 http://91.220.135.165:81/20/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музмикс" tvg-id="muztv", Муз ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музмикс", Муз-ТВ +2
 http://213.59.128.165:8888/play/Muz_TV/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Муз-ТВ +4
