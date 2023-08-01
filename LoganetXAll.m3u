@@ -214,7 +214,7 @@ http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское кино", .black 
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
-#EXTINF:-1 group-title="Мужское кино", Bolt HD
+#EXTINF:-1 group-title="Мужское кино" tvg-id="bolt-ru", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское кино", День Победы HD
 https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
