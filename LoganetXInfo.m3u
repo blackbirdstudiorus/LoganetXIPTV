@@ -32,7 +32,10 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8 
 #EXTINF:-1 group-title="Развлекательные", ТНТ 
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ +2
 http://213.59.128.165:8888/play/TNT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ +4
