@@ -79,6 +79,9 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 https://hls.tv.3angels.ru/stream.m3u8 
 #EXTINF:-1 group-title="Религия", Спас
 https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Телемагазины", Ювелирочка
 http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Телемагазины", Leomax 24
