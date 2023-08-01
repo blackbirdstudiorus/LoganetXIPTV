@@ -61,6 +61,9 @@ http://82.209.254.71:7781/udp/236.1.1.2:20000
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8 
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts", СТС (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС +2
 http://213.59.128.165:8888/play/STS/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС +4
