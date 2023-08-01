@@ -175,7 +175,9 @@ http://195.161.68.11:8003/playlist.m3u8
 http://195.161.68.11:8019/playlist.m3u8 
 #EXTINF:-1 group-title="Киномикс", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
-http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Кинопремьера HD
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Viju+ Premiere HD
@@ -890,7 +892,10 @@ http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Экстрим", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 group-title="Экстрим", Russian Extreme HD
-http://109.200.135.130:8080/rus-extrim-hd/index.m3u8
+http://109.200.135.130:8080/rus-extrim-hd/index.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Экстрим" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Экстрим", Fast&FunBox
 http://77.240.45.106:3333/play/a08q
 #EXTINF:-1 group-title="Музмикс", 1HD
