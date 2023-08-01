@@ -107,9 +107,15 @@ http://213.59.128.165:8888/play/Ren_TV/index.m3u8
 #EXTINF:-1, РенТВ +4
 http://94.230.240.12:8080/rentv/index.m3u8
 #EXTINF:-1, Спас
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="spas", Спас (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1, СТС
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts", СТС (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1, СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1, СТС +2
