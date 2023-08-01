@@ -173,6 +173,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1, ТНТ 
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt", ТНТ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1, ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1, ТНТ +2
