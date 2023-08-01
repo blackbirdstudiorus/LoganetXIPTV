@@ -77,6 +77,9 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Пятница
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/480p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica", Пятница! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница +2
 http://213.59.128.165:8888/play/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница +4
