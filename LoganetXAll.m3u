@@ -311,7 +311,7 @@ http://91.233.215.250:7272/gZOp9UD53BBKqyQ
 #EXTINF:-1 group-title="Страшное кино", Киноужас HD
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Страшное кино" tvg-id="trashtv", Trash HD 
-https://livetv.mylifeisgood.ml/channels/trash.m3u8
+http://31.211.77.158:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-group="Страшное кино", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Остросюжетное HD 
