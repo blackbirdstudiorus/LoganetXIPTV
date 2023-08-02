@@ -68,7 +68,7 @@ http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
 #EXTINF:-1 group-title="Другие хобби", Моя стихия 
 http://ott.watch/stream/KD8IR5FDPF/141.m3u8
 #EXTINF:-1 group-title="Другие хобби", Живи
-http://138.201.67.145:8081/zhivi/index.m3u8
+http://109.200.135.130:8080/jivi/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Союз
