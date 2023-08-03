@@ -250,7 +250,7 @@ http://109.200.135.130:8080/Poehali/index.m3u8
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета
-http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8 
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета HD
 http://31.134.132.245:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-id="travel-xp-hd", TravelXP English HD
