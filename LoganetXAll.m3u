@@ -177,6 +177,8 @@ http://195.161.68.11:8003/playlist.m3u8
 http://195.161.68.11:8019/playlist.m3u8 
 #EXTINF:-1 group-title="Киномикс", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
+#EXTINF:-1 group-title="Киномикс", Kinoliving 
+http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
