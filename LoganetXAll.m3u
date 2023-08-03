@@ -166,17 +166,17 @@ https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1 group-title="Киномикс", FlixSnip 
 http://79.143.20.110:8000/play/40
 #EXTINF:-1 group-title="Киномикс", Kinojam 2
-https://ch01.spr24.net/7009/index.m3u8?token=Ti8qDtheX2PUkt 
+https://ch01.spr24.net/7009/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Киномикс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8 
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8 
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Блокбастер HD
-http://195.161.68.11:8003/playlist.m3u8 
+http://195.161.68.11:8003/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Наш кинопоказ HD
-http://195.161.68.11:8019/playlist.m3u8 
+http://195.161.68.11:8019/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Kino24
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Киномикс", Kinoliving 
 http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
@@ -681,7 +681,7 @@ http://109.200.135.130:8080/Poehali/index.m3u8
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета
-http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8 
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета HD
 http://31.134.132.245:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-id="travel-xp-hd", TravelXP English HD
