@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Автохобби", Авто Плюс
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Автохобби", Авто 24
-http://138.201.67.145:8081/Avto24/index.m3u8
+https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Автохобби", Драйв
 http://109.197.192.121:8080/drive/index.m3u8
 #EXTINF:-1 group-title="Автохобби", Моторспорт ТВ
