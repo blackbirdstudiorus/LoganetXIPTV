@@ -22,7 +22,7 @@ http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Микс", TV XXI
 https://cdn-cache01.voka.tv:443/live/2018.m3u8
 #EXTINF:-1 group-title="Микс", Иллюзион+
-http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Микс", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Кино ТВ HD 
