@@ -687,7 +687,7 @@ http://31.134.132.245:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-id="travel-xp-hd", TravelXP English HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Здоровье", Доктор 
-http://45.144.31.195:8004/playlist.m3u8
+https://tbs01-edge11.itdc.ge/doctor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8 
 #EXTINF:-1 group-title="Здоровье", Открытый мир
@@ -778,7 +778,7 @@ http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
 http://195.161.68.11:8004/playlist.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Загородный 
-http://45.144.31.195:8024/playlist.m3u8
+http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Усадьба
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
