@@ -935,7 +935,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Жара 
 http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музмикс", Музыка Первого 
-http://89.104.114.7:8080/muz-pervogo/index.m3u8
+http://109.200.135.130:8080/muz-pervogo/index.m3u8
 #EXTINF:-1 group-title="Музмикс", О2ТВ
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Телеканал Радио Страна ФМ
