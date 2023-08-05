@@ -117,7 +117,7 @@ http://138.201.67.145:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
-http://89.104.114.7:8080/raz-tv/index.m3u8
+http://109.200.135.130:8080/raz-tv/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
 http://194.114.144.244:8002/play/a0vg
 #EXTINF:-1 group-title="Научпоп", Big Planet
@@ -141,9 +141,9 @@ http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический HD 
 http://stream01.vnet.am/Evrika/mono.m3u8 
 #EXTINF:-1 group-title="Научпоп", Наука 2.0
-http://31.211.77.158:8000/play/a163/index.m3u8
+http://77.240.45.106:3333/play/a09l
 #EXTINF:-1 group-title="Научпоп", Наука 2.0 HD
-http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
+http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8 
 #EXTINF:-1 group-title="Документальные", Investigation Discovery HD
@@ -195,7 +195,7 @@ http://ott.watch/stream/KD8IR5FDPF/241.m3u8
 #EXTINF:-1 group-title="Природа", В мире животных HD 
 http://31.211.77.158:8000/play/a175/index.m3u8
 #EXTINF:-1 group-title="Природа", Домашние животные 
-http://45.144.31.195:8013/playlist.m3u8
+http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
 https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Природа", Живая природа 
