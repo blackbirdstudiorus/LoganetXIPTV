@@ -9,7 +9,7 @@ https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
 https://cdn-cache01.voka.tv:443/live/5115.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery HD 
-http://81.177.136.209:8004/playlist.m3u8
+http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Global Star
 http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", San Porto 
@@ -118,6 +118,8 @@ http://138.201.67.145:8081/rtvi/index.m3u8
 https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://109.200.135.130:8080/raz-tv/index.m3u8
+#EXTINF:-1 group-title="Научпоп", Discovery Science
+http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
 http://194.114.144.244:8002/play/a0vg
 #EXTINF:-1 group-title="Научпоп", Big Planet
