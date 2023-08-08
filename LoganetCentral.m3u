@@ -35,7 +35,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1, Матч! HD 
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1, НТВ
-http://cdn.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv", НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
