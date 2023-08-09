@@ -948,10 +948,18 @@ https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:-1 group-title="Музмикс", MTV 
 http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV Europe 
+http://194.114.144.244:8003/play/mtveurope
+#EXTINF:-1 group-title="Музмикс", MTV Live HD
+http://194.114.144.244:8001/play/MTVLiveHD
 #EXTINF:-1 group-title="Музмикс", MTV Classic
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV 80's
+http://194.114.144.244:8001/play/mtv80
+#EXTINF:-1 group-title="Музмикс", MTV 90's
+http://194.114.144.244:8001/play/mtv90
 #EXTINF:-1 group-title="Музмикс", MTV 00's
-http://89.254.128.5:22280/mtv_00/video.m3u8
+http://194.114.144.244:8001/play/vh1
 #EXTINF:-1 group-title="Музмикс", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Жара 
@@ -988,7 +996,7 @@ http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музхиты", MTV Hits
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/153/index.m3u8
+http://194.114.144.244:8003/play/mtvhits
 #EXTINF:-1 group-title="Рок", Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная музыка", Clubbing TV 
