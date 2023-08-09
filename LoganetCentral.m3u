@@ -21,7 +21,7 @@ http://188.143.128.24:30000/play/a2/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1, Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:-1, Россия 1 HD (Для зарубежья)
+#EXTINF:-1 tvg-id="rossia1", Россия 1 HD (Для зарубежья)
 http://31.134.132.245:8080/rossia_hd/index.m3u8
 #EXTINF:-1, Россия 1 +2
 http://213.59.128.165:8888/play/Rossiya_1/index.m3u8
@@ -108,7 +108,7 @@ http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1, РенТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
-#EXTINF:-1, РенТВ HD (Для зарубежья)
+#EXTINF:-1 tvg-id="rentv", РенТВ HD (Для зарубежья)
 http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1, РенТВ +2
 http://213.59.128.165:8888/play/Ren_TV/index.m3u8
@@ -137,7 +137,7 @@ http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/480p.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1, Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8 
-#EXTINF:-1, Домашний HD (Для зарубежья)
+#EXTINF:-1 tvg-id="domashny", Домашний HD (Для зарубежья)
 http://109.200.135.130:8080/domashniy_hd/index.m3u8
 #EXTINF:-1, Домашний +2
 http://213.59.128.165:8888/play/Domashnij/index.m3u8
@@ -182,10 +182,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1, Мир +7
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-pl2", Мир +2 (Для зарубежья)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2//variant.m3u8?version=2
 #EXTINF:-1 tvg-id="mir-pl4", Мир +4 (Для зарубежья)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4//variant.m3u8?version=2
 #EXTINF:-1 tvg-id="mir-pl7", Мир +7 (Для зарубежья)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7//variant.m3u8?version=2
 #EXTINF:-1, ТНТ 
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
