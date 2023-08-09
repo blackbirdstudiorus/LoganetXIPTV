@@ -21,6 +21,8 @@ http://188.143.128.24:30000/play/a2/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1, Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1, Россия 1 HD (Для зарубежья)
+http://31.134.132.245:8080/rossia_hd/index.m3u8
 #EXTINF:-1, Россия 1 +2
 http://213.59.128.165:8888/play/Rossiya_1/index.m3u8
 #EXTINF:-1, Россия 1 +4
