@@ -136,10 +136,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие", Мир +7
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8 
 #EXTINF:-1 tvg-id="mir-pl2" group-title="Общие", Мир +2 (Для зарубежья)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2//variant.m3u8?version=2
 #EXTINF:-1 tvg-id="mir-pl4" group-title="Общие", Мир +4 (Для зарубежья)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4//variant.m3u8?version=2
 #EXTINF:-1 tvg-id="mir-pl7" group-title="Общие", Мир +7 (Для зарубежья)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7//variant.m3u8?version=2
 #EXTINF:-1 group-title="Киномикс", Киномикс
 http://188.143.128.24:30000/play/a47/index.m3u8 
