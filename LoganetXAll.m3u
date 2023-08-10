@@ -209,7 +209,7 @@ http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Кинохиты", Кинохит
 https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Кинохиты", Кинохит HD
-http://109.200.135.130:8080/kinohit/index.m3u8
+http://31.134.132.245:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кинохиты", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кинохиты", Viju+ Megahit HD
