@@ -23,8 +23,10 @@ http://62.176.77.22:9781/play/a00m
 http://62.176.77.22:9781/play/a00l 
 #EXTINF:-1, Blue Hustler 
 http://31.134.132.245:8080/hustler_hd/index.m3u8
+#EXTINF:-1, Babestation 24
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1, Шалун
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/290291
+http://31.134.132.245:8080/shalun_hd/index.m3u8
 #EXTINF:-1, Babes TV
 http://135.125.234.195:8089/channel/n73d63465/index.m3u8?q=e1f65a2bc32bac2743817ebf7685cbef
 #EXTINF:-1, Barely Legal 
