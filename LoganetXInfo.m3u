@@ -143,7 +143,7 @@ http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический HD 
 http://stream01.vnet.am/Evrika/mono.m3u8 
 #EXTINF:-1 group-title="Научпоп", Наука 2.0
-http://77.240.45.106:3333/play/a09l
+https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Наука 2.0 HD
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
