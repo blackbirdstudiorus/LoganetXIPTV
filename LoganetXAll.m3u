@@ -639,7 +639,9 @@ http://ott.watch/stream/KD8IR5FDPF/241.m3u8
 #EXTINF:-1 group-title="Природа", В мире животных HD 
 http://31.211.77.158:8000/play/a175/index.m3u8
 #EXTINF:-1 group-title="Природа", Домашние животные 
-http://45.144.31.195:8013/playlist.m3u8
+http://45.144.31.195:8013/playlist.m3u8 
+#EXTINF:-1 group-title="Природа", Пëс и Ко
+http://31.134.132.245:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
 https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Природа", Живая природа 
@@ -703,6 +705,8 @@ http://109.200.135.130:8080/teleputeshestviya/index.m3u8
 http://109.200.135.130:8080/Poehali/index.m3u8
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
+#EXTINF:-1 group-title="Приключения", Глазами туриста HD 
+http://31.134.132.245:8080/glazami_turista_hd/index.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета
 http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета HD
