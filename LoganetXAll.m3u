@@ -811,7 +811,9 @@ https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English
-http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8
+http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8 
+#EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English (Резерв)
+http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
 #EXTINF:-1 group-title="Еда", Food Time
 http://31.134.132.245:8080/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Еда", Еда
