@@ -807,7 +807,7 @@ http://195.161.68.11:8004/playlist.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Загородный 
 http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Усадьба
-http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
+https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English
