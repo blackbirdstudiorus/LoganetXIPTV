@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports 1 HD
-https://kinescope.io/203407881/master.m3u8
-#EXTINF:-1 group-title="Мультиспорт", Setanta Sports 2 HD
 https://tv.movielab.pro/943/video.m3u8
+#EXTINF:-1 group-title="Мультиспорт", Setanta Sports 2 HD
+https://kinescope.io/203407881/master.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports Ukraine
 https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 1 HD
