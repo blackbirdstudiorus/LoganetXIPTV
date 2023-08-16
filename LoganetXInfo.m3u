@@ -23,7 +23,7 @@ https://cdn-cache01.voka.tv:443/live/5117.m3u8
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
 https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
-http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8 
+http://91.197.104.34:8080/KVN/video.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Ключ
 http://31.41.99.166:81/udp/225.0.55.195:1234 
 #EXTINF:-1 group-title="Развлекательные", Министерство идей 
