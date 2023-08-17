@@ -290,7 +290,7 @@ http://109.200.135.130:8080/komediya/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Viju+ Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Shot TV
-http://31.184.194.43:8000/play/a00j
+http://89.223.46.187:8080/shot_tv/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Камеди
 http://89.223.46.187:8080/kamedi_hd/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедия 
