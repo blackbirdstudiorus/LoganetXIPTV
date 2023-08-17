@@ -69,7 +69,7 @@ https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="classic-music" group-title="Классическая", Classic Music
 http://92.100.39.32:2289/play/a075/index.m3u8
 #EXTINF:-1 group-title="Классическая", Mezzo 
-https://sc.id-tv.kz:443/mezzo.m3u8
+http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая", Mezzo Live 
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальная", RU.TV 
