@@ -40,7 +40,7 @@ https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1 group-title="Микс", FlixSnip 
 http://79.143.20.110:8000/play/40
 #EXTINF:-1 group-title="Микс", Kinojam 2
-https://ch01.spr24.net/7009/index.m3u8?token=Ti8qDtheX2PUkt 
+http://89.223.46.187:8080/kinojam2/index.m3u8 
 #EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8 
 #EXTINF:-1 group-title="Микс", 312 Кино
@@ -133,7 +133,7 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Отечественное", Мосфильм. Золотая коллекция 
 http://109.200.135.130:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Отечественное", Kinojam 1
-http://77.240.45.106:3333/play/a0a3 
+http://89.223.46.187:8080/kinojam1/index.m3u8 
 #EXTINF:-1 group-title="Отечественное", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Комедии", Кинокомедия
