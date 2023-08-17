@@ -457,13 +457,13 @@ http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", San Porto 
 http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
-https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+http://tv.tvip-media.net/tvmchannel/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
 https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC 
 https://cdn-cache01.voka.tv:443/live/5117.m3u8
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
-https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
+http://109.200.135.130:8080/kaleydoskop/index.m3u8 
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Ключ
