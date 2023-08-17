@@ -113,7 +113,7 @@ http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
 http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Развлекательные", RTVI
-http://138.201.67.145:8081/rtvi/index.m3u8 
+https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Перец
 https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
