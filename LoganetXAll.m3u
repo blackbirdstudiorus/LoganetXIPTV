@@ -467,7 +467,7 @@ http://109.200.135.130:8080/kaleydoskop/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Ключ
-http://31.41.99.166:81/udp/225.0.55.195:1234 
+http://tv.tvip-media.net/kluch/tracks-v1a0/time-0.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Министерство идей 
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
@@ -559,7 +559,7 @@ http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
 http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Развлекательные", RTVI
-http://138.201.67.145:8081/rtvi/index.m3u8 
+https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Перец
 https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
