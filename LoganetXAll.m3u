@@ -192,8 +192,10 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Блокбастер HD
 http://195.161.68.11:8003/playlist.m3u8
+#EXTINF:-1 group-title="Киномикс", Наш кинопоказ 
+http://tv.tvip-media.net/nashkinopokaz/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Киномикс", Наш кинопоказ HD
-http://195.161.68.11:8019/playlist.m3u8
+http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Киномикс", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Киномикс", Kinoliving 
