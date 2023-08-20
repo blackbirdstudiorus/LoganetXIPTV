@@ -87,7 +87,17 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
 http://91.197.104.34:8080/NasheNovoeKino/video.m3u8 
 #EXTINF:-1 group-title="Премьеры", Наше новое кино HD
-http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8
+http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8 
+#EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
+http://list.ydns.eu:8000/play/30/index.m3u8
+#EXTINF:-1 group-title="Премьеры", BCU Premiere Ultra 4k
+http://list.ydns.eu:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Премьеры", BCU Кинозал Premiere 1 HD 
+http://list.ydns.eu:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="Премьеры", BCU Кинозал Premiere 2 HD 
+http://list.ydns.eu:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="Премьеры", BCU Кинозал Premiere 3 HD 
+http://list.ydns.eu:8000/play/19/index.m3u8
 #EXTINF:-1 group-title="Хиты", Кинохит
 https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Хиты", Кинохит HD
