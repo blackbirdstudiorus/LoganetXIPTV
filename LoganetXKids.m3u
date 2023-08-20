@@ -52,7 +52,11 @@ http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8 
 #EXTINF:-1 group-title="Мультсериалы", FamilyJam
-http://ch01.spr24.net/7312/index.m3u8?token=Ti8qDtheX2PUkt
+http://ch01.spr24.net/7312/index.m3u8?token=Ti8qDtheX2PUkt 
+#EXTINF:-1 group-title="Мультсериалы", BCU Kids+ HD 
+http://list.ydns.eu:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", BCU Мультсериал HD 
+http://list.ydns.eu:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Семейные", Детский мир
 http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейные", В гостях у сказки
