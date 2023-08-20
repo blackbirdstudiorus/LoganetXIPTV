@@ -178,6 +178,8 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 http://94.230.240.17:8080/fan/index.m3u8 
 #EXTINF:-1 group-title="Фантастика", FAN HD
 http://109.200.135.130:8080/fan/index.m3u8
+#EXTINF:-1 group-title="Фантастика", BCU Fantastic HD 
+http://list.ydns.eu:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Национальное", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Cinema HD
@@ -198,7 +200,7 @@ http://176.74.80.162:8099/EuroKino/index.m3u8
 https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8 
-#EXTINF:-1 group-title="Национальное кино", Film.Ua Drama
+#EXTINF:-1 group-title="Национальное", Film.Ua Drama
 http://91.233.215.250:7272/gZOp9UD53BBKqyQ
 #EXTINF:-1 group-title="Страшное", Киноужас HD
 http://109.197.192.121:8080/kinouzhas/index.m3u8
@@ -212,3 +214,5 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://109.200.135.130:8080/nstv/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
+#EXTINF:-1 group-title="Страшное кино", BCU Filmystic HD 
+http://list.ydns.eu:8000/play/a006/index.m3u8
