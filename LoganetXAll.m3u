@@ -200,6 +200,28 @@ http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Киномикс", Kinoliving 
 http://31.211.77.158:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Cinema HD 
+http://list.ydns.eu:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Cinema+ HD 
+http://list.ydns.eu:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU History HD 
+http://list.ydns.eu:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Cosmo HD 
+http://list.ydns.eu:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Trumotion HD 
+http://list.ydns.eu:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Catastrophe HD 
+http://list.ydns.eu:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU VHS HD 
+http://list.ydns.eu:8000/play/22/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Сваты HD 
+http://list.ydns.eu:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Marvel HD 
+http://list.ydns.eu:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Reality HD 
+http://list.ydns.eu:8000/play/29/index.m3u8
+#EXTINF:-1 group-title="Киномикс", BCU Stars HD 
+http://list.ydns.eu:8000/play/26/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
