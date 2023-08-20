@@ -58,7 +58,9 @@ https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Еда", Телекафе
 http://46.151.151.245:10007/play/a003 
 #EXTINF:-1 group-title="Еда", Food Network 
-http://ott-cdn.ucom.am/s18/04.m3u8
+http://ott-cdn.ucom.am/s18/04.m3u8 
+#EXTINF:-1 group-title="Еда", JoyCook
+http://tv.tvip-media.net/joycook/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Все хобби", КтоКуда
 http://146.158.0.56:80/MirUvlecheniy/index.m3u8
 #EXTINF:-1 group-title="Все хобби", Мужской 
