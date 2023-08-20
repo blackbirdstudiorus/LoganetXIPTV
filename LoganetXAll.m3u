@@ -623,7 +623,9 @@ https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
-http://109.200.135.130:8080/raz-tv/index.m3u8 
+http://109.200.135.130:8080/raz-tv/index.m3u8  
+#EXTINF:-1 group-title="Развлекательные", HD Media
+http://tv.tvip-media.net/hdmedia/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
@@ -890,6 +892,8 @@ https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 http://46.151.151.245:10007/play/a003
 #EXTINF:-1 group-title="Еда", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="Еда", JoyCook
+http://tv.tvip-media.net/joycook/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Все хобби", КтоКуда
 http://146.158.0.56:80/MirUvlecheniy/index.m3u8
 #EXTINF:-1 group-title="Все хобби", Мужской 
