@@ -46,13 +46,17 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Микс", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8 
 #EXTINF:-1 group-title="Микс", Блокбастер HD
-http://195.161.68.11:8003/playlist.m3u8 
+http://tv.tvip-media.net/blokbaster/tracks-v1a0/time-0.m3u8 
 #EXTINF:-1 group-title="Микс", Наш кинопоказ 
 http://tv.tvip-media.net/nashkinopokaz/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Микс", Наш кинопоказ HD
 http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Микс", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
+#EXTINF:-1 group-title="Микс", Киносезон HD
+http://tv.tvip-media.net/kinosezon/tracks-v1a0/time-0.m3u8
+#EXTINF:-1 group-title="Микс", Movie Classic 
+http://tv.tvip-media.net/klassikakino/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Микс", Kinoliving 
 http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Микс", BCU Cinema HD 
