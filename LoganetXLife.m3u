@@ -50,7 +50,7 @@ http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stre
 #EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English (Резерв)
 http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
 #EXTINF:-1 group-title="Еда", Food Time
-http://31.134.132.245:8080/eda_hd/index.m3u8
+http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Еда", Еда
 http://94.230.128.172:7135/1.ts
 #EXTINF:-1 group-title="Еда", Кухня ТВ
@@ -76,7 +76,7 @@ http://109.200.135.130:8080/jivi/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Союз
-http://31.134.132.245:8080/soyuz/index.m3u8
+http://188.143.128.24:30000/play/a40/index.m3u8
 #EXTINF:-1 group-title="Религия", МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Три ангела
