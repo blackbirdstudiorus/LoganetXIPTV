@@ -231,7 +231,7 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Cinema HD
 http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:-1 group-title="Национальное", Hollywood HD 
-http://stream01.vnet.am/ParamountChannel/mono.m3u8
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
