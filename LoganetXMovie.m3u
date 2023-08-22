@@ -46,7 +46,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Микс", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8 
 #EXTINF:-1 group-title="Микс", Блокбастер HD
-http://tv.tvip-media.net/blokbaster/tracks-v1a0/time-0.m3u8 
+http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Микс", Наш кинопоказ 
 http://tv.tvip-media.net/nashkinopokaz/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Микс", Наш кинопоказ HD
