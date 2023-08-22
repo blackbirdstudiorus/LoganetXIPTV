@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Развлекательные", 2x2
-http://188.143.128.24:30000/play/a37/index.m3u8 
+https://s12.federal.tv:8082/feda/dvatv.stream/playlist.m3u8 
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
