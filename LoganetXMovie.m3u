@@ -121,7 +121,7 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 #EXTINF:-1 group-title="Хиты", Kion Хит
 http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Хиты", Хит
-http://tv.tvip-media.net/hit/tracks-v1a0/time-0.m3u8
+http://193.33.88.172/hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хиты", BCU Kinorating HD 
 http://list.ydns.eu:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
