@@ -1093,11 +1093,11 @@ http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Шансон", Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="classic-music" group-title="Классическая музыка", Classic Music
-http://92.100.39.32:2289/play/a075/index.m3u8
+http://91.200.160.134:15000/play/a0s1/index.m3u8
 #EXTINF:-1 group-title="Классическая музыка", Mezzo 
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая музыка", Mezzo Live 
-https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+http://193.33.88.172:8080/mezzo_hd/index.m3u8
 #EXTINF:-1 group-title="Национальная музыка", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Национальная музыка", Russian MusicBox
