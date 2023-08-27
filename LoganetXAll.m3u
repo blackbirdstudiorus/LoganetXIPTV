@@ -563,7 +563,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
 http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
-http://46.19.100.174:4455/play/a00l/index.m3u8
+http://109.200.130.123:7055/play/a014
 #EXTINF:-1 group-title="Развлекательные", Успех 
 http://146.158.0.56:80/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
