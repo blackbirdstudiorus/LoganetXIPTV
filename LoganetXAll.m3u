@@ -496,7 +496,9 @@ http://109.200.135.130:8080/strana/index.m3u8
 #EXTINF:-1 group-title="Детскомузыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Детскомузыкальные", Жара Kids TV
-http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8 
+#EXTINF:-1 group-title="Детскомузыкальные", Кнопка ТВ 
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские UA", ПлюсПлюс
 http://149.5.17.34:20041/play/a06q
 #EXTINF:-1 group-title="Детские UA", Пiксель 
