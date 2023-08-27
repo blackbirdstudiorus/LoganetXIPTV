@@ -380,7 +380,7 @@ http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:-1 group-title="Национальное кино", Hollywood HD 
 https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+http://91.200.160.134:15000/play/a0fk/index.m3u8
 #EXTINF:-1 group-title="Национальное кино", Timeless Dizi Channel 
 http://91.200.160.134:15000/play/a0qd/index.m3u8
 #EXTINF:-1 group-title="Национальное кино", Индия
