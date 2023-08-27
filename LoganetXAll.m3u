@@ -352,7 +352,9 @@ http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Comedy Central
 http://r.faola.li/19118/index.m3u8?token=SxSeWXQqzJ
 #EXTINF:-1 group-title="Кинокомедии", BCU Comedy HD
-http://list.ydns.eu:8000/play/a00a/index.m3u8
+http://list.ydns.eu:8000/play/a00a/index.m3u8 
+#EXTINF:-1 group-title="Кинокомедии", Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
 #EXTINF:-1 group-title="Сериалы", Киносерия HD
 http://109.200.135.130:8080/mnogo-tv/index.m3u8
 #EXTINF:-1 group-title="Сериалы", Viju+ Serial HD
