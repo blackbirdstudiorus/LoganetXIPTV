@@ -382,7 +382,7 @@ https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Национальное кино", Timeless Dizi Channel 
-http://77.240.45.106:3333/play/a08u
+http://91.200.160.134:15000/play/a0qd/index.m3u8
 #EXTINF:-1 group-title="Национальное кино", Индия
 https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Дорама HD 
@@ -1062,9 +1062,9 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музмикс", BackusTV Music 
 https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Stingray CMusic
-http://77.240.45.106:3333/play/a09x
+http://91.200.160.134:15000/play/a0o5/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Stingray iConcerts
-http://77.240.45.106:3333/play/a079 
+http://91.200.160.134:15000/play/a0q0/index.m3u8 
 #EXTINF:-1 group-title="Музмикс", Муз-ТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музмикс" tvg-id="muztv", Муз ТВ (Архив)
