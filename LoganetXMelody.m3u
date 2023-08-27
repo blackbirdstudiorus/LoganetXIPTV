@@ -71,7 +71,7 @@ http://91.200.160.134:15000/play/a0s1/index.m3u8
 #EXTINF:-1 group-title="Классическая", Mezzo 
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая", Mezzo Live 
-https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+http://193.33.88.172:8080/mezzo_hd/index.m3u8
 #EXTINF:-1 group-title="Национальная", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Национальная", Russian MusicBox
