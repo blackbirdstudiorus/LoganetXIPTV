@@ -59,7 +59,9 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музхиты", MTV Hits
 http://194.114.144.244:8003/play/mtvhits
 #EXTINF:-1 group-title="Рок", Bridge TV Rock
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8 
+#EXTINF:-1 group-title="Рок", Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная", Clubbing TV 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Шансон", Шансон-ТВ 
