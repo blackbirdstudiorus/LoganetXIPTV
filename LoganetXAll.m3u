@@ -466,7 +466,9 @@ http://ch01.spr24.net/7312/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Мультсериалы", BCU Kids+ HD 
 http://list.ydns.eu:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", BCU Мультсериал HD 
-http://list.ydns.eu:8000/play/a00h/index.m3u8
+http://list.ydns.eu:8000/play/a00h/index.m3u8 
+#EXTINF:-1 group-title="Мультсериалы", Kids TV
+http://91.200.160.134:15000/play/a0b1/index.m3u8
 #EXTINF:-1 group-title="Семейные мультфильмы", Детский мир
 http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейные мультфильмы", В гостях у сказки
