@@ -59,28 +59,6 @@ http://tv.tvip-media.net/kinosezon/tracks-v1a0/time-0.m3u8
 http://tv.tvip-media.net/klassikakino/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Микс", Kinoliving 
 http://91.200.160.134:15000/play/a0c4/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Cinema HD 
-http://list.ydns.eu:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Cinema+ HD 
-http://list.ydns.eu:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU History HD 
-http://list.ydns.eu:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Cosmo HD 
-http://list.ydns.eu:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Trumotion HD 
-http://list.ydns.eu:8000/play/24/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Catastrophe HD 
-http://list.ydns.eu:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU VHS HD 
-http://list.ydns.eu:8000/play/22/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Сваты HD 
-http://list.ydns.eu:8000/play/16/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Marvel HD 
-http://list.ydns.eu:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Reality HD 
-http://list.ydns.eu:8000/play/29/index.m3u8
-#EXTINF:-1 group-title="Микс", BCU Stars HD 
-http://list.ydns.eu:8000/play/26/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -93,15 +71,7 @@ http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино HD
 http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8 
 #EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
-http://list.ydns.eu:8000/play/30/index.m3u8
-#EXTINF:-1 group-title="Премьеры", BCU Premiere Ultra 4k
-http://list.ydns.eu:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Премьеры", BCU Кинозал Premiere 1 HD 
-http://list.ydns.eu:8000/play/21/index.m3u8
-#EXTINF:-1 group-title="Премьеры", BCU Кинозал Premiere 2 HD 
-http://list.ydns.eu:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="Премьеры", BCU Кинозал Premiere 3 HD 
-http://list.ydns.eu:8000/play/19/index.m3u8
+http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Хиты", Кинохит
 https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Хиты", Кинохит HD
@@ -122,8 +92,6 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Хиты", Хит
 http://193.33.88.172/hit_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хиты", BCU Kinorating HD 
-http://list.ydns.eu:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
 #EXTINF:-1 group-title="Мужское", Мужское кино HD
@@ -140,12 +108,6 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Мужское", Наше мужское HD 
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8 
-#EXTINF:-1 group-title="Мужское", BCU Action HD
-http://list.ydns.eu:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Мужское", BCU Criminal HD
-http://list.ydns.eu:8000/play/a008/index.m3u8 
-#EXTINF:-1 group-title="Мужское", BCU Survival HD
-http://list.ydns.eu:8000/play/25/index.m3u8
 #EXTINF:-1 group-title="Семейное", Киносемья 
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Семейное", Киносемья HD
@@ -166,8 +128,6 @@ http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Женское", Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8 
-#EXTINF:-1 group-title="Женское", BCU Romantic HD
-http://list.ydns.eu:8000/play/17/index.m3u8
 #EXTINF:-1 group-title="Отечественное", Родное кино 
 http://109.200.135.130:8080/nashe-kino/index.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
@@ -187,7 +147,7 @@ http://193.33.88.172/kinojam1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Отечественное", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Отечественное", BCU СССР HD
-http://list.ydns.eu:8000/play/18/index.m3u8
+http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 group-title="Комедии", Кинокомедия
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Комедии", Кинокомедия HD
@@ -218,16 +178,12 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8 
-#EXTINF:-1 group-title="Сериалы", BCU Ruserial HD 
-http://list.ydns.eu:8000/play/28/index.m3u8
 #EXTINF:-1 group-title="Фантастика", .sci-fi 
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Фантастика", FAN 
 http://94.230.240.17:8080/fan/index.m3u8 
 #EXTINF:-1 group-title="Фантастика", FAN HD
 http://109.200.135.130:8080/fan/index.m3u8
-#EXTINF:-1 group-title="Фантастика", BCU Fantastic HD 
-http://list.ydns.eu:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Национальное", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное", Cinema HD
@@ -262,5 +218,3 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://109.200.135.130:8080/nstv/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
-#EXTINF:-1 group-title="Страшное кино", BCU Filmystic HD 
-http://list.ydns.eu:8000/play/a006/index.m3u8
