@@ -537,7 +537,7 @@ http://109.200.135.130:8080/kaleydoskop/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Ключ
-http://tv.tvip-media.net/kluch/tracks-v1a0/time-0.m3u8 
+http://91.200.160.134:15000/play/a0qg/index.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Министерство идей 
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
