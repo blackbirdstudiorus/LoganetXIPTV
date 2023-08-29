@@ -147,7 +147,9 @@ http://193.33.88.172/kinojam1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Отечественное", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Отечественное", BCU СССР HD
-http://217.107.34.114:8006/playlist.m3u8
+http://217.107.34.114:8006/playlist.m3u8 
+#EXTINF:-1 group-title="Отечественное", Советское кино 
+https://cdn-cache01.voka.tv:443/live/3018.m3u8
 #EXTINF:-1 group-title="Комедии", Кинокомедия
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Комедии", Кинокомедия HD
