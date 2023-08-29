@@ -614,6 +614,8 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Наука 2.0 HD
 http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 group-title="Научпоп", Неизвестная планета
+https://cdn-cache01.voka.tv:443/live/3005.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Документальные", Investigation Discovery
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd 
 #EXTINF:-1 group-title="Документальные", Investigation Discovery HD
