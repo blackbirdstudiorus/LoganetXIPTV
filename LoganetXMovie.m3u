@@ -58,7 +58,7 @@ http://tv.tvip-media.net/kinosezon/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Микс", Movie Classic 
 http://tv.tvip-media.net/klassikakino/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Микс", Kinoliving 
-http://31.211.77.158:8000/play/a053/index.m3u8
+http://91.200.160.134:15000/play/a0c4/index.m3u8
 #EXTINF:-1 group-title="Микс", BCU Cinema HD 
 http://list.ydns.eu:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Микс", BCU Cinema+ HD 
