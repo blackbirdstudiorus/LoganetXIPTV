@@ -2,18 +2,18 @@
 #EXTINF:-1, Первый канал
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1, Первый канал HD 
-http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8 
+http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD (Для зарубежья)
 http://109.200.135.130:8080/ort_hd/index.m3u8
 #EXTINF:-1, Первый канал +2
 http://213.59.128.165:8888/play/Pervij/index.m3u8
 #EXTINF:-1, Первый канал +4
-http://94.230.240.12:8080/ort/index.m3u8 
+http://94.230.240.12:8080/ort/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1, Россия 1
-http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8 
+http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia1", Россия 1 (Для зарубежья)
 http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1", Россия 1 (Архив)
@@ -66,7 +66,7 @@ https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1, Россия К +4
-http://94.230.240.17:8080/kultura/index.m3u8 
+http://94.230.240.17:8080/kultura/index.m3u8
 #EXTINF:-1, Россия К +7
 http://farm-vgtrk.rfn.ru/hls/russia_k_dubl1/playlist_3.m3u8
 #EXTINF:-1, Россия 24
@@ -75,7 +75,7 @@ https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1, Карусель 
-http://193.33.88.172/karusel/tracks-v1a1/mono.m3u8 
+http://193.33.88.172/karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -115,7 +115,7 @@ http://213.59.128.165:8888/play/Ren_TV/index.m3u8
 #EXTINF:-1, РенТВ +4
 http://94.230.240.12:8080/rentv/index.m3u8
 #EXTINF:-1, Спас
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8 
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="spas", Спас (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -131,12 +131,12 @@ http://213.59.128.165:8888/play/STS/index.m3u8
 #EXTINF:-1, СТС +4
 http://94.230.240.12:8080/sts/index.m3u8
 #EXTINF:-1, Домашний
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/480p.m3u8 
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1, Домашний HD
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8 
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:-1 tvg-id="domashny", Домашний HD (Для зарубежья)
 http://109.200.135.130:8080/domashniy_hd/index.m3u8
 #EXTINF:-1, Домашний +2
@@ -162,7 +162,7 @@ http://213.59.128.165:8888/play/Pyatnica/index.m3u8
 #EXTINF:-1, Пятница +4
 http://94.230.240.17:8080/friday/index.m3u8
 #EXTINF:-1, Звезда
-https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8 
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda", Звезда (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
@@ -171,7 +171,7 @@ http://213.59.128.165:8888/play/Zvezda/index.m3u8
 #EXTINF:-1, Звезда +4
 http://94.230.240.12:8080/zvezda/index.m3u8
 #EXTINF:-1, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mir", Мир (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
