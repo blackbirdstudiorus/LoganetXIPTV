@@ -998,13 +998,13 @@ http://195.24.89.82:80/MTV_SD/index.m3u8
 #EXTINF:-1 group-title="Музмикс", MTV Europe 
 http://194.114.144.244:8003/play/mtveurope
 #EXTINF:-1 group-title="Музмикс", MTV Live HD
-http://194.114.144.244:8001/play/MTVLiveHD
+http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
 #EXTINF:-1 group-title="Музмикс", MTV Classic
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
 #EXTINF:-1 group-title="Музмикс", MTV 80's
 http://194.114.144.244:8001/play/mtv80
 #EXTINF:-1 group-title="Музмикс", MTV 90's
-http://194.114.144.244:8001/play/mtv90
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музмикс", MTV 00's
 http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="Музмикс", Trace Urban HD
@@ -1043,7 +1043,7 @@ http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музхиты", MTV Hits
-http://194.114.144.244:8003/play/mtvhits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Рок", Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8 
 #EXTINF:-1 group-title="Рок", Stingray Classic Rock
