@@ -36,7 +36,7 @@ https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
 #EXTINF:-1 group-title="Мода", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Загородная жизнь
-http://217.107.34.114:8009/playlist.m3u8 
+http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
 http://195.161.68.11:8004/playlist.m3u8
 #EXTINF:-1 group-title="Домохозяйство", Загородный 
@@ -46,7 +46,7 @@ https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English
-http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8 
+http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English (Резерв)
 http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
 #EXTINF:-1 group-title="Еда", Food Time
@@ -56,9 +56,9 @@ http://94.230.128.172:7135/1.ts
 #EXTINF:-1 group-title="Еда", Кухня ТВ
 https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Еда", Телекафе
-http://46.151.151.245:10007/play/a003 
+http://46.151.151.245:10007/play/a003
 #EXTINF:-1 group-title="Еда", Food Network 
-http://ott-cdn.ucom.am/s18/04.m3u8 
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 group-title="Еда", JoyCook
 http://tv.tvip-media.net/joycook/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Все хобби", КтоКуда
@@ -80,7 +80,7 @@ http://193.33.88.172/soyuz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Религия", МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Три ангела
-https://hls.tv.3angels.ru/stream.m3u8 
+https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 group-title="Религия", Спас
 https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
