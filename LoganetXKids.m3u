@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Мультсериалы", Карусель
-http://193.33.88.172/karusel/tracks-v1a1/mono.m3u8 
+http://193.33.88.172/karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультсериалы" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель +2
 http://213.59.128.165:8888/play/Karusel/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель +4
-http://94.230.240.17:8080/karusel/index.m3u8 
+http://94.230.240.17:8080/karusel/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель International 
 https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Солнце
@@ -24,7 +24,7 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
 http://109.200.135.130:8080/sts_kids/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
-http://217.107.34.114:8008/playlist.m3u8 
+http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
@@ -50,11 +50,11 @@ http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Cartoon Network
 http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Nicktoons
-https://stream01.vnet.am/Boomerang/mono.m3u8 
+https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", FamilyJam
-http://ch01.spr24.net/7312/index.m3u8?token=Ti8qDtheX2PUkt 
+http://ch01.spr24.net/7312/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Мультсериалы", Kids TV
-http://91.200.160.134:15000/play/a0b1/index.m3u8 
+http://91.200.160.134:15000/play/a0b1/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Советские мультфильмы
 https://cdn-cache01.voka.tv:443/live/3007.m3u8
 #EXTINF:-1 group-title="Семейные", Детский мир
@@ -64,7 +64,7 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Семейные", Cartoonito
 http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейные", Nickelodeon
-http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8 
+http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейные", Nickelodeon HD
 http://45.144.31.195:8026/playlist.m3u8
 #EXTINF:-1 group-title="Для маленьких", СуперГерои 
@@ -80,7 +80,7 @@ http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Познавательные", Радость моя
 http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
-http://91.197.104.34:8080/Unicum/video.m3u8 
+http://91.197.104.34:8080/Unicum/video.m3u8
 #EXTINF:-1 group-title="Познавательное", Сказки Зайки 
 https://cdn-cache01.voka.tv:443/live/3016.m3u8
 #EXTINF:-1 group-title="Музыкальные", Мультимузыка
@@ -96,6 +96,6 @@ http://149.5.17.34:20041/play/a06q
 #EXTINF:-1 group-title="UA", Пiксель 
 http://149.5.17.34:20041/play/a05r
 #EXTINF:-1 group-title="UA", Пiксель HD
-http://149.5.17.34:20041/play/a05s 
+http://149.5.17.34:20041/play/a05s
 #EXTINF:-1 group-title="DE" tvg-logo="https://ewsat.com/img/KIKA.png", KIKA HD
 https://s4.hopslan.com:443/kika/tracks-v1a1/mono.m3u8
