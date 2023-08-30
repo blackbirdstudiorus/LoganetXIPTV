@@ -6,7 +6,7 @@ https://kinescope.io/203407881/master.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports Ukraine
 https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 1 HD
-http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8 
+http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 1
 http://45.144.31.195:8016/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 2 HD 
@@ -14,7 +14,7 @@ http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Матч! Арена HD 
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Viju+ Sport
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8 
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Матч!
 http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультиспорт" tvg-id="match-tv", Матч! (Архив)
@@ -31,7 +31,7 @@ https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Старт HD
 http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Старт Триумф HD
-https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd 
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 #EXTINF:-1 group-title="Мультиспорт" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Беларусь 5 Интернет
@@ -41,7 +41,7 @@ https://kinescope.io/204564915/master.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Мультиспорт", Q Sport
 http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1 group-title="Мультиспорт", BeIN Sports 1
-http://51.195.5.44:80/bein1/index.m3u8 
+http://51.195.5.44:80/bein1/index.m3u8
 #EXTINF:-1 group-title="Мультиспорт", BeIN Sports 2
 http://51.195.5.44:80/bein2/index.m3u8
 #EXTINF:-1 group-title="Футбол", Матч! Футбол 1
@@ -59,7 +59,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Матч! Премьер HD 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Футбол 
-http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8 
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Футбол HD 
 http://109.200.135.130:8080/football/index.m3u8
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
@@ -67,7 +67,7 @@ http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl", KHL HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl-hd", KHL Prime HD 
-https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd 
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 group-title="Хоккей", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Борьба", Удар
