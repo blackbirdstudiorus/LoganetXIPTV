@@ -124,6 +124,8 @@ http://109.200.135.130:8080/raz-tv/index.m3u8
 http://tv.tvip-media.net/hdmedia/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Терра Инкогнита 
 https://cdn-cache01.voka.tv:443/live/3017.m3u8
+#EXTINF:-1 group-title="Развлекательные", Curiosity Stream HD
+https://cdn-cache01.voka.tv:443/live/994.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
