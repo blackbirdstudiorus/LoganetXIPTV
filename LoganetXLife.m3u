@@ -52,7 +52,9 @@ http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stre
 #EXTINF:-1 group-title="Еда", Food Time
 http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Еда", Еда
-http://94.230.128.172:7135/1.ts
+http://94.230.128.172:7135/1.ts 
+#EXTINF:-1 group-title="Еда", Еда Премиум Международный 
+https://cdn-cache01.voka.tv:443/live/991.m3u8
 #EXTINF:-1 group-title="Еда", Кухня ТВ
 https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Еда", Телекафе
