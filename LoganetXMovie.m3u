@@ -10,7 +10,7 @@ http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Микс", Fox HD
-https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+http://31.211.77.158:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Микс", Fox Life HD
 http://31.211.77.158:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Микс", Filmbox 
