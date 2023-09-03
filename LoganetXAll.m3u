@@ -147,7 +147,7 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7//variant.m3u8?versio
 #EXTINF:-1 group-title="Киномикс", Киномикс
 http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Киномикс", Киномикс HD
-http://109.200.135.130:8080/kinomix/index.m3u8
+http://91.200.160.134:15000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="Киномикс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Русский бестселлер
