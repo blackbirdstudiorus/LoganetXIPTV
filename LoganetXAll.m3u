@@ -1041,7 +1041,7 @@ http://94.230.240.17:8080/muztv/index.m3u8
 #EXTINF:-1 group-title="Музхиты", Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музхиты", Europa Plus TV HD
-http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+http://europe3.livetv.az/russia/evropaplus_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музхиты", MCM Top
 http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
