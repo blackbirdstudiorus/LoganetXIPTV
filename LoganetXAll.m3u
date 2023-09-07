@@ -332,7 +332,7 @@ http://109.200.135.130:8080/fan/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Национальное кино", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное кино", Cinema HD
-http://176.74.80.162:8099/Cinema/index.m3u8
+https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Hollywood HD 
 https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Bollywood HD
