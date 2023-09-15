@@ -78,7 +78,7 @@ https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Для маленьких", Nick Jr.
 http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Познавательные", Радость моя
-http://okko-media.cdnvideo.ru/live/okko/radost/hls/playlist_sdhigh.m3u8
+http://193.33.88.172/radost-moya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
 http://91.197.104.34:8080/Unicum/video.m3u8
 #EXTINF:-1 group-title="Познавательное", Сказки Зайки 
