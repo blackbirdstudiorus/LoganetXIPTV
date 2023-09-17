@@ -428,7 +428,7 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Семейные мультфильмы", Cartoonito
 http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейные мультфильмы", Nickelodeon
-http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8 
 #EXTINF:-1 group-title="Семейные мультфильмы", Nickelodeon HD
 http://45.144.31.195:8026/playlist.m3u8
 #EXTINF:-1 group-title="Мультфильмы для маленьких", СуперГерои 
@@ -440,7 +440,7 @@ http://europe3.livetv.az/russia/tiji_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультфильмы для маленьких", Duck TV HD
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Мультфильмы для маленьких", Nick Jr.
-http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 group-title="Познавательное для детей", Радость моя
 http://193.33.88.172/radost-moya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное для детей", Уникум 
