@@ -175,7 +175,7 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Документальные", National Geographic
 http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Документальные", National Geographic HD 
-http://45.144.31.195:8002/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Документальные", Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Документальные", TV Brics 
@@ -199,7 +199,7 @@ http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild HD
-http://45.144.31.195:8005/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Природа", Океан
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Природа", Viju+ Planet HD
