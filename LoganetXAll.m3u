@@ -902,11 +902,13 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Телемагазины", Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports 1 HD
-https://kinescope.io/203407881/master.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports 2 HD
-https://tv.movielab.pro/943/video.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports Ukraine
 https://tv.movielab.pro/942/video.m3u8
+#EXTINF:-1 group-title="Мультиспорт", Setanta Sports Qazaqstan 
+https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 1 HD
 http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 1
