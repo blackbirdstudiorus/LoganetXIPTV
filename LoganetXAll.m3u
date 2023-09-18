@@ -485,7 +485,7 @@ http://tv.tvip-media.net/tvmchannel/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
 https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC 
-https://cdn-cache01.voka.tv:443/live/5117.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
 http://109.200.135.130:8080/kaleydoskop/index.m3u8 
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
