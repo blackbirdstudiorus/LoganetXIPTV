@@ -1086,3 +1086,5 @@ https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальная музыка", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальная музыка", TMTV 
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
