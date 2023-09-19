@@ -189,9 +189,9 @@ https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:-1 group-title="Документальные", RT Doc 
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Документальные", Docubox 
-http://91.200.160.134:15000/play/a0qa/index.m3u8
+http://195.54.42.9:8000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="Документальные", DocuBox HD
-https://tbs01-edge11.itdc.ge/docuboxhd/tracks-v1a1/mono.m3u8
+rtmp://93.189.60.202//968
 #EXTINF:-1 group-title="Природа", Animal Planet
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Природа", Animal Planet HD 
