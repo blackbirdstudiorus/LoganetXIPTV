@@ -778,7 +778,7 @@ http://31.211.77.158:8000/play/a178/index.m3u8
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://tv.tvip-media.net/euronews/tracks-v1a0/time-0.m3u8
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости", РБК 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
