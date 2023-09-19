@@ -473,7 +473,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
-https://cdn-cache01.voka.tv:443/live/5115.m3u8 
+http://edge02.odtv.az/o5/discovery/playlist.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Discovery HD 
 https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
 #EXTINF:-1 group-title="Развлекательные", Global Star
