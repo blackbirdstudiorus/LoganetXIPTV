@@ -756,7 +756,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Здоровье", Доктор 
 https://tbs01-edge11.itdc.ge/doctor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Здоровье", Здоровое ТВ
-http://109.197.192.121:8080/zdorovoe/index.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8 
 #EXTINF:-1 group-title="Здоровье", Открытый мир
 http://146.158.0.56/OtkritiyMir/mono.m3u8
 #EXTINF:-1 group-title="Здоровье", MyZen.tv
