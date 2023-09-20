@@ -217,7 +217,7 @@ http://31.134.132.245:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
 https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Природа", Живая природа 
-http://109.200.135.130:8080/jivaya_priroda_hd/index.m3u8
+http://193.33.88.172/jivaya_priroda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Природа", Наша сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Природа", Наша Сибирь 4k (Архив)
