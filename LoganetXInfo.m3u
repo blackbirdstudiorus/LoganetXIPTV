@@ -232,13 +232,13 @@ https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="История", Время 
-http://109.200.135.130:8080/vremya/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
 #EXTINF:-1 group-title="История", Звезда Плюс 
-http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
+http://91.200.160.134:15000/play/a0st/index.m3u8
 #EXTINF:-1 group-title="История", История 
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
-http://109.200.135.130:8080/nostalgia/index.m3u8
+http://178.158.181.8:1504/117
 #EXTINF:-1 group-title="История", Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="История", Победа HD
