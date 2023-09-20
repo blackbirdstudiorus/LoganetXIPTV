@@ -276,9 +276,9 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Женское кино", Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Родное кино 
-http://109.200.135.130:8080/nashe-kino/index.m3u8
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Дом кино
-http://109.200.135.130:8080/dom_kino/index.m3u8
+https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Русский иллюзион
