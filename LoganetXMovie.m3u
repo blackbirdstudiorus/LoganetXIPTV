@@ -99,7 +99,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мужское", Мужское кино HD
 http://91.200.160.134:15000/play/a0or/index.m3u8
 #EXTINF:-1 group-title="Мужское", Русский детектив 
-http://109.200.135.130:8080/rus-detective/index.m3u8
+http://193.33.88.172:8080/rus-detective/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужское", A1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", .black 
