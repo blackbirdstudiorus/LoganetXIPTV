@@ -204,6 +204,8 @@ https://s12.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
 https://s12.federal.tv:8082/feda/kkino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Kinoliving 
 http://91.200.160.134:15000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="Киномикс", Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
