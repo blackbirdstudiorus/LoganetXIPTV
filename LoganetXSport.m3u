@@ -63,7 +63,7 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 #EXTINF:-1 group-title="Футбол", Футбол 
 http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Футбол HD 
-http://109.200.135.130:8080/football/index.m3u8
+http://193.33.88.172/football/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
 http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl", KHL HD 
