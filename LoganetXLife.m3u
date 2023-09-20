@@ -68,13 +68,13 @@ http://146.158.0.56:80/MirUvlecheniy/index.m3u8
 #EXTINF:-1 group-title="Все хобби", Мужской 
 http://81.177.136.209:8006/playlist.m3u8
 #EXTINF:-1 group-title="Все хобби", Наша тема 
-http://109.200.135.130:8080/nasha_tema_hd/index.m3u8
+http://193.33.88.172/nasha_tema_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Другие хобби", Мама
 http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
 #EXTINF:-1 group-title="Другие хобби", Моя стихия 
 http://91.200.160.134:15000/play/a0rb/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Живи
-http://109.200.135.130:8080/jivi/index.m3u8
+http://193.33.88.172/jivi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Другие хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Союз
