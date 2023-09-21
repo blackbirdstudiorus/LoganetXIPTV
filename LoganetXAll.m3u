@@ -308,7 +308,7 @@ http://91.200.160.134:15000/play/a0ow/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Камеди
 http://193.33.88.172/kamedi_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедия 
-http://178.158.181.8:1504/1115
+http://91.200.160.134:15000/play/a0s0/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедийное HD
 http://195.54.42.9:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии" tvg-id="paramount-comedy", Comedy Central English
@@ -362,7 +362,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Страшное кино", НСТ 
-http://178.158.181.8:1504/804 
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8 
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель
