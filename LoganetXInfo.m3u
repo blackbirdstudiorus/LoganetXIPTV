@@ -67,7 +67,7 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
 http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
-http://178.158.181.8:1504/419
+http://193.33.88.172/sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
 http://82.209.254.71:7781/udp/236.1.1.2:20000
 #EXTINF:-1 group-title="Развлекательные", СТС HD
