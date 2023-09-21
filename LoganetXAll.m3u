@@ -394,7 +394,7 @@ http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
-https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
+http://193.33.88.172/o_/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
