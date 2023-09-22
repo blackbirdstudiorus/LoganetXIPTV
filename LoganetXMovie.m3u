@@ -1,16 +1,18 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Микс", Киномикс
-http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+https://moobl.ru/iptv/Kinomix.m3u8
 #EXTINF:-1 group-title="Микс", Киномикс HD
-http://193.33.88.172/kinomix/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/71.m3u8
 #EXTINF:-1 group-title="Микс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Русский бестселлер
-http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
-#EXTINF:-1 group-title="Микс", Fox  
+http://94.230.240.12:80/rusbestseller/index.m3u8
+#EXTINF:-1 group-title="Микс", Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Микс", Fox HD
-http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8
+http://moobl.ru/iptv/Fox_HD.m3u8
+#EXTINF:-1 group-title="Микс", Fox Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Микс", Fox Life HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Микс", Filmbox 
