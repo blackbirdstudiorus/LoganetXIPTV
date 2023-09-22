@@ -308,9 +308,9 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Shot TV
 http://91.200.160.134:15000/play/a0ow/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Камеди
-http://193.33.88.172/kamedi_hd/tracks-v1a1/mono.m3u8
+http://%64%6D%693%79-%74%76.ru/hls/CH_KAMEDI.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедия 
-http://91.200.160.134:15000/play/a0s0/index.m3u8
+http://195.54.42.9:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Комедийное HD
 http://195.54.42.9:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Кинокомедии" tvg-id="paramount-comedy", Comedy Central English
