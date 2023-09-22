@@ -111,7 +111,9 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", День Победы HD
 http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
 #EXTINF:-1 group-title="Мужское", Наше мужское HD 
-http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8 
+#EXTINF:-1 group-title="Мужское", Наше крутое
+http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
 #EXTINF:-1 group-title="Семейное", Киносемья 
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейное", Киносемья HD
@@ -131,7 +133,13 @@ http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", .red
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Женское", Star Cinema HD
-https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8 
+#EXTINF:-1 group-title="Женское", Про любовь
+http://moobl.ru/iptv/Pro_lyubov_hd.m3u8 
+#EXTINF:-1 group-title="Женское", Душевное
+http://moobl.ru/iptv/Dushevnoe_hd.m3u8 
+#EXTINF:-1 group-title="Женское", Романтичное
+http://moobl.ru/iptv/Romantichnoe_hd.m3u8
 #EXTINF:-1 group-title="Отечественное", Родное кино 
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
