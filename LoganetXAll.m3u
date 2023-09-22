@@ -145,13 +145,13 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4//variant.m3u8?versio
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7//variant.m3u8?version=2
 #EXTINF:-1 group-title="Киномикс", Киномикс
-http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8 
+https://moobl.ru/iptv/Kinomix.m3u8 
 #EXTINF:-1 group-title="Киномикс", Киномикс HD
-http://193.33.88.172/kinomix/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/71.m3u8
 #EXTINF:-1 group-title="Киномикс", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Киномикс", Русский бестселлер
-http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
+http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 group-title="Киномикс", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Киномикс", Fox HD
