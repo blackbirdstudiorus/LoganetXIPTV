@@ -244,9 +244,9 @@ http://193.33.88.172/hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужское кино", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
 #EXTINF:-1 group-title="Мужское кино", Мужское кино HD
-http://91.200.160.134:15000/play/a0or/index.m3u8
+https://cdn-cache01.voka.tv:443/live/74.m3u8
 #EXTINF:-1 group-title="Мужское кино", Русский детектив 
-http://193.33.88.172:8080/rus-detective/tracks-v1a1/mono.m3u8
+http://195.54.42.9:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Мужское кино", A1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское кино", .black 
@@ -254,7 +254,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Мужское кино" tvg-id="bolt-ru", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское кино", День Победы HD
-https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
 #EXTINF:-1 group-title="Мужское кино", Наше мужское HD 
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейное кино", Киносемья 
