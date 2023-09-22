@@ -320,7 +320,7 @@ http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Viasat Kino Comedy
 http://91.233.215.250:7272/5RqMvVnGzdoBQbf
 #EXTINF:-1 group-title="Сериалы", Киносерия HD
-http://193.33.88.172/mnogo-tv/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/79.m3u8
 #EXTINF:-1 group-title="Сериалы", Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Сериалы", Мир сериала 
@@ -340,9 +340,9 @@ https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Hollywood HD 
 https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Bollywood HD
-http://91.200.160.134:15000/play/a0fk/index.m3u8
+https://moobl.ru/iptv/Bollywood_hd.m3u8
 #EXTINF:-1 group-title="Национальное кино", Timeless Dizi Channel 
-http://91.200.160.134:15000/play/a0qd/index.m3u8
+https://moobl.ru/iptv/Timeless_dizi_HD.m3u8
 #EXTINF:-1 group-title="Национальное кино", Индия
 https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Национальное кино", Дорама HD 
