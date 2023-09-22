@@ -155,7 +155,9 @@ http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 group-title="Киномикс", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Киномикс", Fox HD
-http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8 
+http://moobl.ru/iptv/Fox_HD.m3u8
+#EXTINF:-1 group-title="Киномикс", Fox Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Киномикс", Fox Life HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Киномикс", Filmbox 
