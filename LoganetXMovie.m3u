@@ -109,13 +109,13 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Мужское" tvg-id="bolt-ru", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", День Победы HD
-https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
 #EXTINF:-1 group-title="Мужское", Наше мужское HD 
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейное", Киносемья 
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Семейное", Киносемья HD
-http://193.33.88.172:8080/kinosemya/tracks-v1a1/mono.m3u8
+https://moobl.ru/iptv/Kinosemya_hd.m3u8
 #EXTINF:-1 group-title="Семейное", Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское", Киносвидание
