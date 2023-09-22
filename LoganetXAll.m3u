@@ -218,13 +218,13 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", Наше новое кино 
 http://91.197.104.34:8080/NasheNovoeKino/video.m3u8 
 #EXTINF:-1 group-title="Кинопремьеры", Наше новое кино HD
-http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8 
+https://cdn-cache01.voka.tv:443/live/75.m3u8 
 #EXTINF:-1 group-title="Кинопремьеры", BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Кинохиты", Кинохит
 https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Кинохиты", Кинохит HD
-http://193.33.88.172/kinohit/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/70.m3u8
 #EXTINF:-1 group-title="Кинохиты", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кинохиты", Viju+ Megahit HD
