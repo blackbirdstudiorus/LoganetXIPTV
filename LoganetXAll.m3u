@@ -376,7 +376,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель
-http://193.33.88.172/karusel/tracks-v1a1/mono.m3u8
+http://178.212.236.2:80/MyPlanet/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультсериалы" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -394,33 +394,33 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт 
 http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт HD
-http://91.200.160.134:15000/play/a0pw/index.m3u8
+http://moobl.ru/iptv/Mult_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
-http://91.200.160.134:15000/play/a0fh/index.m3u8
+http://moobl.ru/iptv/STS_Kids_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
 http://217.107.34.114:8008/playlist.m3u8 
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
-http://193.33.88.172/o_/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
-http://193.33.88.172/ryzhiy/tracks-v1a1/mono.m3u8
+http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Капитан Фантастика HD
 http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Чижик 
-http://ch01.spr24.net/7309/index.m3u8?token=Ti8qDtheX2PUkt
+http://moobl.ru/iptv/Chizhik_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", JimJam
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", ТипТоп
-http://ch01.spr24.net/5818/index.m3u8?token=Ti8qDtheX2PUkt
+http://moobl.ru/iptv/TipTop_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Gulli Girl
 http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Cartoon Network
