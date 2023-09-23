@@ -53,7 +53,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
 http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
-http://91.200.160.134:15000/play/a0om/index.m3u8
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Успех 
 http://146.158.0.56:80/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
@@ -67,9 +67,9 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
 http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
-http://193.33.88.172/sarafan/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Sarafan.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
-http://82.209.254.71:7781/udp/236.1.1.2:20000
+http://moobl.ru/iptv/Svetloe_hd.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
