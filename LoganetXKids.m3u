@@ -28,23 +28,23 @@ http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
-http://193.33.88.172/o_/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
-http://193.33.88.172/ryzhiy/tracks-v1a1/mono.m3u8
+http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Капитан Фантастика HD
 http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Чижик 
-http://ch01.spr24.net/7309/index.m3u8?token=Ti8qDtheX2PUkt
+http://moobl.ru/iptv/Chizhik_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", JimJam
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", ТипТоп
-http://ch01.spr24.net/5818/index.m3u8?token=Ti8qDtheX2PUkt
+http://moobl.ru/iptv/TipTop_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Gulli Girl
 http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Cartoon Network
@@ -78,13 +78,13 @@ https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Для маленьких", Nick Jr.
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 group-title="Познавательные", Радость моя
-http://193.33.88.172/radost-moya/tracks-v1a1/mono.m3u8
+https://s12.federal.tv:8082/feda/radosttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
 http://91.197.104.34:8080/Unicum/video.m3u8
 #EXTINF:-1 group-title="Познавательное", Сказки Зайки 
 https://cdn-cache01.voka.tv:443/live/3016.m3u8
 #EXTINF:-1 group-title="Музыкальные", Мультимузыка
-http://193.33.88.172/strana/tracks-v1a1/mono.m3u8
+http://195.54.42.9:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара Kids TV
@@ -94,7 +94,7 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="UA", ПлюсПлюс
 http://149.5.17.34:20041/play/a06q
 #EXTINF:-1 group-title="UA", Пiксель 
-http://149.5.17.34:20041/play/a05r
+rtmp://93.189.60.202//938
 #EXTINF:-1 group-title="UA", Пiксель HD
 http://149.5.17.34:20041/play/a05s
 #EXTINF:-1 group-title="DE" tvg-logo="https://ewsat.com/img/KIKA.png", KIKA HD
