@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Мультсериалы", Карусель
-http://193.33.88.172/karusel/tracks-v1a1/mono.m3u8
+http://178.212.236.2:80/MyPlanet/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультсериалы" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -18,11 +18,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт 
 http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт HD
-http://195.54.42.9:8000/play/a01f/index.m3u8
+http://moobl.ru/iptv/Mult_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
-http://91.200.160.134:15000/play/a0fh/index.m3u8
+http://moobl.ru/iptv/STS_Kids_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
 http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
