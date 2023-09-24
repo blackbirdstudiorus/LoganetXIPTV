@@ -140,6 +140,8 @@ http://moobl.ru/iptv/Pro_lyubov_hd.m3u8
 http://moobl.ru/iptv/Dushevnoe_hd.m3u8 
 #EXTINF:-1 group-title="Женское", Романтичное
 http://moobl.ru/iptv/Romantichnoe_hd.m3u8
+#EXTINF:-1 group-title="Женское", Epic Drama 
+rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Отечественное", Родное кино 
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
