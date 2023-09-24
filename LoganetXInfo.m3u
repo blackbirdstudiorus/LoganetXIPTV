@@ -224,27 +224,27 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
-http://109.200.135.130:8080/zoo_tv/index.m3u8
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Природа", Zooпарк
-https://tbs01-edge11.itdc.ge/zoo/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Zoopark.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
-https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
+http://46.174.83.66/365/index.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="История", Время 
 https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
 #EXTINF:-1 group-title="История", Звезда Плюс 
-http://91.200.160.134:15000/play/a0st/index.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="История", История 
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
-http://178.158.181.8:1504/117
+http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 group-title="История", Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="История", Победа HD
-http://193.33.88.172/pobeda_hd/tracks-v1a1/mono.m3u8
+http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
 #EXTINF:-1 group-title="История", Ретро
-https://tbs01-edge11.itdc.ge/retro/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/335.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", РЖД HD 
