@@ -331,7 +331,7 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Соловьëв.Live
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
-https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Дума ТВ 
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Красная линия 
