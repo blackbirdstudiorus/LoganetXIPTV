@@ -119,7 +119,7 @@ https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
-http://193.33.88.172/raz-tv/tracks-v1a1/mono.m3u8
+http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", HD Media
 http://tv.tvip-media.net/hdmedia/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Терра Инкогнита 
