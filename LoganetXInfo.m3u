@@ -135,9 +135,9 @@ http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 group-title="Научпоп", Da Vinci 
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
 #EXTINF:-1 group-title="Научпоп", Nano HD
-http://193.33.88.172/nano_hd/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/211.m3u8
 #EXTINF:-1 group-title="Научпоп", Арсенал HD
-http://193.33.88.172/arsenal_hd/tracks-v1a1/mono.m3u8
+http://45.144.31.195:8003/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Техно 24
 https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
