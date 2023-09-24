@@ -1,2 +1,2 @@
 # LoganetXIPTV
-LoganetXIPTV
+Более 500 телеканалов бесплатно
