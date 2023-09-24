@@ -245,6 +245,8 @@ http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
 #EXTINF:-1 group-title="История", Ретро
 https://cdn-cache01.voka.tv:443/live/335.m3u8
+#EXTINF:-1 group-title="Транспорт", DTX
+http://moobl.ru/iptv/DTX_hd.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", РЖД HD 
