@@ -264,17 +264,17 @@ http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Viju Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="Приключения", Телепутешествия 
-http://193.33.88.172/teleputeshestviya/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Приключения", Поехали!
 https://ucdn.beetv.kz/btv/live/hls/000002991.m3u8
 #EXTINF:-1 group-title="Приключения", Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Глазами туриста HD 
-http://193.33.88.172/glazami_turista_hd/tracks-v1a1/mono.m3u8
+http://45.144.31.195:8032/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета
 http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="Приключения", Моя планета HD
-http://193.33.88.172/planeta_hd/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Moya_planeta_hd.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-id="travel-xp-hd", TravelXP English HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Здоровье", Доктор 
@@ -290,7 +290,7 @@ http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1 group-title="Обучение", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Обучение", Просвещение 
-http://193.33.88.172/prosveshenie/tracks-v1a1/mono.m3u8
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Обучение", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Искусство", Театр 
