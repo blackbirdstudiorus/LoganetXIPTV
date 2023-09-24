@@ -706,11 +706,11 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
-http://193.33.88.172/zoo_tv/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Природа", Zooпарк
-https://tbs01-edge11.itdc.ge/zoo/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Zoopark.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
-https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
+http://46.174.83.66/365/index.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="История", Время 
