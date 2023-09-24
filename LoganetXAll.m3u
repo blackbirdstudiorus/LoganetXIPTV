@@ -728,7 +728,7 @@ http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
 #EXTINF:-1 group-title="История", Ретро
 https://cdn-cache01.voka.tv:443/live/335.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX
-http://194.114.144.244:8002/play/a0vo
+http://moobl.ru/iptv/DTX_hd.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", РЖД HD 
@@ -740,7 +740,7 @@ https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", Драйв
 https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", Моторспорт ТВ
-http://91.200.160.134:15000/play/a0c8/index.m3u8
+http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 group-title="Приключения", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Приключения", RTG International
