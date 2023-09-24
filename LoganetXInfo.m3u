@@ -211,13 +211,13 @@ http://ott.watch/stream/KD8IR5FDPF/241.m3u8
 #EXTINF:-1 group-title="Природа", В мире животных HD 
 http://31.211.77.158:8000/play/a175/index.m3u8
 #EXTINF:-1 group-title="Природа", Домашние животные 
-http://91.200.160.134:15000/play/a0bz/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 group-title="Природа", Пëс и Ко
 http://31.134.132.245:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Природа", Живая планета
-https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 #EXTINF:-1 group-title="Природа", Живая природа 
-http://193.33.88.172/jivaya_priroda_hd/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
 #EXTINF:-1 group-title="Природа", Наша сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Природа", Наша Сибирь 4k (Архив)
