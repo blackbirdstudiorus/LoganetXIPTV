@@ -11,7 +11,7 @@ http://213.59.128.165:8888/play/Pervij/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал +4
 http://94.230.240.12:8080/ort/index.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1
-http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8 
+http://178.212.236.2:80/NatGeo/index.m3u8 
 #EXTINF:-1 tvg-id="rossia1", Россия 1 (Для зарубежья)
 http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
