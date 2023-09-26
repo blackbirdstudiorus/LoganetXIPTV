@@ -310,7 +310,7 @@ http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное кино", Советское кино 
 https://s12.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Кинокомедия
-http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8 
+https://s12.federal.tv:8082/feda/komediya.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Кинокомедия HD
 https://cdn-cache01.voka.tv:443/live/2116.m3u8
 #EXTINF:-1 group-title="Кинокомедии", Viju+ Comedy HD
@@ -342,25 +342,25 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Фантастика", FAN 
 http://94.230.240.17:8080/fan/index.m3u8 
 #EXTINF:-1 group-title="Фантастика", FAN HD
-http://109.200.135.130:8080/fan/index.m3u8
+http://moobl.ru/iptv/FAN_hd.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Национальное кино", Кинеко HD 
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:-1 group-title="Национальное кино", Cinema HD
-https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное кино", Cinema
+https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 #EXTINF:-1 group-title="Национальное кино", Hollywood HD 
-https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+http://%64%6D%693%79-%74%76.ru/hls/CH_HOLLYWOODHD.m3u8
 #EXTINF:-1 group-title="Национальное кино", Bollywood HD
 https://moobl.ru/iptv/Bollywood_hd.m3u8
 #EXTINF:-1 group-title="Национальное кино", Timeless Dizi Channel 
 https://moobl.ru/iptv/Timeless_dizi_HD.m3u8
 #EXTINF:-1 group-title="Национальное кино", Индия
-https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+http://91.197.104.34:8080/India/video.m3u8
 #EXTINF:-1 group-title="Национальное кино", Дорама HD 
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Национальное кино", Еврокино
 https://cdn-cache01.voka.tv:443/live/903.m3u8
 #EXTINF:-1 group-title="Национальное кино", Индийское кино 
-https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/1447.m3u8
 #EXTINF:-1 group-title="Национальное кино", Сапфир HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8 
 #EXTINF:-1 group-title="Национальное кино", Film.Ua Drama
