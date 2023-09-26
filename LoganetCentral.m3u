@@ -13,7 +13,7 @@ http://94.230.240.12:8080/ort/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1, Россия 1
-http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
+http://178.212.236.2:80/NatGeo/index.m3u8
 #EXTINF:-1 tvg-id="rossia1", Россия 1 (Для зарубежья)
 http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1", Россия 1 (Архив)
