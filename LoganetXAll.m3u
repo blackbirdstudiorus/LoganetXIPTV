@@ -391,12 +391,12 @@ http://94.230.240.17:8080/karusel/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Карусель International 
 https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Солнце
-http://streamer1.ruslanatv.ru/russia/disney_2023/playlist.m3u8 
+https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Мультсериалы", Солнце (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт 
-http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
+http://178.212.236.2:80/Mult/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт HD
 http://moobl.ru/iptv/Mult_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
