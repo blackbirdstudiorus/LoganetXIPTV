@@ -222,7 +222,7 @@ https://cdn-cache01.voka.tv:443/live/75.m3u8
 #EXTINF:-1 group-title="Кинопремьеры", BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Кинохиты", Кинохит
-https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8 
+http://moobl.ru/iptv/Kinohit.m3u8 
 #EXTINF:-1 group-title="Кинохиты", Кинохит HD
 https://cdn-cache01.voka.tv:443/live/70.m3u8
 #EXTINF:-1 group-title="Кинохиты", Дом кино Премиум HD
