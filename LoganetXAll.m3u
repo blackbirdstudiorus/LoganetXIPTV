@@ -255,18 +255,18 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское кино", День Победы HD
 http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
-#EXTINF:-1 group-title="Мужское кино", Наше мужское HD 
-http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мужское кино", Наше мужское
+http://%64%6D%693%79-%74%76.ru/hls/CH_NASHEMUZHSKOE.m3u8
 #EXTINF:-1 group-title="Мужское кино", Наше крутое
 http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
 #EXTINF:-1 group-title="Семейное кино", Киносемья 
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8 
+https://cdn-cache01.voka.tv/live/72.m3u8 
 #EXTINF:-1 group-title="Семейное кино", Киносемья HD
 https://moobl.ru/iptv/Kinosemya_hd.m3u8
 #EXTINF:-1 group-title="Семейное кино", Star Family HD 
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Женское кино", Киносвидание
-http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8 
+https://cdn-cache01.voka.tv/live/77.m3u8 
 #EXTINF:-1 group-title="Женское кино", Киносвидание HD
 https://moobl.ru/iptv/Kinosvidanie_hd.m3u8
 #EXTINF:-1 group-title="Женское кино", Русский роман
