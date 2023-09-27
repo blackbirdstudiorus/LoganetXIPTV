@@ -719,13 +719,13 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Познавательные 
-https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", История
+http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Ностальгия
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Поб HD
+#EXTINF:-1 group-title="Познавательные", Победа HD
 http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
 https://cdn-cache01.voka.tv:443/live/335.m3u8
