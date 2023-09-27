@@ -645,7 +645,7 @@ http://moobl.ru/iptv/Investigation_Discovery_hd.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
-https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8 
+http://moobl.ru/iptv/HD_life.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://91.233.215.250:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 group-title="Познавательные", History HD 
@@ -657,7 +657,7 @@ rtmp://93.189.60.202//1052
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8 
+http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD 
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
