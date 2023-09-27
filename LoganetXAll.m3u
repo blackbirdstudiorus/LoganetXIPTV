@@ -144,9 +144,9 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4//variant.m3u8?versio
 #EXTINF:-1 tvg-id="mir-pl7" group-title="Общие", Мир +7 (Для зарубежья)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7//variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино и сериалы", Кино и сериалы
-https://moobl.ru/iptv/Kinomix.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Кино и сериалы HD
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс
+https://moobl.ru/iptv/Kinomix.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 https://cdn-cache01.voka.tv:443/live/71.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
