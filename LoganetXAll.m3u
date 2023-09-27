@@ -677,9 +677,9 @@ http://195.54.42.9:8000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="Познавательные", DocuBox HD
 rtmp://93.189.60.202//968
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/3158.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
@@ -700,7 +700,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
 http://31.134.132.245:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
-#EXTINF:-1 group-title="Познавательные", Живая Познавательные 
+#EXTINF:-1 group-title="Познавательные", Живая природа
 https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
@@ -723,9 +723,9 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Ностальгия
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", ПобХобби
+#EXTINF:-1 group-title="Познавательные", Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", ПобХобби HD
+#EXTINF:-1 group-title="Познавательные", Поб HD
 http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
 https://cdn-cache01.voka.tv:443/live/335.m3u8
