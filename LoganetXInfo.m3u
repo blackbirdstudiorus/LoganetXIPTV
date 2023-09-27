@@ -183,7 +183,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Документальные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Документальные", Кто есть кто 
-http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
+http://91.197.104.34:8080/KtoEstKto/video.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Документальные", Terra HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:-1 group-title="Документальные", RT Doc 
