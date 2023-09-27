@@ -587,7 +587,7 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
-http://185.235.187.10:8888/play/a04f/index.m3u8
+http://176.107.250.4:8002/ch41
 #EXTINF:-1 group-title="Развлекательные", ТДК 
 http://31.148.48.15:80/TDK/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", English Club TV
