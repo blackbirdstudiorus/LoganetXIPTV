@@ -599,9 +599,9 @@ https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
 http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Развлекательные", RTVI
-https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8 
+http://85.11.144.9:4222/RTVi?token=test
 #EXTINF:-1 group-title="Развлекательные", Перец
-https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8  
 #EXTINF:-1 group-title="Развлекательные", HD Media
