@@ -16,7 +16,7 @@ https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт 
-http://178.212.236.2:80/Mult/index.m3u8
+http://moobl.ru/iptv/Mult.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт HD
 http://moobl.ru/iptv/Mult_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
@@ -46,7 +46,7 @@ http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", ТипТоп
 http://moobl.ru/iptv/TipTop_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Gulli Girl
-http://live-3.otcnet.ru/Gulli_OT/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Cartoon Network
 https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Nicktoons
