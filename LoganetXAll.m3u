@@ -627,7 +627,7 @@ https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
-http://195.161.68.11:8005/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
 http://194.190.78.91:8080/tvextra720b/index.m3u8 
 #EXTINF:-1 group-title="Познавательные", Первый космический
@@ -635,7 +635,7 @@ http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
 http://stream01.vnet.am/Evrika/mono.m3u8 
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
+http://%64%6D%693%79-%74%76.ru/hls/CH_HAUKA20.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная планета
