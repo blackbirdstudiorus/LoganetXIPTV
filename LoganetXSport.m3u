@@ -39,7 +39,9 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Okko Спорт HD
-https://kinescope.io/204564915/master.m3u8
+https://kinescope.io/204564915/master.m3u8 
+#EXTINF:-1 group-title="Мультиспорт", Спортивный HD
+http://moobl.ru/iptv/Sportivny_hd.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Мультиспорт", Q Sport
 http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1 group-title="Мультиспорт", BeIN Sports 1
@@ -63,7 +65,9 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 #EXTINF:-1 group-title="Футбол", Футбол 
 http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Футбол HD 
-http://193.33.88.172/football/tracks-v1a1/mono.m3u8
+http://193.33.88.172/football/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="Футбол", Футбольный HD
+http://moobl.ru/iptv/Futbolniy_hd.m3u8
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
 http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl", KHL HD 
@@ -71,7 +75,7 @@ https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl-hd", KHL Prime HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 group-title="Хоккей", Хоккейный HD
-http://31.211.77.158:8000/play/a135/index.m3u8
+http://moobl.ru/iptv/Hokkeyny_hd.m3u8
 #EXTINF:-1 group-title="Борьба", Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Борьба", FightBox HD
