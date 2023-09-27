@@ -641,7 +641,7 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная планета
 https://cdn-cache01.voka.tv:443/live/3005.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
-http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd 
+http://moobl.ru/iptv/Investigation_Discovery_hd.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
@@ -649,7 +649,7 @@ https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://91.233.215.250:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 group-title="Познавательные", History HD 
-http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+http://85.11.144.9:4222/HistoryHD?token=test
 #EXTINF:-1 group-title="Познавательные", H2
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные", H2 HD
