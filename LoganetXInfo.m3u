@@ -173,7 +173,7 @@ rtmp://93.189.60.202//1052
 #EXTINF:-1 group-title="Документальные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Документальные", National Geographic
-http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
+http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Документальные", National Geographic HD 
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Документальные", Top Secret
@@ -193,9 +193,9 @@ http://195.54.42.9:8000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="Документальные", DocuBox HD
 rtmp://93.189.60.202//968
 #EXTINF:-1 group-title="Природа", Animal Planet
-http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/3158.m3u8
 #EXTINF:-1 group-title="Природа", Animal Planet HD 
-http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Природа", Nat Geo Wild HD
