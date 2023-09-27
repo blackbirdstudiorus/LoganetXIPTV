@@ -115,9 +115,9 @@ https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
 http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Развлекательные", RTVI
-https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
+http://85.11.144.9:4222/RTVi?token=test
 #EXTINF:-1 group-title="Развлекательные", Перец
-https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", HD Media
@@ -143,7 +143,7 @@ https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
 http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-id="galaxy-tv", Galaxy HD
-http://195.161.68.11:8005/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
 http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический
