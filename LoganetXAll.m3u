@@ -426,7 +426,7 @@ http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 group-title="Детские", ТипТоп
 http://moobl.ru/iptv/TipTop_hd.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
-http://live-3.otcnet.ru/Gulli_OT/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
