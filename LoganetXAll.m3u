@@ -798,7 +798,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
 http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8 
 #EXTINF:-1 group-title="Новости", Москва. Доверие
-http://95.217.196.109:8081/russia/moskva_dov_2023/chunks.m3u8 
+http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Новости", Россия 24
 https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
