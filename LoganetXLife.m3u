@@ -78,7 +78,7 @@ http://moobl.ru/iptv/Jivi_hd.m3u8
 #EXTINF:-1 group-title="Другие хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Союз
-http://193.33.88.172/soyuz/tracks-v1a1/mono.m3u8
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Религия", МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Три ангела
