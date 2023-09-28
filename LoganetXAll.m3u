@@ -872,12 +872,14 @@ http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stre
 http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
 #EXTINF:-1 group-title="Хобби", Food Time
 http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Хобби
+#EXTINF:-1 group-title="Хобби", 
 http://u.vipl.one/high/mtpy4cu872/518.m3u8
-#EXTINF:-1 group-title="Хобби", Хобби Премиум Международный 
+#EXTINF:-1 group-title="Хобби", Еда Премиум Международный 
 https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
+#EXTINF:-1 group-title="Еда", Еда Премиум Международный HD
+http://moobl.ru/iptv/Eda_hd_int.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
-https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Kuhnya_hd.m3u8
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://46.151.151.245:10007/play/a003
 #EXTINF:-1 group-title="Хобби", Food Network 
