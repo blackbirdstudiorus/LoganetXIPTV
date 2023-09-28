@@ -18,13 +18,11 @@ http://81.177.136.209:8007/playlist.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Дикий 
 http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Охота и рыбалка
-https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
+http://46.174.83.66/Ohota_i_rybalka/index.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
 https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
-#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов HD
-http://193.33.88.172:8080/ohot_i_rybolov_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов International
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4 
+#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов
+https://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
 #EXTINF:-1 group-title="Охота и рыбалка", Рыболов
 http://193.33.88.172:8080/ohotnik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мода", Fashion TV HD
