@@ -751,8 +751,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Поехали!
 https://ucdn.beetv.kz/btv/live/hls/000002991.m3u8
-#EXTINF:-1 group-title="Познавательные", Познавательные HD
-http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Приключения HD
+https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
 http://45.144.31.195:8032/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -840,7 +840,7 @@ http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://217.107.34.114:8007/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Познавательные
+#EXTINF:-1 group-title="Хобби", Охота и рыбалка
 https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
