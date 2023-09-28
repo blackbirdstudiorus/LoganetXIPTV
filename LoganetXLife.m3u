@@ -70,11 +70,11 @@ http://81.177.136.209:8006/playlist.m3u8
 #EXTINF:-1 group-title="Все хобби", Наша тема 
 http://live-1.otcnet.ru/nashatema1/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Мама
-http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
+http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 group-title="Другие хобби", Моя стихия 
 http://91.200.160.134:15000/play/a0rb/index.m3u8
 #EXTINF:-1 group-title="Другие хобби", Живи
-http://193.33.88.172/jivi/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Jivi_hd.m3u8
 #EXTINF:-1 group-title="Другие хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Союз
