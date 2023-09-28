@@ -756,7 +756,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
 http://45.144.31.195:8032/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
-http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
 http://moobl.ru/iptv/Moya_planeta_hd.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
