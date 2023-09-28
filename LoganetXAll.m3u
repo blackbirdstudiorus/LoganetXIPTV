@@ -827,9 +827,9 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс
 https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
 #EXTINF:-1 group-title="Хобби", Авто 24
-https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+https://s12.federal.tv:8082/feda/auto.stream/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Драйв
-https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
+https://s12.federal.tv:8082/feda/drive.stream/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Моторспорт ТВ
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
