@@ -67,7 +67,7 @@ https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Клубная", Clubbing TV 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Шансон", Шансон-ТВ 
-http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
+https://s12.federal.tv:8082/feda/shansontv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Шансон", Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="classic-music" group-title="Классическая", Classic Music
@@ -83,7 +83,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Национальная", Жар птица 
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Национальная", Ля-минор 
-https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
+http://146.158.0.56:80/Lya-Minor/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Национальная", Bridge TV Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="aiva" group-title="Национальная", Aiva HD
