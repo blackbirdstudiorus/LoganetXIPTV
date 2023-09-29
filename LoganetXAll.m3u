@@ -1099,7 +1099,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Музыка", Жар птица 
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
-https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
+http://146.158.0.56:80/Lya-Minor/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="aiva" group-title="Музыка", Aiva HD
