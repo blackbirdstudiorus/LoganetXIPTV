@@ -1032,7 +1032,7 @@ http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Classic
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
-http://194.114.144.244:8001/play/mtv80
+http://194.145.202.71:8087/udp/239.254.5.229:6060
 #EXTINF:-1 group-title="Музыка", MTV 90's
 https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV 00's
@@ -1040,9 +1040,9 @@ http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Жара 
-http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+http://okkotv-live.cdnvideo.ru/channel/Zhara_HD/1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
-http://178.158.181.8:1504/823
+https://s12.federal.tv:8082/feda/muzika.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", О2ТВ
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
