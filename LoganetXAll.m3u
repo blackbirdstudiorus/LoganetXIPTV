@@ -187,7 +187,7 @@ https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FlixSnip 
 http://%64%6D%693%79-%74%76.ru/hls/CH_FLIXSNIP.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinojam 2
-http://193.33.88.172/kinojam2/tracks-v1a1/mono.m3u8
+http://109.200.130.123:7055/play/a010
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
@@ -983,11 +983,11 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 #EXTINF:-1 group-title="Спорт", Футбол
 http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол HD 
-http://193.33.88.172/football/tracks-v1a1/mono.m3u8 
+http://moobl.ru/iptv/Futbol_hd.m3u8 
 #EXTINF:-1 group-title="Спорт", Футбольный HD
 http://moobl.ru/iptv/Futbolniy_hd.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+http://46.174.83.66/MirBasketbola/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
@@ -1005,11 +1005,11 @@ https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Extreme Sports
-http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+https://cdn-cache01.voka.tv/live/3009.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 group-title="Спорт", Russian Extreme HD
-http://109.200.135.130:8080/rus-extrim-hd/index.m3u8 
+https://cdn-cache01.voka.tv/live/186.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
