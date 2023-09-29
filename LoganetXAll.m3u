@@ -938,7 +938,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8 
 #EXTINF:-1 group-title="Спорт", Матч!
-http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8 
+https://s12.federal.tv:8082/feda/matchtv.stream/playlist.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
