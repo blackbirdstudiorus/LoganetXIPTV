@@ -876,7 +876,7 @@ http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 http://u.vipl.one/high/mtpy4cu872/518.m3u8
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный 
 https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
-#EXTINF:-1 group-title="Еда", Еда Премиум Международный HD
+#EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
 http://moobl.ru/iptv/Eda_hd_int.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
 http://moobl.ru/iptv/Kuhnya_hd.m3u8
@@ -926,11 +926,11 @@ https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8 
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://45.144.31.195:8016/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD 
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
