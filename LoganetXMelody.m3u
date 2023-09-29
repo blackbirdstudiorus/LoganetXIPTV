@@ -24,9 +24,9 @@ http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="Музмикс", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Жара 
-http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+http://okkotv-live.cdnvideo.ru/channel/Zhara_HD/1080p.m3u8
 #EXTINF:-1 group-title="Музмикс", Музыка Первого 
-http://178.158.181.8:1504/823
+https://s12.federal.tv:8082/feda/muzika.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музмикс", О2ТВ
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Телеканал Радио Страна ФМ
@@ -50,8 +50,8 @@ http://213.59.128.165:8888/play/Muz_TV/index.m3u8
 http://94.230.240.17:8080/muztv/index.m3u8
 #EXTINF:-1 group-title="Музхиты", Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 group-title="Музхиты", Europa Plus TV HD
-http://europe3.livetv.az/russia/evropaplus_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Музхиты", Europa Plus TV
+http://%64%6D%693%79-%74%76.ru/hls/CH_EUROPAPLUSTV.m3u8
 #EXTINF:-1 group-title="Музхиты", MCM Top
 http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
