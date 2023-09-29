@@ -65,11 +65,11 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 #EXTINF:-1 group-title="Футбол", Футбол 
 http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Футбол", Футбол HD 
-http://193.33.88.172/football/tracks-v1a1/mono.m3u8 
+http://moobl.ru/iptv/Futbol_hd.m3u8 
 #EXTINF:-1 group-title="Футбол", Футбольный HD
 http://moobl.ru/iptv/Futbolniy_hd.m3u8
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
-http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+http://46.174.83.66/MirBasketbola/index.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl", KHL HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl-hd", KHL Prime HD 
@@ -87,11 +87,11 @@ https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Борьба", Матч! Боец
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Экстрим", Extreme Sports
-http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+https://cdn-cache01.voka.tv/live/3009.m3u8
 #EXTINF:-1 group-title="Экстрим", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 group-title="Экстрим", Russian Extreme HD
-http://109.200.135.130:8080/rus-extrim-hd/index.m3u8
+https://cdn-cache01.voka.tv/live/186.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Экстрим" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
