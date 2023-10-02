@@ -320,7 +320,7 @@ https://cdn-cache01.voka.tv:443/live/2116.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Shot TV
-http://91.200.160.134:15000/play/a0ow/index.m3u8
+http://93.189.224.202:82/live/Ch23/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Камеди
 http://%64%6D%693%79-%74%76.ru/hls/CH_KAMEDI.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Комедия 
