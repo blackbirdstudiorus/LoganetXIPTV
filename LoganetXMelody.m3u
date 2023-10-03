@@ -38,7 +38,9 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музмикс", Stingray CMusic
 http://91.200.160.134:15000/play/a0o5/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Stingray iConcerts
-http://91.200.160.134:15000/play/a0q0/index.m3u8 
+http://91.200.160.134:15000/play/a0q0/index.m3u8  
+#EXTINF:-1 group-title="Музмикс", Live Music Channel
+https://cdn-cache01.voka.tv/live/6028.m3u8
 #EXTINF:-1 group-title="Музмикс", Муз-ТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музмикс" tvg-id="muztv", Муз ТВ (Архив)
