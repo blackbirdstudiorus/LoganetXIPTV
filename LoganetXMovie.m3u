@@ -143,7 +143,7 @@ http://moobl.ru/iptv/Romantichnoe_hd.m3u8
 #EXTINF:-1 group-title="Женское", Epic Drama 
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Отечественное", Родное кино 
-http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+https://cdn-cache01.voka.tv:443/live/80.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
 https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
