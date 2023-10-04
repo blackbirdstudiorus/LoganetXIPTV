@@ -603,7 +603,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
 http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Развлекательные", RTVI
-http://85.11.144.9:4222/RTVi?token=test
+https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
