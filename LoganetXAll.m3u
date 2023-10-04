@@ -653,7 +653,7 @@ http://moobl.ru/iptv/HD_life.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://91.233.215.250:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 group-title="Познавательные", History HD 
-http://85.11.144.9:4222/HistoryHD?token=test
+https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
 #EXTINF:-1 group-title="Познавательные", H2
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные", H2 HD
