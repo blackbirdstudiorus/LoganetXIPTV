@@ -67,7 +67,7 @@ https://v2.catcast.tv/content/37925/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Премьеры", Кинопремьера HD 
-https://cdn-cache01.voka.tv/live/73.m3u8
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
@@ -98,6 +98,8 @@ http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
 http://moobl.ru/iptv/Hit_hd.m3u8
 #EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Мужское", Мужское кино
+http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="Мужское", Мужское кино HD
 https://cdn-cache01.voka.tv:443/live/74.m3u8
 #EXTINF:-1 group-title="Мужское", Русский детектив 
