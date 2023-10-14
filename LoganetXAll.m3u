@@ -246,7 +246,9 @@ http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Кино и сериалы", Хит
 http://moobl.ru/iptv/Hit_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8 
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Мужское кино
+http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино HD
 https://cdn-cache01.voka.tv:443/live/74.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
