@@ -171,7 +171,7 @@ http://moobl.ru/iptv/Filmbox_arthouse.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы", Plan B HD
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
-https://cdn-cache01.voka.tv:443/live/2018.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
