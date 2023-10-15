@@ -330,7 +330,9 @@ http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Comedy Central
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
-http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf 
+#EXTINF:-1 group-title="Кино и сериалы", Киносерия
+http://109.197.192.121:8080/kinoseria/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия HD
 https://cdn-cache01.voka.tv:443/live/79.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
