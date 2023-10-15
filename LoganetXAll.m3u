@@ -228,7 +228,7 @@ http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
 http://moobl.ru/iptv/Kinohit.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
-https://cdn-cache01.voka.tv:443/live/70.m3u8
+http://moobl.ru/iptv/Kinohit_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
@@ -250,7 +250,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино HD
-https://cdn-cache01.voka.tv:443/live/74.m3u8
+http://moobl.ru/iptv/Muzhskoe_kino_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
 http://45.144.31.195:8010/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1 HD
