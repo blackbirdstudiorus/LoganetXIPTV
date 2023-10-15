@@ -72,7 +72,7 @@ http://moobl.ru/iptv/SuperGeroi.m3u8
 #EXTINF:-1 tvg-id="liova" group-title="Для маленьких", Лëва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Для маленьких", TiJi
-https://cdn-cache01.voka.tv:443/live/243.m3u8
+http://176.74.80.162:8099/Tiji/index.m3u8
 #EXTINF:-1 group-title="Для маленьких", Duck TV HD
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Для маленьких", Nick Jr.
