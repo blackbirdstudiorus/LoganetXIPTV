@@ -191,7 +191,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FlixSnip 
-http://%64%6D%693%79-%74%76.ru/hls/CH_FLIXSNIP.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinojam 2
 http://109.200.130.123:7055/play/a010
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
@@ -264,7 +264,7 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", День Победы HD
 http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше мужское
-http://%64%6D%693%79-%74%76.ru/hls/CH_NASHEMUZHSKOE.m3u8
+http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше крутое
 http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья 
