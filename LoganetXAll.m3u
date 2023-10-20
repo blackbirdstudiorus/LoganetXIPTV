@@ -294,13 +294,13 @@ rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино 
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
 https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
-http://%64%6D%693%79-%74%76.ru/hls/CH_LUBIMOEKINO.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
