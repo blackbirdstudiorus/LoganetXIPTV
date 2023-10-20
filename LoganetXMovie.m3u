@@ -10,7 +10,7 @@ http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 group-title="Микс", Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Микс", Fox HD
-http://moobl.ru/iptv/Fox_HD.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
 #EXTINF:-1 group-title="Микс", Fox Life
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Микс", Fox Life HD
