@@ -145,7 +145,7 @@ rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Отечественное", Родное кино 
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
-https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное", Русский иллюзион
