@@ -354,11 +354,11 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
-http://%64%6D%693%79-%74%76.ru/hls/CH_HOLLYWOODHD.m3u8
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://moobl.ru/iptv/Bollywood_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
-https://moobl.ru/iptv/Timeless_dizi_HD.m3u8
+http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://91.197.104.34:8080/India/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD 
