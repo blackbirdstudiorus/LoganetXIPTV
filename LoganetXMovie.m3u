@@ -27,6 +27,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
 http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
+#EXTINF:-1 group-title="Микс", Кино ТВ
+http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
 #EXTINF:-1 group-title="Микс", Кино ТВ HD 
 http://%64%6D%693%79-%74%76.ru/hls/CH_KIHOTVHD.m3u8
 #EXTINF:-1 group-title="Микс", Киносат
@@ -40,7 +42,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Микс", Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 #EXTINF:-1 group-title="Микс", FlixSnip 
-http://%64%6D%693%79-%74%76.ru/hls/CH_FLIXSNIP.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 group-title="Микс", Kinojam 2
 http://109.200.130.123:7055/play/a010
 #EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
