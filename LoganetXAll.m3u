@@ -430,7 +430,7 @@ http://moobl.ru/iptv/Chizhik_hd.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://31.148.48.15:80/Ani/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", JimJam
-http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+http://ott.watch/stream/BJSXLFD133/150.m3u8
 #EXTINF:-1 group-title="Детские", ТипТоп
 http://moobl.ru/iptv/TipTop_hd.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
