@@ -420,7 +420,7 @@ https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
-http://45.144.31.195:8008/playlist.m3u8
+http://193.33.240.8:8080/ryzhiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
@@ -446,7 +446,9 @@ http://91.200.160.134:15000/play/a0b1/index.m3u8
 #EXTINF:-1 group-title="Детские", Советские мультфильмы
 https://s12.federal.tv:8082/feda/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
-https://s12.federal.tv:8082/feda/dmir.stream/playlist.m3u8
+http://195.26.83.96:7007/play/14/index.m3u8 
+#EXTINF:-1 group-title="Детские", Детский мир HD
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoonito
