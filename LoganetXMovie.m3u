@@ -32,7 +32,7 @@ http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
 #EXTINF:-1 group-title="Микс", Кино ТВ HD 
 http://%64%6D%693%79-%74%76.ru/hls/CH_KIHOTVHD.m3u8
 #EXTINF:-1 group-title="Микс", Киносат
-http://%64%6D%693%79-%74%76.ru/hls/CH_KIHOCAT.m3u8
+http://185.23.80.28:8080/KinoSat/index.m3u8
 #EXTINF:-1 group-title="Микс", Кинопоказ HD
 http://moobl.ru/iptv/Kinopokaz.m3u8
 #EXTINF:-1 group-title="Микс", Феникс+Кино 
