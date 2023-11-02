@@ -50,7 +50,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Микс", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Блокбастер HD
-http://moobl.ru/iptv/Blokbaster_hd.m3u8
+http://moobl.ru/hls/Blokbaster_hd.m3u8
 #EXTINF:-1 group-title="Микс", Наш кинопоказ 
 http://dmi3y-tv.ru/hls/CH_NASH_KIHOPOKA3.m3u8
 #EXTINF:-1 group-title="Микс", Наш кинопоказ HD
