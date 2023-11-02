@@ -199,7 +199,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Блокбастер HD
-http://%64%6D%693%79-%74%76.ru/hls/CH_BLOKBASTER.m3u8
+http://moobl.ru/hls/Blokbaster_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ 
 http://dmi3y-tv.ru/hls/CH_NASH_KIHOPOKA3.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ HD
