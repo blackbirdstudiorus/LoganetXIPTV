@@ -149,7 +149,7 @@ http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Общие", ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
-https://moobl.ru/iptv/Kinomix.m3u8
+http://91.197.104.34:8080/Kinomix/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
@@ -183,7 +183,7 @@ http://31.40.155.227:9595/play/Kino_TV_HD
 #EXTINF:-1 group-title="Кино и сериалы", Киносат
 http://185.23.80.28:8080/KinoSat/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ HD
-http://moobl.ru/iptv/Kinopokaz.m3u8
+http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
