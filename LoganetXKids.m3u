@@ -32,7 +32,7 @@ https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
-http://193.33.240.8:8080/ryzhiy/index.m3u8
+http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Капитан Фантастика HD
 http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
@@ -40,7 +40,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v
 #EXTINF:-1 group-title="Мультсериалы", Чижик 
 http://moobl.ru/iptv/Chizhik_hd.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Ani
-http://31.148.48.15:80/Ani/index.m3u8?token=test
+http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", JimJam
 http://ott.watch/stream/BJSXLFD133/150.m3u8
 #EXTINF:-1 group-title="Мультсериалы", ТипТоп
@@ -70,7 +70,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
 #EXTINF:-1 group-title="Семейные", Nickelodeon HD
 http://45.144.31.195:8026/playlist.m3u8
 #EXTINF:-1 group-title="Для маленьких", СуперГерои 
-http://moobl.ru/iptv/SuperGeroi.m3u8
+http://95.217.196.109:8081/russia/malish/chunks.m3u8
 #EXTINF:-1 tvg-id="liova" group-title="Для маленьких", Лëва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Для маленьких", TiJi
