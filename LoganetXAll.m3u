@@ -214,6 +214,10 @@ https://s23.federal.tv:8082/feda/kkino.stream/playlist.m3u8
 http://31.40.155.227:9595/play/Kinoliving
 #EXTINF:-1 group-title="Кино и сериалы", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino
+http://91.210.251.166:4893/udp/239.0.3.4:4000
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino World
+http://91.210.251.166:4894/udp/239.0.3.5:4000
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -267,6 +271,8 @@ http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
 http://95.217.196.109:8081/russia/nashemujskoe/chunks.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше крутое
 http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Action 
+http://91.210.251.166:4895/udp/239.0.3.6:4000
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья 
 http://%64%6D%693%79-%74%76.ru/hls/CH_KINOSEMYA.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья HD
@@ -332,7 +338,7 @@ http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Comedy Central
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
-http://91.233.215.250:7272/5RqMvVnGzdoBQbf 
+http://91.210.251.166:4896/udp/239.0.3.7:4000
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://109.197.192.121:8080/kinoseria/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия HD
