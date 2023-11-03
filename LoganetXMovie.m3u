@@ -103,7 +103,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мужское", Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="Мужское", Мужское кино HD
-http://moobl.ru/iptv/Muzhskoe_kino_hd.m3u8
+http://31.40.155.227:9595/play/Muzhskoe_kino_HD
 #EXTINF:-1 group-title="Мужское", Русский детектив 
 http://45.144.31.195:8010/playlist.m3u8
 #EXTINF:-1 group-title="Мужское", A1 HD
@@ -115,7 +115,7 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", День Победы HD
 http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
 #EXTINF:-1 group-title="Мужское", Наше мужское HD 
-http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u8
+http://95.217.196.109:8081/russia/nashemujskoe/chunks.m3u8
 #EXTINF:-1 group-title="Мужское", Наше крутое
 http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
 #EXTINF:-1 group-title="Семейное", Киносемья 
