@@ -278,7 +278,7 @@ http://109.197.192.121:8080/kinosvidanie/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание HD
 https://moobl.ru/iptv/Kinosvidanie_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
-http://%64%6D%693%79-%74%76.ru/hls/CH_RUSSKIY_ROMAN.m3u8
+http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="Кино и сериалы", A2 HD
