@@ -155,7 +155,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Отечественное", Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Отечественное", Мосфильм. Золотая коллекция 
-http://moobl.ru/iptv/Mosfilm.m3u8
+http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 group-title="Отечественное", Kinojam 1
 http://31.40.155.227:9595/play/Kino_Jam_1
 #EXTINF:-1 group-title="Отечественное", Кино 1 International
