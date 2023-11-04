@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Развлекательные", 2x2
-https://s12.federal.tv:8082/feda/dvatv.stream/playlist.m3u8
+https://s23.federal.tv:8082/feda/dvatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
@@ -129,9 +129,9 @@ https://tbs01-edge17.itdc.ge/engclub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
-http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+http://91.196.39.252:4000/play/a008
 #EXTINF:-1 group-title="Научпоп", Big Planet
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+http://ucdn.beetv.kz/btv/live/hls/000008052.m3u8
 #EXTINF:-1 group-title="Научпоп", Da Vinci 
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
 #EXTINF:-1 group-title="Научпоп", Nano HD
