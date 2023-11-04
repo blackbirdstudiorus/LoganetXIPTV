@@ -634,8 +634,8 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
-#EXTINF:-1 group-title="Познавательные", Nano HD
-https://cdn-cache01.voka.tv:443/live/211.m3u8
+#EXTINF:-1 group-title="Познавательные", Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://45.144.31.195:8003/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
