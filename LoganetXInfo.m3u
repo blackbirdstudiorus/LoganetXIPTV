@@ -134,8 +134,8 @@ http://91.196.39.252:4000/play/a008
 http://ucdn.beetv.kz/btv/live/hls/000008052.m3u8
 #EXTINF:-1 group-title="Научпоп", Da Vinci 
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
-#EXTINF:-1 group-title="Научпоп", Nano HD
-https://cdn-cache01.voka.tv:443/live/211.m3u8
+#EXTINF:-1 group-title="Научпоп", Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Научпоп", Арсенал HD
 http://45.144.31.195:8003/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Техно 24
