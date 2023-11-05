@@ -1015,7 +1015,7 @@ http://45.146.7.90:8000/play/a00k
 #EXTINF:-1 group-title="Спорт", Megogo Футбол 5 HD 
 http://45.146.7.90:8000/play/a00o
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://46.174.83.66/MirBasketbola/index.m3u8
+http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
