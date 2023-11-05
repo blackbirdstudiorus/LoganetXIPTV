@@ -149,7 +149,7 @@ http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический HD 
-http://stream01.vnet.am/Evrika/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 group-title="Научпоп", Наука 2.0
 http://%64%6D%693%79-%74%76.ru/hls/CH_HAUKA20.m3u8
 #EXTINF:-1 group-title="Научпоп", Наука 2.0 HD
