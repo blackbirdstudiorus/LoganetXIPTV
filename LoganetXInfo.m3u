@@ -256,7 +256,7 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Приключения", RTG International
 http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1 group-title="Приключения", Travel Channel HD
-http://91.233.215.250:7272/07pqiSOeAdHpghx
+http://176.107.250.4:8002/ch171
 #EXTINF:-1 group-title="Приключения", Travel+Adventure HD
 https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Приключения" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
