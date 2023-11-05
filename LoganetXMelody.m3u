@@ -36,11 +36,11 @@ https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="Музмикс", ТНТ Music HD
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музмикс", Stingray CMusic
-http://91.200.160.134:15000/play/a0o5/index.m3u8
+http://31.40.155.227:9595/play/c_music_hd
 #EXTINF:-1 group-title="Музмикс", Stingray iConcerts
-http://91.200.160.134:15000/play/a0q0/index.m3u8  
+http://31.40.155.227:9595/play/iConcerts_HD  
 #EXTINF:-1 group-title="Музмикс", Live Music Channel
-https://cdn-cache01.voka.tv/live/6028.m3u8
+http://91.221.201.2:7013/play/a003/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Муз-ТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музмикс" tvg-id="muztv", Муз ТВ (Архив)
@@ -73,7 +73,7 @@ https://s12.federal.tv:8082/feda/shansontv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Шансон", Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="classic-music" group-title="Классическая", Classic Music
-http://91.200.160.134:15000/play/a0s1/index.m3u8
+http://31.40.155.227:9595/play/c_music_hd
 #EXTINF:-1 group-title="Классическая", Mezzo 
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая", Mezzo Live 
