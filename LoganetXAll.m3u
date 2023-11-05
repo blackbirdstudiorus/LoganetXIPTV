@@ -641,7 +641,7 @@ http://91.221.201.2:7013/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
-http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8 
+http://146.158.0.56/Galaxy/index.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
 https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
