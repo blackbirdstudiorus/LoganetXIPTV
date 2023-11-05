@@ -68,15 +68,15 @@ http://178.163.17.115:4022/udp/234.0.0.197:2000
 http://moobl.ru/hls/Futbol_hd.m3u8 
 #EXTINF:-1 group-title="Футбол", Футбольный HD
 http://moobl.ru/iptv/Futbolniy_hd.m3u8
-#EXTINF:-1 group-title="Спорт", Megogo Футбол 1 HD 
+#EXTINF:-1 group-title="Футбол", Megogo Футбол 1 HD 
 http://45.146.7.90:8000/play/a00i
-#EXTINF:-1 group-title="Спорт", Megogo Футбол 2 HD 
+#EXTINF:-1 group-title="Футбол", Megogo Футбол 2 HD 
 http://45.146.7.90:8000/play/a00m
-#EXTINF:-1 group-title="Спорт", Megogo Футбол 3 HD 
+#EXTINF:-1 group-title="Футбол", Megogo Футбол 3 HD 
 http://45.146.7.90:8000/play/a00n
-#EXTINF:-1 group-title="Спорт", Megogo Футбол 4 HD 
+#EXTINF:-1 group-title="Футбол", Megogo Футбол 4 HD 
 http://45.146.7.90:8000/play/a00k
-#EXTINF:-1 group-title="Спорт", Megogo Футбол 5 HD 
+#EXTINF:-1 group-title="Футбол", Megogo Футбол 5 HD 
 http://45.146.7.90:8000/play/a00o
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
@@ -97,7 +97,7 @@ https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Борьба", Матч! Боец
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Экстрим", Extreme Sports
-https://cdn-cache01.voka.tv/live/3009.m3u8
+http://95.217.196.109:8081/russia/extreme_sports/chunks.m3u8
 #EXTINF:-1 group-title="Экстрим", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 group-title="Экстрим", Russian Extreme HD
@@ -105,5 +105,7 @@ https://cdn-cache01.voka.tv/live/186.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Экстрим" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Экстрим", Fast&FunBox 
+http://217.113.31.20:8009/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Экстрим", Fast&FunBox HD
 rtmp://93.189.60.202//1018
