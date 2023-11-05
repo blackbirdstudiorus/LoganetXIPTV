@@ -226,7 +226,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Природа", Зоо ТВ 
 http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Природа", Zooпарк
-http://moobl.ru/iptv/Zoopark.m3u8
+http://217.113.31.20:8009/play/a01y/index.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
 http://46.174.83.66/365/index.m3u8
 #EXTINF:-1 group-title="История", Viju History HD
