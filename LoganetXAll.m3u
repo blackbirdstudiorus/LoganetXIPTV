@@ -740,11 +740,11 @@ http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Ностальгия
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
-http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+http://217.113.31.20:8009/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа HD
-http://%64%6D%693%79-%74%76.ru/hls/CH_POBEDAHD.m3u8
+http://moobl.ru/hls/Pobeda_hd.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
-https://cdn-cache01.voka.tv:443/live/335.m3u8
+http://91.220.135.165:81/34/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX
 http://moobl.ru/iptv/DTX_hd.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX HD
