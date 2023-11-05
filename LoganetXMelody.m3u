@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Музмикс", 1HD
-http://193.33.240.8:8080/1hd/index.m3u8
+http://178.212.71.253:8002/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Bridge TV
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 group-title="Музмикс", Bridge TV Classic
@@ -53,7 +53,7 @@ http://94.230.240.17:8080/muztv/index.m3u8
 #EXTINF:-1 group-title="Музхиты", Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музхиты", Europa Plus TV
-http://%64%6D%693%79-%74%76.ru/hls/CH_EUROPAPLUSTV.m3u8
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
 #EXTINF:-1 group-title="Музхиты", MCM Top
 http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музхиты", MusicBox Gold 
@@ -77,7 +77,7 @@ http://31.40.155.227:9595/play/c_music_hd
 #EXTINF:-1 group-title="Классическая", Mezzo 
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая", Mezzo Live 
-http://193.33.88.172:8080/mezzo_hd/index.m3u8
+http://91.210.251.166:4767/udp/239.0.20.6:4000
 #EXTINF:-1 group-title="Национальная", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Национальная", Russian MusicBox
