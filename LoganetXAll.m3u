@@ -637,7 +637,7 @@ https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://45.144.31.195:8003/playlist.m3u8
+http://91.221.201.2:7013/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
