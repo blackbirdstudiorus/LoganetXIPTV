@@ -3,6 +3,8 @@
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 #EXTINF:-1, Erox
 http://94.229.250.73:8008/play/a002
+#EXTINF:-1, Eroxxx HD
+http://88.135.128.20:7272/urYgd52Dcxp47Ge
 #EXTINF:-1, Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
@@ -22,13 +24,13 @@ http://62.176.77.22:9781/play/a00m
 #EXTINF:-1, Evil Angel
 http://62.176.77.22:9781/play/a00l 
 #EXTINF:-1, Hustler HD
-https://cdn-global.lolokoko.tv/HUSTLER.stream/chunks.m3u8 
-#EXTINF:-1, Private TV
-http://149.62.183.194:9293/play/a07t
+http://194.145.202.71:8087/udp/239.254.1.34:6060 
+#EXTINF:-1, Private HD
+http://194.145.202.71:8087/udp/239.254.1.38:6060
 #EXTINF:-1, Babestation 24
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8 
 #EXTINF:-1, Brazzers TV Europe
-https://cdn-global.lolokoko.tv/BRAZZERS.stream/chunks.m3u8 
+http://194.190.78.91:8080/brazzers/index.m3u8 
 #EXTINF:-1, Redlight HD
 https://cdn-global.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 #EXTINF:-1, Шалун
