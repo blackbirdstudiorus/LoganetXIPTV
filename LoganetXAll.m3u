@@ -930,7 +930,7 @@ https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Телемагазины", Ювелирочка
-http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Телемагазины", Leomax 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Телемагазины", Shopping Live
