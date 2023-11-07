@@ -148,6 +148,8 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7//variant.m3u8?versio
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Общие", ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие", БСТ
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 http://91.197.104.34:8080/Kinomix/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
