@@ -1142,3 +1142,5 @@ http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
