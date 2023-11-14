@@ -183,7 +183,7 @@ http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
 http://31.40.155.227:9595/play/Kino_TV_HD
 #EXTINF:-1 group-title="Кино и сериалы", Киносат
-http://185.23.80.28:8080/KinoSat/index.m3u8
+http://217.113.31.20:8009/play/a075/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ HD
 http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
