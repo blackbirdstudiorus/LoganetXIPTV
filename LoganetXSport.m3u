@@ -20,7 +20,7 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Viju+ Sport
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Матч!
-https://s23.federal.tv:8082/feda/matchtv.stream/playlist.m3u8
+http://94.230.240.17:8080/machtv/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультиспорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
