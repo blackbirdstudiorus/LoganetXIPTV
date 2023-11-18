@@ -82,8 +82,12 @@ http://45.146.7.90:8000/play/a00k
 http://45.146.7.90:8000/play/a00o
 #EXTINF:-1 group-title="Баскетбол", Мир баскетбола 
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl", KHL HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL Prime 
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Хоккей" tvg-id="kxl-hd", KHL Prime HD 
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 group-title="Хоккей", Хоккейный HD
