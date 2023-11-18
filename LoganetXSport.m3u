@@ -3,8 +3,10 @@
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports 2 HD
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:-1 group-title="Мультиспорт", Setanta Sports Ukraine
-https://tv.movielab.pro/942/video.m3u8 
+#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
+rtmp://93.189.60.202//272
+#EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine 
+http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports Qazaqstan
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Eurosport 1 HD
