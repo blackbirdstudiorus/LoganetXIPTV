@@ -151,7 +151,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
-http://91.197.104.34:8080/Kinomix/video.m3u8
+http://92.100.39.32:2289/play/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
@@ -205,7 +205,7 @@ http://moobl.ru/hls/Blokbaster_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ 
 http://dmi3y-tv.ru/hls/CH_NASH_KIHOPOKA3.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ HD
-http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/nash_kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон HD
@@ -228,7 +228,7 @@ http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
-http://91.197.104.34:8080/NasheNovoeKino/video.m3u8 
+http://92.100.39.32:2289/play/nashnovikino/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино HD
 https://cdn-cache01.voka.tv:443/live/75.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", BCU Premiere HD 
@@ -268,7 +268,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", День Победы HD
-http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
+http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше мужское
 http://95.217.196.109:8081/russia/nashemujskoe/chunks.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше крутое
