@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Микс", Киномикс
-http://91.197.104.34:8080/Kinomix/video.m3u8
+http://92.100.39.32:2289/play/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Микс", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Viju TV1000 HD
@@ -77,7 +77,7 @@ http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
-http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
+http://92.100.39.32:2289/play/nashnovikino/index.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино HD
 https://cdn-cache01.voka.tv:443/live/75.m3u8
 #EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
@@ -117,11 +117,11 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Мужское" tvg-id="bolt-ru", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мужское", День Победы HD
-http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
+http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
 #EXTINF:-1 group-title="Мужское", Наше мужское HD 
 http://95.217.196.109:8081/russia/nashemujskoe/chunks.m3u8
 #EXTINF:-1 group-title="Мужское", Наше крутое
-http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
+http://iptv.mega.net.ru:8888/nashe_hd/index.m3u8 
 #EXTINF:-1 group-title="Мужское", Viasat Kino Action 
 http://91.210.251.166:4895/udp/239.0.3.6:4000
 #EXTINF:-1 group-title="Семейное", Киносемья 
@@ -149,7 +149,7 @@ http://moobl.ru/iptv/Pro_lyubov_hd.m3u8
 #EXTINF:-1 group-title="Женское", Epic Drama 
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Отечественное", Родное кино 
-http://91.197.104.34:8080/RodnoeKino/video.m3u8
+http://92.100.39.32:2289/play/nashkino/index.m3u8
 #EXTINF:-1 group-title="Отечественное", Дом кино
 https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
