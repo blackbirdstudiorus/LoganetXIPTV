@@ -20,11 +20,11 @@ http://109.239.208.82:80/mult/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids
-http://moobl.ru/iptv/STS_Kids_hd.m3u8
+http://91.220.135.165:81/60/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия 
-http://193.33.240.8:8080/multimania/index.m3u8
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Мультсериалы", О!
@@ -32,7 +32,7 @@ https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Рыжий 
-http://45.144.31.195:8008/playlist.m3u8
+http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Капитан Фантастика HD
 http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
@@ -80,9 +80,9 @@ https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Для маленьких", Nick Jr.
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 group-title="Познавательные", Радость моя
-https://s12.federal.tv:8082/feda/radosttv.stream/playlist.m3u8
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Уникум 
-http://91.197.104.34:8080/Unicum/video.m3u8
+http://91.220.135.165:81/80/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное", Сказки Зайки 
 https://cdn-cache01.voka.tv:443/live/3016.m3u8
 #EXTINF:-1 group-title="Музыкальные", Мультимузыка
