@@ -476,9 +476,9 @@ https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
-https://s12.federal.tv:8082/feda/radosttv.stream/playlist.m3u8
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://91.197.104.34:8080/Unicum/video.m3u8
+http://91.220.135.165:81/80/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Сказки Зайки 
 https://cdn-cache01.voka.tv:443/live/3016.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
