@@ -416,11 +416,11 @@ http://109.239.208.82:80/mult/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://moobl.ru/iptv/STS_Kids_hd.m3u8
+http://91.220.135.165:81/60/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия 
-http://193.33.240.8:8080/multimania/index.m3u8 
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8 
 #EXTINF:-1 group-title="Детские", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские", О!
