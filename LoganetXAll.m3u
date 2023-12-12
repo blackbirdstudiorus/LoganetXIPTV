@@ -507,9 +507,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
-http://edge02.odtv.az/o5/discovery/playlist.m3u8 
+http://5.153.180.30:8002/play/a0bz 
 #EXTINF:-1 group-title="Развлекательные", Discovery HD 
-https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
+https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Global Star
 http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", San Porto 
@@ -517,9 +517,9 @@ http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://tv.tvip-media.net/tvmchannel/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
-https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
+http://5.153.180.30:8000/play/a07j
 #EXTINF:-1 group-title="Развлекательные", TLC 
-http://91.196.39.252:4000/play/a01q
+http://5.153.180.30:8002/play/a01c
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
