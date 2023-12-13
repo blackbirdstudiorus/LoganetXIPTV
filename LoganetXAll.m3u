@@ -553,11 +553,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
-http://185.52.77.43:8080/TochkaOtriva/index.m3u8
+http://109.239.208.82:80/tochka/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Успех 
 http://146.158.0.56:80/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
-http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+http://iptv.mega.net.ru:8888/Ce/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Эхо TV 
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю 
