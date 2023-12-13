@@ -71,12 +71,12 @@ http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
 http://82.209.254.71:7781/udp/236.1.1.2:20000
 #EXTINF:-1 group-title="Развлекательные", СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+http://5.153.180.30:8000/play/a05p
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
+https://streamer1.connectto.com/CTC/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts", СТС (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
