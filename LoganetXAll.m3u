@@ -605,7 +605,7 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
-http://176.107.250.4:8002/ch41
+http://iptv.mega.net.ru:8888/Super/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТДК 
 http://31.148.48.15:80/TDK/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", English Club TV
@@ -619,25 +619,25 @@ http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Развлекательные", RTVI
 https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
-https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8  
 #EXTINF:-1 group-title="Развлекательные", HD Media
 http://moobl.ru/iptv/HD_Media.m3u8
 #EXTINF:-1 group-title="Развлекательные", Терра Инкогнита 
 https://cdn-cache01.voka.tv:443/live/3017.m3u8
-#EXTINF:-1 group-title="Развлекательные", Curiosity Stream
-http://31.40.155.227:9595/play/Curiositysity_stream
+#EXTINF:-1 group-title="Развлекательные", Curiosity Stream HD
+http://5.153.180.30:8002/play/a0bx
 #EXTINF:-1 group-title="Развлекательные", Туган Тел
 http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Science HD
-http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+http://5.153.180.30:8002/play/a08n
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
-https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
