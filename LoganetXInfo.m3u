@@ -27,7 +27,7 @@ http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ключ
-http://91.220.135.165:81/68/tracks-v1a1v1/playlist.m3u8
+http://5.153.180.30:8000/play/a0aj
 #EXTINF:-1 group-title="Развлекательные", Министерство идей 
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
