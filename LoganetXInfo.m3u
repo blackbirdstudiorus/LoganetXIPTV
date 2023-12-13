@@ -129,17 +129,17 @@ http://moobl.ru/iptv/HD_Media.m3u8
 #EXTINF:-1 group-title="Развлекательные", Терра Инкогнита 
 https://cdn-cache01.voka.tv:443/live/3017.m3u8
 #EXTINF:-1 group-title="Развлекательные", Curiosity Stream
-http://31.40.155.227:9595/play/Curiositysity_stream
+http://5.153.180.30:8002/play/a0bx
 #EXTINF:-1 group-title="Развлекательные", Туган Тел
 http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Научпоп", Discovery Science HD
-http://91.196.39.252:4000/play/a008
+http://5.153.180.30:8002/play/a08n
 #EXTINF:-1 group-title="Научпоп", Big Planet
 http://ucdn.beetv.kz/btv/live/hls/000008052.m3u8
 #EXTINF:-1 group-title="Научпоп", Da Vinci 
-https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 group-title="Научпоп", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Научпоп", Арсенал HD
