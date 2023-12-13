@@ -69,7 +69,7 @@ http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
-http://moobl.ru/iptv/Svetloe_hd.m3u8
+http://82.209.254.71:7781/udp/236.1.1.2:20000
 #EXTINF:-1 group-title="Развлекательные", СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
