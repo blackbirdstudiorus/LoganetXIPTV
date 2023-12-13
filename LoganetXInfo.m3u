@@ -107,7 +107,7 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
-http://176.107.250.4:8002/ch41
+http://iptv.mega.net.ru:8888/Super/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТДК 
 http://31.148.48.15:80/TDK/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", English Club TV 
@@ -121,7 +121,7 @@ http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Развлекательные", RTVI
 https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
-https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", HD Media
