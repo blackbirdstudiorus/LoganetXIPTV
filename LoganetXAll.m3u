@@ -711,15 +711,15 @@ http://5.153.180.30:8000/play/a01j
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
 http://94.232.104.237:8000/play/079/index.m3u8 
 #EXTINF:-1 group-title="Познавательные", В мире животных
-http://ott.watch/stream/KD8IR5FDPF/241.m3u8
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных HD 
-http://31.211.77.158:8000/play/a175/index.m3u8
+http://5.153.180.30:8000/play/a06q
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 group-title="Познавательные", Пëс и Ко
-http://31.134.132.245:8080/pes_i_ko/index.m3u8
+http://5.153.180.30:8000/play/a07u
 #EXTINF:-1 group-title="Познавательные", Живая планета
-http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
+http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
 https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
@@ -728,9 +728,9 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ 
-http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+http://moobl.ru/hls/Zoo_tv.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
-http://217.113.31.20:8009/play/a01y/index.m3u8
+http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
 http://146.158.0.56:80/365dney/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History HD
