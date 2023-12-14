@@ -643,9 +643,9 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://91.221.201.2:7013/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
-https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
-http://146.158.0.56/Galaxy/index.m3u8 
+http://94.232.104.237:8000/play/083/index.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
 https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
