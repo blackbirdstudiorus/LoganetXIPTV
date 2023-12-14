@@ -655,7 +655,7 @@ https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belar
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
 https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8 
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://%64%6D%693%79-%74%76.ru/hls/CH_HAUKA20.m3u8
+http://5.153.180.30:8002/play/a0az
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная планета
