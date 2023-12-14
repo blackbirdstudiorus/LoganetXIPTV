@@ -153,7 +153,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
 http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический
-http://ott-cdn.ucom.am/s44/04.m3u8
+https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
 #EXTINF:-1 group-title="Научпоп", Первый космический HD 
 https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 group-title="Научпоп", Наука 2.0
