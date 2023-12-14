@@ -750,7 +750,7 @@ http://moobl.ru/hls/Pobeda_hd.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
 http://195.161.41.239:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX
-http://moobl.ru/iptv/DTX_hd.m3u8
+http://moobl.ru/hls/DTX_hd.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
@@ -760,9 +760,9 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG International
 http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://176.107.250.4:8002/ch171
+http://5.153.180.30:8002/play/a0c1
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
-https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/Travel+Adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
 http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore HD
