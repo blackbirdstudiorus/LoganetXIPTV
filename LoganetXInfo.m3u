@@ -208,9 +208,9 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Природа", Океан
 http://146.158.0.56:80/OceanTV/index.m3u8
-#EXTINF:-1 group-title="Природа", Viju+ Planet HD
+#EXTINF:-1 group-title="Природа", Viju+ Planet
 http://5.153.180.30:8000/play/a01j
-#EXTINF:-1 group-title="Природа", Viju Nature HD
+#EXTINF:-1 group-title="Природа", Viju Nature
 http://94.232.104.237:8000/play/079/index.m3u8
 #EXTINF:-1 group-title="Природа", В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
@@ -234,9 +234,9 @@ http://moobl.ru/hls/Zoo_tv.m3u8
 #EXTINF:-1 group-title="Природа", Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 group-title="История", 365 дней ТВ 
-http://146.158.0.56:80/365dney/index.m3u8
-#EXTINF:-1 group-title="История", Viju History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 group-title="История", Viju History
+http://iptv.mega.net.ru:8888/Viasat_History/index.m3u8
 #EXTINF:-1 group-title="История", Время 
 https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
 #EXTINF:-1 group-title="История", Звезда Плюс 
