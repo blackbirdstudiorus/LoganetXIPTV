@@ -681,17 +681,17 @@ http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD 
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://91.197.104.34:8080/KtoEstKto/video.m3u8
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+http://iptv.mega.net.ru:8888/National_Geographic_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RT Doc 
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", Docubox 
 http://31.40.155.227:9595/play/Docu_box
 #EXTINF:-1 group-title="Познавательные", DocuBox HD
