@@ -147,7 +147,7 @@ http://91.221.201.2:7013/play/a009/index.m3u8
 #EXTINF:-1 group-title="Научпоп", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Научпоп", Galaxy TV
-http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
+http://94.232.104.237:8000/play/083/index.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-id="galaxy-tv", Galaxy HD
 https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="Научпоп" tvg-logo="https://avatars.mds.yandex.net/i?id=d147776220e793a25d8924eb60f46df9_l-5219228-images-thumbs&n=13", TV Extra
