@@ -167,7 +167,7 @@ http://5.153.180.30:8002/play/a0c4
 #EXTINF:-1 group-title="Документальные", Investigation Discovery HD
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Документальные", HDL
-http://moobl.ru/iptv/HD_life.m3u8
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Документальные", History
 http://play6.flynettv.com/history
 #EXTINF:-1 group-title="Документальные", History HD 
@@ -183,7 +183,7 @@ http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Документальные", National Geographic HD 
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Документальные", Top Secret
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Документальные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Документальные", Большая Азия HD
