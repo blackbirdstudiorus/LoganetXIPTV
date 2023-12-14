@@ -661,11 +661,11 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная планета
 https://cdn-cache01.voka.tv:443/live/3005.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
-http://31.40.155.227:9595/play/Investigation_discovery
+http://5.153.180.30:8002/play/a0c4
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
-http://moobl.ru/iptv/HD_life.m3u8
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://play6.flynettv.com/history
 #EXTINF:-1 group-title="Познавательные", History HD 
