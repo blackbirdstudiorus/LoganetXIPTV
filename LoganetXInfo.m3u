@@ -244,15 +244,15 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="История", История 
 http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 group-title="История", Ностальгия
-http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
+https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
 #EXTINF:-1 group-title="История", Победа
-http://217.113.31.20:8009/play/a01i/index.m3u8
+http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
 #EXTINF:-1 group-title="История", Победа HD
 http://moobl.ru/hls/Pobeda_hd.m3u8
 #EXTINF:-1 group-title="История", Ретро
-http://91.220.135.165:81/34/tracks-v1a1v1/playlist.m3u8
+http://195.161.41.239:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX
-http://moobl.ru/iptv/DTX_hd.m3u8
+http://moobl.ru/hls/DTX_hd.m3u8
 #EXTINF:-1 group-title="Транспорт", DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Транспорт", РЖД HD 
