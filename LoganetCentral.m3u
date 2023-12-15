@@ -31,7 +31,7 @@ http://farm-vgtrk.rfn.ru/hls/russia1_plus2/playlist_5.m3u8
 http://farm-vgtrk.rfn.ru/hls/russia1_plus3/playlist_5.m3u8
 #EXTINF:-1, Россия 1 +4
 http://farm-vgtrk.rfn.ru/hls/russia1_plus4/playlist_5.m3u8 
-#EXTINF:-1 group-title="Общие", Россия 1 +5
+#EXTINF:-1, Россия 1 +5
 http://farm-vgtrk.rfn.ru/hls/russia1_plus5/playlist_5.m3u8
 #EXTINF:-1, Россия 1 +6
 http://farm-vgtrk.rfn.ru/hls/russia1_plus6/playlist_5.m3u8
@@ -77,8 +77,10 @@ https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="kultura", Россия К (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1, Россия К +2
+http://farm-vgtrk.rfn.ru/hls/russia_k_dubl3/playlist_3.m3u8
 #EXTINF:-1, Россия К +4
-http://94.230.240.17:8080/kultura/index.m3u8
+http://farm-vgtrk.rfn.ru/hls/russia_k_dubl2/playlist_3.m3u8
 #EXTINF:-1, Россия К +7
 http://farm-vgtrk.rfn.ru/hls/russia_k_dubl1/playlist_3.m3u8
 #EXTINF:-1, Россия 24
