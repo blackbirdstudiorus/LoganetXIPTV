@@ -31,6 +31,10 @@ http://farm-vgtrk.rfn.ru/hls/russia1_plus5/playlist_5.m3u8
 http://farm-vgtrk.rfn.ru/hls/russia1_plus6/playlist_5.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 +7
 http://farm-vgtrk.rfn.ru/hls/russia1_plus7/playlist_5.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 +8
+http://farm-vgtrk.rfn.ru/hls/russia1_plus8/playlist_5.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 +9
+http://farm-vgtrk.rfn.ru/hls/russia1_plus9/playlist_5.m3u8
 #EXTINF:-1 group-title="Общие", НТВ
 http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv", НТВ (Архив)
@@ -49,7 +53,7 @@ http://cdn.ntv.ru/ntv7_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", НТВ Мир
 http://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:-1 group-title="Общие", Пятый канал
-http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8 
+https://sirius.greenhosting.ru/5kanal/video.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru", Пятый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
