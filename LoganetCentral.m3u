@@ -121,9 +121,7 @@ https://s12.federal.tv:8082/feda/rentv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1, РенТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
-#EXTINF:-1 tvg-id="rentv", РенТВ HD (Для зарубежья)
-http://91.197.104.34:8080/rentv/video.m3u8
+https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1, РенТВ +2
 http://213.59.128.165:8888/play/Ren_TV/index.m3u8
 #EXTINF:-1, РенТВ +4
