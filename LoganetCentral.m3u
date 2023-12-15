@@ -3,8 +3,8 @@
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1, Первый канал HD 
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD (Для зарубежья)
-http://109.200.135.130:8080/ort_hd/index.m3u8
+#EXTINF:-1, Первый канал HD +4
+https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1, Первый канал +2
 http://213.59.128.165:8888/play/Pervij/index.m3u8
 #EXTINF:-1, Первый канал +4
