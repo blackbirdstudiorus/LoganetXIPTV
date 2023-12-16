@@ -34,17 +34,17 @@ http://iptv.mega.net.ru:8888/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Микс", Киносат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Микс", Кинопоказ HD
-http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
+http://streaming.tv-teleport.ru/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Микс", Феникс+Кино 
-http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Микс", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Микс", Start World HD
-https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+http://5.153.180.30:8001/play/a09k
 #EXTINF:-1 group-title="Микс", FlixSnip 
 https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 group-title="Микс", Kinojam 2
-http://31.40.155.227:9595/play/Kino_Jam_2
+http://5.153.180.30:8000/play/a05t
 #EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Микс", 312 Кино
