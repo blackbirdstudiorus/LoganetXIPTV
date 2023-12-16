@@ -74,18 +74,18 @@ http://91.210.251.166:4894/udp/239.0.3.5:4000
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Премьеры", Кинопремьера HD 
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-#EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Премьеры", Viju+ Premiere
+http://5.153.180.30:8000/play/a01n
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
-http://92.100.39.32:2289/play/nashnovikino/index.m3u8
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино HD
 https://cdn-cache01.voka.tv:443/live/75.m3u8
 #EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Хиты", Кинохит 
-http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:-1 group-title="Хиты", Кинохит HD
-http://31.40.155.227:9595/play/Kinohit_HD
+http://5.153.180.30:8000/play/a0ai
 #EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
