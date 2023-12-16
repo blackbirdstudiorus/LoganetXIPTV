@@ -248,9 +248,9 @@ http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit
 https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+http://5.153.180.30:8000/play/a08e
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
-http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+http://5.153.180.30:8000/play/a00b
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit", НТВ-Хит HD 
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
