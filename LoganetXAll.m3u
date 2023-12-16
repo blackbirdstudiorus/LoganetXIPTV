@@ -157,7 +157,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
-http://92.100.39.32:2289/play/kinomiks/index.m3u8
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000
@@ -185,15 +185,15 @@ http://94.232.104.237:8000/play/049/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8?token=test
+http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://31.40.155.227:9595/play/Kino_TV_HD
+http://iptv.mega.net.ru:8888/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносат
-http://31.40.155.227:9595/play/Kinosat
-#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ HD
-http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
+http://streaming.tv-teleport.ru/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
-http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы", Start World HD
