@@ -219,7 +219,7 @@ https://s23.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Movie Classic 
 https://s23.federal.tv:8082/feda/kkino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
-http://31.40.155.227:9595/play/Kinoliving
+http://5.153.180.30:8000/play/a08y
 #EXTINF:-1 group-title="Кино и сериалы", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino
@@ -230,9 +230,9 @@ http://91.210.251.166:4894/udp/239.0.3.5:4000
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
+http://5.153.180.30:8000/play/a01n
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
 http://92.100.39.32:2289/play/nashnovikino/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино HD
