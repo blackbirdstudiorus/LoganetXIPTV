@@ -88,8 +88,8 @@ https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 http://5.153.180.30:8000/play/a0ai
 #EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
 http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Хиты", Viju+ Megahit
+https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 group-title="Хиты", Amedia Hit HD
 http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 group-title="Хиты", Amedia Premium HD 
