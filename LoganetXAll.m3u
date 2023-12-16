@@ -234,17 +234,17 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
 http://5.153.180.30:8000/play/a01n
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
-http://92.100.39.32:2289/play/nashnovikino/index.m3u8 
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино HD
 https://cdn-cache01.voka.tv:443/live/75.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
-http://95.217.196.109:8081/russia/kinohit/chunks.m3u8 
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
-http://31.40.155.227:9595/play/Kinohit_HD
+http://5.153.180.30:8000/play/a0ai
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
+http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
