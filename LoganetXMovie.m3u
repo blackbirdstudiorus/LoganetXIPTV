@@ -50,9 +50,9 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Микс", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Блокбастер HD
-http://moobl.ru/hls/Blokbaster_hd.m3u8
+http://5.153.180.30:8000/play/a05z
 #EXTINF:-1 group-title="Микс", Наш кинопоказ 
-http://dmi3y-tv.ru/hls/CH_NASH_KIHOPOKA3.m3u8
+http://5.153.180.30:8000/play/a068
 #EXTINF:-1 group-title="Микс", Наш кинопоказ HD
 http://iptv.mega.net.ru:8888/nash_kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Микс", Kino24
@@ -62,7 +62,7 @@ https://s23.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Movie Classic 
 https://s23.federal.tv:8082/feda/kkino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Микс", Kinoliving
-http://31.40.155.227:9595/play/Kinoliving 
+http://5.153.180.30:8000/play/a08y 
 #EXTINF:-1 group-title="Микс", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Микс", Viasat Kino
@@ -73,7 +73,7 @@ http://91.210.251.166:4894/udp/239.0.3.5:4000
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Премьеры", Кинопремьера HD 
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Премьеры", Наше новое кино 
