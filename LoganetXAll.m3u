@@ -12,26 +12,11 @@ https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1" tvg-shift="+9", Россия 1 +9 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 HD
 http://dvr-player.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +1
-http://farm-vgtrk.rfn.ru/hls/russia1_plus1/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +2
-http://farm-vgtrk.rfn.ru/hls/russia1_plus2/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +3
-http://farm-vgtrk.rfn.ru/hls/russia1_plus3/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +4
-http://farm-vgtrk.rfn.ru/hls/russia1_plus4/playlist_5.m3u8 
-#EXTINF:-1 group-title="Общие", Россия 1 +5
-http://farm-vgtrk.rfn.ru/hls/russia1_plus5/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +6
-http://farm-vgtrk.rfn.ru/hls/russia1_plus6/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +7
-http://farm-vgtrk.rfn.ru/hls/russia1_plus7/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +8
-http://farm-vgtrk.rfn.ru/hls/russia1_plus8/playlist_5.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 +9
-http://farm-vgtrk.rfn.ru/hls/russia1_plus9/playlist_5.m3u8
 #EXTINF:-1 group-title="Общие", НТВ
 http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv", НТВ (Архив)
