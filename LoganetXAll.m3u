@@ -54,28 +54,24 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr-pl7", ТВ Центр +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ 
-http://iptv.mega.net.ru:8888/REN_TV/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv" group-title="Общие", РенТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" group-title="Общие", РенТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
 https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ +2
-http://213.59.128.165:8888/play/Ren_TV/index.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ +4
-http://94.230.240.12:8080/rentv/index.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ International
-http://45.159.74.14:80/RenTv/index.m3u8
-#EXTINF:-1 group-title="Общие", Домашний
-http://91.142.158.107:8092/play/14/index.m3u8 
+#EXTINF:-1 group-title="Общие", РенТВ Int
+http://45.159.74.14:80/RenTv/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Общие", Домашний +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Домашний HD
-http://iptv.mega.net.ru:8888/domashniy_hd/index.m3u8
-#EXTINF:-1 group-title="Общие", Домашний +2
-http://213.59.128.165:8888/play/Domashnij/index.m3u8
+https://dom-live-megafon2.mediavitrina.ru:443/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", ТВ3 HD
 http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru",ТВ3 (Архив)
