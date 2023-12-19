@@ -108,14 +108,16 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000
-http://iptv.mega.net.ru:8888/TV1000/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
+http://94.232.104.237:8000/play/039/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
 http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox HD
-https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
+http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
@@ -127,7 +129,7 @@ http://5.153.180.30:8000/play/a00m
 #EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы", Plan B HD
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
-https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://94.232.104.237:8000/play/049/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
@@ -135,7 +137,7 @@ http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://iptv.mega.net.ru:8888/Kino_TV/index.m3u8
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Киносат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
