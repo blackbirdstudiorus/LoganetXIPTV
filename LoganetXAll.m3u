@@ -910,15 +910,15 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Телемагазины", Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
 rtmp://93.189.60.202//272
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine 
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
-https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8 
 #EXTINF:-1 group-title="Спорт", Eurosport 1
