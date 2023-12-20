@@ -122,7 +122,7 @@ http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино и сериалы", Filmbox 
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино и сериалы", Filmbox [VLC]
 rtmp://93.189.60.202//1071
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
 http://5.153.180.30:8000/play/a00m
@@ -141,54 +141,30 @@ http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Киносат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://streaming.tv-teleport.ru/Kinopokaz/tracks-v1a1/mono.m3u8
+http://94.232.104.237:8000/play/047/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
-https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы", Start World HD
-http://5.153.180.30:8001/play/a09k
-#EXTINF:-1 group-title="Кино и сериалы", FlixSnip 
-https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Kinojam 2
-http://5.153.180.30:8000/play/a05t
+#EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World [VLC]
+http://109.248.236.21:4433/udp/238.1.1.158:1234
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Блокбастер
-http://5.153.180.30:8000/play/a05z
-#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ 
-http://5.153.180.30:8000/play/a068
-#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ HD
-http://iptv.mega.net.ru:8888/nash_kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Киносезон HD
-https://s23.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Movie Classic 
-https://s23.federal.tv:8082/feda/kkino.stream/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Kinoliving
-http://5.153.180.30:8000/play/a08y
 #EXTINF:-1 group-title="Кино и сериалы", Видеокассета
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino
-http://91.210.251.166:4893/udp/239.0.3.4:4000
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino World
-http://91.210.251.166:4894/udp/239.0.3.5:4000
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
-http://5.153.180.30:8000/play/a01n
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
+http://94.232.104.237:8000/play/076/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Наше новое кино HD
-https://cdn-cache01.voka.tv:443/live/75.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", BCU Premiere HD 
-http://217.107.34.114:8001/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
