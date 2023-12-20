@@ -123,7 +123,7 @@ http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино и сериалы", Filmbox 
-http://94.230.240.17:8080/film_box/index.m3u8
+rtmp://93.189.60.202//1071
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
 http://5.153.180.30:8000/play/a00m
 #EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы", Plan B HD
