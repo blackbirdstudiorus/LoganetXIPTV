@@ -178,7 +178,7 @@ https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
 http://5.153.180.30:8000/play/a08e
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
-http://5.153.180.30:8000/play/a00b
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit", НТВ-Хит HD 
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
