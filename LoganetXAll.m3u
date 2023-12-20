@@ -190,31 +190,25 @@ http://moobl.ru/hls/Hit_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
-http://45.159.74.14:80/MujskoeKino/index.m3u8
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино HD
-http://31.40.155.227:9595/play/Muzhskoe_kino_HD
+http://moobl.ru/hls/Muzhskoe_kino_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
 http://45.144.31.195:8010/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", A1 HD
-http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", A1
+https://tbs01-edge17.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black 
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+http://94.232.104.237:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru", Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", День Победы HD
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наше мужское
-http://95.217.196.109:8081/russia/nashemujskoe/chunks.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наше крутое
-http://iptv.mega.net.ru:8888/nashe_hd/index.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Action 
-http://91.210.251.166:4895/udp/239.0.3.6:4000
+#EXTINF:-1 group-title="Кино и сериалы", День Победы
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья 
-http://%64%6D%693%79-%74%76.ru/hls/CH_KINOSEMYA.m3u8 
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья HD
-http://217.113.31.20:8009/play/a035/index.m3u8
+https://tbs01-edge17.itdc.ge/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Family HD 
-https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+http://89.254.128.5:22280/star_family_hd/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://109.197.192.121:8080/kinosvidanie/mono.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание HD
