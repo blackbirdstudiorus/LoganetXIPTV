@@ -687,6 +687,8 @@ http://5.153.180.30:8002/play/a0c1
 http://iptv.mega.net.ru:8888/Travel+Adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
 http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel XP HD 
+http://109.248.236.21:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://iptv.mega.net.ru:8888/Viasat_Explorer/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
