@@ -635,7 +635,7 @@ http://94.232.104.237:8000/play/079/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных HD 
-http://5.153.180.30:8000/play/a06q
+http://109.248.236.21:4433/udp/238.1.1.48:1234
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 group-title="Познавательные", Пëс и Ко
