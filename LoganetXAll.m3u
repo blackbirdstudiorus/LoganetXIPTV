@@ -906,8 +906,10 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
 #EXTINF:-1 group-title="Спорт", Okko Спорт HD
 https://kinescope.io/204564915/master.m3u8
-#EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
+#EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Arena
 http://89.254.128.5:22280/qsport/index.m3u8 
+#EXTINF:-1 group-title="Спорт", Q League
+http://109.248.236.21:4433/udp/238.1.1.143:1234
 #EXTINF:-1 group-title="Спорт", Спортивный HD
 http://moobl.ru/iptv/Sportivny_hd.m3u8
 #EXTINF:-1 group-title="Спорт", BeIN Sports 1
