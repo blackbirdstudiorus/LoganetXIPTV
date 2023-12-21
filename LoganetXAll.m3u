@@ -199,8 +199,6 @@ http://45.144.31.195:8010/playlist.m3u8
 https://tbs01-edge17.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black 
 http://94.232.104.237:8000/play/106/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru", Bolt HD
-https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья 
@@ -210,27 +208,23 @@ https://tbs01-edge17.itdc.ge/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Family HD 
 http://89.254.128.5:22280/star_family_hd/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
-http://109.197.192.121:8080/kinosvidanie/mono.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Киносвидание HD
-http://moobl.ru/hls/Kinosvidanie_hd.m3u8
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
 http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 group-title="Кино и сериалы", A2 HD
-http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", A2
+https://tbs01-edge11.itdc.ge/amedia2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .red
-http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+https://cdn01.poster-abh.ru/red/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Про любовь
-http://moobl.ru/hls/Pro_lyubov_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Epic Drama 
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино 
-http://92.100.39.32:2289/play/nashkino/index.m3u8
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
+http://178.124.179.122:8088/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
