@@ -231,8 +231,8 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
 https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
-#EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
-https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
+http://109.248.236.21:4433/udp/238.1.1.157:1234
 #EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinojam 1
