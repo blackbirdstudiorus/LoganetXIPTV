@@ -173,8 +173,8 @@ https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
 http://195.26.83.96:7022/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
+https://cdn01.poster-abh.ru/Viju-plus-MegahitHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://109.248.236.21:4433/udp/238.1.1.96:1234
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
@@ -248,7 +248,7 @@ http://91.196.39.252:4000/play/a012
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия HD
 http://moobl.ru/iptv/Kinokomediya_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+https://cdn01.poster-abh.ru/Viju-plus-ComedyHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Shot TV
 http://31.40.155.227:9595/play/SHOT_TV
 #EXTINF:-1 group-title="Кино и сериалы", Камеди
