@@ -318,7 +318,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
-http://109.239.208.82:80/mult/index.m3u8
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
