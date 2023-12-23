@@ -226,11 +226,11 @@ https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
 http://178.124.179.122:8088/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
-https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
 https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
-https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
+http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
 http://109.248.236.21:4433/udp/238.1.1.157:1234
 #EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
@@ -239,20 +239,12 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m
 http://31.40.155.227:9595/play/Kino_Jam_1 
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", BCU СССР HD
-http://217.107.34.114:8006/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Советское кино 
-https://s23.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
-http://91.196.39.252:4000/play/a012
-#EXTINF:-1 group-title="Кино и сериалы", Кинокомедия HD
-http://moobl.ru/iptv/Kinokomediya_hd.m3u8
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
 https://cdn01.poster-abh.ru/Viju-plus-ComedyHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Shot TV
-http://31.40.155.227:9595/play/SHOT_TV
-#EXTINF:-1 group-title="Кино и сериалы", Камеди
-http://moobl.ru/hls/Kamedi_hd.m3u8
+http://persik.by/stream/3006/413021/10454.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Комедийное HD
@@ -264,9 +256,7 @@ http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
 http://91.210.251.166:4896/udp/239.0.3.7:4000
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
-http://109.197.192.121:8080/kinoseria/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киносерия HD
-https://cdn-cache01.voka.tv:443/live/79.m3u8
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала 
