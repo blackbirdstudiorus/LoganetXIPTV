@@ -253,8 +253,6 @@ http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/index.m3u8
 http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Comedy Central
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
-http://91.210.251.166:4896/udp/239.0.3.7:4000
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
@@ -264,33 +262,29 @@ http://91.220.135.165:81/72/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+https://cdn01.poster-abh.ru/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
-http://94.230.240.17:8080/fan/index.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", FAN HD
-http://moobl.ru/iptv/FAN_hd.m3u8
+https://cdn01.poster-abh.ru/FAN/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD 
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Cinema
-https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
+https://cdn01.poster-abh.ru/KinekoHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Cinema HD
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
-http://stream01.vnet.am/ParamountChannel/mono.m3u8
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
-http://ucdn.beetv.kz/btv/live/hls/000001419.m3u8
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
 http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино и сериалы", Индия
-http://91.200.160.134:15000/play/a11x/index.m3u8
+http://94.232.104.237:8000/play/097/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD 
-http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
+https://cdn01.poster-abh.ru/dorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
-http://109.239.208.82:80/eurokino/index.m3u8
+http://94.232.104.237:8000/play/046/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Сапфир HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Film.Ua Drama 
-https://ucdn.beetv.kz/btv/live/hls/000003028.m3u8
+https://cdn01.poster-abh.ru/SapphireHD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас HD
 http://31.40.155.227:9595/play/Kinouzhas_HD
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="trashtv", Trash HD 
@@ -300,11 +294,9 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", НСТ 
-https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8 
+http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Scream HD
-http://%64%6D%693%79-%74%76.ru/hls/CH_SCREAMHD.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
