@@ -367,22 +367,20 @@ https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8 
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
 http://45.144.31.195:8026/playlist.m3u8
-#EXTINF:-1 group-title="Детские", СуперГерои 
-http://95.217.196.109:8081/russia/malish/chunks.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои [VLC]
+rtmp://93.189.60.202//1041
 #EXTINF:-1 tvg-id="liova" group-title="Детские", Лëва HD
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://176.74.80.162:8099/Tiji/index.m3u8
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV HD
-https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://91.220.135.165:81/80/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Сказки Зайки 
-https://cdn-cache01.voka.tv:443/live/3016.m3u8
+http://94.232.104.237:8000/play/031/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
@@ -397,8 +395,6 @@ http://149.5.17.34:20041/play/a06q
 rtmp://93.189.60.202//938
 #EXTINF:-1 group-title="Детские", Пiксель HD
 http://149.5.17.34:20041/play/a05s
-#EXTINF:-1 group-title="Детские" tvg-logo="https://ewsat.com/img/KIKA.png", KIKA HD
-https://s4.hopslan.com:443/kika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", 2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8 
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
