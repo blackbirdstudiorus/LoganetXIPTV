@@ -19,7 +19,7 @@ http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://tv.tvip-media.net/tvmchannel/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
-http://5.153.180.30:8000/play/a07j
+https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/Test.m3u
 #EXTINF:-1 group-title="Развлекательные", TLC 
 http://5.153.180.30:8002/play/a01c
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
