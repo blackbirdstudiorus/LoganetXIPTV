@@ -322,43 +322,39 @@ https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://91.220.135.165:81/60/tracks-v1a1v1/playlist.m3u8
+http://176.74.80.162:8099/CTCKids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия 
-https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8 
+http://94.232.104.237:8000/play/030/index.m3u8 
 #EXTINF:-1 group-title="Детские", Мультиландия HD
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Детские", О!
-https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
+http://46.151.151.245:10007/play/a006
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
-http://45.144.31.195:8008/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика
 http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Чижик 
-http://moobl.ru/iptv/Chizhik_hd.m3u8
 #EXTINF:-1 group-title="Детские", Ani
-http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
+http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
-http://95.217.196.109:8081/russia/jimjam/chunks.m3u8
-#EXTINF:-1 group-title="Детские", ТипТоп
-http://moobl.ru/iptv/TipTop_hd.m3u8
+https://cdn01.poster-abh.ru/JimJam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
-https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
+http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8 
 #EXTINF:-1 group-title="Детские", FamilyJam
 http://ch01.spr24.net/7312/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Детские", Kids TV
 http://91.200.160.134:15000/play/a0b1/index.m3u8 
-#EXTINF:-1 group-title="Детские", Советские мультфильмы
-https://s12.federal.tv:8082/feda/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8 
 #EXTINF:-1 group-title="Детские", Детский мир HD
