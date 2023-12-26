@@ -182,6 +182,28 @@ http://data.homeiptv.org:8090/Komediynoe_HD/video.m3u8
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
+http://185.163.194.185:6991/180/mpegts
+#EXTINF:-1 group-title="Кино и сериалы", Мир сериала 
+http://45.15.43.12:80/mirseriala/video.m3u8?token=test
+#EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
+http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Мужское кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Наше HD
+http://185.26.157.3:8080/live/nashe_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", НСТ 
+http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit", НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Остросюжетное
+http://185.26.157.3:8080/live/ostrosyzhetnoe/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Остросюжетное HD 
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
@@ -220,17 +242,13 @@ https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-http://94.232.104.237:8000/play/076/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8 
+http://94.232.104.237:8000/play/076/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
 https://cdn01.poster-abh.ru/Viju-plus-MegahitHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://109.248.236.21:4433/udp/238.1.1.96:1234
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit", НТВ-Хит HD 
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kion Хит
@@ -239,10 +257,6 @@ http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8
 http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD 
 https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Мужское кино
-https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Мужское кино HD
-http://moobl.ru/hls/Muzhskoe_kino_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
 http://45.144.31.195:8010/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1
@@ -267,12 +281,8 @@ https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
 https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
-http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
 http://109.248.236.21:4433/udp/238.1.1.157:1234
-#EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
-http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinojam 1
 http://31.40.155.227:9595/play/Kino_Jam_1 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
@@ -285,10 +295,6 @@ http://208.86.19.13:81/22.stream/index.m3u8
 http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Мир сериала 
-http://91.220.135.165:81/72/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
-https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
 https://cdn01.poster-abh.ru/FAN/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema HD
@@ -305,10 +311,6 @@ https://cdn01.poster-abh.ru/SapphireHD/tracks-v1a1/mono.m3u8
 http://94.232.104.237:8000/play/200/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-group="Кино и сериалы", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Остросюжетное HD 
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", НСТ 
-http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Страх HD
