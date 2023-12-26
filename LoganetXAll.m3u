@@ -152,9 +152,18 @@ http://185.26.157.3:8080/live/kinokomedia/mono.m3u8
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks", Киномикс HD [VLC]
 http://45.15.43.12:80/KinomiksHD/video.m3u8?token=test
-
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
+http://94.232.104.237:8000/play/047/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
+http://185.163.194.185:6991/21/mpegts
+#EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносемья 
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
@@ -177,8 +186,6 @@ http://5.153.180.30:8000/play/a00m
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://94.232.104.237:8000/play/047/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
 https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
@@ -194,8 +201,6 @@ https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
 http://94.232.104.237:8000/play/076/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
@@ -230,14 +235,8 @@ http://45.144.31.195:8010/playlist.m3u8
 https://tbs01-edge17.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киносемья 
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Киносемья HD
-https://tbs01-edge17.itdc.ge/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Family HD 
 http://89.254.128.5:22280/star_family_hd/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киносвидание
-https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
