@@ -107,11 +107,21 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black 
 http://94.232.104.237:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .red
-https://cdn01.poster-abh.ru/red/tracks-v1a1/mono.m3u8
+http://185.163.194.185:6991/38/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
-https://cdn01.poster-abh.ru/sci-fi/tracks-v1a1/mono.m3u8
+http://45.15.43.12:80/sonyscifi/video.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Блокбастер HD
 http://data.homeiptv.org:8090/Blockbaster_HD/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом кино
+http://194.26.229.213/DomKino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
+http://195.245.99.251:8106
+#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1 group-title="Кино и сериалы", Дорама HD 
+https://cdn01.poster-abh.ru/dorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Душевное HD
+http://194.26.229.213/Dushevnoe/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
@@ -177,10 +187,6 @@ https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
 https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
-http://195.26.83.96:7022/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
 https://cdn01.poster-abh.ru/Viju-plus-MegahitHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
@@ -227,8 +233,6 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино 
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом кино
-http://178.124.179.122:8088/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
 http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
@@ -279,8 +283,6 @@ https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://94.232.104.237:8000/play/097/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дорама HD 
-https://cdn01.poster-abh.ru/dorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://94.232.104.237:8000/play/046/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
