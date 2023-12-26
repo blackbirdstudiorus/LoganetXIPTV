@@ -110,6 +110,8 @@ http://94.232.104.237:8000/play/106/index.m3u8
 https://cdn01.poster-abh.ru/red/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
 https://cdn01.poster-abh.ru/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Блокбастер HD
+http://data.homeiptv.org:8090/Blockbaster_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
