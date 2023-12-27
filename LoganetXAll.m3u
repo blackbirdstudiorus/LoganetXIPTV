@@ -208,6 +208,8 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://185.26.157.3:8080/live/kinopremiumhd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Родное кино 
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
@@ -277,8 +279,6 @@ https://tbs01-edge11.itdc.ge/amedia2/tracks-v1a1/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Epic Drama 
 rtmp://93.189.60.202//1048
-#EXTINF:-1 group-title="Кино и сериалы", Родное кино 
-https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
 http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
