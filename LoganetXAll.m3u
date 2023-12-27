@@ -248,7 +248,7 @@ http://195.245.99.251:8102
 http://91.207.115.228:5000/c58
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="backustv-horror" tvg-group="Кино и сериалы", BackusTV Dark HD 
+#EXTINF:-1 tvg-id="backustv-horror" group-title="Кино и сериалы", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
