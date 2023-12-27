@@ -418,6 +418,7 @@ rtmp://93.189.60.202//938
 #EXTINF:-1 group-title="Детские", Пiксель HD
 http://149.5.17.34:20041/play/a05s
 
+
 #EXTINF:-1 group-title="Развлекательные", 2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8 
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
@@ -427,26 +428,28 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
+http://176.222.190.11/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
+http://91.207.115.228:5000/c178
+#EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="Развлекательные", КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные", НТВ Право 
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Продвижение 
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
 http://5.153.180.30:8002/play/a0bz 
 #EXTINF:-1 group-title="Развлекательные", Discovery HD 
 https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
-http://livetv.mylifeisgood.net.ru/channels/anekdot.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC 
 http://5.153.180.30:8002/play/a01c
-#EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
-http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="Развлекательные", КВН ТВ
-https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Министерство идей 
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", НТВ Право 
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-#EXTINF:-1 group-title="Развлекательные", Продвижение 
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8  
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
@@ -535,8 +538,6 @@ http://31.148.48.15:80/TDK/index.m3u8?token=test
 https://cdn-cache01.voka.tv:443/live/239.m3u8
 #EXTINF:-1 group-title="Развлекательные", English Club HD
 http://109.248.236.21:4433/udp/238.1.1.109:1234
-#EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
-https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
 #EXTINF:-1 group-title="Развлекательные", DetectiveJam
 http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
 #EXTINF:-1 group-title="Развлекательные", RTVI
