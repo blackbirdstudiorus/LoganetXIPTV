@@ -109,9 +109,17 @@ http://94.232.104.237:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .red
 http://185.163.194.185:6991/38/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
-http://45.15.43.12:80/sonyscifi/video.m3u8?token=test
+https://cdn01.poster-abh.ru/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Блокбастер HD
 http://data.homeiptv.org:8090/Blockbaster_HD/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Видеокассета
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", День Победы
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
 http://194.26.229.213/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
@@ -210,12 +218,30 @@ http://185.26.157.3:8080/live/kinopremiumhd/mono.m3u8
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино 
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
+http://91.142.158.107:8092/play/26/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
+http://91.207.115.228:5000/c35
+#EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
+http://94.232.104.237:8000/play/048/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский роман
+http://91.142.158.107:8092/play/25/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 group-title="Кино и сериалы", Сапфир HD
+http://91.207.115.228:5000/c90
+#EXTINF:-1 group-title="Кино и сериалы", Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Страшное HD
+http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
+http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
-http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox HD
@@ -232,18 +258,10 @@ http://5.153.180.30:8000/play/a00m
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World [VLC]
 http://109.248.236.21:4433/udp/238.1.1.158:1234
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Видеокассета
-https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -261,18 +279,10 @@ http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8
 http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD 
 https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
-http://45.144.31.195:8010/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1
 https://tbs01-edge17.itdc.ge/amedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", День Победы
-https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Family HD 
 http://89.254.128.5:22280/star_family_hd/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский роман
-http://91.142.158.107:8092/play/25/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
-http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="Кино и сериалы", A2
 https://tbs01-edge11.itdc.ge/amedia2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema HD
@@ -281,8 +291,6 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
 http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
 http://109.248.236.21:4433/udp/238.1.1.157:1234
 #EXTINF:-1 group-title="Кино и сериалы", Kinojam 1
@@ -306,17 +314,11 @@ https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
-http://194.158.222.36:6086
-#EXTINF:-1 group-title="Кино и сериалы", Сапфир HD
-https://cdn01.poster-abh.ru/SapphireHD/tracks-v1a1/mono.m3u8 
+http://194.158.222.36:6086 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="trashtv", Trash HD 
 http://94.232.104.237:8000/play/200/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-group="Кино и сериалы", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
-http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Страх HD
-http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
 https://sirius.greenhosting.ru/Karusel/video.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
