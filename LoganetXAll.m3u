@@ -524,16 +524,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7", Ю +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Curiosity Stream HD
-http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Развлекательные", Discovery
 http://185.163.194.185:6991/47/mpegts 
 #EXTINF:-1 group-title="Развлекательные", Discovery HD 
 http://185.26.157.3:8080/live/discovery/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", English Club TV
-http://176.222.190.11/btv/SWM/English_Club_TV/English_Club_TV.m3u8
-#EXTINF:-1 group-title="Развлекательные", English Club HD
-http://109.248.236.21:4433/udp/238.1.1.109:1234 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", RTVI
@@ -641,31 +635,39 @@ http://185.163.194.185:6991/43/mpegts
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://176.222.190.11/btv/SWM/big_planet_hd/big_planet_hd_720p_3500kbps.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Discovery Science
-http://81.177.136.209:8004/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery Science HD
-http://5.153.180.30:8002/play/a08n
+#EXTINF:-1 group-title="Развлекательные", Curiosity Stream HD
+http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
-https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
+http://176.222.190.11/btv/SWM/davinchi/davinchi.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Science
+http://185.163.194.185:6991/44/mpegts
+#EXTINF:-1 group-title="Познавательные", Discovery Science HD
+http://185.26.157.3:8080/live/discovery-science/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Docubox 
+http://94.232.104.237:8000/play/205/index.m3u8
+#EXTINF:-1 group-title="Познавательные", DocuBox HD
+rtmp://93.189.60.202//968
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://94.232.104.237:8000/play/083/index.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
-https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
+http://176.222.190.11/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", H2
+http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
+#EXTINF:-1 group-title="Познавательные", H2 HD
+rtmp://93.189.60.202//1052
+#EXTINF:-1 group-title="Познавательные", HDL
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", HDL HD
+http://185.163.194.185:6991/48/mpegts
+#EXTINF:-1 group-title="Познавательные", History
+http://176.222.190.11/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Познавательные", History HD 
+http://185.26.157.3:8080/live/historyhd/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
 http://94.232.104.237:8000/play/109/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
-http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", HDL
-https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", History
-http://play6.flynettv.com/history
-#EXTINF:-1 group-title="Познавательные", History HD 
-https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
-#EXTINF:-1 group-title="Познавательные", H2
-https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
-#EXTINF:-1 group-title="Познавательные", H2 HD
-rtmp://93.189.60.202//1052
+http://185.163.194.185:6991/46/mpegts
+
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD 
@@ -678,10 +680,6 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://iptv.mega.net.ru:8888/National_Geographic_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Познавательные", Docubox 
-http://94.232.104.237:8000/play/205/index.m3u8
-#EXTINF:-1 group-title="Познавательные", DocuBox HD
-rtmp://93.189.60.202//968
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
