@@ -635,13 +635,17 @@ http://195.26.83.96:7005/play/16/index.m3u8
 http://91.207.115.228:5000/c92
 #EXTINF:-1 group-title="Познавательные", Успех 
 http://176.222.190.11/btv/SWM/uspeh/uspeh.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+http://185.163.194.185:6991/43/mpegts
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD 
+http://135.181.115.81/russia/animal_planet/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Big Planet
+http://176.222.190.11/btv/SWM/big_planet_hd/big_planet_hd_720p_3500kbps.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Science HD
 http://5.153.180.30:8002/play/a08n
-#EXTINF:-1 group-title="Познавательные", Big Planet
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
@@ -678,10 +682,6 @@ https://hls.rt.com/hls/rtdru.m3u8
 http://94.232.104.237:8000/play/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные", DocuBox HD
 rtmp://93.189.60.202//968
-#EXTINF:-1 group-title="Познавательные", Animal Planet
-http://5.153.180.30:8002/play/a0by
-#EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
