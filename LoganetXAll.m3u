@@ -544,6 +544,39 @@ http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd.m3u8
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
+https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал HD
+http://91.221.201.2:7013/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных HD 
+http://109.248.236.21:4433/udp/238.1.1.48:1234
+#EXTINF:-1 group-title="Познавательные", Доктор 
+http://92.100.39.32:2289/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Домашние животные 
+http://91.207.115.228:5000/c159
+#EXTINF:-1 group-title="Познавательные", ЕГЭ 
+http://146.158.0.56:80/EGETV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая планета
+http://94.232.104.237:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая природа
+http://176.222.190.11/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Познавательные", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ 
+http://91.207.115.228:5000/c91
+#EXTINF:-1 group-title="Познавательные", История
+http://185.26.157.3:8080/live/istoriya/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Ключ HD
+http://176.222.190.11/btv/SWM/klyuch_hd/klyuch_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", Кто есть кто 
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+
 #EXTINF:-1 group-title="Познавательные", Успех 
 http://176.222.190.11/btv/SWM/uspeh/uspeh.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
@@ -558,8 +591,6 @@ http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://91.221.201.2:7013/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
@@ -602,10 +633,6 @@ https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Большая Азия HD
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Кто есть кто 
-https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
 http://iptv.mega.net.ru:8888/National_Geographic_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RT Doc 
@@ -628,37 +655,19 @@ http://146.158.0.56:80/OceanTV/index.m3u8
 http://5.153.180.30:8000/play/a01j
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://94.232.104.237:8000/play/079/index.m3u8 
-#EXTINF:-1 group-title="Познавательные", В мире животных
-https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных HD 
-http://109.248.236.21:4433/udp/238.1.1.48:1234
-#EXTINF:-1 group-title="Познавательные", Домашние животные 
-https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 group-title="Познавательные", Пëс и Ко
 http://5.153.180.30:8000/play/a07u
-#EXTINF:-1 group-title="Познавательные", Живая планета
-http://94.232.104.237:8000/play/124/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Живая природа
-https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", Зоо ТВ 
-http://moobl.ru/hls/Zoo_tv.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
-https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
 http://iptv.mega.net.ru:8888/Viasat_History/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
 https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", История
-http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Ностальгия
 https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
@@ -701,22 +710,16 @@ https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
 http://46.151.151.245:10002/play/a0b5
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Доктор 
-http://5.153.180.30:8000/play/a023
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8 
 #EXTINF:-1 group-title="Познавательные", Открытый мир
 http://146.158.0.56/OtkritiyMir/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", MyZen.tv
 http://31.211.77.158:8000/play/a186/index.m3u8
-#EXTINF:-1 group-title="Познавательные", ЕГЭ 
-http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV
 http://31.41.99.166:81/udp/225.0.56.11:1234
 #EXTINF:-1 group-title="Познавательные", Театр 
