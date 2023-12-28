@@ -440,31 +440,58 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Перец
+http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica", Пятница! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica-pl7", Пятница! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", Пятница! HD
+http://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные", Пятница International
+http://176.222.190.11/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
 #EXTINF:-1  group-title="Развлекательные", Резонанс ТВ
 http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
+http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1  group-title="Развлекательные", Светлое ТВ HD 
 http://82.209.254.71:7781/udp/236.1.1.2:20000
-
-#EXTINF:-1 group-title="Развлекательные", Discovery
-http://5.153.180.30:8002/play/a0bz 
-#EXTINF:-1 group-title="Развлекательные", Discovery HD 
-https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", TVM Channel 
-http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", TLC 
-http://5.153.180.30:8002/play/a01c
-#EXTINF:-1 group-title="Развлекательные", Министерство идей 
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", ТНТ HD
-https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8  
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts", СТС (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-pl7", СТС +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС HD
+http://185.26.157.3:8080/live/sts_hd/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС International
+http://176.222.190.11/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love-pl7", СТС Love +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super", Суббота! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super-pl7", Суббота! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt-pl7", ТНТ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ HD
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
@@ -475,16 +502,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Точка ТВ 
-https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
 http://109.239.208.82:80/tochka/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Успех 
-http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Точка ТВ 
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Туган Тел
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", ЦТВ
+http://176.222.190.11/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che-pl7", Че! (Архив)
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che-pl7", Че! +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Эхо TV 
@@ -494,67 +523,31 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7", Ю +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Ратник 
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
-http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8 
-
-
-#EXTINF:-1 group-title="Развлекательные", СТС HD
-http://5.153.180.30:8000/play/a05p 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts", СТС (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС
-https://streamer1.connectto.com/CTC/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС +2
-http://213.59.128.165:8888/play/STS/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС +4
-http://94.230.240.12:8080/sts/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Пятница! HD
-http://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Пятница
-http://91.142.158.107:8092/play/16/index.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica", Пятница! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Пятница +2
-http://213.59.128.165:8888/play/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Пятница +4
-http://94.230.240.17:8080/friday/index.m3u8 
-#EXTINF:-1 group-title="Развлекательные", Пятница International
-https://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
-https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super", Суббота! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Танцуй!
-http://iptv.mega.net.ru:8888/Super/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТДК 
-http://31.148.48.15:80/TDK/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные", English Club TV
-https://cdn-cache01.voka.tv:443/live/239.m3u8
-#EXTINF:-1 group-title="Развлекательные", English Club HD
-http://109.248.236.21:4433/udp/238.1.1.109:1234
-#EXTINF:-1 group-title="Развлекательные", DetectiveJam
-http://ch01.spr24.net/7311/index.m3u8?token=Ti8qDtheX2PUkt 
-#EXTINF:-1 group-title="Развлекательные", RTVI
-http://play6.flynettv.com/rtvi
-#EXTINF:-1 group-title="Развлекательные", Перец
-http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Gagsnetwork
-http://176.74.80.162:8099/Gagsnetwork/index.m3u8  
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Curiosity Stream HD
 http://109.248.236.21:4433/udp/238.1.1.112:1234
-#EXTINF:-1 group-title="Развлекательные", Туган Тел
-http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Discovery
+http://185.163.194.185:6991/47/mpegts 
+#EXTINF:-1 group-title="Развлекательные", Discovery HD 
+http://185.26.157.3:8080/live/discovery/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", English Club TV
+http://176.222.190.11/btv/SWM/English_Club_TV/English_Club_TV.m3u8
+#EXTINF:-1 group-title="Развлекательные", English Club HD
+http://109.248.236.21:4433/udp/238.1.1.109:1234 
+#EXTINF:-1 group-title="Развлекательные", Gagsnetwork
+http://176.74.80.162:8099/Gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", RTVI
+http://176.222.190.11/btv/SWM/RTVi/RTVi.m3u8
+#EXTINF:-1 group-title="Развлекательные", TLC HD
+http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd.m3u8    
+#EXTINF:-1 group-title="Развлекательные", TVM Channel 
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Успех 
+http://176.222.190.11/btv/SWM/uspeh/uspeh.m3u8
+#EXTINF:-1 group-title="Познавательные", Ратник 
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Science HD
