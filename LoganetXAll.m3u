@@ -16,7 +16,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 HD
-http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
+http://91.207.115.228:5000/c100
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv", НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
@@ -717,37 +717,44 @@ http://109.239.208.82:80/zoo/index.m3u8
 
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
-#EXTINF:-1 group-title="Новости", Euronews
-http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="Новости", РБК 
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости", Мир 24 
-https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Известия 
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8 
 #EXTINF:-1 group-title="Новости", Крик ТВ 
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Мир 24 
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
-http://iptv.mega.net.ru:8888/Moskva_24/index.m3u8
-#EXTINF:-1 group-title="Новости", Москва. Доверие
-http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
-#EXTINF:-1 group-title="Новости", Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+http://185.26.157.3:8080/live/moskva_24/mono.m3u8
+#EXTINF:-1 group-title="Новости", РБК 
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
-https://s12.federal.tv:8082/feda/rttv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости", BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8 
-#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
-http://51.75.171.100:8080/SkyNews/index.m3u8 
-#EXTINF:-1 group-title="Новости", CNN
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8 
-#EXTINF:-1 group-title="Новости", Соловьëв.Live
-http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24-pl7" group-title="Новости", Россия 24 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 #EXTINF:-1 group-title="Новости", Соловьёв.Live HD
-http://dvr-player.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#EXTINF:-1 group-title="Новости", BBC World News
+http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
+#EXTINF:-1 group-title="Новости", CNN
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Deutsche Welle
+http://176.222.190.11/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
+#EXTINF:-1 group-title="Новости", Euronews
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Новости", France 24
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 group-title="Новости", NHK World Japan
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="Новости", Rai News 24
+https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
+
+
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Дума ТВ 
@@ -756,6 +763,8 @@ https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", ЛДПР ТВ 
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Хобби", Авто Плюс
