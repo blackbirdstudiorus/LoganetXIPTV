@@ -323,6 +323,8 @@ http://94.232.104.237:8000/play/076/index.m3u8
 https://cdn01.poster-abh.ru/Viju-plus-MegahitHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
 https://cdn01.poster-abh.ru/Viju-plus-ComedyHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
+http://176.222.190.11/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
@@ -699,16 +701,14 @@ http://109.248.236.21:4433/udp/238.1.1.124:1234
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Viju+ Planet
-http://5.153.180.30:8000/play/a01j
-#EXTINF:-1 group-title="Познавательные", Viju Nature
-http://94.232.104.237:8000/play/079/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju History
-http://iptv.mega.net.ru:8888/Viasat_History/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju Explore
-http://iptv.mega.net.ru:8888/Viasat_Explorer/index.m3u8
-
+#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
+http://moobl.ru/hls/Viju_plus_Planet_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Nature HD
+http://185.163.194.185:6991/54/mpegts
+#EXTINF:-1 group-title="Познавательные", Viju History HD
+http://185.163.194.185:6991/57/mpegts
+#EXTINF:-1 group-title="Познавательные", Viju Explore HD
+http://185.163.194.185:6991/58/mpegts
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
 
