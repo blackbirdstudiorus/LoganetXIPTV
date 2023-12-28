@@ -647,6 +647,10 @@ http://185.26.157.3:8080/live/discovery-science/mono.m3u8
 http://94.232.104.237:8000/play/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные", DocuBox HD
 rtmp://93.189.60.202//968
+#EXTINF:-1 group-title="Познавательные", DTX
+http://moobl.ru/hls/DTX_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", DTX HD
+http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://94.232.104.237:8000/play/083/index.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
@@ -667,57 +671,48 @@ http://185.26.157.3:8080/live/historyhd/mono.m3u8
 http://94.232.104.237:8000/play/109/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://185.163.194.185:6991/46/mpegts
-
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
+http://185.163.194.185:6991/50/mpegts
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild_720p_3500kbps.m3u8 
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://45.159.74.13:80/NationalGeographic/index.m3u8
+http://212.0.213.132:2302/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD 
-https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
+http://135.181.115.81/russia/nat_geo/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", RT Doc 
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
+http://176.222.190.11/btv/SWM/terra_hd/terra_hd_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
-http://iptv.mega.net.ru:8888/National_Geographic_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные", RT Doc 
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
-https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8 
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
+http://185.163.194.185:6991/259/mpegts
+#EXTINF:-1 group-title="Познавательные", Travel Channel HD
+http://185.163.194.185:6991/113/mpegts
+#EXTINF:-1 group-title="Познавательные", Travel XP HD 
+http://109.248.236.21:4433/udp/238.1.1.124:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://5.153.180.30:8000/play/a01j
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://94.232.104.237:8000/play/079/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Zooпарк
-http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
 http://iptv.mega.net.ru:8888/Viasat_History/index.m3u8
-#EXTINF:-1 group-title="Познавательные", DTX
-http://moobl.ru/hls/DTX_hd.m3u8
-#EXTINF:-1 group-title="Познавательные", DTX HD
-http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-#EXTINF:-1 group-title="Познавательные", RTG International
-http://88.216.83.245/rtg/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://5.153.180.30:8002/play/a0c1
-#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
-http://iptv.mega.net.ru:8888/Travel+Adventure/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel%26adventure.png", Travel&Adventure HD
-http://45.142.213.81:8001/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel XP HD 
-http://109.248.236.21:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://iptv.mega.net.ru:8888/Viasat_Explorer/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", MyZen.tv
-http://31.211.77.158:8000/play/a186/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Museum TV
-http://31.41.99.166:81/udp/225.0.56.11:1234
+
+#EXTINF:-1 group-title="Познавательные", Zooпарк
+http://109.239.208.82:80/zoo/index.m3u8
+
+
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
