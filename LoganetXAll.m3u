@@ -771,25 +771,46 @@ http://109.239.208.82:80/auto24/index.m3u8
 https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://185.26.157.3:8080/live/bober/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая охота HD 
+http://195.245.99.251:8037
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
+http://195.245.99.251:8148
+#EXTINF:-1 group-title="Хобби", Дикий 
+http://91.207.115.228:5000/c98
+#EXTINF:-1 group-title="Хобби", Драйв
+http://109.239.208.82:80/drive/index.m3u8
+#EXTINF:-1 group-title="Хобби", Еда
+http://185.26.157.3:8080/live/eda/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Еда Премиум Международный 
+http://176.222.190.11/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
+#EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
+https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Живи
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Загородная жизнь
+https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8 
+#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
+http://176.222.190.11/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
+#EXTINF:-1 group-title="Хобби", Загородный 
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 group-title="Хобби", Конный мир 
+https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Хобби", КтоКуда
+http://176.222.190.11/btv/SWM/mir_uvlecheniy/mir_uvlecheniy.m3u8
+#EXTINF:-1 group-title="Хобби", Кухня ТВ
+http://185.163.194.185:6991/85/mpegts
 
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="Хобби", Драйв
-https://s23.federal.tv:8082/feda/drive.stream/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Моторспорт ТВ
 http://146.158.0.56:80/Motosport/index.m3u8
-#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Дикий 
-http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка
 http://46.174.83.66/Ohota_i_rybalka/index.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
-https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
+https://ucdn.beetv.kz/btv/#EXTINF:-1 group-title="Хобби", Драйв
+https://s23.federal.tv:8082/feda/drive.stream/playlist.m3u8live/hls/000002510.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов
 https://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
 #EXTINF:-1 group-title="Хобби", Рыболов
@@ -802,12 +823,6 @@ http://146.158.0.56:80/FashionBox/index.m3u8
 https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 group-title="Хобби", Загородная жизнь
-http://217.107.34.114:8009/playlist.m3u8 
-#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
-http://195.161.68.11:8004/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Загородный 
-http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://tv.tuva.ru/usadba/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Хобби", HGTV English
@@ -816,22 +831,12 @@ http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stre
 http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
 #EXTINF:-1 group-title="Хобби", Food Time
 http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Еда
-http://u.vipl.one/high/mtpy4cu872/518.m3u8
-#EXTINF:-1 group-title="Хобби", Еда Премиум Международный 
-https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
-#EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
-http://moobl.ru/iptv/Eda_hd_int.m3u8
-#EXTINF:-1 group-title="Хобби", Кухня ТВ
-http://moobl.ru/iptv/Kuhnya_hd.m3u8
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://46.151.151.245:10007/play/a003
 #EXTINF:-1 group-title="Хобби", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 group-title="Хобби", JoyCook
 http://tv.tvip-media.net/joycook/tracks-v1a0/time-0.m3u8
-#EXTINF:-1 group-title="Хобби", КтоКуда
-http://146.158.0.56:80/MirUvlecheniy/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской 
 http://81.177.136.209:8006/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Наша тема 
@@ -840,10 +845,8 @@ http://live-1.otcnet.ru/nashatema1/tracks-v1a1/index.m3u8
 http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
 http://31.40.155.227:9595/play/moya_stihiya
-#EXTINF:-1 group-title="Хобби", Живи
-http://moobl.ru/iptv/Jivi_hd.m3u8
-#EXTINF:-1 group-title="Хобби", Конный мир 
-https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Религия", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Религия", МузСоюз
@@ -855,12 +858,8 @@ https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Телемагазины", Ювелирочка
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="Телемагазины", Leomax 24
-http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Телемагазины", Shopping Live
-http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+
+
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
