@@ -315,6 +315,8 @@ http://94.232.104.237:8000/play/039/index.m3u8
 http://49.12.129.114:7007/TV1000.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
 http://94.232.104.237:8000/play/040/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD
+http://185.163.194.185:6991/29/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
 http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
