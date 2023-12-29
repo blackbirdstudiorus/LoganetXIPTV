@@ -801,50 +801,42 @@ https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
 http://176.222.190.11/btv/SWM/mir_uvlecheniy/mir_uvlecheniy.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
 http://185.163.194.185:6991/85/mpegts
-
-#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="Хобби", Мама
+http://185.163.194.185:6991/128/mpegts
 #EXTINF:-1 group-title="Хобби", Моторспорт ТВ
-http://146.158.0.56:80/Motosport/index.m3u8
-#EXTINF:-1 group-title="Хобби", Охота и рыбалка
-http://46.174.83.66/Ohota_i_rybalka/index.m3u8
-#EXTINF:-1 group-title="Хобби", Рыбалка и охота
-https://ucdn.beetv.kz/btv/#EXTINF:-1 group-title="Хобби", Драйв
-https://s23.federal.tv:8082/feda/drive.stream/playlist.m3u8live/hls/000002510.m3u8
-#EXTINF:-1 group-title="Хобби", Охотник и рыболов
-https://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
-#EXTINF:-1 group-title="Хобби", Рыболов
-http://193.33.88.172:8080/ohotnik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Fashion TV HD
-https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
-#EXTINF:-1 group-title="Хобби", FashionBox
-http://146.158.0.56:80/FashionBox/index.m3u8
-#EXTINF:-1 group-title="Хобби", World Fashion Channel
-https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+http://91.207.115.228:5000/c111
+#EXTINF:-1 group-title="Хобби", Мужской 
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Наша тема 
+http://185.163.194.185:6991/51/mpegts
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 group-title="Хобби", Усадьба
-http://tv.tuva.ru/usadba/index.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="Хобби", HGTV English
-http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8 
-#EXTINF:-1 tvg-id="hgtv" group-title="Хобби", HGTV English (Резерв)
-http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
-#EXTINF:-1 group-title="Хобби", Food Time
-http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Оружие
+http://176.222.190.11/btv/SWM/oruzhie/oruzhie_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Хобби", Охота и рыбалка
+http://212.0.213.132:2302/Ohota_i_ribalka/index.m3u8
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов
+http://185.163.194.185:6991/120/mpegts
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов Int
+https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Первый вегетарианский
+http://176.222.190.11/btv/SWM/1_vegan_hd/1_vegan_hd.m3u8
+#EXTINF:-1 group-title="Хобби", Рыбалка и охота
+http://176.222.190.11/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://46.151.151.245:10007/play/a003
+#EXTINF:-1 group-title="Хобби", Усадьба
+http://185.26.157.3:8080/live/usadba/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion TV HD
+https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+#EXTINF:-1 group-title="Хобби", FashionBox
+http://185.163.194.185:6991/159/mpegts
 #EXTINF:-1 group-title="Хобби", Food Network 
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1 group-title="Хобби", JoyCook
-http://tv.tvip-media.net/joycook/tracks-v1a0/time-0.m3u8
-#EXTINF:-1 group-title="Хобби", Мужской 
-http://81.177.136.209:8006/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Наша тема 
-http://live-1.otcnet.ru/nashatema1/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Хобби", Мама
-http://edge02.odtv.az/o2/mamatv/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Моя стихия 
-http://31.40.155.227:9595/play/moya_stihiya
+http://212.0.213.132:2302/Joy_Cook/index.m3u8
+#EXTINF:-1 group-title="Хобби", World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 
 #EXTINF:-1 group-title="Религия", Союз
@@ -853,11 +845,12 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религия", Три ангела
 https://hls.tv.3angels.ru/stream.m3u8 
-#EXTINF:-1 group-title="Религия", Спас
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
@@ -978,6 +971,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 http://217.113.31.20:8009/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD
 rtmp://93.189.60.202//1018
+
+
 #EXTINF:-1 group-title="Музыка", 1HD
 http://178.212.71.253:8002/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge TV
