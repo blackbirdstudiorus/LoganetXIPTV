@@ -853,6 +853,41 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
 
+#EXTINF:-1 group-title="Спорт", Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! HD
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD 
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Планета
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер HD 
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://93.125.108.196:8080/210/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://93.125.108.196:8080/218/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD 
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://93.125.108.196:8080/228/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD 
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
@@ -869,23 +904,8 @@ https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 http://45.144.31.195:8016/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена HD 
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8 
-#EXTINF:-1 group-title="Спорт", Матч! HD
-http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8 
-#EXTINF:-1 group-title="Спорт", Матч!
-http://94.230.240.17:8080/machtv/index.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Планета
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Страна
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8  
 #EXTINF:-1 group-title="Спорт", Старт HD
 http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -906,20 +926,6 @@ http://moobl.ru/iptv/Sportivny_hd.m3u8
 http://51.195.5.44:80/bein1/index.m3u8 
 #EXTINF:-1 group-title="Спорт", BeIN Sports 2
 http://51.195.5.44:80/bein2/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://95.217.196.109:8081/russia/match_futbol_1/chunks.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://95.217.196.109:8081/russia/match_futbol_2/chunks.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD 
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD 
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD 
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 http://178.163.17.115:4022/udp/234.0.0.197:2000
 #EXTINF:-1 group-title="Спорт", Футбол HD 
@@ -936,8 +942,6 @@ http://45.146.7.90:8000/play/a00n
 http://45.146.7.90:8000/play/a00k
 #EXTINF:-1 group-title="Спорт", Megogo Футбол 5 HD 
 http://45.146.7.90:8000/play/a00o
-#EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
@@ -954,10 +958,6 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 http://94.230.240.17:8080/m1global/index.m3u8
-#EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://91.200.160.134:15000/play/a12j/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец
-http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://95.217.196.109:8081/russia/extreme_sports/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
