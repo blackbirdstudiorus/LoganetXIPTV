@@ -1,36 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1, O-la-la
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1, Erox
-http://94.229.250.73:8008/play/a002
-#EXTINF:-1, Eroxxx HD
-http://88.135.128.20:7272/urYgd52Dcxp47Ge
-#EXTINF:-1, Playboy
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, Шелк
-http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1, Penthouse Gold HD
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1, Русская ночь
-http://94.154.83.88:10000/russiannight
-#EXTINF:-1, Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1, Passion XXX
-http://62.176.77.22:9781/play/a00n
-#EXTINF:-1, Vivid Red
-http://62.176.77.22:9781/play/a00m
-#EXTINF:-1, Evil Angel
-http://62.176.77.22:9781/play/a00l 
-#EXTINF:-1, Hustler HD
-http://194.145.202.71:8087/udp/239.254.1.34:6060 
-#EXTINF:-1, Private HD
-http://194.145.202.71:8087/udp/239.254.1.38:6060
-#EXTINF:-1, Babestation 24
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8 
-#EXTINF:-1, Brazzers TV Europe
-http://194.190.78.91:8080/brazzers/index.m3u8 
 #EXTINF:-1, Adult IPTV Big Ass 
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1, Adult IPTV Big Dick 
@@ -71,19 +39,27 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1, Adult IPTV Threesome 
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1, Redlight HD
-https://cdn-global.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1, Шалун
-http://31.134.132.245:8080/shalun_hd/index.m3u8
-#EXTINF:-1, Babes TV
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
-#EXTINF:-1, Barely Legal 
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
-#EXTINF:-1, Red Lips 
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
-#EXTINF:-1, Blue Hustler 
-http://31.134.132.245:8080/hustler_hd/index.m3u8ips
-#EXTINF:-1, Dorcel TV
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
-#EXTINF:-1, Extasy 4K
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
+#EXTINF:-1, Babestation 24
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8 
+#EXTINF:-1, Brazzers TV Europe
+http://194.190.78.91:8080/brazzers/index.m3u8 
+#EXTINF:-1, Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1, Eroxxx HD
+http://88.135.128.20:7272/urYgd52Dcxp47Ge
+#EXTINF:-1, Hustler HD
+http://194.145.202.71:8087/udp/239.254.1.34:6060 
+#EXTINF:-1, O-la-la
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:-1, Penthouse Gold HD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1, Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1, Private HD
+http://194.145.202.71:8087/udp/239.254.1.38:6060
+#EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1, Шелк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1, Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
