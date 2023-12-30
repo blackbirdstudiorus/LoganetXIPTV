@@ -267,11 +267,11 @@ http://91.207.115.228:5000/c60
 #EXTINF:-1 group-title="Кино и сериалы", Fox  
 http://195.245.99.251:8105
 #EXTINF:-1 group-title="Кино и сериалы", Fox HD
-http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8
+http://176.222.190.11/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life
 http://176.222.190.11/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
-http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+http://93.125.108.196:8080/39/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
@@ -328,7 +328,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Детские", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
-http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
+http://176.222.190.11/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
@@ -363,8 +363,6 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/Логотип_платформы_Смотрим.svg/1200px-Логотип_платформы_Смотрим.svg.png", Смотрим Детям 
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
 http://94.232.104.237:8000/play/028/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce", Солнце (Архив)
@@ -378,7 +376,7 @@ http://176.74.80.162:8099/CTCKids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://91.207.115.228:5000/c69
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
-http://176.222.190.11/btv/SWM/supergeroi/supergeroi.m3u8
+http://91.207.115.228:5000/c71
 #EXTINF:-1 group-title="Детские", Уникум 
 http://94.232.104.237:8000/play/031/index.m3u8
 #EXTINF:-1 group-title="Детские", Ani
@@ -651,8 +649,6 @@ http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
 rtmp://93.189.60.202//1052
 #EXTINF:-1 group-title="Познавательные", HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", HDL HD
-http://185.163.194.185:6991/48/mpegts
 #EXTINF:-1 group-title="Познавательные", History
 http://play6.flynettv.com/history
 #EXTINF:-1 group-title="Познавательные", History HD 
@@ -680,9 +676,9 @@ http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
-http://185.163.194.185:6991/259/mpegts
+http://92.100.39.32:2289/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://185.163.194.185:6991/113/mpegts
+http://212.0.213.132:2302/Travel+Adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel XP HD 
 http://109.248.236.21:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
@@ -870,11 +866,11 @@ https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://93.125.108.196:8080/210/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+http://91.207.115.228:5000/c114
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://93.125.108.196:8080/218/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD 
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+http://91.207.115.228:5000/c115
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://93.125.108.196:8080/228/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD 
@@ -911,8 +907,6 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Okko Спорт
-https://zxwnlh4idfj.a.trbcdn.net/livemaster/njjkh_live-40pahvu0i9j.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Okko Спорт HD 
 https://kinescope.io/45MS3AGtLrPJPTSP2XPf7Y/master.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
@@ -1024,8 +1018,6 @@ https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Музыка", Stingray iConcerts
 https://streamer1.connectto.com/526/mono.m3u8  
-#EXTINF:-1 group-title="Музыка", Stingray Classic Rock
-https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
