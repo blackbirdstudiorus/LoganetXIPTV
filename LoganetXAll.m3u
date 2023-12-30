@@ -952,6 +952,8 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
+http://91.207.115.228:5000/c127
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -962,80 +964,69 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 http://94.232.104.237:8000/play/101/index.m3u8
 #EXTINF:-1 group-title="Музыка", О2ТВ
 http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
 http://176.222.190.11/btv/SWM/Shanson_TV/Shanson_TV.m3u8
-
+#EXTINF:-1 tvg-id="aiva" group-title="Музыка", Aiva HD
+http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", BackusTV Music 
+https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge TV
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge TV Classic
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 group-title="Музыка", MTV 
-http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8 
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="classic-music" group-title="Музыка", Classic Music
+http://92.100.39.32:2289/play/IdXtra/index.m3u8
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Europa Plus TV
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="Музыка", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка", Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", MCM Top
+http://176.222.190.11/btv/SWM/MCM/MCM.m3u8
+#EXTINF:-1 group-title="Музыка", Mezzo 
+http://91.207.115.228:5000/c124
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live 
+http://91.207.115.228:5000/c125
 #EXTINF:-1 group-title="Музыка", MTV Europe 
 http://37.18.239.36:8888/MTV_Adria/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV Live HD
-http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Classic
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+http://93.155.227.38:555/m3u8/mtvlivehd.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
 http://194.145.202.71:8087/udp/239.254.5.229:6060
 #EXTINF:-1 group-title="Музыка", MTV 90's
 https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV 00's
 http://89.254.128.5:22280/mtv_00/video.m3u8
-#EXTINF:-1 group-title="Музыка", Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка", BackusTV Music 
-https://stream.backustv.ru/live/btv3/index.m3u8
-#EXTINF:-1 group-title="Музыка", Stingray CMusic
-http://31.40.155.227:9595/play/c_music_hd
-#EXTINF:-1 group-title="Музыка", Stingray iConcerts
-http://31.40.155.227:9595/play/iConcerts_HD 
-#EXTINF:-1 group-title="Музыка", Live Music Channel
-http://91.221.201.2:7013/play/a003/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge TV Hits
-https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 group-title="Музыка", Europa Plus TV
-http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
-#EXTINF:-1 group-title="Музыка", MCM Top
-http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Hits
-https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test 
-#EXTINF:-1 group-title="Музыка", Kronehit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge TV Rock
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8 
-#EXTINF:-1 group-title="Музыка", Stingray Classic Rock
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 tvg-id="classic-music" group-title="Музыка", Classic Music
-http://92.100.39.32:2289/play/IdXtra/index.m3u8
-#EXTINF:-1 group-title="Музыка", Mezzo 
-http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live 
-http://91.210.251.166:4767/udp/239.0.20.6:4000
 #EXTINF:-1 group-title="Музыка", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Музыка", Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
-http://146.158.0.56:80/Lya-Minor/mono.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 tvg-id="aiva" group-title="Музыка", Aiva HD
-http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка", Maidan
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", Stingray iConcerts
+https://streamer1.connectto.com/526/mono.m3u8  
+#EXTINF:-1 group-title="Музыка", Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
