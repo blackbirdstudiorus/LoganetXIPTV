@@ -657,6 +657,8 @@ http://176.222.190.11/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
 http://94.232.104.237:8000/play/109/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://91.207.115.228:5000/c150
+#EXTINF:-1 group-title="Познавательные", MyZen.tv
+http://31.211.77.158:8000/play/a186/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://195.245.99.251:8114
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
