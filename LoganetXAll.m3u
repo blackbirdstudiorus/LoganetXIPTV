@@ -897,9 +897,41 @@ http://86.57.211.182:32200/Eurosport1HD/index.m3u8?auth=token:test
 http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://91.207.115.228:5000/c112
-
+#EXTINF:-1 group-title="Спорт", Fast&FunBox HD
+rtmp://93.189.60.202//1018
+#EXTINF:-1 group-title="Спорт", FightBox HD
+http://moobl.ru/hls/FightBox_hd.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL Prime 
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Okko Спорт
+https://zxwnlh4idfj.a.trbcdn.net/livemaster/njjkh_live-40pahvu0i9j.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Okko Спорт HD 
+https://kinescope.io/45MS3AGtLrPJPTSP2XPf7Y/master.m3u8
+#EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
+http://89.254.128.5:22280/qsport/index.m3u8 
+#EXTINF:-1 group-title="Спорт", Q League
+http://109.248.236.21:4433/udp/238.1.1.143:1234 
+#EXTINF:-1 group-title="Спорт", Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Russian Extreme HD
+ http://91.221.201.2:7013/play/a00a/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://176.222.190.11/btv/SWM/SetantaSport_HD/SetantaSport_HD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://176.222.190.11/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
@@ -907,38 +939,9 @@ rtmp://93.189.60.202//272
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine 
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
-https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
+http://176.222.190.11/btv/SWM/Sentanta_Kaz/Sentanta_Kaz_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8  
-#EXTINF:-1 group-title="Спорт", Okko Спорт HD
-https://kinescope.io/204564915/master.m3u8
-#EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Arena
-http://89.254.128.5:22280/qsport/index.m3u8 
-#EXTINF:-1 group-title="Спорт", Q League
-http://109.248.236.21:4433/udp/238.1.1.143:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
-http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
-https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL Prime 
-http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
-https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd 
-#EXTINF:-1 group-title="Спорт", FightBox HD
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
-http://94.230.240.17:8080/m1global/index.m3u8
-#EXTINF:-1 group-title="Спорт", Russian Extreme
-http://195.26.83.96:7029/play/a008
-#EXTINF:-1 group-title="Спорт", Russian Extreme HD
-http://91.221.201.2:7013/play/a00a/index.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Fast&FunBox 
-http://217.113.31.20:8009/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Спорт", Fast&FunBox HD
-rtmp://93.189.60.202//1018
+http://moobl.ru/hls/Viju_plus_Sport_hd.m3u8
 
 
 #EXTINF:-1 group-title="Музыка", 1HD
