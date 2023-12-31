@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, Поддержка LoganetXMovie прекращена 
+http://так-получилось
 #EXTINF:-1 group-title="Микс", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Микс", Киномикс HD
