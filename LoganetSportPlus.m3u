@@ -1,1 +1,7 @@
-https://mcdn.mrgamingstreams.com/mrgamingskyf1.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, Sky Sports Golf
+https://247.mrgamingstreams.com/mrgaminggolf.m3u8
+#EXTINF:-1, Sky Sports Mix
+https://247.mrgamingstreams.com/mrgamingmix.m3u8
+#EXTINF:-1, Sky Sports Football
+https://mlb.mrgamingstreams.com/football.m3u8
