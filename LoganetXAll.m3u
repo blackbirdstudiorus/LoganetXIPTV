@@ -151,7 +151,7 @@ http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://185.26.157.3:8080/live/kinotvhd/mono.m3u8
+http://194.26.229.213/KinoTV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия HD
@@ -231,9 +231,9 @@ http://176.222.190.11/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1
-http://185.26.157.3:8080/live/amedia_1/mono.m3u8
+http://176.222.190.11/btv/SWM/A1/A1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2
-http://49.12.129.114:7007/A2.m3u8
+http://176.222.190.11/btv/SWM/A2/A2.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
 http://195.245.99.251:8102
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
@@ -708,7 +708,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
-http://185.26.157.3:8080/live/moskva_24/mono.m3u8
+http://91.205.165.11:22888/play/28/index.m3u8
 #EXTINF:-1 group-title="Новости", РБК 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
@@ -754,7 +754,7 @@ http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс
 https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
-http://185.26.157.3:8080/live/bober/mono.m3u8
+http://86.57.211.182:32200/Bober/index.m3u8?auth=token:test
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
@@ -765,8 +765,6 @@ http://195.245.99.251:8148
 http://91.207.115.228:5000/c98
 #EXTINF:-1 group-title="Хобби", Драйв
 http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:-1 group-title="Хобби", Еда
-http://185.26.157.3:8080/live/eda/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный 
 http://176.222.190.11/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
@@ -880,7 +878,7 @@ http://93.125.108.196:8080/228/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD 
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://185.26.157.3:8080/live/mirbasketbola/mono.m3u8
+http://92.100.39.32:2289/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
