@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, Поддержка LoganetXMelody прекращена 
+http://так-получилось
 #EXTINF:-1 group-title="Музмикс", 1HD
 http://178.212.71.253:8002/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Музмикс", Bridge TV
