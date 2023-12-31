@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1, Поддержка LoganetXInfo прекращена 
+#EXTINF:-1, Поддержка LoganetXLife прекращена 
 http://так-получилось
 #EXTINF:-1 group-title="Автохобби", Авто Плюс
 https://s23.federal.tv:8082/feda/auto.stream/playlist.m3u8
