@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, Поддержка LoganetXSport прекращена 
+http://так-получилось
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Мультиспорт", Setanta Sports 2 HD
