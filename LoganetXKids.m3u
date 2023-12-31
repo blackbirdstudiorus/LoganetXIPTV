@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1, Поддержка LoganetXKids прекращена 
+http://так-получилось
 #EXTINF:-1 group-title="Мультсериалы", Карусель
 https://sirius.greenhosting.ru/Karusel/video.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Мультсериалы" tvg-id="karusel", Карусель (Архив)
