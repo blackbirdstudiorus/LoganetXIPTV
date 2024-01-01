@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1, Sky Sports Golf
-https://247.mrgamingstreams.com/mrgaminggolf.m3u8
-#EXTINF:-1, Sky Sports Mix
-https://247.mrgamingstreams.com/mrgamingmix.m3u8
-#EXTINF:-1, Sky Sports Football
-https://mlb.mrgamingstreams.com/football.m3u8
+#EXTINF:-1, Go3 Sport Open
+http://89.254.128.5:22280/tv3_sport_open_hd/video.m3u8
+#EXTINF:-1, Abu Dhabi Sport 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, Abu Dhabi Sport 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, Abu Dhabi Sport 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
