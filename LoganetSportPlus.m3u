@@ -7,4 +7,16 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1, Abu Dhabi Sport 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1, Arena Sport 1
+http://94.250.2.6:10600/play/sfwZs8fQbA
+#EXTINF:-1, Arena Sport 2
 
+#EXTINF:-1, Arena Sport 3
+
+#EXTINF:-1, Arena Sport 4
+
+#EXTINF:-1, Arena Sport 5
+
+#EXTINF:-1, Arena Sport 6
