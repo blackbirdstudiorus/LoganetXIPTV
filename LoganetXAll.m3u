@@ -386,9 +386,9 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
-https://cdn01.poster-abh.ru/JimJam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon
-http://212.0.213.132:2302/Nickelodeon/index.m3u8
+http://lb.homeiptv.org/lb0/Jim_Jam/video.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon HD
+http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 http://176.222.190.11/btv/icon/Nick_Jr/Nick_Jr.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
