@@ -141,7 +141,7 @@ http://91.205.165.11:22888/play/59/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Камеди HD
 http://data.homeiptv.org:8090/KamedyHD/video.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD 
-https://cdn01.poster-abh.ru/KinekoHD/tracks-v1a1/mono.m3u8
+http://88.85.172.243:7004/play/a01a
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
@@ -154,10 +154,10 @@ http://live-1.otcnet.ru/kinosem/playlist.m3u8
 http://88.85.172.243:7006/play/a015
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://91.205.165.11:22888/play/85/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинокомедия HD
-http://185.26.157.3:8080/live/kinokomedia/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
+https://st1-allplay-uz.b-cdn.net/4/iptv-137/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://91.207.115.228:5000/c28
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
@@ -176,6 +176,8 @@ http://92.100.39.32:2289/play/kinoSeria/index.m3u8
 http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
+#EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
+http://88.85.172.243:7011/play/a01n
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="komedijnoe-hd", Комедийное HD [MX(SW)]
 http://data.homeiptv.org:8090/Komediynoe_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Комедия 
@@ -190,8 +192,6 @@ http://176.222.190.11/btv/SWM/mir_seriala/mir_seriala.m3u8
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
 https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наше HD
-http://194.26.229.213/Nashe/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", НСТ 
@@ -200,12 +200,10 @@ http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Остросюжетное
-http://185.26.157.3:8080/live/ostrosyzhetnoe/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное
-http://194.26.229.213/Premialnoe_HD/index.m3u8
+http://lb.homeiptv.org/lb0/PremialnoeHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино 
@@ -222,10 +220,10 @@ http://91.142.158.107:8092/play/25/index.m3u8
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="Кино и сериалы", Сапфир HD
 http://91.207.115.228:5000/c90
+#EXTINF:-1 group-title="Кино и сериалы", Страшное HD
+http://lb.homeiptv.org/lb0/strashnoehd/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Страшное HD
-http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
 http://176.222.190.11/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
@@ -254,8 +252,6 @@ http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
 http://lb.homeiptv.org/lb0/FAN/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", FAN HD
-http://194.26.229.213/FAN/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино и сериалы", Filmbox
 http://lb.homeiptv.org/lb0/FilmBox/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Film.Ua Drama
@@ -295,22 +291,20 @@ http://176.222.190.11/btv/SWM/start_world_hd/start_world_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
 http://194.158.222.36:6086 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="trashtv", Trash HD 
-http://lb.homeiptv.org/lb0/Trash_HD/video.m3u8
+http://31.211.77.158:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
-http://94.232.104.237:8000/play/039/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
-http://49.12.129.114:7007/TV1000.m3u8
+http://86.57.211.182:32200/TV1000/index.m3u8?auth=token:test
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
-http://94.232.104.237:8000/play/040/index.m3u8
+http://86.57.211.182:32200/TV1000_Action/index.m3u8?auth=token:test
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
-http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
+http://86.57.211.182:32200/TV1000_Russkoe_kino/index.m3u8?auth=token:test
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-http://94.232.104.237:8000/play/076/index.m3u8 
+http://91.207.115.228:5000/c145 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
 http://176.222.190.11/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
@@ -348,7 +342,7 @@ http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия 
-http://94.232.104.237:8000/play/030/index.m3u8 
+http://88.85.172.243:7011/play/a01k 
 #EXTINF:-1 group-title="Детские", Мультиландия HD
 https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
@@ -364,7 +358,7 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
-http://94.232.104.237:8000/play/028/index.m3u8
+http://88.85.172.243:7001/play/a024
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce", Солнце (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
