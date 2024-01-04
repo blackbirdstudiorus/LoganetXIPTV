@@ -81,7 +81,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", ТВ3 HD
 http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Общие", ТВ3 Беларусь
-http://185.220.34.88:12000/play/tv3
+http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda", Звезда (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
@@ -105,11 +105,11 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black 
-http://94.232.104.237:8000/play/106/index.m3u8
+http://109.200.130.123:7029/play/a03e
 #EXTINF:-1 group-title="Кино и сериалы", .red
 http://91.207.115.228:5000/c78
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
-https://cdn01.poster-abh.ru/sci-fi/tracks-v1a1/mono.m3u8
+http://88.85.172.243:7001/play/a02g
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
@@ -121,25 +121,25 @@ https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-http://194.26.229.213/DomKino/index.m3u8
+http://86.57.211.182:32200/Dom_kino/index.m3u8?auth=token:test
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://195.245.99.251:8106
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
-#EXTINF:-1 group-title="Кино и сериалы", Дорама HD 
-https://cdn01.poster-abh.ru/dorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дорама
+http://194.26.229.213/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Душевное HD
-http://194.26.229.213/Dushevnoe/index.m3u8
+http://data.homeiptv.org:8090/Dushevnoe_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
-http://94.232.104.237:8000/play/046/index.m3u8
+http://92.100.39.32:2289/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
-http://94.232.104.237:8000/play/049/index.m3u8
+http://88.85.172.243:7004/play/a011
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
-http://94.232.104.237:8000/play/097/index.m3u8
+http://91.205.165.11:22888/play/59/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Камеди HD
-http://194.26.229.213/Kamedi/index.m3u8
+http://data.homeiptv.org:8090/KamedyHD/video.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD 
 https://cdn01.poster-abh.ru/KinekoHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
@@ -151,7 +151,7 @@ http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://194.26.229.213/KinoTV/index.m3u8
+http://88.85.172.243:7006/play/a015
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://91.205.165.11:22888/play/85/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия HD
@@ -159,7 +159,7 @@ http://185.26.157.3:8080/live/kinokomedia/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://94.232.104.237:8000/play/047/index.m3u8
+http://91.207.115.228:5000/c28
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
 http://91.207.115.228:5000/c42
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
@@ -215,7 +215,7 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
 http://91.207.115.228:5000/c35
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-http://94.232.104.237:8000/play/048/index.m3u8
+http://91.205.165.11:22888/play/49/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
@@ -253,11 +253,11 @@ http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Epic Drama 
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
-https://cdn01.poster-abh.ru/FAN/tracks-v1a1/mono.m3u8
+http://lb.homeiptv.org/lb0/FAN/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN HD
 http://194.26.229.213/FAN/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино и сериалы", Filmbox
-http://212.0.213.132:2302/Filmbox/index.m3u8
+http://lb.homeiptv.org/lb0/FilmBox/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Film.Ua Drama
 http://176.222.190.11/btv/SWM/FilmUADrama/FilmUADrama.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmZone
@@ -271,7 +271,7 @@ http://176.222.190.11/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life
 http://176.222.190.11/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
-http://93.125.108.196:8080/39/index.m3u8
+http://195.245.99.251:8104
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
@@ -295,7 +295,7 @@ http://176.222.190.11/btv/SWM/start_world_hd/start_world_hd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
 http://194.158.222.36:6086 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="trashtv", Trash HD 
-http://94.232.104.237:8000/play/200/index.m3u8
+http://lb.homeiptv.org/lb0/Trash_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
