@@ -286,7 +286,7 @@ http://persik.by/stream/3006/413021/10454.m3u8
 http://89.254.128.5:22280/star_family_hd/video.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
 http://109.248.236.21:4433/udp/238.1.1.157:1234
-#EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
+#EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
 http://176.222.190.11/btv/SWM/start_air_hd/start_air_hd.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World
 http://109.248.236.21:4433/udp/238.1.1.158:1234
@@ -653,10 +653,14 @@ https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 http://play6.flynettv.com/history
 #EXTINF:-1 group-title="Познавательные", History HD 
 http://176.222.190.11/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Познавательные", Insight TV HD
+https://st1-allplay-uz.b-cdn.net/4/iptv-214/index.m3u8?token=test
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
 http://94.232.104.237:8000/play/109/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://91.207.115.228:5000/c150
+#EXTINF:-1 group-title="Познавательные", Museum TV HD
+https://st1-allplay-uz.b-cdn.net/3/iptv-151/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", MyZen.tv
 http://31.211.77.158:8000/play/a186/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
