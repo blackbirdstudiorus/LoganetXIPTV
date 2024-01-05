@@ -404,7 +404,7 @@ http://149.5.17.34:20041/play/a05s
 
 
 #EXTINF:-1 group-title="Развлекательные", 2x2
-https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8 
+ http://91.207.115.228:5000/c180
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
@@ -508,10 +508,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7", Ю +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Discovery
+#EXTINF:-1 group-title="Развлекательные", Discovery HD
 http://91.207.115.228:5000/c146 
-#EXTINF:-1 group-title="Развлекательные", Discovery HD 
-http://212.0.213.132:2302/Discovery/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", RTVI
