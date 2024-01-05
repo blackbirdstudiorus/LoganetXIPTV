@@ -541,7 +541,7 @@ http://91.207.115.228:5000/c159
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
 http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
-http://94.232.104.237:8000/play/124/index.m3u8
+http://91.205.165.11:22888/play/114/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
 http://176.222.190.11/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -567,7 +567,7 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://94.232.104.237:8000/play/073/index.m3u8
+http://92.100.39.32:2289/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
@@ -584,7 +584,7 @@ https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belar
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
  http://176.222.190.11/btv/SWM/1_kosmo_HD/1_kosmo_HD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
-http://194.26.229.213/POBEDA/index.m3u8
+http://91.205.165.11:22888/play/129/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://176.222.190.11/btv/SWM/Poehali/Poehali.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
@@ -600,7 +600,7 @@ http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://94.232.104.237:8000/play/080/index.m3u8
+http://31.211.77.158:8000/play/a184/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
