@@ -346,7 +346,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="Детские", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
-http://176.222.190.11/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+https://st1-allplay-uz.b-cdn.net/4/iptv-221/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
@@ -389,6 +389,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce-pl7", Солнце +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Детские", Советские мультфильмы
+https://s30.glaz.tv:8082/liveg/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://176.74.80.162:8099/CTCKids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
@@ -402,7 +404,7 @@ http://88.85.172.243:7002/play/a02w
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+http://135.181.115.81/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Cartoonito
 http://135.181.115.81/russia/boomerang/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV HD
@@ -411,12 +413,14 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://lb.homeiptv.org/lb0/Jim_Jam/video.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV
+http://31.211.77.158:8000/play/a165/index.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon
+http://135.181.115.81/russia/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-http://176.222.190.11/btv/icon/Nick_Jr/Nick_Jr.m3u8
+http://185.163.194.185:8181/114/mpegts
 #EXTINF:-1 group-title="Детские", Nicktoons
-http://176.222.190.11/btv/SWM/nicktoons/nicktoons.m3u8 
+http://185.163.194.185:8181/80/mpegts 
 #EXTINF:-1 group-title="Детские", TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", ПлюсПлюс
