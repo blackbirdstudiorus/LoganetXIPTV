@@ -704,7 +704,7 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
 http://89.104.114.2:8080/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
-http://94.232.104.237:8000/play/107/index.m3u8
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
