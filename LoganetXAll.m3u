@@ -109,7 +109,7 @@ http://109.200.130.123:7029/play/a03e
 #EXTINF:-1 group-title="Кино и сериалы", .red
 http://91.207.115.228:5000/c78
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
-http://88.85.172.243:7001/play/a02g
+http://92.100.39.32:2289/play/a09k/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
@@ -121,7 +121,7 @@ https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-http://86.57.211.182:32200/Dom_kino/index.m3u8?auth=token:test
+http://live2.tvg.ge:8082/tv/DOMKINO_SD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://195.245.99.251:8106
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
@@ -141,13 +141,13 @@ http://91.205.165.11:22888/play/59/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Камеди HD
 http://data.homeiptv.org:8090/KamedyHD/video.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD 
-http://88.85.172.243:7004/play/a01a
+http://185.163.194.185:8181/225/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://89.104.114.2:8080/kino_tv_hd/index.m3u8
+http://185.163.194.185:8181/53/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
@@ -287,13 +287,17 @@ http://91.207.115.228:5000/c60
 #EXTINF:-1 group-title="Кино и сериалы", Fox  
 http://195.245.99.251:8105
 #EXTINF:-1 group-title="Кино и сериалы", Fox HD
-http://176.222.190.11/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
+http://31.211.77.158:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life
-http://176.222.190.11/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
+http://31.211.77.158:8000/play/a073/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
 http://195.245.99.251:8104
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Kinojam 1 HD
+http://178.16.151.67/kinojam1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Kinojam 2 HD
+http://178.16.151.67/kinojam2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
 http://91.207.115.228:5000/c61
 #EXTINF:-1 group-title="Кино и сериалы", Kion Хит
@@ -305,7 +309,7 @@ http://persik.by/stream/3006/413021/10454.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema HD
 http://185.163.194.185:8181/217/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", Star Family HD 
-http://89.254.128.5:22280/star_family_hd/video.m3u8
+http://185.163.194.185:8181/216/mpegts
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
 http://109.248.236.21:4433/udp/238.1.1.157:1234
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air HD
@@ -324,23 +328,25 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
-http://86.57.211.182:32200/TV1000/index.m3u8?auth=token:test
+http://92.100.39.32:2289/play/a093/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
 http://185.163.194.185:8181/28/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
-http://86.57.211.182:32200/TV1000_Action/index.m3u8?auth=token:test
+http://live2.tvg.ge:8082/tv/TV1000ACTION_SD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD
 http://185.163.194.185:8181/29/mpegts
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
-http://86.57.211.182:32200/TV1000_Russkoe_kino/index.m3u8?auth=token:test
+http://92.100.39.32:2289/play/a095/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD
+http://live2.tvg.ge:8082/tv/TV1000RU_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
 http://91.207.115.228:5000/c145 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
-http://176.222.190.11/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+http://91.207.115.228:5000/c144
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
-http://176.222.190.11/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+http://91.207.115.228:5000/c143
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
-http://176.222.190.11/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+http://91.205.199.3:80/vipserialhd/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
@@ -356,7 +362,7 @@ https://st1-allplay-uz.b-cdn.net/4/iptv-221/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
-http://86.57.211.182:32200/Karusel/index.m3u8?auth=token:test
+http://178.16.151.67/karusel/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -371,8 +377,10 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Мульт
+https://st1-allplay-uz.b-cdn.net/4/iptv-179/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Мультиландия 
-http://88.85.172.243:7011/play/a01k 
+http://persik.by/stream/3781/199883/286.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия HD
 https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
@@ -388,7 +396,7 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
-http://88.85.172.243:7001/play/a024
+http://178.16.151.67/disney/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce", Солнце (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -404,9 +412,9 @@ http://91.207.115.228:5000/c69
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://91.207.115.228:5000/c71
 #EXTINF:-1 group-title="Детские", Уникум 
-http://86.57.211.182:32200/Unikum/index.m3u8?auth=token:test
+http://178.16.151.67/detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Ani
-http://88.85.172.243:7002/play/a02w
+http://91.205.165.11:22888/play/74/index.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
@@ -666,9 +674,9 @@ http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club TV
 http://176.222.190.11/btv/SWM/English_Club_TV/English_Club_TV.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
-http://86.57.211.182:32200/Galaxy/index.m3u8?auth=token:test 
+ https://st1-allplay-uz.b-cdn.net/4/iptv-235/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
-http://176.222.190.11/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", H2
 http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
 #EXTINF:-1 group-title="Познавательные", H2 HD
@@ -914,15 +922,15 @@ https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://86.57.211.182:32200/Eurosport1HD/index.m3u8?auth=token:test
+http://185.163.194.185:8181/130/mpegts
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://86.57.211.182:32200/Eurosport2HD/index.m3u8?auth=token:test
+http://185.163.194.185:8181/131/mpegts
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://91.207.115.228:5000/c112
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD
 rtmp://93.189.60.202//1018
 #EXTINF:-1 group-title="Спорт", FightBox HD
-http://moobl.ru/hls/FightBox_hd.m3u8
+http://185.163.194.185:8181/157/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
