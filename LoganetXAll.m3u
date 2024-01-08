@@ -505,7 +505,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
-https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+https://vgtrk-live-megafon2.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
