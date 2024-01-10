@@ -123,17 +123,17 @@ https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
 http://live2.tvg.ge:8082/tv/DOMKINO_SD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
-http://195.245.99.251:8106
+http://live2.tvg.ge:8082/tv/DOMKINOPREMIUM_SD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
-http://185.163.194.185:8181/62/mpegts
+http://91.207.115.228:5000/c185
 #EXTINF:-1 group-title="Кино и сериалы", Душевное HD
 http://data.homeiptv.org:8090/Dushevnoe_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://92.100.39.32:2289/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
-http://88.85.172.243:7004/play/a011
+http://92.100.39.32:2289/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
@@ -141,13 +141,13 @@ http://91.205.165.11:22888/play/59/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Камеди HD
 http://data.homeiptv.org:8090/KamedyHD/video.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD 
-http://185.163.194.185:8181/225/mpegts
+http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://185.163.194.185:8181/53/mpegts
+http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
 http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
@@ -159,11 +159,11 @@ http://89.104.114.2:8080/komediya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
-https://st1-allplay-uz.b-cdn.net/4/iptv-137/index.m3u8?token=test
+http://data.homeiptv.org:8090/Kinomix_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://91.207.115.228:5000/c28
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ HD
-http://89.104.114.2:8080/kinopokaz_hd/index.m3u8
+http://data.homeiptv.org:8090/Kinopokaz/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
 http://91.207.115.228:5000/c42
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
@@ -183,7 +183,7 @@ http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://92.100.39.32:2289/play/kinoSeria/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия HD
-http://185.163.194.185:8181/106/mpegts
+http://data.homeiptv.org:8090/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
 http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас HD
@@ -201,9 +201,9 @@ http://92.100.39.32:2289/play/a08u/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
-http://185.163.194.185:8181/180/mpegts
+http://live2.tvg.ge:8082/tv/lubimoekino_SD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала 
-http://31.211.77.158:8000/play/a109/index.m3u8
+http://live2.tvg.ge:8082/tv/mirseriala_SD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
@@ -247,7 +247,7 @@ https://s23.federal.tv:8082/liveg/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
-http://31.211.77.158:8000/play/a118/index.m3u8
+http://lb.homeiptv.org/lb0/FenixPlusKino/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1
@@ -255,7 +255,7 @@ http://92.100.39.32:2289/play/a08q/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2
 http://92.100.39.32:2289/play/a08r/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://195.245.99.251:8102
+http://live2.tvg.ge:8082/tv/AMEDIAHIT_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
 http://91.207.115.228:5000/c58
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
