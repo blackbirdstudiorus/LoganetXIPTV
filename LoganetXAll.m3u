@@ -693,6 +693,8 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://92.100.39.32:2289/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
 http://185.163.194.185:8181/113/mpegts
+#EXTINF:-1 group-title="Познавательные", Travel XP
+http://87.76.32.36:9106/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные", Travel XP HD 
 http://109.248.236.21:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
