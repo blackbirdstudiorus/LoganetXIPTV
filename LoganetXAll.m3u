@@ -372,7 +372,7 @@ http://91.207.115.228:5000/c69
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://91.207.115.228:5000/c71
 #EXTINF:-1 group-title="Детские", Уникум 
-http://92.100.39.32:2289/play/a08v/index.m3u8
+http://212.22.76.51:83/unikum/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://91.205.165.11:22888/play/74/index.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
