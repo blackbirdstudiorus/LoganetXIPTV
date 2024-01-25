@@ -229,11 +229,11 @@ http://31.211.77.158:8000/play/a118/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1
-http://92.100.39.32:2289/play/a08q/index.m3u8
+http://212.22.76.51:82/A1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2
-http://92.100.39.32:2289/play/a08r/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
-http://92.100.39.32:2289/play/a08s/index.m3u8
+http://212.22.76.51:82/A2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
+http://87.76.32.36:9106/udp/238.1.1.96:1234
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
 http://91.207.115.228:5000/c58
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
