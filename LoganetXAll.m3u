@@ -117,7 +117,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-http://91.205.165.11:22888/play/99/index.m3u8
+http://212.22.76.51:82/DOM_KINO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://109.248.236.21:4433/udp/238.1.1.176:1234
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
