@@ -434,8 +434,8 @@ http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8
 http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
-#EXTINF:-1  group-title="Развлекательные", Светлое ТВ HD 
-http://82.209.254.71:7781/udp/236.1.1.2:20000
+#EXTINF:-1  group-title="Развлекательные", Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts", СТС (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
