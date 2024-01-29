@@ -113,9 +113,15 @@ http://91.207.115.228:5000/c77
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8 
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Блокбастер HD
+http://65.21.196.155/russia/blokbaster/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", День Победы
+http://217.25.80.15/Den_pobedy_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", День Победы HD 
+http://65.21.196.155/russia/denpobedi/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
 http://91.207.115.228:5000/c30
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
@@ -132,8 +138,10 @@ http://91.207.115.228:5000/c170
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://65.21.196.155/russia/zee_tv/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Камеди HD
+http://217.25.80.15/kamedi_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD 
-http://109.197.192.121:8080/foxhd/tracks-v1a1/mono.m3u8
+http://217.25.80.15/FOX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
@@ -152,6 +160,8 @@ https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 http://88.85.172.243:7004/play/a01a
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://91.207.115.228:5000/c28
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ HD
+http://217.25.80.15/kinopokaz_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
 http://91.207.115.228:5000/c42
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
@@ -170,6 +180,8 @@ http://91.205.199.3:80/kinosemyahd/index.m3u8
 http://65.21.196.155/russia/kinoseriya/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
 http://91.207.115.228:5000/c43
+#EXTINF:-1 group-title="Кино и сериалы", Киноужас HD
+http://65.21.196.155/russia/kinouzhas/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
@@ -234,6 +246,8 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Bolt
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema Classic
@@ -293,6 +307,8 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", VHSка
+http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
