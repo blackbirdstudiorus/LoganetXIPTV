@@ -523,21 +523,21 @@ https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.
 #EXTINF:-1 group-title="Познавательные", В мире животных HD 
 http://109.248.236.21:4433/udp/238.1.1.48:1234
 #EXTINF:-1 group-title="Познавательные", Время 
-http://195.245.99.251:8109
+http://185.32.44.154/vremya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-https://st1-allplay-uz.b-cdn.net/4/iptv-238/index.m3u8?token=test
+http://88.85.172.243:7006/play/a011
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://92.100.39.32:2289/play/a07j/index.m3u8
+http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://91.207.115.228:5000/c159
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
 http://146.158.0.56:80/EGETV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
-http://91.205.165.11:22888/play/114/index.m3u8
+http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
-http://185.163.194.185:8181/182/mpegts
+http://178.212.71.253:8002/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
-https://st1-allplay-uz.b-cdn.net/4/iptv-227/index.m3u8?token=test
+http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
@@ -563,7 +563,7 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://92.100.39.32:2289/play/a05u/index.m3u8
+http://91.207.115.228:5000/c83
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
