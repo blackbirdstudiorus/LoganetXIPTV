@@ -261,13 +261,11 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
 http://65.21.196.155/russia/fan/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Filmbox
-http://lb.homeiptv.org/lb0/FilmBox/tracks-v1a1a2/mono.m3u8
+http://217.25.80.15/FilmBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmZone
 http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FlixSnip
 http://91.207.115.228:5000/c60
-#EXTINF:-1 group-title="Кино и сериалы", Filmbox
-http://217.25.80.15/FilmBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life
