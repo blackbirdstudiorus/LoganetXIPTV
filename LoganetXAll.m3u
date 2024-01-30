@@ -959,7 +959,7 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
 http://176.222.190.11/btv/SWM/Shanson_TV/Shanson_TV.m3u8
 #EXTINF:-1 tvg-id="aiva" group-title="Музыка", Aiva HD
-http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+http://217.25.80.15/aiva_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", BackusTV Music 
 https://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge TV
@@ -999,7 +999,7 @@ https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://93.155.227.38:555/m3u8/mtvlivehd.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
-http://194.145.202.71:8087/udp/239.254.5.229:6060
+http://45.5.119.155:8090/play/a0ge/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 90's
 https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV 00's
