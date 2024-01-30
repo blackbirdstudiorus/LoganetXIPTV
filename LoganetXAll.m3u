@@ -919,18 +919,19 @@ http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+http://194.26.229.213/777_Setanta-Sports-1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+http://194.26.229.213/777_Setanta-Sports-2/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
 http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine 
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+http://194.26.229.213/777_Setanta-Qazaqstan/index.m3u8
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://94.232.104.237:8000/play/063/index.m3u8
-
+#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
+http://217.25.80.15/Viasat_Sport_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
