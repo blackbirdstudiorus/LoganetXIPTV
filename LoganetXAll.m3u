@@ -258,6 +258,8 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bolt
 http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Bolt HD
+http://bigteisti2.cdn.lifeyosso.fun:32144/BOLT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Comedy Central
 http://bigteisti2.cdn.lifeyosso.fun:32144/PARAMOUNTCOMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema HD
