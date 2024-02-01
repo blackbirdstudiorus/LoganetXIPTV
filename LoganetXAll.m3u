@@ -262,6 +262,8 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 http://65.21.196.155/russia/fan/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Filmbox
 http://217.25.80.15/FilmBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", FilmUADrama
+http://bigteisti6.cdn.lifeyosso.fun:56371/FilmUADrama/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmZone
 http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FlixSnip
