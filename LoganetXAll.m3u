@@ -387,6 +387,8 @@ http://176.74.80.162:8099/CTCKids/index.m3u8
 http://91.207.115.228:5000/c69
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://91.207.115.228:5000/c71
+#EXTINF:-1 group-title="Детские", Тип-Топ HD 
+http://hls.k-telecom.org:8081/kt/182/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
 http://212.22.76.51:83/unikum/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Чижик
@@ -573,7 +575,7 @@ http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ключ
 http://lb.homeiptv.org/lb0/Kluch/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Ключ HD
-http://176.222.190.11/btv/SWM/klyuch_hd/klyuch_hd.m3u8
+http://hls.k-telecom.org:8081/kt/182/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
@@ -764,9 +766,9 @@ http://94.232.104.237:8000/play/044/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://195.245.99.251:8037
+http://hls.k-telecom.org:8081/kt/169/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-http://195.245.99.251:8148
+http://hls.k-telecom.org:8081/kt/170/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://91.207.115.228:5000/c98
 #EXTINF:-1 group-title="Хобби", Драйв
