@@ -236,8 +236,6 @@ http://91.207.115.228:5000/c90
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Хит HD
 http://65.21.196.155/russia/hit_hd/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
-http://data.homeiptv.org:8090/ShokirujucheHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1
 http://212.22.76.51:82/A1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2
