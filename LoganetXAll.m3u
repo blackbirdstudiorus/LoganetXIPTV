@@ -663,10 +663,10 @@ http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 http://94.232.104.237:8000/play/109/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
 http://91.207.115.228:5000/c150
-#EXTINF:-1 group-title="Познавательные", Museum 4K
-http://45.65.112.49:8000/play/a0gn
+#EXTINF:-1 group-title="Познавательные", Museum HD
+https://stream8.itv.uz/1451/index.m3u8
 #EXTINF:-1 group-title="Познавательные", MyZen HD
-http://bigteisti6.cdn.lifeyosso.fun:56371/myzen_hd/video.m3u8
+https://stream8.itv.uz/1452/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
