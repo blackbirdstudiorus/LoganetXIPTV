@@ -187,13 +187,9 @@ https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
 http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="komedijnoe-hd", Комедийное HD [MX(SW)]
-http://data.homeiptv.org:8090/Komediynoe_HD/video.m3u8
+https://streamer1.connectto.com/519/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Любимое HD
-http://bigteisti2.cdn.lifeyosso.fun:32144/LUBIMOE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
 http://88.135.128.20:7272/JS7lUbMstASMl0r
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала 
@@ -379,8 +375,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce-pl7", Солнце +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Детские", Советские мультфильмы
-https://s30.glaz.tv:8082/liveg/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://176.74.80.162:8099/CTCKids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
@@ -407,8 +401,6 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://bigteisti2.cdn.lifeyosso.fun:32144/JIMJAM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV
-http://31.211.77.158:8000/play/a165/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81/russia/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
@@ -655,8 +647,6 @@ http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", HGTV
-http://bigteisti2.cdn.lifeyosso.fun:32144/HGTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", History HD 
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
