@@ -127,7 +127,7 @@ http://91.207.115.228:5000/c30
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://109.248.236.21:4433/udp/238.1.1.176:1234
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
+http://hls.k-telecom.org:8081/kt/162/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 http://91.207.115.228:5000/c185
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
