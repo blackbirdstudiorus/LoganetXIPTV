@@ -146,12 +146,8 @@ http://live-1.otcnet.ru/kinosem/playlist.m3u8
 http://31.148.6.4:10059/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://94.230.128.105:8080/KinokomediaTV/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинокомедия HD
-https://stream10.itv.uz/1232/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
-https://stream10.itv.uz/1233/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://91.207.115.228:5000/c28
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
@@ -171,7 +167,7 @@ http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://94.230.128.105:8080/KINOSERIYA/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия HD 
-https://stream10.itv.uz/1235/index.m3u8
+http://62.231.191.65:8888/20
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
 http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
@@ -246,6 +242,8 @@ http://hls.k-telecom.org:8081/kt/206/playlist.m3u8
 http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FlixSnip
 http://91.207.115.228:5000/c60
+#EXTINF:-1 group-title="Кино и сериалы", Fox Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
