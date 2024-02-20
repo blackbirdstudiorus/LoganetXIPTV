@@ -207,7 +207,7 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
 http://91.207.115.228:5000/c35
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-http://178.124.182.25:7003/play/a01h
+http://195.191.130.11:9000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
@@ -269,10 +269,18 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", VHSка
 http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Action
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
+http://88.135.128.20:7272/5RqMvVnGzdoBQbf
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
+http://bal.krd.lifeyosso.fun:8880/bigteisti6/TV1000/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
 http://94.232.104.237:8000/play/040/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD
+http://bal.krd.lifeyosso.fun:8880/bigteisti6/TV1000ACTION/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
 http://94.232.104.237:8000/play/041/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
@@ -363,8 +371,6 @@ http://89.254.128.5:22280/nicktoons/video.m3u8
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", ПлюсПлюс
 http://149.5.17.34:20041/play/a06q
-#EXTINF:-1 group-title="Детские", Пiксель 
-rtmp://93.189.60.202//938
 #EXTINF:-1 group-title="Детские", Пiксель HD
 http://149.5.17.34:20041/play/a05s
 
@@ -372,7 +378,7 @@ http://149.5.17.34:20041/play/a05s
 #EXTINF:-1 group-title="Развлекательные", 2x2
  http://91.207.115.228:5000/c180
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
-https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -397,7 +403,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница! HD
-http://109.239.138.241:8000/pyatnicaott 
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8 
 #EXTINF:-1  group-title="Развлекательные", Резонанс ТВ
 http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
