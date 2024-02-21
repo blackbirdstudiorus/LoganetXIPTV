@@ -182,6 +182,8 @@ https://streamer1.connectto.com/519/mono.m3u8
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино 
 http://88.135.128.20:7272/JS7lUbMstASMl0r
+#EXTINF:-1 group-title="Кино и сериалы", Любимое HD
+http://5.153.190.251:8000/play/a067
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала 
 http://109.248.236.21:4433/udp/238.1.1.136:1234
 #EXTINF:-1 group-title="Кино и сериалы", Мосфильм. Золотая коллекция 
@@ -202,8 +204,12 @@ https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Про любовь
+http://5.153.190.251:8000/play/a06b
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино 
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Романтичное HD
+http://5.153.190.251:8000/play/a06d
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив 
@@ -220,6 +226,10 @@ http://91.207.115.228:5000/c90
 http://5.153.190.251:8000/play/a06e
 #EXTINF:-1 group-title="Кино и сериалы", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Хит
+http://5.153.190.251:8000/play/a06g
+#EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
+http://5.153.190.251:8000/play/a06h
 #EXTINF:-1 group-title="Кино и сериалы", A1 HD
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2 HD
