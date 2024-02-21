@@ -174,6 +174,8 @@ http://91.207.115.228:5000/c43
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
 http://91.205.199.3:80/kinoxithd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино UHD
+http://5.153.190.251:8000/play/a063
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="komedijnoe-hd", Комедийное HD
 https://streamer1.connectto.com/519/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Комедия 
@@ -214,6 +216,8 @@ http://91.142.158.107:8092/play/25/index.m3u8
 http://62.231.191.65:8888/91
 #EXTINF:-1 group-title="Кино и сериалы", Сапфир HD
 http://91.207.115.228:5000/c90
+#EXTINF:-1 group-title="Кино и сериалы", Сериал UHD
+http://5.153.190.251:8000/play/a06e
 #EXTINF:-1 group-title="Кино и сериалы", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1 HD
@@ -435,7 +439,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
-http://185.37.150.40:8092/Super/playlist.m3u8
+http://185.37.150.40:8092/Super/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные", Танцуй!
+http://5.153.190.251:8000/play/a05c
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -480,6 +486,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://91.207.115.228:5000/c146 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Romance Channel 
+http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", RTVI
 http://176.222.190.11/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC HD
@@ -605,6 +613,10 @@ https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", History HD 
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
+#EXTINF:-1 group-title="Познавательные", Insight
+https://stream3.itv.uz/1416/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Insight UHD
+http://5.153.190.251:8000/play/a06m
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
 http://94.232.104.237:8000/play/109/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
