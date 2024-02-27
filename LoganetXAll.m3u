@@ -797,8 +797,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Игра
-http://194.26.229.213/777_igra/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -806,37 +804,25 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD 
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец
-http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+http://185.37.150.40:8092/Boec/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD 
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
+http://188.113.190.15/103/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-https://kinescope.io/0atagBxvdQBTWbMd2xB6Vp/master.m3u8
+http://94.232.104.237:8000/play/059/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://91.207.115.228:5000/c114
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD 
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD [Пока не работает(]
 http://91.207.115.228:5000/c115
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://185.32.44.154/futbol3/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD 
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD [Пока не работает(]
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://92.100.39.32:2289/play/a07u/index.m3u8
-#EXTINF:-1 group-title="Спорт", Поединок
-http://194.26.229.213/777_poedinok/index.m3u8
-#EXTINF:-1 group-title="Спорт", Сила
-http://194.26.229.213/777_sila/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -845,34 +831,24 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Футбол HD
-https://kinescope.io/dwy2fEmxCjP4urMH7A6GSa/master.m3u8
-#EXTINF:-1 group-title="Спорт", Футбольный
-http://194.26.229.213/373_futboln/index.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://94.232.104.237:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://91.207.115.228:5000/c154
+http://94.232.104.237:8000/play/062/index.m3u8
 #EXTINF:-1 group-title="Спорт", Extreme Sports
-http://91.207.115.228:5000/c112
+http://176.113.48.221:8986/27
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
-http://176.74.80.162:8099/FightBox/index.m3u8
+https://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD 
-http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL Prime 
-http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Okko Спорт HD 
-http://194.26.229.213/777_oKkO/index.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 http://89.254.128.5:22280/qsport/index.m3u8 
 #EXTINF:-1 group-title="Спорт", Q League
@@ -885,19 +861,13 @@ http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-http://194.26.229.213/777_Setanta-Sports-1/index.m3u8
+http://109.248.236.21:4433/udp/238.1.1.162:1234
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-http://194.26.229.213/777_Setanta-Sports-2/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
-http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine 
-http://146.59.85.40:89/setantaplus/mono.m3u8
+http://109.248.236.21:4433/udp/238.1.1.163:1234
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
-http://194.26.229.213/777_Setanta-Qazaqstan/index.m3u8
+http://109.248.236.21:4433/udp/238.1.1.161:1234
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://94.232.104.237:8000/play/063/index.m3u8
-#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
-http://217.25.80.15/Viasat_Sport_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
