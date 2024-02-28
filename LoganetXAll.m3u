@@ -500,22 +500,20 @@ http://91.221.201.2:7013/play/a009/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных HD 
-http://109.248.236.21:4433/udp/238.1.1.48:1234
 #EXTINF:-1 group-title="Познавательные", Время 
-http://185.32.44.154/vremya/index.m3u8
+http://62.231.191.65:8888/29
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://88.85.172.243:7006/play/a011
+http://62.231.191.65:8888/49
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://185.32.44.154/galaxytv/index.m3u8
+http://92.100.39.32:22888/play/a03c
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
-http://91.207.115.228:5000/c159
+http://109.239.208.82/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
-http://146.158.0.56:80/EGETV/index.m3u8
+http://178.163.2.164:4022/udp/234.0.0.212:2000
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
+http://62.231.191.65:8888/17
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
 http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
