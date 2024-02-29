@@ -865,9 +865,9 @@ http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-http://otv.wotom.net:4433/udp/238.1.1.162:1234
+https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-http://otv.wotom.net:4433/udp/238.1.1.163:1234
+https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 http://otv.wotom.net:4433/udp/238.1.1.161:1234
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
