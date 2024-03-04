@@ -108,10 +108,8 @@ http://188.113.190.15/23/tracks-v1a1/index.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Видеокассета
-https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-http://91.207.115.228:5000/c30
+http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://109.248.236.21:4433/udp/238.1.1.176:1234
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
