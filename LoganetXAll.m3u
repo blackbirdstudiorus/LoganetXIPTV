@@ -152,8 +152,6 @@ http://otv.wotom.net:4433/udp/238.1.1.52:1234
 http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киносерия HD 
-http://62.231.191.65:8888/20
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
 http://31.131.136.4:8001/play/e00b
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
@@ -244,6 +242,8 @@ http://hls.k-telecom.org:8081/kt/208/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/211/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
 https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8 
+#EXTINF:-1 group-title="Кино и сериалы", Trash HD
+http://81.23.189.2:4022/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
