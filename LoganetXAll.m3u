@@ -16,7 +16,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 HD
-http://91.207.115.228:5000/c100
+http://81.23.189.2:4022/udp/234.0.0.112:2000
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv", НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
@@ -44,10 +44,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Общие", ОТР +2
 http://94.230.240.17:8080/otp/index.m3u8
-#EXTINF:-1 group-title="Общие", ОТР +4
-http://213.59.128.165:8888/play/OTR/index.m3u8
-#EXTINF:-1 group-title="Общие", ОТР
-http://hls.k-telecom.org:8081/kt/132/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr", ТВ Центр (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
@@ -103,11 +99,11 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black 
-http://91.207.115.228:5000/c79
+http://94.232.104.237:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .red
-http://91.207.115.228:5000/c78
+http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
-http://91.207.115.228:5000/c77
+http://188.113.190.15/23/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
