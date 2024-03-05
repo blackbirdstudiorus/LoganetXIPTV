@@ -203,7 +203,7 @@ http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2 HD
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://81.23.189.2:4022/udp/234.0.0.169:2000
+http://otv.wotom.net:4433/udp/238.1.1.96:1234
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
 http://otv.wotom.net:4433/udp/238.1.1.71:1234
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
