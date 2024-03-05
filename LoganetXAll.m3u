@@ -16,7 +16,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 HD
-http://81.23.189.2:4022/udp/234.0.0.112:2000
+https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv", НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
@@ -222,26 +222,30 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1 group-title="Кино и сериалы", FilmZone
 http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Fox HD
+https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
 http://92.242.110.52:9835/udp/238.1.8.1:1234
-#EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы", Plan B HD
-http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Plan B HD 
+http://88.85.172.243:7012/play/a028
 #EXTINF:-1 group-title="Кино и сериалы", Shot TV
-http://91.207.115.228:5000/c131
+http://92.242.110.52:9835/udp/238.1.6.2:1234
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema HD
 http://88.135.128.20:7272/szWljUvHlTAKXVa
 #EXTINF:-1 group-title="Кино и сериалы", Star Family HD 
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
-http://hls.k-telecom.org:8081/kt/208/playlist.m3u8
+http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World
 http://hls.k-telecom.org:8081/kt/211/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
 https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Trash HD
-http://81.23.189.2:4022/udp/234.0.0.3:2000
+http://178.163.58.232:4022/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="Кино и сериалы", TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
@@ -260,11 +264,11 @@ http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
 http://94.232.104.237:8000/play/041/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-http://91.207.115.228:5000/c145 
+http://94.232.104.237:8000/play/076/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
-http://91.207.115.228:5000/c144
+http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
-http://91.207.115.228:5000/c143
+http://92.242.110.52:9835/udp/238.1.3.6:1234
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial HD
 http://91.205.199.3:80/vipserialhd/index.m3u8
 
@@ -275,8 +279,6 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 http://195.26.83.96:7007/play/14/index.m3u8 
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="zhara" group-title="Детские", Жара Kids TV
-http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
@@ -319,30 +321,30 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce-pl7", Солнце +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Детские", СТС Kids
-http://176.74.80.162:8099/CTCKids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
-http://91.207.115.228:5000/c69
+http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
-http://91.207.115.228:5000/c71
-#EXTINF:-1 group-title="Детские", Тип-Топ HD 
-http://hls.k-telecom.org:8081/kt/182/playlist.m3u8
+http://94.232.104.237:8000/play/093/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://91.207.115.228:5000/c65
+http://85.114.169.66:4022/udp/232.0.2.49:1234э́
 #EXTINF:-1 group-title="Детские", Чижик
 http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 group-title="Детские", Ani
-http://hls.k-telecom.org:8081/kt/151/playlist.m3u8
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-#EXTINF:-1 group-title="Детские", Cartoonito 
-http://cdn.klimedia.space/lb/Boomerang/index.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Classics
+http://178.163.83.19:4022/udp/234.0.0.238:2000
+#EXTINF:-1 group-title="Детские", Cartoonito
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Network
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV HD
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://cdn.klimedia.space/lb/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon
+http://88.135.128.20:7272/DL3JGiEPHMCY4vy
 #EXTINF:-1 group-title="Детские", Nick Jr.
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Детские", Nicktoons
