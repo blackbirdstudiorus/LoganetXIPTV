@@ -572,21 +572,21 @@ https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Тонус 
-http://91.207.115.228:5000/c92
+http://109.239.208.82/tonus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Успех 
 http://146.158.0.56:80/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://91.207.115.228:5000/c147
+http://otv.wotom.net:4433/udp/238.1.1.25:1234
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://135.181.115.81/russia/animal_planet/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Big Planet
-http://91.207.115.228:5000/c94
+https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
+#EXTINF:-1 group-title="Познавательные", Big Planet 
+http://92.242.110.52:9835/udp/238.1.8.20:1234
+#EXTINF:-1 group-title="Познавательные", Big Planet HD
+https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
 http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
-http://212.22.76.51:83/davinci/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery Science HD
-http://185.32.44.154/discoveryscience/index.m3u8
+http://92.242.110.52:9835/udp/238.1.8.45:1234
 #EXTINF:-1 group-title="Познавательные", English Class
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
