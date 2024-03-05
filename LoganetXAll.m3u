@@ -497,11 +497,11 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
-http://62.231.191.65:8888/29
+http://195.26.83.96:7022/play/a011/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://62.231.191.65:8888/49
+https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://92.100.39.32:22888/play/a03c
+http://188.113.190.15/29/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://109.239.208.82/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
@@ -509,25 +509,23 @@ http://178.163.2.164:4022/udp/234.0.0.212:2000
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
-http://62.231.191.65:8888/17
+https://bkm.beetv.kz/btv/live/hls/000001187.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
 http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
- http://91.207.115.228:5000/c179
-#EXTINF:-1 group-title="Познавательные", Зоо ТВ 
-http://91.207.115.228:5000/c91
+ http://81.23.189.2:4022/udp/234.0.0.221:2000
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Ключ HD
-http://hls.k-telecom.org:8081/kt/218/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Мир Вокруг
+http://81.28.217.78:4022/udp/239.211.211.73:1234
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
-http://46.151.151.245:10002/play/a0b5
+http://94.232.104.237:8000/play/072/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
@@ -535,7 +533,7 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://91.207.115.228:5000/c83
+http://94.232.104.237:8000/play/073/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
@@ -550,17 +548,17 @@ http://146.158.0.56:80/OtkritiyMir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
 https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
- http://217.25.80.15/Eureka_HD/tracks-v1a1/mono.m3u8
+ https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
-http://212.22.76.51:82/Pobeda/tracks-v1a1/mono.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.128:1234
 #EXTINF:-1 group-title="Познавательные", Поехали!
-http://212.22.76.51:82/poehali/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7022/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
 http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Психология 21
-http://91.207.115.228:5000/c175
+http://188.113.190.15/73/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8 
 #EXTINF:-1 group-title="Познавательные", Ретро
