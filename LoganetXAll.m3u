@@ -220,8 +220,14 @@ https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
 http://92.242.110.52:9835/udp/238.1.7.6:1234
+#EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
+http://188.113.190.15/207/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", FilmUADrama
+https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmZone
 http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Flix Snip
+http://92.242.110.52:9835/udp/238.1.8.38:1234
 #EXTINF:-1 group-title="Кино и сериалы", Fox HD
 https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
