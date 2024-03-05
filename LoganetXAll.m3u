@@ -251,7 +251,7 @@ http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы", Start Air
 http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World
-http://hls.k-telecom.org:8081/kt/211/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Timeless Dizi Channel 
 https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Trash HD
@@ -382,6 +382,8 @@ http://otv.wotom.net:4433/udp/238.1.1.2:1234
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Конгресс ТВ   
+http://live-3.otcnet.ru/KongresTV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение 
