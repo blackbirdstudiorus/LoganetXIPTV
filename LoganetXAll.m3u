@@ -203,9 +203,9 @@ http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2 HD
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://62.231.191.65:8888/93
+http://81.23.189.2:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
-http://91.207.115.228:5000/c58
+http://otv.wotom.net:4433/udp/238.1.1.71:1234
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Кино и сериалы", BackusTV Dark HD 
@@ -213,21 +213,19 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Bolt
-http://hls.k-telecom.org:8081/kt/48/playlist.m3u8
+http://88.135.128.20:7272/6B1DxxB8sXUqpZM
 #EXTINF:-1 group-title="Кино и сериалы", Cinema HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
-http://hls.k-telecom.org:8081/kt/206/playlist.m3u8
+http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1 group-title="Кино и сериалы", FilmZone
 http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", FlixSnip
-http://91.207.115.228:5000/c60
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kinoliving
-http://91.207.115.228:5000/c61
+http://92.242.110.52:9835/udp/238.1.8.1:1234
 #EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы", Plan B HD
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Shot TV
