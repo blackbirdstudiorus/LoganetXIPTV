@@ -376,8 +376,12 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
+https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
 http://otv.wotom.net:4433/udp/238.1.1.2:1234
+#EXTINF:-1 group-title="Развлекательные", Зал суда
+http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
