@@ -238,6 +238,8 @@ https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 http://92.242.110.52:9835/udp/238.1.8.1:1234
 #EXTINF:-1 group-title="Кино и сериалы", Plan B HD 
 http://88.85.172.243:7012/play/a028
+#EXTINF:-1 group-title="Кино и сериалы", Romance Channel 
+http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Shot TV
 http://92.242.110.52:9835/udp/238.1.6.2:1234
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema HD
@@ -467,15 +469,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
-http://91.207.115.228:5000/c146 
+https://bkm.beetv.kz/btv/live/hls/000001496.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
-http://176.74.80.162:8099/Gagsnetwork/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Romance Channel 
-http://146.158.0.56:80/Motosport/index.m3u8
+http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", RTVI
-http://176.222.190.11/btv/SWM/RTVi/RTVi.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC HD
-http://91.207.115.228:5000/c151    
+https://bkm.beetv.kz/btv/live/hls/000001498.m3u8    
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 
