@@ -593,8 +593,6 @@ http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 http://94.232.104.237:8000/play/083/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
 https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", H2
-http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
 #EXTINF:-1 group-title="Познавательные", H2 HD
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
