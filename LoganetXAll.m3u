@@ -621,14 +621,14 @@ https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", Trace Sport Stars
+http://92.242.110.52:9835/udp/238.1.9.30:1234
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
-http://212.22.76.51:83/Travel_Adventure/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://91.207.115.228:5000/c149
+http://92.242.110.52:9835/udp/238.1.9.13:1234
+#EXTINF:-1 group-title="Познавательные", Travel XP
+http://otv.wotom.net:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные", Travel XP HD 
 http://109.248.236.21:4433/udp/238.1.1.124:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd", TravelXP English HD
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
@@ -638,7 +638,7 @@ http://94.232.104.237:8000/play/078/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://94.232.104.237:8000/play/077/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://185.32.44.154/ViasatNatureHD/index.m3u8
+http://92.242.110.52:9835/udp/238.1.3.5:1234
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
 
