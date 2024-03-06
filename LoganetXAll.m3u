@@ -587,8 +587,12 @@ https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
 http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://92.242.110.52:9835/udp/238.1.8.45:1234
+#EXTINF:-1 group-title="Познавательные", DocuBox
+http://94.232.104.237:8000/play/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", English Club TV
+http://otv.wotom.net:4433/udp/238.1.1.109:1234
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://94.232.104.237:8000/play/083/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
@@ -599,32 +603,20 @@ https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", History HD 
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
-#EXTINF:-1 group-title="Познавательные", Insight
-https://stream3.itv.uz/1416/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Insight UHD
-http://5.153.190.251:8000/play/a06m
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://94.232.104.237:8000/play/109/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
-http://91.207.115.228:5000/c150
-#EXTINF:-1 group-title="Познавательные", Museum HD
-https://stream8.itv.uz/1451/index.m3u8
-#EXTINF:-1 group-title="Познавательные", MyZen HD
-https://stream8.itv.uz/1452/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic
-http://135.181.115.81/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
-http://95.216.6.244/National_Geographic_HD/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
-http://217.25.80.15/National_Geographic_HD/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
