@@ -652,7 +652,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
-http://212.22.76.51:83/Moskva_24/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 group-title="Новости", Москва. Доверие
 https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
@@ -668,13 +668,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 #EXTINF:-1 group-title="Новости", Соловьёв.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 group-title="Новости", BBC World News
-http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 group-title="Новости", CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://lb.homeiptv.org/lb0/Euronews/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 group-title="Новости", France 24
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости", Rai News 24
