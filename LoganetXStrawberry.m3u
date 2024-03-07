@@ -51,6 +51,8 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.135.128.20:7272/urYgd52Dcxp47Ge
 #EXTINF:-1, Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1, Exxxxotica HD
+http://146.59.54.163:80/362/mono.m3u8
 #EXTINF:-1, Hustler HD
 http://146.59.54.163/348/index.m3u8 
 #EXTINF:-1, O-la-la
@@ -67,6 +69,10 @@ https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
 https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1, Venus
+http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1, Vivid Red
+http://146.59.54.163:80/361/mono.m3u8
 #EXTINF:-1, Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1, Русская ночь
