@@ -727,6 +727,8 @@ http://92.242.110.52:9835/udp/238.1.2.8:1234
 http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
 http://188.113.190.15/314/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Лапки Live
+http://otv.wotom.net:4433/udp/238.1.1.181:1234
 #EXTINF:-1 group-title="Хобби", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
@@ -740,17 +742,19 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
 http://94.232.104.237:8000/play/091/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://212.22.76.51:83/Ohota_i_rybalka/tracks-v1a1/mono.m3u8
+http://81.23.189.2:4022/udp/234.0.0.230:2000
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://94.228.204.166:8000/play/0093
+https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
-http://176.222.190.11/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.22:1234
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://46.151.151.245:10007/play/a003
+http://195.26.83.96:7022/play/a010/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
-http://91.207.115.228:5000/c176
+http://94.232.104.237:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
+http://92.242.110.52:9835/udp/238.1.7.5:1234
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
@@ -758,7 +762,7 @@ https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
 #EXTINF:-1 group-title="Хобби", FashionBox
-http://176.74.80.162:8099/FashionBox/index.m3u8
+http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
@@ -793,16 +797,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена HD 
-http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец
 http://92.242.110.52:9835/udp/238.1.2.7:1234
-#EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Игра
+http://94.232.104.237:8000/play/108/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://92.100.39.32:22888/play/a03f
+http://otv.wotom.net:4433/udp/238.1.1.14:1234
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://92.242.110.52:9835/udp/238.1.2.3:1234
 #EXTINF:-1 group-title="Спорт", Матч! Страна
@@ -810,11 +814,13 @@ http://94.232.104.237:8000/play/059/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://80.85.241.205:8070/m2/index.m3u8
+https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://92.242.110.52:9835/udp/238.1.2.6:1234
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://92.100.39.32:22888/play/a03p
+http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -823,8 +829,6 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Футбольный
-http://62.231.191.65:8888/95
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://94.232.104.237:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
@@ -843,14 +847,14 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Okko Sport HD
+http://90.156.210.69:8080/okka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 http://89.254.128.5:22280/qsport/index.m3u8 
 #EXTINF:-1 group-title="Спорт", Q League
 http://109.248.236.21:4433/udp/238.1.1.143:1234 
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Russian Extreme HD
-http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
@@ -859,7 +863,7 @@ https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
-http://otv.wotom.net:4433/udp/238.1.1.161:1234
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://94.232.104.237:8000/play/063/index.m3u8
 
@@ -906,7 +910,7 @@ https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="classic-music" group-title="Музыка", Classic Music
-http://92.100.39.32:22888/play/a045
+http://88.85.172.243:7002/play/a032
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
@@ -920,7 +924,7 @@ http://92.242.110.52:9835/udp/238.1.9.9:1234
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live 
-http://92.100.39.32:22888/play/a07i
+http://92.242.110.52:9835/udp/238.1.3.4:1234
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://45.5.119.155:8090/play/a0hz/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
@@ -935,6 +939,8 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Музыка", Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыка", Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
