@@ -69,3 +69,5 @@ https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1, Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1, Русская ночь
+http://188.113.190.15/318/tracks-v1a1/index.m3u8
