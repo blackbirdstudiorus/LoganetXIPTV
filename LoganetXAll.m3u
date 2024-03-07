@@ -220,6 +220,8 @@ http://88.135.128.20:7272/6B1DxxB8sXUqpZM
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Comedy Central
+https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FAN 
 http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
