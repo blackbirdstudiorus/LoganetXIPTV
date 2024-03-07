@@ -722,17 +722,19 @@ https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.
 #EXTINF:-1 group-title="Хобби", Загородный 
 http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
-https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+http://92.242.110.52:9835/udp/238.1.2.8:1234
 #EXTINF:-1 group-title="Хобби", КтоКуда
-http://88.85.172.243:7011/play/a01s
+http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
-http://91.207.115.228:5000/c74
+http://188.113.190.15/314/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
-http://91.207.115.228:5000/c70
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Хобби", Моя стихия 
+http://92.242.110.52:9835/udp/238.1.7.19:1234
 #EXTINF:-1 group-title="Хобби", Мужской 
 https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Наша тема 
-http://live-1.otcnet.ru/nashatema1/tracks-v1a1/index.m3u8
+http://188.113.190.15/218/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
