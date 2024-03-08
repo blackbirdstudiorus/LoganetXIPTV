@@ -350,7 +350,7 @@ http://178.163.83.19:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Cartoonito
 https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+http://94.232.104.237:8000/play/032/index.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV HD
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -463,7 +463,7 @@ https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Туган Тел
 http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ЦТВ
-http://185.37.150.40:8092/ctv/playlist.m3u8
+http://188.113.190.15/228/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -767,6 +767,10 @@ http://camera.global-x.ru/FashionBox/index.m3u8
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Хобби", Women Magazine
+http://92.242.110.52:9835/udp/238.1.8.19:1234
+#EXTINF:-1 group-title="Хобби", Women Magazine HD
+https://bkm.beetv.kz/btv/live/hls/000008065.m3u8
 
 
 #EXTINF:-1 group-title="Религия", Союз
