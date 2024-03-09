@@ -597,6 +597,8 @@ http://94.232.104.237:8000/play/205/index.m3u8
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club TV
 http://otv.wotom.net:4433/udp/238.1.1.109:1234
+#EXTINF:-1 group-title="Познавательные", Epic HD
+http://strm.yandex.ru/kal/epic/epic0.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://94.232.104.237:8000/play/083/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
