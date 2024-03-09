@@ -111,7 +111,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Видеокассета
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
-http://195.26.83.96:7022/play/a00v/index.m3u8
+http://45.15.43.12:80/domkino/video.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://109.248.236.21:4433/udp/238.1.1.176:1234
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
@@ -288,7 +288,7 @@ http://91.205.199.3:80/vipserialhd/index.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
-http://195.26.83.96:7007/play/14/index.m3u8 
+http://94.232.104.237:8000/play/034/index.m3u8 
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
@@ -338,7 +338,7 @@ http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://94.232.104.237:8000/play/093/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://85.114.169.66:4022/udp/232.0.2.49:1234э́
+http://94.232.104.237:8000/play/031/index.m3u8
 #EXTINF:-1 group-title="Детские", Чижик
 http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 group-title="Детские", Ani
@@ -501,7 +501,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
-http://195.26.83.96:7022/play/a011/index.m3u8
+http://188.113.190.15/118/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
 https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
@@ -556,7 +556,7 @@ https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belar
 #EXTINF:-1 group-title="Познавательные", Победа
 http://otv.wotom.net:4433/udp/238.1.1.128:1234
 #EXTINF:-1 group-title="Познавательные", Поехали!
-http://195.26.83.96:7022/play/a00z/index.m3u8
+http://91.221.201.2:7013/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
 http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
@@ -574,7 +574,7 @@ http://94.232.104.237:8000/play/080/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
-http://195.26.83.96:7005/play/16/index.m3u8
+http://188.113.190.15/180/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Тонус 
 http://109.239.208.82/tonus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Успех 
@@ -656,9 +656,9 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
-http://195.26.83.96:7007/play/a008/index.m3u8
+http://92.242.110.52:9835/udp/238.1.9.22:1234
 #EXTINF:-1 group-title="Новости", Москва. Доверие
-https://player.smotrim.ru/iframe/stream/live_id/61125
+http://92.242.110.52:9835/udp/238.1.7.20:1234
 #EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 group-title="Новости", РБК 
@@ -752,7 +752,7 @@ https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://otv.wotom.net:4433/udp/238.1.1.22:1234
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://195.26.83.96:7022/play/a010/index.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.99:1234
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
@@ -892,7 +892,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
 http://109.239.208.82:80/muz1/index.m3u8
 #EXTINF:-1 group-title="Музыка", О2ТВ
-http://195.26.83.96:7006/play/1/index.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.17:1234
 #EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
