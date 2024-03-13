@@ -57,7 +57,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
-http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=111
 #EXTINF:-1 group-title="Общие", РенТВ Int
 http://45.159.74.14:80/RenTv/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
@@ -99,7 +99,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black 
-http://94.232.104.237:8000/play/106/index.m3u8
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .red
 http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
@@ -114,12 +114,14 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 http://45.15.43.12:80/domkino/video.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
 http://109.248.236.21:4433/udp/238.1.1.176:1234
+#EXTINF:-1 group-title="Кино и сериалы", Дорама
+http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
-http://94.232.104.237:8000/play/075/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
-http://94.232.104.237:8000/play/049/index.m3u8
+http://83.234.207.29:8008/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
