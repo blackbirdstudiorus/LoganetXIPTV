@@ -272,13 +272,19 @@ http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
 http://88.135.128.20:7272/5RqMvVnGzdoBQbf
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
-http://94.232.104.237:8000/play/039/index.m3u8
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
+https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
-http://94.232.104.237:8000/play/040/index.m3u8
+http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD 
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
-http://94.232.104.237:8000/play/041/index.m3u8
+http://83.234.207.29:8011/play/a005/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD 
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-http://94.232.104.237:8000/play/076/index.m3u8 
+http://83.234.207.29:8013/play/a00f/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
 http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
