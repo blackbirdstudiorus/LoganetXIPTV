@@ -207,9 +207,9 @@ http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс Плюс Кино
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A1 HD
-http://185.37.150.40:8092/Amedia1/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", A2 HD
-http://185.37.150.40:8092/Amedia2/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000351.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
 http://otv.wotom.net:4433/udp/238.1.1.96:1234
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
@@ -234,8 +234,6 @@ http://92.242.110.52:9835/udp/238.1.7.6:1234
 http://188.113.190.15/207/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmUADrama
 https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", FilmZone
-http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Flix Snip
 http://92.242.110.52:9835/udp/238.1.8.38:1234
 #EXTINF:-1 group-title="Кино и сериалы", Fox HD
