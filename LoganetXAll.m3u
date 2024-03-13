@@ -269,8 +269,6 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", VHSка
 http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Action
-http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
 http://88.135.128.20:7272/5RqMvVnGzdoBQbf
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
