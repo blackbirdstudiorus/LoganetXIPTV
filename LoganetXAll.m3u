@@ -93,7 +93,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8 
 #EXTINF:-1 group-title="Общие", ТНВ Татарстан
-http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=113
 #EXTINF:-1 group-title="Общие", ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
@@ -125,15 +125,19 @@ http://83.234.207.29:8008/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
-http://94.232.104.237:8000/play/097/index.m3u8
+http://83.234.207.29:8003/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко
 http://176.113.48.221:8986/115
+#EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD
+https://bkm.beetv.kz/btv/live/hls/000008136.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://91.142.158.107:8092/play/28/index.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
+http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
@@ -141,7 +145,7 @@ https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://176.113.48.221:8986/67
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://94.232.104.237:8000/play/047/index.m3u8
+http://178.163.37.154:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
 http://otv.wotom.net:4433/udp/238.1.1.19:1234
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
