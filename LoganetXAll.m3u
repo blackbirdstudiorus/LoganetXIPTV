@@ -830,7 +830,7 @@ http://94.232.104.237:8000/play/108/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://otv.wotom.net:4433/udp/238.1.1.14:1234
+http://83.234.207.29:8004/play/a014/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://92.242.110.52:9835/udp/238.1.2.3:1234
 #EXTINF:-1 group-title="Спорт", Матч! Страна
