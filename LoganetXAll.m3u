@@ -635,6 +635,8 @@ https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные", Silkway HD
+http://188.113.190.15/163/mono.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
 https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
