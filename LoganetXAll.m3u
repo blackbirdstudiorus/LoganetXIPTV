@@ -541,7 +541,7 @@ http://81.28.217.78:4022/udp/239.211.211.73:1234
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
-http://94.232.104.237:8000/play/072/index.m3u8
+http://83.234.207.29:8007/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
