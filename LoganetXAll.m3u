@@ -382,7 +382,7 @@ http://149.5.17.34:20041/play/a05s
 
 
 #EXTINF:-1 group-title="Развлекательные", 2x2
- http://178.163.41.245:81/udp/234.0.0.244:2000
+ http://178.163.104.252:4022/udp/234.0.0.244:2000
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
@@ -433,7 +433,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС HD
-http://185.37.150.40:8092/CTC_HD/tracks-v1a1/mono.m3u8
+http://31.131.136.4:8001/play/e001
 #EXTINF:-1 group-title="Развлекательные", СТС International
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
@@ -448,8 +448,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super-pl7", Суббота! +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD 
-http://185.37.150.40:8092/Super/playlist.m3u8 
+#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота!
+http://83.234.207.29:8004/play/a01b/index.m3u8 
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
 http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
@@ -459,7 +459,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
-http://94.232.104.237:8000/play/138/index.m3u8
+http://92.242.110.52:9835/udp/238.1.4.4:1234
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
