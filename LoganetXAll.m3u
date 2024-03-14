@@ -136,8 +136,10 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +4
+http://91.205.199.7:8000/play/a0qr
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://83.234.207.29:8013/play/a00m/index.m3u8
+http://91.205.199.7:8000/play/a0r7
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
@@ -284,7 +286,7 @@ http://83.234.207.29:8011/play/a005/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино HD 
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-http://83.234.207.29:8013/play/a00f/index.m3u8 
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
 http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
