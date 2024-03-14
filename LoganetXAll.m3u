@@ -121,7 +121,7 @@ https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
-http://83.234.207.29:8008/play/a01y/index.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.104:1234
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
@@ -300,7 +300,7 @@ http://91.205.199.3:80/vipserialhd/index.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
-http://94.232.104.237:8000/play/034/index.m3u8 
+http://92.242.110.52:9835/udp/238.1.8.30:1234 
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
@@ -328,7 +328,7 @@ https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
-http://94.232.104.237:8000/play/241/index.m3u8
+http://87.76.32.36:9106/udp/238.1.1.93:1234
 #EXTINF:-1 group-title="Детские", Пингвин Лоло
 https://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
@@ -348,9 +348,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
-http://94.232.104.237:8000/play/093/index.m3u8
+http://83.234.207.29:8003/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://94.232.104.237:8000/play/031/index.m3u8
+http://85.114.169.66:4022/udp/232.0.2.49:1234
 #EXTINF:-1 group-title="Детские", Чижик
 http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 group-title="Детские", Ani
@@ -358,11 +358,11 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
-http://178.163.83.19:4022/udp/234.0.0.238:2000
+http://178.163.2.88:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Cartoonito
 https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://94.232.104.237:8000/play/032/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV HD
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -372,7 +372,7 @@ http://88.135.128.20:7272/DL3JGiEPHMCY4vy
 #EXTINF:-1 group-title="Детские", Nick Jr.
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Детские", Nicktoons
-http://89.254.128.5:22280/nicktoons/video.m3u8 
+https://bkm.beetv.kz/btv/live/hls/000004365.m3u8 
 #EXTINF:-1 group-title="Детские", TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", ПлюсПлюс
