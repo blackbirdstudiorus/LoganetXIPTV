@@ -139,7 +139,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +4
 http://91.205.199.7:8000/play/a0qr
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://91.205.199.7:8000/play/a0r7
+http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
@@ -531,7 +531,7 @@ http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
- http://81.23.189.2:4022/udp/234.0.0.221:2000
+ http://94.230.128.105:8080/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
@@ -549,7 +549,7 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://94.232.104.237:8000/play/073/index.m3u8
+http://188.113.190.15/96/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь
