@@ -404,6 +404,8 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://91.205.199.7:8000/play/a0sj
 #EXTINF:-1 group-title="Развлекательные", Конгресс ТВ   
 http://live-3.otcnet.ru/KongresTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ММТВ 
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=7013
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение 
@@ -508,6 +510,8 @@ http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://91.221.201.2:7013/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Арт
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=7407
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
