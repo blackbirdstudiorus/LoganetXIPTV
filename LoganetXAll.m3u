@@ -829,8 +829,8 @@ http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец
 http://92.242.110.52:9835/udp/238.1.2.7:1234
-#EXTINF:-1 group-title="Спорт", Матч! Игра
-http://94.232.104.237:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+http://193.201.98.10:5000/c104
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
@@ -838,7 +838,7 @@ http://83.234.207.29:8004/play/a014/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://92.242.110.52:9835/udp/238.1.2.3:1234
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://94.232.104.237:8000/play/059/index.m3u8
+http://193.201.98.10:5000/c106
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
@@ -857,12 +857,10 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Хоккейный HD
-http://94.232.104.237:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://94.232.104.237:8000/play/062/index.m3u8
+http://193.201.98.10:5000/c154
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://176.113.48.221:8986/27
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD
@@ -875,10 +873,8 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Okko Sport HD
-http://90.156.210.69:8080/okka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
-http://89.254.128.5:22280/qsport/index.m3u8 
+http://88.135.128.20:7272/ipKJnd6cVw1Nu7a 
 #EXTINF:-1 group-title="Спорт", Q League
 http://109.248.236.21:4433/udp/238.1.1.143:1234 
 #EXTINF:-1 group-title="Спорт", Russian Extreme
@@ -892,8 +888,8 @@ https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Спорт", Viju+ Sport
-http://94.232.104.237:8000/play/063/index.m3u8
+#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
