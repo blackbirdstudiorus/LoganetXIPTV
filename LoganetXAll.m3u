@@ -867,6 +867,8 @@ http://176.113.48.221:8986/27
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
 https://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Golf Channel English
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
