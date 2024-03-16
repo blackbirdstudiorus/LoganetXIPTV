@@ -879,6 +879,8 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Q Arena
+http://otv.wotom.net:4433/udp/238.1.1.142:1234
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a 
 #EXTINF:-1 group-title="Спорт", Q League
@@ -896,6 +898,8 @@ https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
 http://serv7.iptv11.com/SetantaSportsHD-ua/video.m3u8
+#EXTINF:-1 group-title="Спорт", Sport+ Qazaqstan
+http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 group-title="Спорт", Viju+ Sport HD
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
