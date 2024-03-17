@@ -120,6 +120,8 @@ http://109.248.236.21:4433/udp/238.1.1.176:1234
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
 https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Душевное
+http://serv7.iptv11.com/246/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
