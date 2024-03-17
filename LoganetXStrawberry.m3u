@@ -64,9 +64,9 @@ http://51.159.102.100/PenthouseGold/index.m3u8
 #EXTINF:-1, Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1, Private HD
-https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
+http://cdn-nvm-chicago.lolokoko.tv/PRIVATE.stream/chunks.m3u8
 #EXTINF:-1, Redlight HD
-https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
+http://cdn-nvm-chicago.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1, Venus
