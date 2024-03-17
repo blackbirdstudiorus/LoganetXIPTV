@@ -128,6 +128,8 @@ http://otv.wotom.net:4433/udp/238.1.1.104:1234
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://83.234.207.29:8003/play/a014/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Камеди 
+http://serv7.iptv11.com/255/video.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко
 http://176.113.48.221:8986/115
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы", Кинеко HD
