@@ -439,7 +439,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС HD
-http://31.131.136.4:8001/play/e001
+http://serv7.iptv11.com/STSHD/video.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС International
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
