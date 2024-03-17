@@ -115,7 +115,9 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
 http://45.15.43.12:80/domkino/video.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
-http://109.248.236.21:4433/udp/238.1.1.176:1234
+http://otv.wotom.net:4433/udp/238.1.1.66:1234
+#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
