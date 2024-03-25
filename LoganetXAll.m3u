@@ -539,7 +539,7 @@ http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
- http://94.230.128.105:8080/ZdorovoeTV/index.m3u8
+ http://193.201.98.10:5000/c179
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
