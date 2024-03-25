@@ -161,9 +161,9 @@ https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья 
-http://otv.wotom.net:4433/udp/238.1.1.52:1234 
+http://83.234.207.29:8003/play/a01a/index.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья HD
-http://91.205.199.3:80/kinosemyahd/index.m3u8
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
