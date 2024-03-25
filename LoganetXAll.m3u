@@ -386,7 +386,7 @@ http://149.5.17.34:20041/play/a05s
 
 
 #EXTINF:-1 group-title="Развлекательные", 2x2
- http://178.163.104.252:4022/udp/234.0.0.244:2000
+ http://178.163.51.39:4022/udp/234.0.0.244:2000
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
@@ -427,7 +427,7 @@ http://streamer2.fokks.ru:10016/index.m3u8
 #EXTINF:-1  group-title="Развлекательные", Резонанс ТВ
 http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
-http://n1.slavmir.tv:80/live/slavmir/playlist.m3u8
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1  group-title="Развлекательные", Светлое ТВ
