@@ -603,8 +603,6 @@ https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
 http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://92.242.110.52:9835/udp/238.1.8.45:1234
-#EXTINF:-1 group-title="Познавательные", DocuBox
-http://194.28.155.235:81/udp/225.0.56.8:1234
 #EXTINF:-1 group-title="Познавательные", English Class
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club TV
@@ -625,10 +623,6 @@ http://31.131.136.4:8001/play/e017
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://83.234.207.29:8008/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Museum TV HD
-https://stream1.itv.uz/1451/index.m3u8
-#EXTINF:-1 group-title="Познавательные", MyZen TV HD
-https://stream1.itv.uz/1452/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
