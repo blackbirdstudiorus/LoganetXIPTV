@@ -354,7 +354,7 @@ http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://83.234.207.29:8003/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://85.114.169.66:4022/udp/232.0.2.49:1234
+http://188.113.190.15/41/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", Чижик
 http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 group-title="Детские", Ani
