@@ -529,7 +529,9 @@ http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
- http://193.201.98.10:5000/c179
+http://193.201.98.10:5000/c179
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ
+http://91.207.114.209:5000/c91
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
@@ -580,7 +582,7 @@ http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://streaming.tv-teleport.ru/Teleputeshestviya/index.m3u8
+http://91.207.114.209:5000/c93
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
@@ -764,7 +766,9 @@ https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
 https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
-http://otv.wotom.net:4433/udp/238.1.1.22:1234
+http://otv.wotom.net:4433/udp/238.1.1.22:123 
+#EXTINF:-1 group-title="Хобби", Рыболов
+http://91.207.114.209:5000/c109
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://otv.wotom.net:4433/udp/238.1.1.99:1234
 #EXTINF:-1 group-title="Хобби", Усадьба
