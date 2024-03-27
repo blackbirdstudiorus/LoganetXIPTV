@@ -139,7 +139,7 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
-http://91.205.199.7:8000/play/a0qr
+http://88.85.172.243:7014/play/a01i
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
 http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
