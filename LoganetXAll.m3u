@@ -457,7 +457,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
-http://92.242.110.52:9835/udp/238.1.4.4:1234
+http://91.207.114.209:5000/c157
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
@@ -645,6 +645,8 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://92.242.110.52:9835/udp/238.1.9.30:1234
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://92.242.110.52:9835/udp/238.1.9.13:1234
+#EXTINF:-1 group-title="Познавательные", Travel Channel
+http://91.207.114.209:5000/c149
 #EXTINF:-1 group-title="Познавательные", Travel XP
 http://otv.wotom.net:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные", Travel XP HD 
