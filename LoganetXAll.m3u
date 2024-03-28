@@ -965,6 +965,8 @@ https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 #EXTINF:-1 group-title="Музыка", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыка", Nickmusic  
+https://cdn-nvm-chicago.lolokoko.tv/NickMusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Музыка", Russian MusicBox
