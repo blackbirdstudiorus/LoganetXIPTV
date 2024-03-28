@@ -941,8 +941,18 @@ https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 http://88.85.172.243:7002/play/a032
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Dance 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Flashback 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Music 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Rock 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
 http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="Музыка", Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
@@ -957,6 +967,8 @@ http://92.242.110.52:9835/udp/238.1.3.4:1234
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://45.5.119.155:8090/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Poland
+https://cdn-nvm-chicago.lolokoko.tv/MtvPolska.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
 http://45.5.119.155:8090/play/a0ge/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 90's
@@ -967,6 +979,12 @@ https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музыка", Nickmusic  
 https://cdn-nvm-chicago.lolokoko.tv/NickMusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="Музыка", Polsat Music HD
+https://cdn-nvm-chicago.lolokoko.tv/polsatmusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="Музыка", Radio M2O 
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыка", Retro Plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV 
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF:-1 group-title="Музыка", Russian MusicBox
@@ -976,4 +994,8 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8 
+#EXTINF:-1 group-title="Музыка", Viva TV Russia
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8 
+#EXTINF:-1 group-title="Музыка", Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
