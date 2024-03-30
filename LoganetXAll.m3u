@@ -544,6 +544,8 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://83.234.207.29:8007/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Мы
+https://strm.yandex.ru/kal/my/my0.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
