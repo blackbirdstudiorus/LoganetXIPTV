@@ -115,7 +115,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
-http://45.15.43.12:80/domkino/video.m3u8?token=test
+http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
 http://otv.wotom.net:4433/udp/238.1.1.66:1234
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
@@ -143,15 +143,19 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
-http://88.85.172.243:7014/play/a01i
+http://live-3.otcnet.ru/kinotvplus4/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ +7
+ihttp://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://83.234.207.29:8013/play/a00m/index.m3u8
+http://195.191.130.17:8085/udp/127.0.0.1:20381
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
-http://176.113.48.221:8986/67
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://178.163.37.154:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино", Кинопремьера
@@ -162,6 +166,8 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 http://83.234.207.29:8003/play/a01a/index.m3u8 
 #EXTINF:-1 group-title="Кино", Киносемья HD
@@ -169,7 +175,7 @@ http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
-http://31.131.136.4:8001/play/e00b
+http://87.76.32.36:9106/udp/238.1.1.154:1234
 #EXTINF:-1 group-title="Кино", Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино", Кинохит HD
@@ -181,7 +187,7 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://88.135.128.20:7272/JS7lUbMstASMl0r
 #EXTINF:-1 group-title="Кино", Мир сериала 
-http://109.248.236.21:4433/udp/238.1.1.136:1234
+http://87.76.32.36:9106/udp/238.1.1.136:1234
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
 http://otv.wotom.net:4433/udp/238.1.1.100:1234
 #EXTINF:-1 group-title="Кино", Мужское кино
@@ -840,19 +846,23 @@ http://193.201.98.10:5000/c104
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://otv.wotom.net:4433/udp/238.1.1.14:1234
+http://91.207.114.209:5000/c105
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://193.201.98.10:5000/c106
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://193.201.98.10:5000/c114
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://91.207.114.209:5000/c114
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://193.201.98.10:5000/c115
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
+http://91.207.114.209:5000/c115
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://185.57.68.33/110/mpegts
+http://193.201.98.10:5000/c116
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://92.242.110.52:9835/udp/238.1.2.6:1234
+http://91.207.114.209:5000/c116
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 group-title="Спорт", Старт HD
@@ -886,7 +896,7 @@ http://otv.wotom.net:4433/udp/238.1.1.142:1234
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a 
 #EXTINF:-1 group-title="Спорт", Q League
-http://109.248.236.21:4433/udp/238.1.1.143:1234 
+http://87.76.32.36:9106/udp/238.1.1.143:1234 
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
