@@ -745,6 +745,8 @@ https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 http://92.242.110.52:9835/udp/238.1.6.4:1234
 #EXTINF:-1 group-title="Хобби", Драйв
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Еда
+http://31.41.100.238:81/udp/225.0.56.89:1234
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
 https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Живи
