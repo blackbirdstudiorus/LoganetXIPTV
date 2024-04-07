@@ -370,7 +370,7 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
-http://178.163.2.88:4022/udp/234.0.0.238:2000
+http://178.163.37.154:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Cartoonito
 https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
@@ -515,7 +515,7 @@ http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
 https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://91.221.201.2:7013/play/a009/index.m3u8
+http://109.239.208.82/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
@@ -529,7 +529,7 @@ http://188.113.190.15/29/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://109.239.208.82/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
-http://178.163.2.164:4022/udp/234.0.0.212:2000
+http://178.163.51.39:4022/udp/234.0.0.212:2000
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
@@ -580,7 +580,7 @@ https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belar
 #EXTINF:-1 group-title="Познавательные", Победа
 http://otv.wotom.net:4433/udp/238.1.1.128:1234
 #EXTINF:-1 group-title="Познавательные", Поехали!
-http://91.221.201.2:7013/play/a00b/index.m3u8
+http://195.26.83.96:7022/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
 http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
@@ -734,7 +734,7 @@ http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс
 http://otv.wotom.net:4433/udp/238.1.1.131:1234
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
-http://178.163.2.88:4022/udp/234.0.0.103:2000
+http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
@@ -745,8 +745,6 @@ https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 http://92.242.110.52:9835/udp/238.1.6.4:1234
 #EXTINF:-1 group-title="Хобби", Драйв
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Хобби", Еда
-http://31.41.100.238:81/udp/225.0.56.89:1234
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
 https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Живи
