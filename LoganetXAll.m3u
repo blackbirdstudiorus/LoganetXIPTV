@@ -416,6 +416,8 @@ http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Конгресс ТВ
 http://31.132.116.144:81/udp/224.200.202.138:1234
+#EXTINF:-1 group-title="Развлекательные", НИК
+https://bkm.beetv.kz/btv/live/hls/000008615.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение 
@@ -616,7 +618,9 @@ https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
 http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
-http://92.242.110.52:9835/udp/238.1.8.45:1234
+http://193.201.98.10:5000/c72
+#EXTINF:-1 group-title="Познавательные", Docubox
+http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club TV
@@ -754,7 +758,7 @@ https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
 https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
-http://ott-cdn.ucom.am/s31/04.m3u8
+http://87.76.32.36:9106/udp/238.1.1.28:1234
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://92.242.110.52:9835/udp/238.1.2.8:1234
 #EXTINF:-1 group-title="Хобби", КтоКуда
@@ -964,7 +968,7 @@ https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 tvg-id="classic-music" group-title="Музыка", Classic Music
-http://88.85.172.243:7002/play/a032
+http://95.156.76.230:33001/udp/230.4.34.64:1234
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
@@ -992,7 +996,7 @@ http://92.242.110.52:9835/udp/238.1.3.4:1234
 #EXTINF:-1 group-title="Музыка", MTV Hits 
 https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV Live HD
-http://45.5.119.155:8090/play/a0hz/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Poland
 https://cdn-nvm-chicago.lolokoko.tv/MtvPolska.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
