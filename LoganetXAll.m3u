@@ -238,6 +238,8 @@ https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 http://88.135.128.20:7272/6B1DxxB8sXUqpZM
 #EXTINF:-1 group-title="Кино", Cinema HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Cinema UHD
+http://195.191.130.17:8085/udp/127.0.0.1:10799
 #EXTINF:-1 group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Кино", Comedy Central
@@ -839,8 +841,10 @@ http://otv.wotom.net:4433/udp/238.1.1.89:1234
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+http://193.201.98.10:5000/c103
 #EXTINF:-1 group-title="Спорт", Матч! Боец
-http://92.242.110.52:9835/udp/238.1.2.7:1234
+http://91.207.114.209:5000/c107
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
 http://193.201.98.10:5000/c104
 #EXTINF:-1 group-title="Спорт", Матч! Планета
@@ -864,7 +868,7 @@ http://193.201.98.10:5000/c116
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://91.207.114.209:5000/c116
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://92.242.110.52:9835/udp/238.1.1.17:1234
+http://83.234.207.29:8004/play/a010/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -874,7 +878,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://176.113.48.221:8986/63
+http://91.207.114.209:5000/c153
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
 http://193.201.98.10:5000/c154
 #EXTINF:-1 group-title="Спорт", Extreme Sports
@@ -902,14 +906,16 @@ https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
-http://serv7.iptv11.com/SetantaSportsHD-ua/video.m3u8
 #EXTINF:-1 group-title="Спорт", Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 group-title="Спорт", Viju+ Sport HD
