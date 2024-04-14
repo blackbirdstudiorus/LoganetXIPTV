@@ -117,7 +117,7 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
-http://195.26.83.96:7022/play/a00u/index.m3u8
+http://persik.by/stream/8699/76513/11200.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
@@ -151,11 +151,11 @@ http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+http://188.113.190.15/334/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+https://st1.uzdigital.tv/Kinomiks/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://178.163.37.154:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино", Кинопремьера
