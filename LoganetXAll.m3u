@@ -159,7 +159,7 @@ https://st1.uzdigital.tv/Kinomiks/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://178.163.37.154:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://otv.wotom.net:4433/udp/238.1.1.19:1234
+http://91.207.114.209:5000/c42
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
@@ -174,8 +174,10 @@ http://83.234.207.29:8003/play/a01a/index.m3u8
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://188.113.190.15/312/video.m3u8
+#EXTINF:-1 group-title="Кино", Киносерия HD
+http://188.113.190.15/336/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
-http://87.76.32.36:9106/udp/238.1.1.154:1234
+http://91.207.114.209:5000/c43
 #EXTINF:-1 group-title="Кино", Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
 #EXTINF:-1 group-title="Кино", Кинохит HD
