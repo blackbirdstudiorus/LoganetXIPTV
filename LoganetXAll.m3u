@@ -63,7 +63,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ Int
-http://otv.wotom.net:4433/udp/238.1.1.72:1234 
+http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -117,7 +117,7 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
-http://otv.wotom.net:4433/udp/238.1.1.66:1234
+http://195.26.83.96:7022/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
@@ -127,7 +127,7 @@ https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
-http://otv.wotom.net:4433/udp/238.1.1.104:1234
+http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Индия
@@ -147,7 +147,7 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +7
 ihttp://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://195.191.130.17:8085/udp/127.0.0.1:20381
+http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
