@@ -26,7 +26,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv-mir", НТВ-Мир
-http://87.76.32.36:9106/udp/238.1.1.56:1234 
+https://st1.uzdigital.tv/NTV_MIR/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Общие", НТВ Беларусь
 https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
 #EXTINF:-1 group-title="Общие", НТВ Америка
