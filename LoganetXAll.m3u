@@ -387,6 +387,8 @@ http://88.135.128.20:7272/DL3JGiEPHMCY4vy
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Детские", Nicktoons
 https://bkm.beetv.kz/btv/live/hls/000004365.m3u8 
+#EXTINF:-1 group-title="Детские", Sumiko
+http://89.23.177.102:4022/udp/239.1.11.35:1234
 #EXTINF:-1 group-title="Детские", TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", ПлюсПлюс
@@ -641,6 +643,8 @@ http://31.131.136.4:8001/play/e017
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://83.234.207.29:8008/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Museum 4k 
+http://45.65.112.49:8000/play/a0gn
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
