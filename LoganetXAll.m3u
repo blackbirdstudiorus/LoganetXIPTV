@@ -342,7 +342,7 @@ https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
-http://87.76.32.36:9106/udp/238.1.1.93:1234
+http://91.207.114.209:5000/c68
 #EXTINF:-1 group-title="Детские", Пингвин Лоло
 https://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
@@ -409,7 +409,7 @@ https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
-http://otv.wotom.net:4433/udp/238.1.1.2:1234
+http://193.201.98.10:5000/c178
 #EXTINF:-1 group-title="Развлекательные", Зал суда
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
