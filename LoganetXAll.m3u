@@ -263,7 +263,7 @@ https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://91.207.114.209:5000/c61
 #EXTINF:-1 group-title="Кино", Plan B HD 
-http://88.85.172.243:7012/play/a028
+https://bkm.beetv.kz/btv/live/hls/000007625.m3u8
 #EXTINF:-1 group-title="Кино", Romance Channel 
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 group-title="Кино", Shot TV
@@ -436,8 +436,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 http://streamer2.fokks.ru:10016/index.m3u8 
 #EXTINF:-1  group-title="Развлекательные", Резонанс ТВ
 http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.tildacdn.com/tild6562-6662-4465-b131-306461626536/_.png", Родной канал HD 
-https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1  group-title="Развлекательные", Светлое ТВ
@@ -449,7 +447,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС International
-http://otv.wotom.net:4433/udp/238.1.1.67:1234
+https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love", СТС Love (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
@@ -463,7 +461,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота!
-http://83.234.207.29:8004/play/a01b/index.m3u8 
+http://193.201.98.10:5000/c52 
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
 http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
