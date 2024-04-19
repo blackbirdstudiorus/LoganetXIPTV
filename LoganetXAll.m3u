@@ -582,7 +582,7 @@ https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belar
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
  https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
-http://otv.wotom.net:4433/udp/238.1.1.128:1234
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://195.26.83.96:7022/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
@@ -608,15 +608,13 @@ http://109.239.208.82/tonus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Успех 
 http://83.234.207.29:8011/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://otv.wotom.net:4433/udp/238.1.1.25:1234
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
 https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet 
 http://92.242.110.52:9835/udp/238.1.8.20:1234
 #EXTINF:-1 group-title="Познавательные", Big Planet HD
 https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
-#EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
-http://109.248.236.21:4433/udp/238.1.1.112:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://193.201.98.10:5000/c72
 #EXTINF:-1 group-title="Познавательные", Docubox
@@ -624,7 +622,7 @@ http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club TV
-http://otv.wotom.net:4433/udp/238.1.1.109:1234
+https://bkm.beetv.kz/btv/live/hls/000000202.m3u8
 #EXTINF:-1 group-title="Познавательные", Epic HD
 http://strm.yandex.ru/kal/epic/epic0.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
