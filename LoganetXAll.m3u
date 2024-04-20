@@ -807,6 +807,8 @@ https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
 http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="Хобби", Food Time
+http://31.211.77.158:8000/play/a193/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Women Magazine
