@@ -381,6 +381,8 @@ https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV
+http://31.211.77.158:8000/play/a164/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://88.135.128.20:7272/DL3JGiEPHMCY4vy
 #EXTINF:-1 group-title="Детские", Nick Jr.
