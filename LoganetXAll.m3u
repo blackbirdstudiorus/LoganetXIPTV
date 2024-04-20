@@ -665,10 +665,6 @@ http://92.242.110.52:9835/udp/238.1.9.30:1234
 http://92.242.110.52:9835/udp/238.1.9.13:1234
 #EXTINF:-1 group-title="Познавательные", Travel Channel
 http://91.207.114.209:5000/c149
-#EXTINF:-1 group-title="Познавательные", Travel XP
-http://otv.wotom.net:4433/udp/238.1.1.124:1234
-#EXTINF:-1 group-title="Познавательные", Travel XP HD 
-http://109.248.236.21:4433/udp/238.1.1.124:1234
 #EXTINF:-1 group-title="Познавательные", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
@@ -678,7 +674,7 @@ https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore HD
 https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://92.242.110.52:9835/udp/238.1.3.5:1234
+http://176.113.48.221:8986/98
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
 
@@ -716,7 +712,7 @@ https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 group-title="Новости", France 24
 https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости", Rai News 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
@@ -737,10 +733,10 @@ http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://91.205.199.3:80/avto24/index.m3u8
-#EXTINF:-1 group-title="Хобби", Авто Плюс
-http://otv.wotom.net:4433/udp/238.1.1.131:1234
+#EXTINF:-1 group-title="Хобби", Авто Плюс HD
+https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
-http://178.212.71.253:8002/play/a00m/index.m3u8
+http://188.113.190.15/131/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
@@ -748,7 +744,7 @@ https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
-http://92.242.110.52:9835/udp/238.1.6.4:1234
+http://193.201.98.10:5000/c98
 #EXTINF:-1 group-title="Хобби", Драйв
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
@@ -758,19 +754,21 @@ https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
 https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
-http://87.76.32.36:9106/udp/238.1.1.28:1234
+https://bkm.beetv.kz/btv/live/hls/000000235.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
-http://92.242.110.52:9835/udp/238.1.2.8:1234
+http://176.113.48.221:8986/145
 #EXTINF:-1 group-title="Хобби", КтоКуда
 http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
 http://188.113.190.15/314/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Лапки Live
-http://otv.wotom.net:4433/udp/238.1.1.181:1234
+http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
 http://92.242.110.52:9835/udp/238.1.7.19:1234
+#EXTINF:-1 group-title="Хобби", Моя стихия HD
+http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской 
 https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Наша тема 
