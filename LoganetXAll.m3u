@@ -643,6 +643,8 @@ http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 http://83.234.207.29:8008/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum 4k 
 http://45.65.112.49:8000/play/a0gn
+#EXTINF:-1 group-title="Познавательные", MyZen TV
+http://31.211.77.158:8000/play/a186/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
