@@ -780,19 +780,19 @@ http://188.113.190.15/218/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
-http://otv.wotom.net:4433/udp/238.1.1.34:1234
+http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://87.76.32.36:9106/udp/238.1.1.22:1234
+http://178.163.51.39:4022/udp/234.0.0.230:2000
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
 https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
-http://otv.wotom.net:4433/udp/238.1.1.22:123 
+http://86.57.178.105:9952/oh 
 #EXTINF:-1 group-title="Хобби", Рыболов
 http://91.207.114.209:5000/c109
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://otv.wotom.net:4433/udp/238.1.1.99:1234
+http://195.26.83.96:7022/play/a010/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://188.113.190.15/71/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
