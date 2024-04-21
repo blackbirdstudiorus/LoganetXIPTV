@@ -964,7 +964,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
 http://109.239.208.82:80/muz1/index.m3u8
 #EXTINF:-1 group-title="Музыка", О2ТВ
-http://otv.wotom.net:4433/udp/238.1.1.17:1234
+http://188.113.190.15/189/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
@@ -1019,16 +1019,12 @@ https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Poland
 https://cdn-nvm-chicago.lolokoko.tv/MtvPolska.stream/playlist.m3u8
-#EXTINF:-1 group-title="Музыка", MTV 80's
-http://45.5.119.155:8090/play/a0ge/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 90's
 https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV 00's
 https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 #EXTINF:-1 group-title="Музыка", MusicBox Gold 
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-#EXTINF:-1 group-title="Музыка", Nickmusic  
-https://cdn-nvm-chicago.lolokoko.tv/NickMusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 https://cdn-nvm-chicago.lolokoko.tv/polsatmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Radio M2O 
