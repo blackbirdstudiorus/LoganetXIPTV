@@ -900,7 +900,7 @@ http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
 https://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
-http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
+http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
@@ -928,6 +928,8 @@ https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 group-title="Спорт", Sky Sport Golf
+https://7pal.short.gy/ssportsgf
 #EXTINF:-1 group-title="Спорт", Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 group-title="Спорт", Viju+ Sport HD
