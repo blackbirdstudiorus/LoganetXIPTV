@@ -930,6 +930,8 @@ https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Sky Sport Golf
 https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Спорт", Sky Sport Premier League
+https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 group-title="Спорт", Sport+ Qazaqstan
 http://87.76.32.36:9106/udp/238.1.1.204:1234
 #EXTINF:-1 group-title="Спорт", Viju+ Sport HD
