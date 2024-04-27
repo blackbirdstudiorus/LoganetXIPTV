@@ -861,6 +861,8 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 http://91.207.114.209:5000/c105
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер HD (AceStream)
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://193.201.98.10:5000/c106
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
