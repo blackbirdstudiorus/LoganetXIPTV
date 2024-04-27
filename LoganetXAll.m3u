@@ -115,7 +115,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
-http://195.26.83.96:7022/play/a00v/index.m3u8
+http://178.163.37.154:4022/udp/234.0.0.219:2000
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
 https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
