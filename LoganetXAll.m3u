@@ -105,9 +105,11 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино", .black 
 http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", .red
+http://176.113.48.221:8986/111
+#EXTINF:-1 group-title="Кино", .red HD
 http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 group-title="Кино", .sci-fi 
-http://188.113.190.15/23/tracks-v1a1/index.m3u8
+http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино", 312 Кино
