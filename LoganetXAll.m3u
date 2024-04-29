@@ -930,10 +930,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD (AceStream)
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD (AceStream) 
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Sky Sports Action
