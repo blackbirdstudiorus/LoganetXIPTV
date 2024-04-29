@@ -687,10 +687,16 @@ http://109.239.208.82:80/zoo/index.m3u8
 
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Новости", Восток 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Новости", Известия 
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8 
 #EXTINF:-1 group-title="Новости", Крик ТВ 
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Кубань 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
