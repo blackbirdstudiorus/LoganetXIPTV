@@ -919,6 +919,10 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Premier Sports 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Спорт", Premier Sports 2
+https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a 
 #EXTINF:-1 group-title="Спорт", Q League
