@@ -119,13 +119,13 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 http://178.163.37.154:4022/udp/234.0.0.219:2000
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
-https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD
-https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
+http://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
