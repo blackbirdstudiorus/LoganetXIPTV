@@ -157,11 +157,11 @@ http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
-https://st1.uzdigital.tv/Kinomiks/tracks-v1a1/mono.m3u8
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://178.163.37.154:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://91.207.114.209:5000/c42
+http://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
