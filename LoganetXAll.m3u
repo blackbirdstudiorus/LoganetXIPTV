@@ -191,7 +191,7 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://88.135.128.20:7272/JS7lUbMstASMl0r
 #EXTINF:-1 group-title="Кино", Мир сериала 
-https://bkm.beetv.kz/btv/live/hls/000000319.m3u8
+http://83.234.207.29:8010/play/a020/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
 http://91.207.114.209:5000/c29
 #EXTINF:-1 group-title="Кино", Мужское кино
@@ -255,11 +255,11 @@ https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
 #EXTINF:-1 group-title="Кино", FilmZone
 http://88.135.128.20:7272/ko7BKj9NV0ZCX2C
 #EXTINF:-1 group-title="Кино", FlixSnip
-https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
+http://91.207.115.228:5000/c60
 #EXTINF:-1 group-title="Кино", Fox HD
-https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
+http://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Fox Life HD
-https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
+http://91.205.199.3/FoxLife/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Kinoliving
