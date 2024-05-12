@@ -376,9 +376,9 @@ http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://178.163.37.154:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Cartoonito
-https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
+http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV HD
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -390,7 +390,7 @@ http://88.135.128.20:7272/DL3JGiEPHMCY4vy
 #EXTINF:-1 group-title="Детские", Nick Jr.
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 group-title="Детские", Nicktoons
-https://bkm.beetv.kz/btv/live/hls/000004365.m3u8
+http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", ПлюсПлюс
@@ -408,8 +408,6 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
-https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
 http://193.201.98.10:5000/c178
 #EXTINF:-1 group-title="Развлекательные", Зал суда
@@ -419,7 +417,7 @@ http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Конгресс ТВ
-http://31.132.116.144:81/udp/224.200.202.138:1234
+http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", НИК
 https://bkm.beetv.kz/btv/live/hls/000008615.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ Право 
@@ -484,7 +482,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4-pl7", ТНТ4 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
+#EXTINF:-1 group-title="Развлекательные", ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
 http://109.239.208.82:80/tochka/index.m3u8
@@ -509,13 +507,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
-https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
+http://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+#EXTINF:-1 group-title="Развлекательные", Discovery HD
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", RTVI
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
+#EXTINF:-1 group-title="Развлекательные", TLC
+http://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC HD
-https://bkm.beetv.kz/btv/live/hls/000001498.m3u8
+http://91.207.115.228:5000/c151
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 
