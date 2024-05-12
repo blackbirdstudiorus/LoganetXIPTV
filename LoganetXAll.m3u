@@ -633,8 +633,6 @@ http://strm.yandex.ru/kal/epic/epic0.m3u8
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
 https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", H2 HD
-https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
@@ -650,17 +648,17 @@ http://31.211.77.158:8000/play/a186/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
-https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
+http://88.135.128.20:7272/CBcyJCMYxKWHlWD
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
-https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
+https://st1.uzdigital.tv/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные", Silkway HD
 http://188.113.190.15/163/mono.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
-https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
+http://188.113.190.15/78/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
