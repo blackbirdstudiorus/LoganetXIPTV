@@ -137,11 +137,9 @@ http://83.234.207.29:8003/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://176.113.48.221:8986/115
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
-https://bkm.beetv.kz/btv/live/hls/000008136.m3u8
+http://95.156.76.230:33001/udp/230.4.34.82:1234
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино", Kino24
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -150,6 +148,8 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 ihttp://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
 http://83.234.207.29:8013/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ HD +7
+http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
