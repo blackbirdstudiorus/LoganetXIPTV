@@ -264,6 +264,8 @@ http://91.205.199.3/FoxLife/tracks-v1a2/mono.m3u8
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://91.207.114.209:5000/c61
+#EXTINF:-1 group-title="Кино", Kino24
+http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Plan B HD 
 https://bkm.beetv.kz/btv/live/hls/000007625.m3u8
 #EXTINF:-1 group-title="Кино", Romance Channel 
