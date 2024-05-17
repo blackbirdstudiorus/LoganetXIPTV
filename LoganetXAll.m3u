@@ -147,7 +147,7 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +7
 ihttp://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://83.234.207.29:8013/play/a00m/index.m3u8
+http://erlyvideo.beeonline.az:80/KinoTVHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
@@ -509,7 +509,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
 http://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://erlyvideo.beeonline.az/DiscoveryChannelHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
@@ -858,33 +858,33 @@ http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://193.201.98.10:5000/c103
+http://erlyvideo.beeonline.az/MatchArenaHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Боец
-http://91.207.114.209:5000/c107
+http://flussonic.beeonline.az:80/boets/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Матч! Игра 
+http://flussonic.beeonline.az:80/matchiqra/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://193.201.98.10:5000/c104
+http://erlyvideo.beeonline.az/MatchIqraHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://91.207.114.209:5000/c105
+http://flussonic.beeonline.az/matchpremyera/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD (AceStream)
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://193.201.98.10:5000/c106
+http://flussonic.beeonline.az:80/nashsport/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://193.201.98.10:5000/c114
+http://flussonic.beeonline.az:80/futbol1/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://91.207.114.209:5000/c114
+http://erlyvideo.beeonline.az/MatchTVFootbol1HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://193.201.98.10:5000/c115
+http://flussonic.beeonline.az:80/futbol2/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://91.207.114.209:5000/c115
+http://erlyvideo.beeonline.az/MatchTVFootbol2HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://193.201.98.10:5000/c116
+http://flussonic.beeonline.az:80/futbol3/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://91.207.114.209:5000/c116
+http://erlyvideo.beeonline.az/MatchTVFootbol3HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
 http://83.234.207.29:8004/play/a010/index.m3u8
 #EXTINF:-1 group-title="Спорт", Спортивный
@@ -905,10 +905,14 @@ https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33
 https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1
+http://flussonic.beeonline.az:80/eurosport/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://91.207.114.209:5000/c153
+http://erlyvideo.beeonline.az/EuroSport1HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Eurosport 2 
+http://flussonic.beeonline.az:80/eurosport2/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://193.201.98.10:5000/c154
+http://erlyvideo.beeonline.az/EuroSport2HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://176.113.48.221:8986/27
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD
@@ -929,25 +933,15 @@ https://7pal.short.gy/prsport1
 https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
-#EXTINF:-1 group-title="Спорт", Q League
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD (AceStream)
-http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+http://erlyvideo.beeonline.az/SetantaSports/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD (AceStream) 
-http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+http://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Sky Sports Action
@@ -976,8 +970,8 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт", TNT Sports 4
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 group-title="Спорт", Viju+ Sport
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
