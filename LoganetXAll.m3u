@@ -185,7 +185,7 @@ https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
-https://streamer1.connectto.com/519/mono.m3u8
+http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
@@ -262,6 +262,8 @@ http://sc.id-tv.kz/FOX_HD_34_35.m3u8
 http://91.205.199.3/FoxLife/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD 
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Kinojam 1
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://91.207.114.209:5000/c61
 #EXTINF:-1 group-title="Кино", Kino24
@@ -377,7 +379,9 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://178.163.37.154:4022/udp/234.0.0.238:2000
-#EXTINF:-1 group-title="Детские", Cartoonito
+#EXTINF:-1 group-title="Детские", Cartoonito 
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Детские", Cartoonito HD
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
