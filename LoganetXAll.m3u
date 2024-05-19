@@ -397,10 +397,6 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
-#EXTINF:-1 group-title="Детские", ПлюсПлюс
-http://149.5.17.34:20041/play/a06q
-#EXTINF:-1 group-title="Детские", Пiксель HD
-http://149.5.17.34:20041/play/a05s
 
 
 #EXTINF:-1 group-title="Развлекательные", 2x2
@@ -475,7 +471,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 http://streamer2.fokks.ru:10019/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
-https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8
+http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
@@ -485,7 +481,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
 http://109.239.208.82:80/tochka/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
