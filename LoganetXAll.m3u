@@ -942,8 +942,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 http://erlyvideo.beeonline.az/SetantaSports/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 http://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
