@@ -948,7 +948,7 @@ https://7pal.short.gy/skyspt2nz
 https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 4 NZ
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="Спорт", Sky Sports Action
+#EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-action", Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 group-title="Спорт", Sky Sports Golf
 https://7pal.short.gy/ssportsgf
