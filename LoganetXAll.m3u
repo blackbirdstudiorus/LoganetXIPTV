@@ -944,6 +944,14 @@ http://erlyvideo.beeonline.az/SetantaSports/index.m3u8?token=test
 http://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Setanta Sports Qazaqstan 
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 group-title="Спорт", Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 group-title="Спорт", Sky Sports Golf
