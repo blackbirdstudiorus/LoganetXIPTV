@@ -520,6 +520,8 @@ http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
 https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал
+https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://109.239.208.82/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
