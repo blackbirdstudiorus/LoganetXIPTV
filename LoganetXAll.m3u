@@ -684,7 +684,7 @@ http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
 #EXTINF:-1 group-title="Новости", 78
-https://7o8gab7zdd.a.trbcdn.net/hls-livef1/channel78/tracks-v5a1/mono.m3u8
+http://178.252.89.195:4022/udp/233.166.172.83:1234
 #EXTINF:-1 group-title="Новости", Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
