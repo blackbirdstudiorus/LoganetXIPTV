@@ -505,7 +505,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
-http://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery HD
 http://erlyvideo.beeonline.az/DiscoveryChannelHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
@@ -1071,6 +1071,8 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музыка", V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Viva TV Russia
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
