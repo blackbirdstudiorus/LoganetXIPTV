@@ -389,10 +389,10 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV
 http://31.211.77.158:8000/play/a165/index.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon
-http://88.135.128.20:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1 group-title="Детские", Nickelodeon HD
+http://erlyvideo.beeonline.az/NickelodeonHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Nick Jr.
-http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
+https://vavoo.to/play/4186889019/index.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
