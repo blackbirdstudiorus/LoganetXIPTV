@@ -387,6 +387,8 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", JimJam
+https://vavoo.to/play/2474088837/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV
 http://31.211.77.158:8000/play/a165/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
