@@ -63,7 +63,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ Int
-http://sc.id-tv.kz/RenTV_36_37.m3u8
+http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -71,7 +71,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Домашний HD
-http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
+http://player.smotrim.ru/iframe/stream/live_id/64556?43
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru", ТВ3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -105,7 +105,7 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино", .black 
 http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", .red
-http://176.113.48.221:8986/111
+http://178.252.89.195:4022/udp/233.166.172.24:1234
 #EXTINF:-1 group-title="Кино", .red HD
 http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 group-title="Кино", .sci-fi 
@@ -133,11 +133,11 @@ http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Индия
-http://83.234.207.29:8003/play/a014/index.m3u8
+http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
-http://176.113.48.221:8986/115
+http://95.156.76.230:33001/udp/230.4.34.85:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
-http://95.156.76.230:33001/udp/230.4.34.82:1234
+http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
@@ -366,7 +366,7 @@ http://188.113.190.15/132/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
-http://83.234.207.29:8003/play/a01f/index.m3u8
+http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детские", Уникум 
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", Чижик
