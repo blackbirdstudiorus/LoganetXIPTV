@@ -61,7 +61,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura-pl7" group-title="Общие", Россия К +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", Россия К HD
+#EXTINF:-1 group-title="Общие", Россия К HD 
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-id="kultura-pl2" group-title="Общие", Россия К HD +2 
 https://player.smotrim.ru/iframe/stream/live_id/60881
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="Общие", Россия К HD +4
