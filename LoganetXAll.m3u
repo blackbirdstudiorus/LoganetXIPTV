@@ -171,7 +171,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
 http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +7
-ihttp://live-3.otcnet.ru/kinotvplus7/index.m3u8
+http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
 http://erlyvideo.beeonline.az:80/KinoTVHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
