@@ -533,9 +533,9 @@ http://erlyvideo.beeonline.az/DiscoveryChannelHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
-http://sc.id-tv.kz/TLCHD_34_35.m3u8
+http://flussonic.beeonline.az:80/tlc/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", TLC HD
-http://91.207.115.228:5000/c151
+http://flussonic.beeonline.az:80/TLCRussiaHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 
