@@ -87,7 +87,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
-http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
+http://5.167.243.203:81/udp/225.0.56.99:1234
 #EXTINF:-1 group-title="Общие", РенТВ Int
 http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
@@ -131,7 +131,7 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Кино", .black 
 http://flussonic.beeonline.az:80/sonyturbo/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", .red
-http://178.252.89.195:4022/udp/233.166.172.24:1234
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", .red HD
 http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 group-title="Кино", .sci-fi 
@@ -493,7 +493,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 http://streamer2.fokks.ru:10019/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
-http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
+http://5.167.243.203:81/udp/225.0.56.92:1234
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
