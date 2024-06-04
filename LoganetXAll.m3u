@@ -653,14 +653,14 @@ http://strm.yandex.ru/kal/epic/epic0.m3u8
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
 https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", H2
-https://vavoo.to/play/2712554541/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
 http://31.131.136.4:8001/play/e017
-#EXTINF:-1 group-title="Познавательные", History HD 
-https://vavoo.to/play/3012084658/index.m3u8
+#EXTINF:-1 group-title="Познавательные", History
+http://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные", History HD
+http://stream01.vnet.am/Channel_123/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://flussonic.beeonline.az:80/idextra/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Museum 4k 
