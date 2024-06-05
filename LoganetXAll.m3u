@@ -892,7 +892,7 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://flussonic.beeonline.az/matchpremyera/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+http://5.153.180.133:8000/play/a033
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://flussonic.beeonline.az:80/nashsport/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
