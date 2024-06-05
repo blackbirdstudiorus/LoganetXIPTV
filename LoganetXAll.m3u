@@ -493,7 +493,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 http://streamer2.fokks.ru:10019/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
-http://5.167.243.203:81/udp/225.0.56.92:1234
+http://31.210.208.171:8080/tnt_hd/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Развлекательные", ТНТ International (Европа)
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt4", ТНТ4 (Архив)
