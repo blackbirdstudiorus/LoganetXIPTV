@@ -150,14 +150,12 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://erlyvideo.beeonline.az:80/DomKinoPremiumHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Дорама
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Кино", Дорама HD
-http://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
-http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
@@ -177,9 +175,9 @@ http://erlyvideo.beeonline.az:80/KinoTVHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://91.205.199.3:80/komedia/index.m3u8
+http://91.207.115.228:5000/c46
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+http://188.113.190.15/334/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
