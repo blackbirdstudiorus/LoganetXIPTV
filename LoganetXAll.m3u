@@ -416,8 +416,6 @@ http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-#EXTINF:-1 group-title="Детские", Cartoon Classics
-http://178.163.37.154:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Cartoonito 
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoonito HD
@@ -429,13 +427,15 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
-https://vavoo.to/play/2474088837/index.m3u8
+http://141.95.55.143/CH277/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV
-http://31.211.77.158:8000/play/a165/index.m3u8
+http://5.153.180.133:8002/play/a0bv
+#EXTINF:-1 group-title="Детские", Nickelodeon
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://erlyvideo.beeonline.az/NickelodeonHD/index.m3u8?token=test
+http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-https://vavoo.to/play/4186889019/index.m3u8
+http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
