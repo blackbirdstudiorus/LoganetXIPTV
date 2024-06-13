@@ -330,13 +330,13 @@ http://141.95.55.143/CH3869/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://91.207.114.209:5000/c37
+http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
 http://91.207.115.228:5000/c145
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
-http://91.207.114.209:5000/c144
+http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://193.201.98.10:5000/c143
+http://91.205.199.3/vipcomedi/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
 http://91.205.199.3:80/vipserialhd/index.m3u8
 
