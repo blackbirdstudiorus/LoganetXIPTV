@@ -731,15 +731,13 @@ http://141.95.55.143/CH3871/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://91.205.199.3/viasatexplorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://176.113.48.221:8986/98
+http://91.205.199.7:8000/play/a0r8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
 
 
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
-#EXTINF:-1 group-title="Новости", 78
-http://178.252.89.195:4022/udp/233.166.172.83:1234
 #EXTINF:-1 group-title="Новости", Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
@@ -753,9 +751,9 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
-http://92.242.110.52:9835/udp/238.1.9.22:1234
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Новости", Москва. Доверие
-http://92.242.110.52:9835/udp/238.1.7.20:1234
+https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 group-title="Новости", РБК 
@@ -768,14 +766,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 #EXTINF:-1 group-title="Новости", Соловьёв.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
-#EXTINF:-1 group-title="Новости", BBC World News
-https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 group-title="Новости", CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
+https://st1.uzdigital.tv/Euronews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", France 24
-https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
+http://185.19.190.1:8090/FRANCE24/index.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости", Rai News 24
