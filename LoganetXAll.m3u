@@ -553,6 +553,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://st1.uzdigital.tv/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery HD
 http://91.207.115.228:5000/c146
+#EXTINF:-1 group-title="Развлекательные", DTX Poland HD
+http://178.219.128.68:64888/DTXHD
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
