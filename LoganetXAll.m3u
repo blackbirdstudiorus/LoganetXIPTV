@@ -909,11 +909,11 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
 http://91.207.115.228:5000/c103
 #EXTINF:-1 group-title="Спорт", Матч! Боец
-http://flussonic.beeonline.az:80/boets/index.m3u8?token=test
+http://91.207.115.228:5000/c107
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
-http://flussonic.beeonline.az:80/matchiqra/index.m3u8?token=test
+http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://erlyvideo.beeonline.az/MatchIqraHD/index.m3u8?token=test
+http://91.207.115.228:5000/c104
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
