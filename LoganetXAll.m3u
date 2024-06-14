@@ -456,23 +456,25 @@ https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
 https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://109.239.208.82/arsenal/index.m3u8
+http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных HD
+http://195.211.27.149:8887/8456/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 http://91.207.115.228:5000/c178
 #EXTINF:-1 group-title="Познавательные", Время 
 http://188.113.190.15/118/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://83.234.207.29:8013/play/a009/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://188.113.190.15/29/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
-http://109.239.208.82/animals/index.m3u8
+http://91.207.115.228:5000/c159
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
-http://178.163.51.39:4022/udp/234.0.0.212:2000
+http://camera.global-x.ru/EGETV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
@@ -484,9 +486,9 @@ http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
-http://178.163.118.177:4022/udp/234.0.0.221:2000
+http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://91.207.114.209:5000/c91
+http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
@@ -497,12 +499,10 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", Мир Вокруг
-http://81.28.217.78:4022/udp/239.211.211.73:1234
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
-http://109.239.208.82/myplanet/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c82
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Мы
@@ -593,7 +593,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
 http://5.153.180.133:8000/play/a05c
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://91.207.114.209:5000/c93
+http://91.207.115.228:5000/c93
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
@@ -629,7 +629,7 @@ https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Туган Тел
 http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Успех 
-http://83.234.207.29:8011/play/a00f/index.m3u8
+http://camera.global-x.ru/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
 http://188.113.190.15/228/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
