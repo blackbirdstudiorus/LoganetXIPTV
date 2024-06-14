@@ -443,7 +443,7 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
 
 #EXTINF:-1 group-title="Развлекательные", 2x2
- http://178.163.51.39:4022/udp/234.0.0.244:2000
+ http://195.211.27.149:8887/8045/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлекательные", 2х2 (Архив)
@@ -452,7 +452,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
-http://193.201.98.10:5000/c178
+http://91.207.115.228:5000/c178
 #EXTINF:-1 group-title="Развлекательные", Зал суда
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
@@ -502,9 +502,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота!
-http://193.201.98.10:5000/c52
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="super", Суббота! HD
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
-http://92.242.110.52:9835/udp/238.1.9.2:1234
+http://5.153.180.133:8000/play/a05c
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -526,7 +528,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка Отрыва 
-http://109.239.208.82:80/tochka/index.m3u8
+http://188.113.190.15/183/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Туган Тел
@@ -548,15 +550,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
+https://st1.uzdigital.tv/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Discovery HD
-http://erlyvideo.beeonline.az/DiscoveryChannelHD/index.m3u8?token=test
+http://91.207.115.228:5000/c146
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
-http://flussonic.beeonline.az:80/tlc/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные", TLC HD
-http://flussonic.beeonline.az:80/TLCRussiaHD/index.m3u8?token=test
+http://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1 group-title="Развлекательные", TVM Channel 
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 
