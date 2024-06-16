@@ -931,7 +931,7 @@ http://188.113.190.15/177/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://141.95.55.143/CH3847/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://92.242.110.52:9835/udp/238.1.1.17:1234
+http://5.153.180.133:8000/play/a03m
 #EXTINF:-1 group-title="Спорт", Спортивный
 https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
@@ -951,17 +951,19 @@ https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://flussonic.beeonline.az:80/eurosport/index.m3u8?token=test
+http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://erlyvideo.beeonline.az/EuroSport1HD/index.m3u8?token=test
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
-http://flussonic.beeonline.az:80/eurosport2/index.m3u8?token=test
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://erlyvideo.beeonline.az/EuroSport2HD/index.m3u8?token=test
+http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Спорт", Extreme Sports
-http://176.113.48.221:8986/27
-#EXTINF:-1 group-title="Спорт", Fast&FunBox HD
-http://ott-cdn.ucom.am/s79/04.m3u8
+http://91.90.255.235:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Спорт", Fast&FunBox
+http://188.113.190.15/208/video.m3u8
+#EXTINF:-1 group-title="Спорт", Fast&FunBox HD 
+http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
 #EXTINF:-1 group-title="Спорт", FightBox
 https://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
@@ -986,9 +988,9 @@ https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-http://erlyvideo.beeonline.az/SetantaSports/index.m3u8?token=test
+https://erlyvideo.beeonline.az/SetantaSports/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-http://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8?token=test
+https://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
