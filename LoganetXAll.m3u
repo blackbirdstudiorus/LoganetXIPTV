@@ -178,7 +178,7 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://77.106.252.178:4022/udp/233.33.210.103:5050
+http://95.52.171.87:82/play/a067
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
@@ -199,12 +199,10 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Кино", Киносвидание HD
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 http://91.207.115.228:5000/c39
 #EXTINF:-1 group-title="Кино", Киносемья HD
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия HD
@@ -226,7 +224,7 @@ http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://92.242.110.52:9835/udp/238.1.11.70:1234
 #EXTINF:-1 group-title="Кино", Мир сериала 
-http://5.153.180.133:8000/play/a03n
+http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
 http://95.156.76.230:33001/udp/230.4.34.124:1234
 #EXTINF:-1 group-title="Кино", Мужское кино
@@ -263,10 +261,10 @@ http://195.9.195.3:8080/hls/202127.m3u8
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="Кино", A1
 http://91.205.199.3/amedia1/index.m3u8
-#EXTINF:-1 group-title="Кино", A1 HD
-http://77.106.252.178:4022/udp/233.33.220.130:5050
 #EXTINF:-1 group-title="Кино", A2
 http://91.205.199.3/amedia2/index.m3u8
+#EXTINF:-1 group-title="Кино", A2 HD
+http://95.52.171.87:82/play/a050
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://91.207.115.228:5000/c57
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
@@ -287,8 +285,6 @@ http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 group-title="Кино", Comedy Central
-http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 group-title="Кино", FAN 
 http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1 group-title="Кино", FilmBox
@@ -309,8 +305,6 @@ http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Plan B
 http://88.85.172.243:7012/play/a028
-#EXTINF:-1 group-title="Кино", Romance Channel 
-http://5.153.180.133:8000/play/a01o
 #EXTINF:-1 group-title="Кино", Shot TV
 http://91.207.115.228:5000/c131
 #EXTINF:-1 group-title="Кино", Star Cinema
@@ -590,16 +584,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 group-title="Познавательные", Танцуй!
-http://5.153.180.133:8000/play/a05c
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
 http://91.207.115.228:5000/c93
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
 http://188.113.190.15/180/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Театр HD
-http://31.132.116.115:81/udp/224.200.202.110:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -681,7 +671,7 @@ http://195.211.27.149:8887/8356/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", History HD
 http://stream01.vnet.am/Channel_123/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
-http://flussonic.beeonline.az:80/idextra/index.m3u8?token=test
+http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Museum HD
 http://81.7.108.21:9000/play/DTXHD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
