@@ -696,8 +696,10 @@ http://188.113.190.15/209/tracks-v1a1/index.m3u8
 http://188.113.190.15/163/mono.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
 http://188.113.190.15/78/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", TLC
-http://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные", TLC 
+http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
+#EXTINF:-1 group-title="Познавательные", TLC HD
+http://91.207.115.228:5000/c151
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
