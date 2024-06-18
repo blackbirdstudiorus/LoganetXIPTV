@@ -287,6 +287,8 @@ https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Кино", Comedy Central 
 http://5.153.180.133:8001/play/a09c
+#EXTINF:-1 group-title="Кино", Epic Drama
+http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542
 #EXTINF:-1 group-title="Кино", FAN 
 http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1 group-title="Кино", FilmBox
@@ -303,6 +305,8 @@ http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Kinojam 1
 http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Kinoliving
+http://91.207.115.228:5000/c61
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Plan B
@@ -692,6 +696,8 @@ https://st1.uzdigital.tv/National_Geographic/tracks-v1a1/mono.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные", RTVi 
+http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 group-title="Познавательные", San Porto
 http://188.113.190.15/209/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Silkway HD
