@@ -795,7 +795,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 
-
+#EXTINF:-1 group-title="Политические", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Дума ТВ 
