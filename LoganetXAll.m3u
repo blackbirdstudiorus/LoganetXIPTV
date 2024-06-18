@@ -816,11 +816,11 @@ http://188.113.190.15/131/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
-https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
+http://81.23.189.199:4022/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
+http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
-http://193.201.98.10:5000/c98
+http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 group-title="Хобби", Драйв
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
