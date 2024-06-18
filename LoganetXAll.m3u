@@ -330,6 +330,8 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="Кино", VHS-ка
+http://176.197.188.55:81/udp/239.255.42.88:1234
 #EXTINF:-1 group-title="Кино", Viasat Kino
 http://81.7.108.21:9000/play/TV1000-DVBC322-sti4400017090089
 #EXTINF:-1 group-title="Кино", Viasat Kino Action
@@ -422,6 +424,8 @@ http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Classics
+http://178.163.99.10:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Duck TV HD
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -501,6 +505,8 @@ http://95.52.171.87:81/play/a014
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Мир вокруг
+http://81.28.217.78:4022/udp/239.211.211.73:1234
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -592,6 +598,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="Познавательные", Танцуй!
+http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
 http://91.207.115.228:5000/c93
 #EXTINF:-1 group-title="Познавательные", Техно 24
