@@ -285,6 +285,8 @@ http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central 
+http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 group-title="Кино", FAN 
 http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1 group-title="Кино", FilmBox
