@@ -830,9 +830,11 @@ https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
 https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
-https://bkm.beetv.kz/btv/live/hls/000000235.m3u8
+http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
-http://176.113.48.221:8986/145
+http://188.113.190.15/76/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Конный мир HD
+http://92.242.110.52:9835/udp/238.1.2.8:1234
 #EXTINF:-1 group-title="Хобби", КтоКуда
 http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
@@ -843,8 +845,6 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
 http://92.242.110.52:9835/udp/238.1.7.19:1234
-#EXTINF:-1 group-title="Хобби", Моя стихия HD
-http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской 
 https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Наша тема 
@@ -852,19 +852,19 @@ http://188.113.190.15/218/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
-http://178.124.179.122:8088/Oruzhie/index.m3u8
+http://188.113.190.15/155/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://178.163.51.39:4022/udp/234.0.0.230:2000
+http://178.163.99.10:4022/udp/234.0.0.230:2000
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
+http://88.85.172.243:7012/play/a02m
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://86.57.178.105:9952/oh
 #EXTINF:-1 group-title="Хобби", Рыболов
-http://91.207.114.209:5000/c109
+http://91.207.115.228:5000/c109
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://195.26.83.96:7022/play/a010/index.m3u8
+http://81.23.189.63:4022/udp/234.0.0.249:2000
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://188.113.190.15/71/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
