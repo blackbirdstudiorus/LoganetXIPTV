@@ -855,6 +855,8 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 http://188.113.190.15/155/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
 http://178.163.99.10:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов
+http://81.23.189.63:4022/udp/234.0.0.98:2000
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
@@ -874,19 +876,17 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
 https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
-https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+http://188.113.190.15/194/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", FashionBox
 http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 group-title="Хобби", Food Time
-http://31.211.77.158:8000/play/a193/index.m3u8
+http://5.153.180.133:8004/play/a07o
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Women Magazine
 http://92.242.110.52:9835/udp/238.1.8.19:1234
-#EXTINF:-1 group-title="Хобби", Women Magazine HD
-https://bkm.beetv.kz/btv/live/hls/000008065.m3u8
 
 
 #EXTINF:-1 group-title="Религия", Союз
