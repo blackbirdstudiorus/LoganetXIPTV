@@ -5,35 +5,35 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy-pl9" tvg-logo="http://loganet.ru/images/channels/First.png", Первый канал +9 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First HD.png", Первый канал HD 
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD 
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First HD.png", Первый канал HD +4
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/Russia 1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
+#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/Russia-1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/Russia 1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1-pl9", Россия 1 +9 (Архив)
+#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/Russia-1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1-pl9", Россия 1 +9 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 tvg-id="rossia1-pl1" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +1
+#EXTINF:-1 tvg-id="rossia1-pl1" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +1
 https://player.smotrim.ru/iframe/stream/live_id/60262
-#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +2
+#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +2
 https://player.smotrim.ru/iframe/stream/live_id/58511
-#EXTINF:-1 tvg-id="rossia1-pl3" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +3
+#EXTINF:-1 tvg-id="rossia1-pl3" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +3
 https://player.smotrim.ru/iframe/stream/live_id/60263
-#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +4
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +4
 https://player.smotrim.ru/iframe/stream/live_id/58510
-#EXTINF:-1 tvg-id="rossia1-pl5" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +5
+#EXTINF:-1 tvg-id="rossia1-pl5" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +5
 https://player.smotrim.ru/iframe/stream/live_id/60264
-#EXTINF:-1 tvg-id="rossia1-pl6" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +6
+#EXTINF:-1 tvg-id="rossia1-pl6" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +6
 https://player.smotrim.ru/iframe/stream/live_id/58509
-#EXTINF:-1 tvg-id="rossia1-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +7
+#EXTINF:-1 tvg-id="rossia1-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +7
 https://player.smotrim.ru/iframe/stream/live_id/60265
-#EXTINF:-1 tvg-id="rossia1-pl8" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +8
+#EXTINF:-1 tvg-id="rossia1-pl8" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +8
 https://player.smotrim.ru/iframe/stream/live_id/58508
-#EXTINF:-1 tvg-id="rossia1-pl9" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia 1 HD.png", Россия 1 HD +9
+#EXTINF:-1 tvg-id="rossia1-pl9" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +9
 https://player.smotrim.ru/iframe/stream/live_id/60266
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv" tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -41,7 +41,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv-pl7" tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV HD.png", НТВ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
 https://st1.uzdigital.tv/NTV_MIR/tracks-v1a1/mono.m3u8
