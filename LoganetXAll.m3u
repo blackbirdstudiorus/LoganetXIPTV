@@ -44,7 +44,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
-https://st1.uzdigital.tv/NTV_MIR/tracks-v1a1/mono.m3u8
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-Belarus.png", НТВ-Беларусь
 https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-America.png", НТВ-Америка
@@ -87,7 +87,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
-http://5.167.243.203:81/udp/225.0.56.99:1234
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ Int
 http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
@@ -180,7 +180,7 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://95.52.171.87:82/play/a067
+http://188.113.190.15/3/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
@@ -250,7 +250,7 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
 http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион
-http://195.191.130.11:9000/play/a00u/index.m3u8
+http://81.23.189.199:4022/udp/234.0.0.178:2000
 #EXTINF:-1 group-title="Кино", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман HD
@@ -263,10 +263,10 @@ http://195.9.195.3:8080/hls/202127.m3u8
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="Кино", A1
 http://91.205.199.3/amedia1/index.m3u8
-#EXTINF:-1 group-title="Кино", A2
+#EXTINF:-1 group-title="Кино", A1 HD
+http://77.106.252.178:4022/udp/233.33.220.130:5050
+#EXTINF:-1 group-title="Кино", A2 
 http://91.205.199.3/amedia2/index.m3u8
-#EXTINF:-1 group-title="Кино", A2 HD
-http://95.52.171.87:82/play/a050
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://91.207.115.228:5000/c57
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
@@ -275,10 +275,6 @@ http://stream01.vnet.am/Nauka/index.m3u8
 http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
-#EXTINF:-1 tvg-id="backustv" group-title="Кино", BackusTV HD 
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="backustv-horror" group-title="Кино", BackusTV Dark HD 
-http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
@@ -287,8 +283,6 @@ http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 group-title="Кино", Comedy Central 
-http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 group-title="Кино", Epic Drama
 http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542
 #EXTINF:-1 group-title="Кино", FAN 
@@ -396,7 +390,7 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-#EXTINF:-1 group-title="Детские", Смайлик ТВ
+#EXTINF:-1 group-title="Детские", Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
 http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
@@ -414,8 +408,6 @@ http://78.62.135.122:8082/STSKidsHD/index.m3u8
 http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детские", Уникум 
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Детские", Чижик
-http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
@@ -434,8 +426,6 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://141.95.55.143/CH277/index.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV
-http://5.153.180.133:8002/play/a0bv
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
@@ -501,14 +491,10 @@ http://109.239.208.82:80/history/index.m3u8
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", Ключ
-http://95.52.171.87:81/play/a014
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", Мир вокруг
-http://81.28.217.78:4022/udp/239.211.211.73:1234
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -531,7 +517,7 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Океан
 https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
 #EXTINF:-1  group-title="Познавательные", Открытый мир
@@ -697,11 +683,11 @@ http://81.7.108.21:9000/play/DTXHD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
-https://st1.uzdigital.tv/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
+http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
-https://st1.uzdigital.tv/National_Geographic/tracks-v1a1/mono.m3u8
+http://81.7.108.21:9000/play/NatGeoHD-DVBC402-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
@@ -732,8 +718,6 @@ http://188.113.190.15/106/tracks-v1a1/index.m3u8
 http://81.7.108.21:9000/play/TravelChannelHD-DVBC330-sti4400019110542
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD 
 http://91.207.115.228:5000/c149
-#EXTINF:-1 group-title="Познавательные", Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
@@ -785,17 +769,16 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Deutsche Welle
 http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-https://st1.uzdigital.tv/Euronews/tracks-v1a1/mono.m3u8
+http://edge02.odtv.az/o1/euronews/playlist.m3u8
 #EXTINF:-1 group-title="Новости", France 24
 http://185.19.190.1:8090/FRANCE24/index.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 group-title="Новости", Rai News 24
-https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+
 
 #EXTINF:-1 group-title="Политические", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -971,12 +954,10 @@ https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккейный
 https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8
-#EXTINF:-1 group-title="Спорт", Хоккейный HD
-http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
@@ -1003,8 +984,6 @@ https://7pal.short.gy/prsport1
 https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-#EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
-http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
