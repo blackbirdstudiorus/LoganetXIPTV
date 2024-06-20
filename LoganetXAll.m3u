@@ -49,62 +49,62 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5
 https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-America.png", НТВ-Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru", Пятый канал (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru" tvg-logo="http://loganet.ru/images/channels/Fifth.png", Пятый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru-pl7", Пятый канал +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru-pl7" tvg-logo="http://loganet.ru/images/channels/Fifth.png", Пятый канал +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="Общие", Россия К (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K.png", Россия К (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura-pl7" group-title="Общие", Россия К +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K.png", Россия К +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", Россия К HD 
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD 
 https://player.smotrim.ru/iframe/stream/live_id/19201
-#EXTINF:-1 tvg-id="kultura-pl2" group-title="Общие", Россия К HD +2 
+#EXTINF:-1 tvg-id="kultura-pl2" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD +2 
 https://player.smotrim.ru/iframe/stream/live_id/60881
-#EXTINF:-1 tvg-id="kultura-pl4" group-title="Общие", Россия К HD +4
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD +4
 https://player.smotrim.ru/iframe/stream/live_id/60882
-#EXTINF:-1 tvg-id="kultura-pl7" group-title="Общие", Россия К HD +7
+#EXTINF:-1 tvg-id="kultura-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD +7
 https://player.smotrim.ru/iframe/stream/live_id/60883
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="otr", ОТР (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="otr" tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общие", ОТР +2
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР +2
 http://94.230.240.17:8080/otp/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr", ТВ Центр (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr" tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ Центр (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr-pl7", ТВ Центр +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr-pl7" tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ Центр +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv" group-title="Общие", РенТВ (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РенТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" group-title="Общие", РенТВ +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РенТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Ren-TV-HD.png", РенТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ Int
+#EXTINF:-1 group-title="Общие"  tvg-logo="http://loganet.ru/images/channels/Ren-TV-Int.png", РенТВ Int
 http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Domestic.png", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Общие", Домашний +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Domestic.png", Домашний +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", Домашний HD
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Domestic.png", Домашний HD
 http://player.smotrim.ru/iframe/stream/live_id/64556?43
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru", ТВ3 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru" tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Общие", ТВ3 +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", ТВ3 Беларусь
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TV-3-Belarus.png", ТВ3 Беларусь
 http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda", Звезда (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
