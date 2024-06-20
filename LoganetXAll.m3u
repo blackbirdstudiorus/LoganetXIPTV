@@ -681,7 +681,7 @@ https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
-http://195.211.27.149:8887/8355/index.m3u8?token=test
+http://31.131.136.4:8001/play/e017
 #EXTINF:-1 group-title="Познавательные", History
 http://195.211.27.149:8887/8356/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", History HD
