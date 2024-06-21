@@ -43,7 +43,8 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Эротика", Dorcel XXX HD 
 http://31.131.136.4:8000/play/a00h
-
+#EXTINF:-1 group-title="Эротика" tvg-logo="http://loganet.ru/images/channels/FUUU-TV.png", FUUU TV 
+http://wellsee.gdn/live.m3u8
 #EXTINF:-1 group-title="Эротика", O-la-la
 http://188.113.190.15/320/video.m3u8
 #EXTINF:-1 group-title="Эротика", PassionXXX
