@@ -184,7 +184,7 @@ http://188.113.190.15/3/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://91.207.115.228:5000/c46
+http://81.23.189.63:4022/udp/234.0.0.118:2000
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
 http://188.113.190.15/334/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
@@ -192,9 +192,9 @@ https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
 http://188.113.190.15/335/video.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
-http://91.207.115.228:5000/c28
+http://178.163.99.10:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://91.207.115.228:5000/c42
+http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
@@ -202,7 +202,7 @@ https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
-http://91.207.115.228:5000/c39
+http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
 http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
@@ -236,7 +236,7 @@ http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
 http://195.211.27.149:8887/8059/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Наше новое кино 
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", НСТ 
 http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит HD 
@@ -250,7 +250,7 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
 http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион
-http://81.23.189.199:4022/udp/234.0.0.178:2000
+http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман HD
@@ -268,9 +268,9 @@ http://77.106.252.178:4022/udp/233.33.220.130:5050
 #EXTINF:-1 group-title="Кино", A2 
 http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
-http://91.207.115.228:5000/c57
+http://178.163.99.10:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
-http://stream01.vnet.am/Nauka/index.m3u8
+http://81.23.189.63:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино", Amedia Premium
 http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
@@ -292,9 +292,11 @@ http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
 http://188.113.190.15/207/mono.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
-http://91.207.115.228:5000/c60
+http://92.242.110.52:9835/udp/238.1.8.38:1234
 #EXTINF:-1 group-title="Кино", FX
-http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230
+http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230 
+#EXTINF:-1 group-title="Кино", FX HD
+http://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:-1 group-title="Кино", FX Life HD
 http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 #EXTINF:-1 group-title="Кино", Hollywood HD 
@@ -302,13 +304,13 @@ https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Kinojam 1
 http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Kinoliving
-http://91.207.115.228:5000/c61
+http://92.242.110.52:9835/udp/238.1.8.1:1234
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Plan B
 http://88.85.172.243:7012/play/a028
 #EXTINF:-1 group-title="Кино", Shot TV
-http://91.207.115.228:5000/c131
+http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
 http://81.7.108.21:9000/play/StarCinema-DVBC378-sti4400019110528
 #EXTINF:-1 group-title="Кино", Star Family
@@ -342,8 +344,10 @@ http://141.95.55.143/CH3869/index.m3u8
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Viju+ Premiere
+http://188.113.190.15/201/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
-http://91.207.115.228:5000/c145
+http://95.156.76.230:33001/udp/230.4.34.107:1234
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
@@ -353,7 +357,7 @@ http://91.205.199.3:80/vipserialhd/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
-https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+http://81.23.189.63:4022/udp/234.0.0.248:2000
 #EXTINF:-1 group-title="Детские", Детский мир
 http://92.242.110.52:9835/udp/238.1.8.30:1234
 #EXTINF:-1 group-title="Детские", Детское кино International
@@ -378,8 +382,8 @@ http://strm.yandex.ru/kal/leva/leva0.m3u8
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Детские", Мультиландия HD
-https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия
+http://188.113.190.15/108/video.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
@@ -460,7 +464,7 @@ https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.
 #EXTINF:-1 group-title="Познавательные", В мире животных HD
 http://195.211.27.149:8887/8456/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
-http://91.207.115.228:5000/c178
+http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
 http://188.113.190.15/118/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
@@ -468,7 +472,7 @@ https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://188.113.190.15/29/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
-http://91.207.115.228:5000/c159
+http://109.239.208.82/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
 http://camera.global-x.ru/EGETV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
@@ -498,10 +502,10 @@ https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
-http://91.207.115.228:5000/c82
+http://109.239.208.82/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", Мы
+#EXTIN:-1 group-title="Познавательные", Мы
 https://strm.yandex.ru/kal/my/my0.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
@@ -589,7 +593,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
 http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://91.207.115.228:5000/c93
+http://streaming.tv-teleport.ru/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
@@ -643,22 +647,22 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://91.207.115.228:5000/c147
+http://81.7.108.21:9000/play/AnimalPlanetHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Big Planet 
-http://91.207.115.228:5000/c94
+http://92.242.110.52:9835/udp/238.1.8.20:1234
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://188.113.190.15/161/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-http://91.207.115.228:5000/c146
+http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Docubox
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX Poland HD
 http://178.219.128.68:64888/DTXHD
 #EXTINF:-1 group-title="Познавательные", English Class
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные", Epic HD
+#EXTIN:-1 group-title="Познавательные", Epic HD
 http://strm.yandex.ru/kal/epic/epic0.m3u8
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
@@ -702,8 +706,6 @@ http://188.113.190.15/163/mono.m3u8
 http://188.113.190.15/78/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC 
 http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
-#EXTINF:-1 group-title="Познавательные", TLC HD
-http://91.207.115.228:5000/c151
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
@@ -714,10 +716,8 @@ http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://188.113.190.15/106/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel Channel
+#EXTINF:-1 group-title="Познавательные", Travel Channel HD
 http://81.7.108.21:9000/play/TravelChannelHD-DVBC330-sti4400019110542
-#EXTINF:-1 group-title="Познавательные", Travel Channel HD 
-http://91.207.115.228:5000/c149
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
@@ -799,9 +799,9 @@ https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://188.113.190.15/131/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+http://92.242.110.52:9835/udp/238.1.7.14:1234
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://81.23.189.199:4022/udp/234.0.0.11:2000
+http://178.163.99.10:4022/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
@@ -907,35 +907,35 @@ http://tv.streams.baikal-telecom.net:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://91.207.115.228:5000/c103
-#EXTINF:-1 group-title="Спорт", Матч! Боец
-http://91.207.115.228:5000/c107
+http://188.113.190.15/325/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец 
+http://91.90.255.235:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец HD
+http://92.242.110.52:9835/udp/238.1.2.7:1234
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://91.207.115.228:5000/c104
+http://188.113.190.15/326/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://188.113.190.15/103/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://141.95.55.143/CH3827/index.m3u8
+http://92.242.110.52:9835/udp/238.1.2.3:1234
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://188.113.190.15/95/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Страна HD
-http://91.207.115.228:5000/c106
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://91.207.115.228:5000/c114
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://188.113.190.15/176/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://91.207.115.228:5000/c115
+http://92.242.110.52:9835/udp/238.1.2.5:1234
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://188.113.190.15/177/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://141.95.55.143/CH3847/index.m3u8
+http://92.242.110.52:9835/udp/238.1.2.6:1234
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
 http://5.153.180.133:8000/play/a03m
 #EXTINF:-1 group-title="Спорт", Спортивный
