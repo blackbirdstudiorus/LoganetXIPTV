@@ -283,6 +283,8 @@ http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central
+http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 group-title="Кино", Epic Drama
 http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542
 #EXTINF:-1 group-title="Кино", FAN 
@@ -428,8 +430,8 @@ http://178.163.99.10:4022/udp/234.0.0.238:2000
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
-#EXTINF:-1 group-title="Детские", JimJam
-http://141.95.55.143/CH277/index.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV
+http://5.153.180.133:8002/play/a0bv
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
