@@ -332,7 +332,7 @@ http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
 http://81.7.108.21:9000/play/StarCinema-DVBC378-sti4400019110528
 #EXTINF:-1 group-title="Кино", Star Family
-http://5.153.180.133:8004/play/a09i
+http://92.248.172.201:4022/udp/225.0.56.85:1234
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air
 http://188.113.190.15/139/mono.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Кино" tvg-id="start-world", Start World
@@ -394,8 +394,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 https://cdn1.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
-#EXTINF:-1 tvg-id="liova" group-title="Детские", Лëва HD
-http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
@@ -446,8 +444,6 @@ http://178.163.99.10:4022/udp/234.0.0.238:2000
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV
-http://5.153.180.133:8002/play/a0bv
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
@@ -644,8 +640,6 @@ http://109.239.208.82/tonus/index.m3u8
 http://188.113.190.15/183/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Туган Тел
-http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Успех 
 http://camera.global-x.ru/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
@@ -698,8 +692,6 @@ http://31.131.136.4:8001/play/e017
 http://195.211.27.149:8887/8356/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", History HD
 http://stream01.vnet.am/Channel_123/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Insight UHD
-http://5.153.180.133:8004/play/a06m
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Museum HD
@@ -872,8 +864,6 @@ https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 http://88.85.172.243:7012/play/a02m
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://86.57.178.105:9952/oh
-#EXTINF:-1 group-title="Хобби", Рыболов
-http://91.207.115.228:5000/c109
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://81.23.189.63:4022/udp/234.0.0.249:2000
 #EXTINF:-1 group-title="Хобби", Усадьба
@@ -890,8 +880,6 @@ http://188.113.190.15/194/tracks-v1a1/index.m3u8
 http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1 group-title="Хобби", Food Time
-http://5.153.180.133:8004/play/a07o
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Women Magazine
@@ -961,7 +949,7 @@ http://188.113.190.15/177/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://45.93.46.27:8887/8238/video.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://5.153.180.133:8000/play/a03m
+http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 group-title="Спорт", Спортивный
 https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
@@ -1015,8 +1003,6 @@ https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://45.93.46.27:8887/8565/video.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://erlyvideo.beeonline.az/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
