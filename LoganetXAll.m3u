@@ -146,7 +146,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета
-https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+http://hls.goodgame.ru/hls/176975.m3u8
 #EXTINF:-1 group-title="Кино", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
@@ -669,7 +669,7 @@ http://188.113.190.15/161/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-http://stream01.vnet.am/DiscoveryChannel/index.m3u8
+http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025
 #EXTINF:-1 group-title="Познавательные", Docubox
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX Poland HD
