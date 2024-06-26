@@ -123,7 +123,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/World.png", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Tatarstan.png", ТНВ Татарстан
-http://levshanov.tlkf.ru:8080/tv/24tv.php?id=113
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Planet.png", ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/BST.png", БСТ
