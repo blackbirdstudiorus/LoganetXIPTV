@@ -719,7 +719,9 @@ http://188.113.190.15/163/mono.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
 http://188.113.190.15/78/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC 
-http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
+http://193.111.244.35:8001/tlc/index.m3u8
+#EXTINF:-1 group-title="Познавательные", TLC HD 
+http://193.111.244.35:8001/tlcHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
