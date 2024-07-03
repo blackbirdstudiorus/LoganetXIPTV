@@ -169,6 +169,8 @@ http://188.113.190.15/45/tracks-v1a1/index.m3u8
 https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
+#EXTINF:-1 group-title="Кино", Камеди
+http://188.134.76.176:81/udp/235.10.10.160:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://95.156.76.230:33001/udp/230.4.34.85:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
@@ -297,6 +299,8 @@ http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Bolt HD
+http://188.134.76.176:81/udp/235.10.10.107:1234
 #EXTINF:-1 group-title="Кино", Cinema HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Classic
@@ -329,6 +333,8 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 http://188.134.76.176:81/udp/235.10.10.151:1234
 #EXTINF:-1 group-title="Кино", Plan B HD 
 http://91.205.199.7:8000/play/a0rh
+#EXTINF:-1 group-title="Кино", Romance
+http://camera.global-x.ru/Motosport/index.m3u8
 #EXTINF:-1 group-title="Кино", Shot TV
 http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
@@ -523,6 +529,8 @@ http://109.239.208.82:80/history/index.m3u8
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Ключ
+http://188.134.76.176:81/udp/235.10.10.128:1234
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
@@ -617,7 +625,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
 http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://streaming.tv-teleport.ru/Teleputeshestviya/index.m3u8
+https://stream2.itv.uz/1453/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
@@ -698,12 +706,16 @@ https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 http://31.131.136.4:8001/play/e017
 #EXTINF:-1 group-title="Познавательные", History
 http://195.211.27.149:8887/8356/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Insight TV
+https://stream2.itv.uz/1416/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Museum HD
 http://81.7.108.21:9000/play/DTXHD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Museum 4k
 http://45.93.46.27:8887/8905/video.m3u8
+#EXTINF:-1 group-title="Познавательные", MyZen TV
+http://188.134.76.176:81/udp/235.10.10.120:1234
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
