@@ -943,7 +943,7 @@ http://188.113.190.15/325/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец HD
-http://92.242.110.52:9835/udp/238.1.2.7:1234
+http://188.134.76.176:81/udp/235.10.10.142:1234
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
@@ -953,7 +953,7 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://188.113.190.15/103/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://193.111.244.35:8001/matchprem/index.m3u8
+http://188.134.76.176:81/udp/235.10.10.182:1234
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://188.113.190.15/95/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
