@@ -80,6 +80,8 @@ https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
 #EXTINF:-1 group-title="Эротика", Pink Erotic 7
 https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
 #EXTINF:-1 group-title="Эротика", Playboy
+http://168.181.122.234:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Эротика", Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Private
 http://45.93.46.27:8887/8203/video.m3u8
@@ -93,6 +95,8 @@ http://31.131.136.4:8000/play/a00f
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Venus
 http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Эротика", Vivid TV Europe
+http://31.131.136.4:8000/play/a00l
 #EXTINF:-1 group-title="Эротика", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="Эротика", Русская ночь
