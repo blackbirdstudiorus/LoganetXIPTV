@@ -146,7 +146,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета
-http://hls.goodgame.ru/hls/176975.m3u8
+https://iptvx.one/plst/1766884A2DE47EE/playlist.m3u
 #EXTINF:-1 group-title="Кино", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
@@ -188,7 +188,7 @@ http://188.113.190.15/3/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://81.23.189.63:4022/udp/234.0.0.118:2000
+http://81.23.189.199:4022/udp/234.0.0.118:2000
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
 http://188.113.190.15/334/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
@@ -290,7 +290,7 @@ http://188.134.76.176:81/udp/235.10.10.125:1234
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://178.163.99.10:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
-http://81.23.189.63:4022/udp/234.0.0.169:2000
+http://81.23.189.199:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино", Amedia Premium
 http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
@@ -387,9 +387,9 @@ http://91.205.199.3:80/vipserialhd/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
-http://81.23.189.63:4022/udp/234.0.0.248:2000
+http://188.113.190.15/43/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
-http://92.242.110.52:9835/udp/238.1.8.30:1234
+http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
