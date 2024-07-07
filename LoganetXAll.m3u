@@ -177,6 +177,8 @@ http://95.156.76.230:33001/udp/230.4.34.85:1234
 http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино без границ
+http://185.163.194.185:6987/233/mpegts
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -524,7 +526,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
+http://185.112.140.28/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
@@ -706,6 +708,8 @@ https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
 http://31.131.136.4:8001/play/e017
+#EXTINF:-1 group-title="Познавательные", HGTV HD
+http://185.163.194.185:6987/44/mpegts
 #EXTINF:-1 group-title="Познавательные", History
 http://195.211.27.149:8887/8356/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Insight TV
@@ -739,7 +743,9 @@ http://188.113.190.15/163/mono.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
 http://188.113.190.15/78/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC 
-http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
+http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089 
+#EXTINF:-1 group-title="Познавательные", TLC HD
+http://212.0.213.132:8084/TLC/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
@@ -844,6 +850,8 @@ http://95.156.76.230:33001/udp/230.4.34.78:1234
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
 http://45.93.46.27:8887/8140/video.m3u8
+#EXTINF:-1 group-title="Хобби", Еда HD
+http://188.134.76.176:81/udp/235.10.10.240:1234
 #EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
 https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Живи
@@ -1023,10 +1031,16 @@ https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://185.163.194.185:6987/150/mpegts
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://45.93.46.27:8887/8565/video.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://185.163.194.185:6987/151/mpegts
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 https://stream2.itv.uz/1264/index.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
+http://185.163.194.185:6987/149/mpegts
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
