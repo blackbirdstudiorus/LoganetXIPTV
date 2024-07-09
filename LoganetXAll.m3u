@@ -374,6 +374,8 @@ http://91.205.199.3/tv1000/index.m3u8
 http://141.95.55.143/CH3869/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
 http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Новелла
+http://91.218.160.212:8015/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
