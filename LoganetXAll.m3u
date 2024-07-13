@@ -44,9 +44,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://stream2.itv.uz/1434/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-Belarus.png", НТВ-Беларусь
-https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+http://194.158.222.36:6106/
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-America.png", НТВ-Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru" tvg-logo="http://loganet.ru/images/channels/Fifth.png", Пятый канал (Архив)
@@ -166,7 +166,7 @@ http://188.113.190.15/49/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
-https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+http://188.113.190.15/329/video.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 group-title="Кино", Камеди
