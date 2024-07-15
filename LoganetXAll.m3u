@@ -44,7 +44,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
-https://stream2.itv.uz/1434/index.m3u8
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-Belarus.png", НТВ-Беларусь
 http://194.158.222.36:6106/
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-America.png", НТВ-Америка
@@ -190,21 +190,21 @@ http://188.113.190.15/3/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://81.23.189.199:4022/udp/234.0.0.118:2000
+http://178.163.99.10:4022/udp/234.0.0.118:2000
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://188.113.190.15/334/video.m3u8
+http://188.134.76.176:81/udp/235.10.10.68:1234
 #EXTINF:-1 group-title="Кино", Киномикс
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
-http://188.113.190.15/335/video.m3u8
+http://188.134.76.176:81/udp/235.10.10.188:1234
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://178.163.99.10:4022/udp/234.0.0.209:2000
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+http://185.112.140.28/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
-https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+http://178.16.151.67/kinosat/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
@@ -214,13 +214,13 @@ http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия HD
-http://188.113.190.15/336/mono.m3u8
+http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
 http://31.131.136.4:8001/play/e00b
 #EXTINF:-1 group-title="Кино", Киноужас HD
 http://188.113.190.15/323/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+http://185.112.140.28/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
