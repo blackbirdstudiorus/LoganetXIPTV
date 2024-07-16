@@ -298,7 +298,7 @@ http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
-https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+http://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Bolt HD
