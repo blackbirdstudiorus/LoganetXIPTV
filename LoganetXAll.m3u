@@ -445,7 +445,7 @@ http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
-https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+http://45.93.46.27:8887/8321/video.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
 http://91.142.158.107:8092/play/8/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
