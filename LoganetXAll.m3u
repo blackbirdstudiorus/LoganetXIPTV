@@ -627,7 +627,7 @@ http://188.113.190.15/85/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://188.113.190.15/206/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
-http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+http://135.181.115.81:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
@@ -680,12 +680,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 group-title="Познавательные", Танцуй!
-http://92.242.110.52:9835/udp/238.1.9.2:1234
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-https://stream2.itv.uz/1453/index.m3u8
+http://94.232.104.237:8011/teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
-https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+http://178.16.151.67/t24/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
 http://188.113.190.15/180/tracks-v1a1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt", ТНТ (Архив)
@@ -699,7 +697,7 @@ http://streamer2.fokks.ru:10019/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ HD
 http://185.112.140.28/TNT_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ International (Европа)
-https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+http://85.187.13.40:18000/tntint
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4", ТНТ4 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -737,7 +735,7 @@ http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
 http://81.7.108.21:9000/play/AnimalPlanetHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Big Planet 
-http://92.242.110.52:9835/udp/238.1.8.20:1234
+http://185.163.194.185:6872/184/mpegts
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://188.113.190.15/161/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
@@ -746,24 +744,26 @@ http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025
 #EXTINF:-1 group-title="Познавательные", Docubox
 http://188.113.190.15/146/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", DTX Poland HD
-http://178.219.128.68:64888/DTXHD
+#EXTINF:-1 group-title="Познавательные", DTX
+http://edge02.odtv.az/o5/dtx/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
-http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
-#EXTIN:-1 group-title="Познавательные", Epic HD
-http://strm.yandex.ru/kal/epic/epic0.m3u8
+http://178.163.0.173:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Познавательные", English Club
+https://stream3.itv.uz/1442/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Epic HD
+http://188.134.76.176:81/udp/235.10.10.100:1234
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
-https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+http://80.245.93.242:9030/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
-https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+http://94.232.104.237:8011/hdlife/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
-http://31.131.136.4:8001/play/e017
+http://45.93.46.27:8887/8355/video.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV HD
-http://185.163.194.185:6987/44/mpegts
+http://185.163.194.185:6872/44/mpegts
 #EXTINF:-1 group-title="Познавательные", History
 http://195.211.27.149:8887/8356/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", History 2
@@ -794,6 +794,8 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 group-title="Познавательные", San Porto
 http://188.113.190.15/209/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Sunset Space 
+https://stream.sunset-media.ru/Free/Free/3.m3u8
 #EXTINF:-1 group-title="Познавательные", Silkway HD
 http://188.113.190.15/163/mono.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
