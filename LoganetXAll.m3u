@@ -834,6 +834,8 @@ http://109.239.208.82:80/zoo/index.m3u8
 
 #EXTINF:-1 group-title="Новости", 360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Новости", Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новости", Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
@@ -892,14 +894,16 @@ http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://91.205.199.3:80/avto24/index.m3u8
+#EXTINF:-1 group-title="Хобби", Авто Плюс 
+http://178.16.151.67/avto-plus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс HD
-https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+http://stream.rutvportal.com:8085/AutoPlusHD/video.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://188.113.190.15/131/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://92.242.110.52:9835/udp/238.1.7.14:1234
+http://45.93.46.27:8887/8324/video.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://178.163.99.10:4022/udp/234.0.0.11:2000
+http://94.232.104.237:8011/eurosport1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
@@ -910,8 +914,6 @@ http://188.113.190.15/68/tracks-v1a1/index.m3u8
 http://45.93.46.27:8887/8140/video.m3u8
 #EXTINF:-1 group-title="Хобби", Еда HD
 http://188.134.76.176:81/udp/235.10.10.240:1234
-#EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
-https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби", Живи
 https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
