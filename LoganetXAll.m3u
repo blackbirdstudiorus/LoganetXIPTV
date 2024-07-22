@@ -511,7 +511,7 @@ http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://185.163.194.185:6872/211/mpegts
 #EXTINF:-1 group-title="Детские", Duck TV HD
-https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+https://stream3.itv.uz/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam
 http://95.83.111.209:4022/udp/239.255.40.248:5500
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -524,6 +524,8 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Детские", Sunset Kids 
+https://stream.sunset-media.ru/Free/Free/4.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
