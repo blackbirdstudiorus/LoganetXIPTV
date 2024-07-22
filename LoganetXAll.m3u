@@ -311,6 +311,8 @@ http://195.9.195.3:8080/hls/202127.m3u8
 http://45.93.46.27:8887/8198/video.m3u8
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 http://188.113.190.15/24/mono.m3u8
+#EXTINF:-1 group-title="Кино", Хит HD
+http://stream.rutvportal.com:8085/HitHD/video.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее
 http://45.93.46.27:8887/8322/video.m3u8
 #EXTINF:-1 group-title="Кино", A1
@@ -516,6 +518,10 @@ https://stream3.itv.uz/1271/index.m3u8
 http://95.83.111.209:4022/udp/239.255.40.248:5500
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://91.218.160.212:8015/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Детские", JimJam
+http://stream.rutvportal.com:8085/JimJam/video.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV 
+http://31.211.77.158:8000/play/a165/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
@@ -601,6 +607,8 @@ http://188.113.190.15/219/tracks-v1a1/index.m3u8
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", НИК
+http://91.218.160.212:8015/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
 http://188.113.190.15/96/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
@@ -789,7 +797,7 @@ http://81.7.108.21:9000/play/NatGeoHD-DVBC402-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+http://stream.rutvportal.com:8085/RTGHD/video.m3u8
 #EXTINF:-1 group-title="Познавательные", RTVi 
 http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 group-title="Познавательные", San Porto
