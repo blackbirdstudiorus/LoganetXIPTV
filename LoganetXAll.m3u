@@ -167,6 +167,8 @@ http://188.113.190.15/49/tracks-v1a1/index.m3u8
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.15/329/video.m3u8
+#EXTINF:-1 group-title="Кино", Индийское кино Международный
+http://185.163.194.185:6872/87/mpegts
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 group-title="Кино", Камеди
@@ -178,7 +180,7 @@ http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ
-http://185.163.194.185:6987/233/mpegts
+http://185.163.194.185:6872/233/mpegts
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -190,15 +192,17 @@ http://188.113.190.15/3/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://178.163.99.10:4022/udp/234.0.0.118:2000
+http://94.232.104.237:8011/komediyatv/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия Международный
+http://185.163.194.185:6872/22/mpegts
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://188.134.76.176:81/udp/235.10.10.68:1234
+http://80.245.93.242:9030/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
-http://188.134.76.176:81/udp/235.10.10.188:1234
+http://80.245.93.242:9030/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
-http://178.163.99.10:4022/udp/234.0.0.209:2000
+http://94.232.104.237:8011/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
@@ -238,9 +242,11 @@ http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
 http://95.156.76.230:33001/udp/230.4.34.124:1234
 #EXTINF:-1 group-title="Кино", Мужское кино
-https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+http://stream.rutvportal.com:8085/MuzhskoeKinoHD/video.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино HD
-http://188.134.76.176:81/udp/235.10.10.150:1234
+https://stream3.itv.uz/1237/index.m3u8
+#EXTINF:-1 group-title="Кино", Мужское кино HD Международный
+http://185.163.194.185:6872/186/mpegts
 #EXTINF:-1 group-title="Кино", Наше
 http://45.93.46.27:8887/8059/video.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
