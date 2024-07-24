@@ -1047,9 +1047,7 @@ http://188.113.190.15/177/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://45.93.46.27:8887/8238/video.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
-http://92.242.110.52:9835/udp/238.1.1.17:1234
-#EXTINF:-1 group-title="Спорт", Спортивный
-https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8
+http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -1060,10 +1058,14 @@ https://streams.qazcdn.net/live2/bQS3PALvoU/live/bQS3PALvoU_1080/chunks.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Футбольный
+http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Футбольный HD
-https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
+http://45.93.46.27:8887/8368/video.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккейный
-https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8
+http://45.93.46.27:8887/8367/video.m3u8
+#EXTINF:-1 group-title="Спорт", Хоккейный HD
+http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
@@ -1073,21 +1075,27 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
 http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Спорт", Extreme Sports
-http://81.23.189.199:4022/udp/234.0.0.113:2000
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Extreme Sports HD
+http://178.163.0.173:4022/udp/234.0.0.113:2000
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://188.113.190.15/208/video.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD 
 http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
 #EXTINF:-1 group-title="Спорт", FightBox
 https://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Спорт", FightBox HD
+http://185.163.194.185:6872/157/mpegts
 #EXTINF:-1 group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
+http://178.163.0.173:4022/udp/234.0.0.14:2000
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
-https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
+http://188.113.190.11/305/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
@@ -1095,20 +1103,24 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
-https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+http://178.16.151.67/rus-extrim/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1
-http://185.163.194.185:6987/150/mpegts
+http://185.163.194.185:6872/150/mpegts
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://45.93.46.27:8887/8565/video.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2
-http://185.163.194.185:6987/151/mpegts
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://stream2.itv.uz/1264/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
-http://185.163.194.185:6987/149/mpegts
+http://185.163.194.185:6872/151/mpegts
+#EXTINF:-1 group-title="Спорт", Setanta Sports+ Qazaqstan 
+http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
+#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine 
+http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine
+http://45.93.46.27:8887/8329/video.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine HD
+http://185.163.194.185:6872/149/mpegts
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
