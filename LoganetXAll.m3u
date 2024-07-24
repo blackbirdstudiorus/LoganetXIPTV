@@ -769,11 +769,13 @@ http://80.245.93.242:9030/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 http://94.232.104.237:8011/hdlife/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
-http://45.93.46.27:8887/8355/video.m3u8
+http://80.245.93.242:9030/play/a022/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV HD
 http://185.163.194.185:6872/44/mpegts
 #EXTINF:-1 group-title="Познавательные", History
-http://195.211.27.149:8887/8356/index.m3u8?token=test
+http://45.93.46.27:8887/8356/video.m3u8
+#EXTINF:-1 group-title="Познавательные", History HD
+http://stream.rutvportal.com:8085/HistoryHD/video.m3u8
 #EXTINF:-1 group-title="Познавательные", History 2
 http://stream.rutvportal.com:8085/History2HD/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Insight TV
