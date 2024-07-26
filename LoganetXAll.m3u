@@ -139,7 +139,7 @@ http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red HD
 http://188.113.190.15/149/mono.m3u8
-#EXTINF:-1 group-title="Кино", .sci-fi 
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
 http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
