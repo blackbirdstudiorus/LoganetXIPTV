@@ -141,11 +141,11 @@ http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
 http://91.205.199.3/scifi/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="Кино", 312 Кино
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Видеокассета
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
