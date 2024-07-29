@@ -147,13 +147,13 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Кино", День Победы
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Day-Victory.png", День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1 group-title="Кино", Дом кино
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 http://185.112.140.28/DomKino/index.m3u8
-#EXTINF:-1 group-title="Кино", Дом кино Премиум
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Дом кино Премиум HD
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://188.113.190.15/91/video.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
