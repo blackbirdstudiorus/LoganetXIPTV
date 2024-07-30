@@ -133,14 +133,16 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/STV-Belarus.png", СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black 
-http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
+http://188.113.190.11/186/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black HD
+http://185.163.194.185:6971/39/mpegts
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red HD
 http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
-http://91.205.199.3/scifi/index.m3u8
+http://188.113.190.15/23/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
@@ -158,7 +160,7 @@ http://188.113.190.15/91/video.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
-http://45.93.46.27:8887/8296/video.m3u8
+http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Душевное HD
 http://195.211.27.149:8887/8296/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Еврокино
@@ -168,7 +170,7 @@ http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.15/329/video.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино Международный
-http://185.163.194.185:6872/87/mpegts
+http://185.163.194.185:6971/87/mpegts
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 group-title="Кино", Камеди
@@ -180,7 +182,7 @@ http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ
-http://185.163.194.185:6872/233/mpegts
+http://185.163.194.185:6971/233/mpegts
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -194,9 +196,9 @@ http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия Международный
-http://185.163.194.185:6872/22/mpegts
+http://185.163.194.185:6971/22/mpegts
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://80.245.93.242:9030/play/a02x/index.m3u8
+http://188.134.76.176:81/udp/235.10.10.68:1234
 #EXTINF:-1 group-title="Кино", Киномикс
 http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
