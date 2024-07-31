@@ -764,6 +764,8 @@ http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX
 http://edge02.odtv.az/o5/dtx/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", English Class
+http://188.113.190.15/159/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Epic HD
