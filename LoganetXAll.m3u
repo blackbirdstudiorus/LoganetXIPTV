@@ -542,7 +542,7 @@ https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
 http://185.112.140.28/365_dnej/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
-https://stream3.itv.uz/1414/index.m3u8
+http://109.239.208.82/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
