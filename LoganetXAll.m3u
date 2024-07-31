@@ -147,6 +147,8 @@ http://188.113.190.15/23/mono.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+http://89.104.114.2:8080/blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Day-Victory.png", День Победы
@@ -175,6 +177,8 @@ http://185.163.194.185:6971/87/mpegts
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 group-title="Кино", Камеди
 http://188.134.76.176:81/udp/235.10.10.160:1234
+#EXTINF:-1 group-title="Кино", Камеди HD
+http://89.104.114.2:8080/kamedi_hd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://95.156.76.230:33001/udp/230.4.34.85:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
@@ -207,6 +211,8 @@ http://80.245.93.242:9030/play/a02u/index.m3u8
 http://185.163.194.185:6872/40/mpegts
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://94.232.104.237:8011/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинопоказ HD
+http://89.104.114.2:8080/kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
@@ -245,6 +251,8 @@ http://185.112.140.28/Kinohit/index.m3u8
 http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD Международный
 http://185.163.194.185:6872/134/mpegts
+#EXTINF:-1 group-title="Кино", Кино UHD
+http://130.193.124.214:8026/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
 http://45.93.46.27:8887/8323/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
@@ -266,17 +274,21 @@ https://stream3.itv.uz/1237/index.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино HD Международный
 http://185.163.194.185:6872/186/mpegts
 #EXTINF:-1 group-title="Кино", Наше
-http://45.93.46.27:8887/8059/video.m3u8
+http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
 http://195.211.27.149:8887/8059/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Наше Мужское
-http://45.93.46.27:8887/8740/video.m3u8
+http://130.193.124.214:8026/play/a032/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Наше новое кино Международный
 http://185.163.194.185:6872/115/mpegts
 #EXTINF:-1 group-title="Кино", Наше новое кино HD
 https://stream3.itv.uz/1051/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Наш кинопоказ
+http://89.104.114.2:8080/nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Наш кинопоказ HD
+http://130.193.124.214:8026/play/a031/index.m3u8
 #EXTINF:-1 group-title="Кино", НСТ 
 http://188.113.190.15/48/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
@@ -287,10 +299,10 @@ http://188.134.76.176:81/udp/235.10.10.202:1234
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал HD 
 http://188.134.76.176:81/udp/235.10.10.53:1234
-#EXTINF:-1 group-title="Кино", Остросюжетное HD
-http://45.93.46.27:8887/8184/video.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное
+http://195.211.27.149:8887/8184/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Премиальное HD
-http://45.93.46.27:8887/8028/video.m3u8
+rtmp://5.182.229.90//7222
 #EXTINF:-1 group-title="Кино", Родное кино 
 http://80.245.93.242:9030/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино Международный
@@ -312,13 +324,13 @@ http://130.193.124.214:8028/play/a05z/index.m3u8
 #EXTINF:-1 group-title="Кино", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино", Страшное HD
-http://45.93.46.27:8887/8198/video.m3u8
+rtmp://5.182.229.90//7247
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="Кино", Хит HD
-http://stream.rutvportal.com:8085/HitHD/video.m3u8
+http://89.104.114.2:8080/hit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее
-http://45.93.46.27:8887/8322/video.m3u8
+http://130.193.124.214:8028/play/a07k/index.m3u8
 #EXTINF:-1 group-title="Кино", A1
 http://188.113.190.11/79/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", A1 HD
@@ -477,7 +489,7 @@ http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
 http://188.113.190.15/136/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+http://130.193.124.214:8022/play/ak19/index.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
@@ -950,6 +962,8 @@ https://stream3.itv.uz/1413/index.m3u8
 http://185.163.194.185:6872/120/mpegts
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
 http://80.245.93.242:9030/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Хобби", Пес и Ко
+http://89.104.114.2:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://86.57.178.105:9952/oh
 #EXTINF:-1 group-title="Хобби", Рыболов
@@ -972,6 +986,8 @@ http://camera.global-x.ru/FashionBox/index.m3u8
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network HD
 http://185.163.194.185:6872/179/mpegts
+#EXTINF:-1 group-title="Хобби", Food Time
+http://89.104.114.2:8080/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
