@@ -926,14 +926,12 @@ http://195.211.27.149:8887/8140/index.m3u8?token=test
 http://188.134.76.176:81/udp/235.10.10.240:1234
 #EXTINF:-1 group-title="Хобби", Живи
 http://178.16.151.67/jivi/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
-http://80.245.93.242:9030/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
+http://188.113.190.15/123/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://188.113.190.15/76/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Хобби", Конный мир HD
-http://45.93.46.27:8887/8326/video.m3u8
 #EXTINF:-1 group-title="Хобби", КтоКуда
 http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня ТВ
@@ -943,9 +941,9 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
-http://31.211.77.158:8000/play/a191/index.m3u8
+rtmp://5.182.229.90//7349
 #EXTINF:-1 group-title="Хобби", Мужской 
-http://stream.rutvportal.com:8085/Muzhskoy/video.m3u8
+http://188.113.190.11/64/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Наша тема 
 http://188.113.190.15/218/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
@@ -953,13 +951,13 @@ http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
 http://188.113.190.15/155/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://80.245.93.242:9030/play/a02f/index.m3u8
+http://188.113.190.15/69/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов
-https://stream3.itv.uz/1413/index.m3u8
+https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
-http://185.163.194.185:6872/120/mpegts
+http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://80.245.93.242:9030/play/a01i/index.m3u8
+http://91.218.160.212:8015/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Хобби", Пес и Ко
 http://89.104.114.2:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
@@ -975,15 +973,15 @@ http://188.113.190.15/60/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
-http://31.211.77.158:8000/play/a197/index.m3u8
+http://89.104.114.2:8080/fashion_one_hd/index.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion & Style
+http://130.193.124.214:8028/play/a062/index.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://188.113.190.15/194/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Хобби", FashionBox
 http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1 group-title="Хобби", Food Network HD
-http://185.163.194.185:6872/179/mpegts
 #EXTINF:-1 group-title="Хобби", Food Time
 http://89.104.114.2:8080/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
