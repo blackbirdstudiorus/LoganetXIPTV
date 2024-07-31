@@ -508,8 +508,6 @@ http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://94.232.104.237:8011/cartoonnetwork/index.m3u8
-#EXTINF:-1 group-title="Детские", Cartoon Classics
-http://185.163.194.185:6872/211/mpegts
 #EXTINF:-1 group-title="Детские", Duck TV HD
 https://stream3.itv.uz/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam
