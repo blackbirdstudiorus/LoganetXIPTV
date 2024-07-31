@@ -974,7 +974,7 @@ http://188.113.190.15/60/tracks-v1a1/index.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
 http://89.104.114.2:8080/fashion_one_hd/index.m3u8
-#EXTINF:-1 group-title="Хобби", Fashion & Style
+#EXTINF:-1 group-title="Хобби", Fashion & Style 4k
 http://130.193.124.214:8028/play/a062/index.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://188.113.190.15/194/tracks-v1a1/index.m3u8
