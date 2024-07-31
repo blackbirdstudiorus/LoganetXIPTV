@@ -504,6 +504,8 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Classics
+http://130.193.124.214:8024/play/mm12/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoonito 
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoonito HD
@@ -543,8 +545,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
 http://185.112.140.28/365_dnej/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Анекдот ТВ
-http://tv.light-net.ru:8005/play/a07j
 #EXTINF:-1 group-title="Познавательные", Арсенал
 http://109.239.208.82/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
@@ -752,8 +752,6 @@ http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX
 http://edge02.odtv.az/o5/dtx/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", English Class
-http://tv.light-net.ru:8005/play/a07l
 #EXTINF:-1 group-title="Познавательные", English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Epic HD
@@ -762,8 +760,6 @@ http://188.134.76.176:81/udp/235.10.10.100:1234
 rtmp://5.182.229.90//7142
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
-http://tv.light-net.ru:8005/play/a06x
 #EXTINF:-1 group-title="Познавательные", HDL
 http://94.232.104.237:8011/hdlife/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
