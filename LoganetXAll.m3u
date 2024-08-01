@@ -135,8 +135,6 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
 http://188.113.190.11/186/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black HD
-http://185.163.194.185:6971/39/mpegts
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red HD
@@ -171,12 +169,10 @@ http://188.113.190.15/49/tracks-v1a1/index.m3u8
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.15/329/video.m3u8
-#EXTINF:-1 group-title="Кино", Индийское кино Международный
-http://185.163.194.185:6971/87/mpegts
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 group-title="Кино", Камеди
-http://188.134.76.176:81/udp/235.10.10.160:1234
+http://130.193.124.214:8026/play/a035/index.m3u8
 #EXTINF:-1 group-title="Кино", Камеди HD
 http://89.104.114.2:8080/kamedi_hd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
@@ -185,8 +181,6 @@ http://95.156.76.230:33001/udp/230.4.34.85:1234
 http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино без границ
-http://185.163.194.185:6971/233/mpegts
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -199,16 +193,12 @@ http://188.113.190.15/3/video.m3u8
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинокомедия Международный
-http://185.163.194.185:6971/22/mpegts
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://188.134.76.176:81/udp/235.10.10.68:1234
+http://89.104.114.2:8080/komediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
-http://80.245.93.242:9030/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Кино", Киномикс HD Международный
-http://185.163.194.185:6872/40/mpegts
+http://89.104.114.2:8080/kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://94.232.104.237:8011/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ HD
@@ -216,9 +206,7 @@ http://89.104.114.2:8080/kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
-http://185.112.140.28/Kinopremera/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинопремьера HD Международный
-http://185.163.194.185:6872/21/mpegts
+http://89.104.114.2:8080/premiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
 http://178.16.151.67/kinosat/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
