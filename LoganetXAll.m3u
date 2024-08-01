@@ -309,10 +309,18 @@ http://188.113.190.15/221/tracks-v1a1/index.m3u8
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинодетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Кинодок
+https://autopilot.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Кинодрама
+https://autopilot.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Киноклассика
+https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинокомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киномистика 
 https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Кинофантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноэкшен 
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Кино", Советская киноклассика
