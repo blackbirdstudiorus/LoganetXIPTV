@@ -361,6 +361,10 @@ http://188.134.76.176:81/udp/235.10.10.107:1234
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Comedy Central
 http://195.211.27.149:8887/8171/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Duo3
+http://81.7.108.21:9000/play/SonyChannelHD-DVBC402-sti4400018360108 
+#EXTINF:-1 group-title="Кино", Duo6 
+http://81.7.108.21:9000/play/SonyTurboHD-DVBC402-sti4400018360108
 #EXTINF:-1 group-title="Кино", Epic Drama
 http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542 
 #EXTINF:-1 group-title="Кино", Epic Drama HD
@@ -371,6 +375,10 @@ http://178.16.151.67/fan/index.m3u8
 http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
 http://188.113.190.15/207/mono.m3u8
+#EXTINF:-1 group-title="Кино", Filmzone
+http://81.7.108.21:9000/play/Filmzone-DVBC298-sti4400018450230 
+#EXTINF:-1 group-title="Кино", Filmzone Plus
+http://81.7.108.21:9000/play/FilmzonePlusHD-DVBC354-sti4400019110528
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 group-title="Кино", FX
@@ -767,7 +775,9 @@ http://188.113.190.15/161/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025
+http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025 
+#EXTINF:-1 group-title="Познавательные", Discovery Science
+https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Docubox
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", DTX
