@@ -876,6 +876,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24-pl7" group-title="Новости", Россия 24 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
+#EXTINF:-1 group-title="Новости", Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 group-title="Новости", Соловьёв.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 group-title="Новости", CNN
