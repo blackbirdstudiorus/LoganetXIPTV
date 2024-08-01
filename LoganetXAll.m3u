@@ -307,6 +307,14 @@ http://91.142.158.107:8092/play/25/index.m3u8
 http://188.113.190.15/221/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Сапфир HD
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Кинодетектив
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Кинокомедия
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Киномистика 
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Кино", Сити Эдем — Киноэкшен 
+https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Кино", Советская киноклассика
 http://130.193.124.214:8028/play/a05z/index.m3u8
 #EXTINF:-1 group-title="Кино", Страх HD
