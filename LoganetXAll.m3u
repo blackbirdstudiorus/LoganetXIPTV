@@ -244,7 +244,7 @@ http://188.113.190.11/53/video.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала 
 http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
-http://95.156.76.230:33001/udp/230.4.34.124:1234
+http://94.232.104.237:8011/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://188.113.190.15/316/video.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино HD
