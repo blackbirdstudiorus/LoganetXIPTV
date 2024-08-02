@@ -439,13 +439,17 @@ http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
 http://188.113.190.15/201/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
-http://95.156.76.230:33001/udp/230.4.34.107:1234
+http://94.232.104.237:8011/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju+ Megahit 
+http://188.113.190.15/202/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
-http://91.205.199.3/vipmegahit/index.m3u8
+http://185.112.140.28/VIPMegahit/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju+ Comedy
+http://188.113.190.11/203/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://91.205.199.3/vipcomedi/index.m3u8
+http://185.112.140.28/VIPComedy/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
-http://91.205.199.3:80/vipserialhd/index.m3u8
+http://130.193.124.214:8008/play/ad18/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
