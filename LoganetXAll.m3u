@@ -425,11 +425,13 @@ http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
 #EXTINF:-1 group-title="Кино", Viasat Kino World
 http://81.7.108.21:9000/play/TV1000RusskojeKino-DVBC322-sti4400017090089
 #EXTINF:-1 group-title="Кино", Viju TV1000 
-http://91.205.199.3/tv1000/index.m3u8
+http://188.113.190.15/31/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 HD
 http://141.95.55.143/CH3869/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://188.113.190.15/30/video.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
+https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Новелла
 http://91.218.160.212:8015/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
