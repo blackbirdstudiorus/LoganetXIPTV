@@ -1058,9 +1058,10 @@ http://89.104.114.2:8080/football2_hd/index.m3u8
 http://188.113.190.15/177/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://89.104.114.2:8080/football3_hd/index.m3u8
-# Исправить
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
+http://tv.light-net.ru:8005/play/a03m
+#EXTINF:-1 group-title="Спорт", Спортивный HD
+http://tv.light-net.ru:8003/play/a079
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -1074,13 +1075,13 @@ https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбольный
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Футбольный HD
-http://45.93.46.27:8887/8368/video.m3u8
+http://195.211.27.149:8887/8368/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Хоккейный
-http://45.93.46.27:8887/8367/video.m3u8
+http://195.211.27.149:8887/8367/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
+https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
@@ -1089,16 +1090,15 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Extreme Sports HD
-http://178.163.0.173:4022/udp/234.0.0.113:2000
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://188.113.190.15/208/video.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD 
 http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
 #EXTINF:-1 group-title="Спорт", FightBox
-https://stream01.vnet.am/Fightbox/mono.m3u8
+http://188.113.190.11/147/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox HD
-http://185.163.194.185:6872/157/mpegts
+http://stream01.vnet.am/Fightbox/mono.m3u8
+# Исправить
 #EXTINF:-1 group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
