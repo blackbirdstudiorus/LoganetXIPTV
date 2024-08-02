@@ -210,39 +210,29 @@ http://89.104.114.2:8080/premiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
 http://178.16.151.67/kinosat/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://91.205.199.3/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Кино", Киносвидание Международный
-http://185.163.194.185:6872/25/mpegts
+http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
-https://stream3.itv.uz/1203/tracks-v2a1/mono.m3u8
+http://89.104.114.2:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 http://188.113.190.15/311/video.m3u8
-#EXTINF:-1 group-title="Кино", Киносемья Международный
-http://185.163.194.185:6872/27/mpegts
 #EXTINF:-1 group-title="Кино", Киносемья HD
-http://91.205.199.3:80/kinosemyahd/index.m3u8
+http://89.104.114.2:8080/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия HD
 http://178.16.151.67/mnogo-tv/index.m3u8
-#EXTINF:-1 group-title="Кино", Киносерия HD Международный
-http://185.163.194.185:6872/106/mpegts
 #EXTINF:-1 group-title="Кино", Киноужас
-http://31.131.136.4:8001/play/e00b
+http://89.104.114.2:8080/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас HD
 http://188.113.190.15/323/mono.m3u8
-#EXTINF:-1 group-title="Кино", Киноужас HD Международный
-http://185.163.194.185:6872/31/mpegts
 #EXTINF:-1 group-title="Кино", Кинохит
 http://185.112.140.28/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
-http://91.205.199.3:80/kinoxithd/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинохит HD Международный
-http://185.163.194.185:6872/134/mpegts
+http://185.112.140.28:80/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино UHD
 http://130.193.124.214:8026/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
-http://45.93.46.27:8887/8323/video.m3u8
+http://31.131.136.4:8001/play/e014
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
 http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Комедия 
@@ -256,11 +246,9 @@ http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
 http://95.156.76.230:33001/udp/230.4.34.124:1234
 #EXTINF:-1 group-title="Кино", Мужское кино
-http://stream.rutvportal.com:8085/MuzhskoeKinoHD/video.m3u8
+http://188.113.190.15/316/video.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино HD
-https://stream3.itv.uz/1237/index.m3u8
-#EXTINF:-1 group-title="Кино", Мужское кино HD Международный
-http://185.163.194.185:6872/186/mpegts
+http://89.104.114.2:8080/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше
 http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
@@ -269,10 +257,8 @@ http://195.211.27.149:8887/8059/index.m3u8?token=test
 http://130.193.124.214:8026/play/a032/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино", Наше новое кино Международный
-http://185.163.194.185:6872/115/mpegts
 #EXTINF:-1 group-title="Кино", Наше новое кино HD
-https://stream3.itv.uz/1051/tracks-v2a1/index.m3u8
+http://89.104.114.2:8080/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Наш кинопоказ
 http://89.104.114.2:8080/nash_kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD
@@ -282,19 +268,17 @@ http://188.113.190.15/48/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит HD 
-http://188.134.76.176:81/udp/235.10.10.202:1234
+http://89.104.114.2:8080/ntv_hit/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал HD 
-http://188.134.76.176:81/udp/235.10.10.53:1234
+http://89.104.114.2:8080/ntv_serial/index.m3u8
 #EXTINF:-1 group-title="Кино", Остросюжетное
 http://195.211.27.149:8887/8184/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Премиальное HD
 rtmp://5.182.229.90//7222
 #EXTINF:-1 group-title="Кино", Родное кино 
-http://80.245.93.242:9030/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Кино", Родное кино Международный
-http://185.163.194.185:6872/117/mpegts
+http://188.113.190.15/317/video.m3u8
 #EXTINF:-1 group-title="Кино", Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
@@ -309,18 +293,10 @@ http://188.113.190.15/221/tracks-v1a1/index.m3u8
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинодетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — Кинодок
-https://autopilot.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — Кинодрама
-https://autopilot.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киноклассика
-https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинокомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киномистика 
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — Кинофантастика
-https://autopilot.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноэкшен 
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Кино", Советская киноклассика
