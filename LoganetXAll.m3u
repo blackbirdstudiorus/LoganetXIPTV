@@ -303,6 +303,8 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 http://130.193.124.214:8028/play/a05z/index.m3u8
 #EXTINF:-1 group-title="Кино", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 group-title="Кино", Страшное
+http://195.211.27.149:8887/8198/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Страшное HD
 rtmp://5.182.229.90//7247
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
@@ -327,8 +329,10 @@ http://45.93.46.27:8887/8159/video.m3u8
 http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
+#EXTINF:-1 group-title="Кино", Bollywood
+https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
-http://45.93.46.27:8887/8240/video.m3u8
+http://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Bolt HD
@@ -343,8 +347,6 @@ http://81.7.108.21:9000/play/SonyChannelHD-DVBC402-sti4400018360108
 http://81.7.108.21:9000/play/SonyTurboHD-DVBC402-sti4400018360108
 #EXTINF:-1 group-title="Кино", Epic Drama
 http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542 
-#EXTINF:-1 group-title="Кино", Epic Drama HD
-http://stream.rutvportal.com:8085/EpicDramaHD/video.m3u8
 #EXTINF:-1 group-title="Кино", FAN HD
 http://178.16.151.67/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
@@ -360,13 +362,13 @@ http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 group-title="Кино", FX
 http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230 
 #EXTINF:-1 group-title="Кино", FX HD
-http://stream.rutvportal.com:8085/FOXHD/video.m3u8
+http://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино", FX Life
-http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528 
-#EXTINF:-1 group-title="Кино", FX Life HD
-http://45.93.46.27:8887/8052/video.m3u8
+http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
+#EXTINF:-1 group-title="Кино", Hollywood
+https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD 
-http://stream.rutvportal.com:8085/HollywoodHD/video.m3u8
+http://77.106.252.178:4022/udp/233.33.210.189:5050
 #EXTINF:-1 group-title="Кино", Kinojam 1
 http://178.16.151.67/kinojam1/index.m3u8
 #EXTINF:-1 group-title="Кино", Kinojam 1 HD
@@ -374,7 +376,7 @@ http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Kinojam 2
 http://178.16.151.67/kinojam2/index.m3u8
 #EXTINF:-1 group-title="Кино", Kinoliving
-http://45.93.46.27:8887/8148/video.m3u8
+http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Plan B
@@ -388,11 +390,11 @@ http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
 http://81.7.108.21:9000/play/StarCinema-DVBC378-sti4400019110528 
 #EXTINF:-1 group-title="Кино", Star Cinema HD
-http://185.163.194.185:6872/217/mpegts
+http://188.134.76.176:81/udp/235.10.10.159:1234
 #EXTINF:-1 group-title="Кино", Star Family 
-http://80.245.93.242:9030/play/a00u/index.m3u8
+http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Star Family HD
-http://185.163.194.185:6872/216/mpegts
+http://188.134.76.176:81/udp/235.10.10.251:1234
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air
 http://188.113.190.15/139/mono.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air HD
@@ -408,9 +410,9 @@ https://stream.sunset-media.ru/Free/Free/1.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
 http://188.113.190.11/94/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Trash
-http://178.163.0.173:4022/udp/234.0.0.3:2000
+http://94.232.104.237:8011/foxlifehd/index.m3u8
 #EXTINF:-1 group-title="Кино", TV XXI
-http://stream.rutvportal.com:8085/TV21/video.m3u8
+http://188.113.190.15/47/tracks-v1a1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
