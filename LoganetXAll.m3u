@@ -1015,7 +1015,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://stream.rutvportal.com:8085/BoxTV/video.m3u8
+http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -1033,7 +1033,7 @@ http://188.113.190.15/325/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://188.113.190.11/126/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец HD
-http://188.134.76.176:81/udp/235.10.10.142:1234
+http://195.211.27.149:8887/8027/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
@@ -1043,22 +1043,23 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://188.113.190.15/103/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://89.104.114.2:8080/nash_football_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://188.113.190.15/95/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+http://188.113.190.15/175/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+http://89.104.114.2:8080/football1_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://188.113.190.15/176/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://45.93.46.27:8887/8237/video.m3u8
+http://89.104.114.2:8080/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://188.113.190.15/177/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://45.93.46.27:8887/8238/video.m3u8
-#EXTINF:-1 group-title="Спорт", Мир баскетбола
+http://89.104.114.2:8080/football3_hd/index.m3u8
+# Исправить
+#EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
