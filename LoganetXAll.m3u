@@ -1098,13 +1098,12 @@ http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
 http://188.113.190.11/147/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
-# Исправить
 #EXTINF:-1 group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
-http://178.163.0.173:4022/udp/234.0.0.14:2000
+http://178.16.151.67/khl/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
@@ -1120,6 +1119,7 @@ http://178.16.151.67/rus-extrim/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+# Исправить
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1
 http://185.163.194.185:6872/150/mpegts
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
