@@ -1119,21 +1119,12 @@ http://178.16.151.67/rus-extrim/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-# Исправить
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1
-http://185.163.194.185:6872/150/mpegts
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-http://45.93.46.27:8887/8565/video.m3u8
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-http://185.163.194.185:6872/151/mpegts
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Qazaqstan 
 http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
-#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine 
-http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine
-http://45.93.46.27:8887/8329/video.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine HD
-http://185.163.194.185:6872/149/mpegts
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
@@ -1170,7 +1161,10 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
+http://77.106.252.178:4022/udp/233.33.221.31:5050
 
+# Исправить
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыка", Жар птица 
