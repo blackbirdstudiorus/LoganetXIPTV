@@ -181,6 +181,8 @@ http://95.156.76.230:33001/udp/230.4.34.85:1234
 http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино без границ
+http://185.163.194.185:7432/233/mpegts
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -340,7 +342,7 @@ http://188.134.76.176:81/udp/235.10.10.107:1234
 #EXTINF:-1 group-title="Кино", Cinema HD
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Comedy Central
-http://195.211.27.149:8887/8171/index.m3u8?token=test
+http://185.163.194.185:7432/206/mpegts
 #EXTINF:-1 group-title="Кино", Duo3
 http://81.7.108.21:9000/play/SonyChannelHD-DVBC402-sti4400018360108 
 #EXTINF:-1 group-title="Кино", Duo6 
