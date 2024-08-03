@@ -1081,7 +1081,7 @@ http://195.211.27.149:8887/8367/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
