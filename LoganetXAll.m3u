@@ -171,8 +171,6 @@ http://188.113.190.15/45/tracks-v1a1/index.m3u8
 http://188.113.190.15/329/video.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
-#EXTINF:-1 group-title="Кино", Камеди
-http://130.193.124.214:8026/play/a035/index.m3u8
 #EXTINF:-1 group-title="Кино", Камеди HD
 http://89.104.114.2:8080/kamedi_hd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
@@ -231,8 +229,6 @@ http://188.113.190.15/323/mono.m3u8
 http://185.112.140.28/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://185.112.140.28:80/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино UHD
-http://130.193.124.214:8026/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
 http://31.131.136.4:8001/play/e014
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
@@ -256,15 +252,13 @@ http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
 http://195.211.27.149:8887/8059/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Наше Мужское
-http://130.193.124.214:8026/play/a032/index.m3u8
+http://tv.light-net.ru:8005/play/a06a
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Наше новое кино HD
 http://89.104.114.2:8080/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Наш кинопоказ
 http://89.104.114.2:8080/nash_kinopokaz_hd/index.m3u8
-#EXTINF:-1 group-title="Кино", Наш кинопоказ HD
-http://130.193.124.214:8026/play/a031/index.m3u8
 #EXTINF:-1 group-title="Кино", НСТ 
 http://188.113.190.15/48/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
@@ -301,8 +295,6 @@ https://autopilot.catcast.tv/content/41331/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноэкшен 
 https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Кино", Советская киноклассика
-http://130.193.124.214:8028/play/a05z/index.m3u8
 #EXTINF:-1 group-title="Кино", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино", Страшное
@@ -314,7 +306,7 @@ http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="Кино", Хит HD
 http://89.104.114.2:8080/hit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее
-http://130.193.124.214:8028/play/a07k/index.m3u8
+http://tv.light-net.ru:8004/play/a06h
 #EXTINF:-1 group-title="Кино", A1
 http://188.113.190.11/79/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", A1 HD
@@ -324,9 +316,9 @@ http://188.113.190.11/134/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", A2 HD
 http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
-http://stream.rutvportal.com:8085/AmediaHitHD/video.m3u8
+http://91.218.160.212:8015/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
-http://45.93.46.27:8887/8159/video.m3u8
+http://94.232.104.237:8011/amediahithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium
 http://188.113.190.15/140/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
@@ -396,7 +388,7 @@ http://188.134.76.176:81/udp/235.10.10.159:1234
 #EXTINF:-1 group-title="Кино", Star Family 
 http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Star Family HD
-http://188.134.76.176:81/udp/235.10.10.251:1234
+http://185.163.194.185:7432/216/mpegts
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air
 http://188.113.190.15/139/mono.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air HD
@@ -451,7 +443,7 @@ http://188.113.190.11/203/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
 http://185.112.140.28/VIPComedy/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
-http://130.193.124.214:8008/play/ad18/index.m3u8
+http://91.218.160.212:8015/play/a05s/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
