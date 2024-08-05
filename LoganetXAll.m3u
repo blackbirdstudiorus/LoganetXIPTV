@@ -1191,7 +1191,7 @@ http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
-http://92.242.110.52:9835/udp/238.1.6.17:1234
+http://178.16.151.67/la-minor/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -1247,7 +1247,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 group-title="Музыка", Deluxe Rock 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
-http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+http://178.16.151.67/europa-plus-tv/index.m3u8
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Kronehit
@@ -1255,11 +1255,11 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
 http://188.134.76.176:81/udp/235.10.10.212:1234
 #EXTINF:-1 group-title="Музыка", MCM Top
-http://92.242.110.52:9835/udp/238.1.9.9:1234
+http://tv.light-net.ru:8005/play/a00x
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live 
-http://91.207.115.228:5000/c125
+https://stream2.cinerama.uz/1450/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Hits 
 http://81.7.108.21:9000/play/MTVHits-DVBC298-sti4400018450230
 #EXTINF:-1 group-title="Музыка", MTV Live HD
