@@ -377,6 +377,16 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 http://178.16.151.67/planb/index.m3u8
 #EXTINF:-1 group-title="Кино", Plan B HD 
 http://94.232.104.237:8011/tnomer/index.m3u8
+#EXTINF:-1 group-title="Кино", Relax TV Action
+http://45.92.176.122:8080/relaxtvacton/index.m3u8?token=s1fkzaoxq7
+#EXTINF:-1 group-title="Кино", Relax TV Netflix
+http://45.92.176.122:8080/relaxnetflex/index.m3u8?token=s1fkzaoxq7
+#EXTINF:-1 group-title="Кино", Relax TV Russia
+http://45.92.176.122:8080/relaxrussia/index.m3u8?token=s1fkzaoxq7
+#EXTINF:-1 group-title="Кино", Relax TV Turkey
+http://45.92.176.122:8080/Relaxturkey/index.m3u8?token=s1fkzaoxq7
+#EXTINF:-1 group-title="Кино", Relax TV СССР
+http://45.92.176.122:8080/relaxsssr/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Кино", Romance
 http://camera.global-x.ru/Motosport/index.m3u8
 #EXTINF:-1 group-title="Кино", Shot TV
@@ -530,6 +540,10 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Детские", Relax TV Губка Боб
+http://45.92.176.122:8080/relaxSpongeBob/index.m3u8?token=s1fkzaoxq7
+#EXTINF:-1 group-title="Детские", Relax TV Kids
+http://45.92.176.122:8080/relaxkids/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Детские", Sunset Kids 
 https://stream.sunset-media.ru/Free/Free/4.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
