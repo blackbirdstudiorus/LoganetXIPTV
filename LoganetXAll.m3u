@@ -1282,6 +1282,8 @@ https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Музыка", Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка", Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
