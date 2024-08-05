@@ -480,8 +480,6 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
 http://188.113.190.15/136/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Детские", Пингвин Лоло
-http://130.193.124.214:8022/play/ak19/index.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
@@ -501,7 +499,7 @@ http://188.113.190.15/132/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
-http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
+http://94.232.104.237:8011/stskids/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские", Ani
@@ -516,10 +514,10 @@ http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://94.232.104.237:8011/cartoonnetwork/index.m3u8
-#EXTINF:-1 group-title="Детские", Duck TV HD
+#EXTINF:-1 group-title="Детские", Duck TV
 https://stream3.itv.uz/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam
-http://95.83.111.209:4022/udp/239.255.40.248:5500
+http://de.kineskop.club/site2/1808/1009756_c4a0cdbe72577186_0_0_fs2.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://91.218.160.212:8015/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV 
@@ -539,7 +537,7 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", 2x2
-http://195.211.27.149:8887/8045/index.m3u8?token=test
+http://178.16.151.67/2x2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Познавательные", 2х2 (Архив)
@@ -558,7 +556,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных HD
-http://195.211.27.149:8887/8456/index.m3u8?token=test
+http://31.211.77.158:8000/play/a175/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
@@ -590,7 +588,7 @@ http://185.112.140.28/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Инсайт ТВ HD
 https://stream2.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Инсайт ТВ UHD
-http://130.193.124.214:8026/play/a02y/index.m3u8
+http://tv.light-net.ru:8004/play/a06m
 #EXTINF:-1 group-title="Познавательные", История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
@@ -657,9 +655,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница!
-http://streamer2.fokks.ru:10016/index.m3u8
+http://178.16.151.67/pyatniza/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+http://178.16.151.67/pyatnica_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
@@ -707,9 +705,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ
-http://streamer2.fokks.ru:10019/index.m3u8
+http://185.112.140.28/TNT/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ HD
-http://185.112.140.28/TNT_HD/index.m3u8
+http://178.16.151.67/tnt_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4", ТНТ4 (Архив)
