@@ -565,6 +565,8 @@ http://188.113.190.15/118/tracks-v1a1/index.m3u8
 https://stream2.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
 http://185.112.140.28/Glazami_Turista/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Глазами туриста 4k
+http://5.188.156.134:80/GLAZAMITURISTA4K/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://188.113.190.15/29/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
@@ -776,8 +778,12 @@ http://195.211.27.149:8887/8355/index.m3u8?token=test
 http://31.131.136.4:8001/play/e017
 #EXTINF:-1 group-title="Познавательные", History
 http://195.211.27.149:8887/8356/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Home 4k
+http://89.104.114.2:8080/home4k/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108 
+#EXTINF:-1 group-title="Познавательные", Love Nature 4k
+http://188.42.198.244:9230/FashionOne4K/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Познавательные", Museum TV
 https://stream2.cinerama.uz/1451/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV HD
@@ -796,6 +802,7 @@ http://81.7.108.21:9000/play/NatGeoHD-DVBC402-sti4400018360108
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+http://188.42.198.244:9230/rtl4k/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Познавательные", RTVi 
 http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 group-title="Познавательные", San Porto
@@ -821,7 +828,9 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://188.113.190.15/106/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://81.7.108.21:9000/play/TravelChannelHD-DVBC330-sti4400019110542
+http://81.7.108.21:9000/play/TravelChanNelhd-dvbc330-sti4400019110542 
+#EXTINF:-1 group-title="Познавательные", Travel XP 4k
+http://5.188.156.134:80/TRAVEL_XP_4K/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
