@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Общие", Telegram-канал заблокировали 
+https://loganet.ru
+#EXTINF:-1 group-title="Общие", в связи с нарушением авторских прав.
+https://loganet.ru
+#EXTINF:-1 group-title="Общие", Заплюсуйте мой новый пост на Пикабу 
+https://pikabu.ru/story/moy_kanal_v_telegram_zablokirovan_no_loganet_iptv_poprezhnemu_dostupno_ne_bespokoytes_11679812?utm_source=andlinkshare&utm_medium=sharing
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy" tvg-logo="http://loganet.ru/images/channels/First.png", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
