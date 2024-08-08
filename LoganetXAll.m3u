@@ -155,8 +155,6 @@ http://188.113.190.15/23/mono.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Блокбастер HD
-http://89.104.114.2:8080/blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Day-Victory.png", День Победы
@@ -182,7 +180,7 @@ http://188.113.190.15/329/video.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://95.156.76.230:33001/udp/230.4.34.105:1234
 #EXTINF:-1 group-title="Кино", Камеди HD
-http://89.104.114.2:8080/kamedi_hd/index.m3u8
+http://188.134.76.176:81/udp/235.10.10.160:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://95.156.76.230:33001/udp/230.4.34.85:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
@@ -190,7 +188,9 @@ http://188.113.190.15/156/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ
-http://185.163.194.185:7432/233/mpegts
+http://195.158.222.115:8001/play/a087/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино без границ HD
+http://195.158.222.115:8001/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -204,7 +204,7 @@ http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://89.104.114.2:8080/komediya/index.m3u8
+rtmp://5.182.229.90//7248
 #EXTINF:-1 group-title="Кино", Киномикс
 http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
