@@ -1103,12 +1103,14 @@ http://45.132.87.69:8080/eurosport1/mono.m3u8
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
 http://81.198.190.9:7878/esp2/video.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport Live HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD 
 http://185.160.141.247:8080/fastfunboxhd/mpegts
 #EXTINF:-1 group-title="Спорт", FightBox
-http://188.113.190.11/147/tracks-v1a1/index.m3u8
+http://iptv.mega.net.ru:8888/FightBox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
@@ -1116,17 +1118,17 @@ http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
-http://178.16.151.67/khl/index.m3u8
+http://178.163.99.241:4022/udp/234.0.0.14:2000
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
-http://188.113.190.11/305/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+https://stream2.cinerama.uz/1027/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", QazSport 
+http://80.90.184.111/qazsport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://178.16.151.67/rus-extrim/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
