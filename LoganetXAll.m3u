@@ -1073,8 +1073,12 @@ http://195.158.222.115:8000/play/82/index.m3u8
 http://195.158.222.115:8001/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://iptv.mega.net.ru:8888/RTD/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Старт
+http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спорт", Старт Триумф
+http://195.158.222.115:8001/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Туран
@@ -1083,14 +1087,14 @@ https://streams.qazcdn.net/live2/bQS3PALvoU/live/bQS3PALvoU_1080/chunks.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Футбол HD
+https://kinescope.io/dwy2fEmxCjP4urMH7A6GSa/master.m3u8
 #EXTINF:-1 group-title="Спорт", Футбольный
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Футбольный HD
-http://195.211.27.149:8887/8368/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Хоккейный
-http://195.211.27.149:8887/8367/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
+#EXTINF:-1 group-title="Спорт", Хоккейный HD
+http://78.140.39.3/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
