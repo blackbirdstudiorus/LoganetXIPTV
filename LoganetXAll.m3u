@@ -1096,19 +1096,17 @@ http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://78.140.39.3/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
+http://81.198.190.9:7878/esp2/video.m3u8
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Fast&FunBox
-http://188.113.190.15/208/video.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox HD 
-http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
+http://185.160.141.247:8080/fastfunboxhd/mpegts
 #EXTINF:-1 group-title="Спорт", FightBox
 http://188.113.190.11/147/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox HD
