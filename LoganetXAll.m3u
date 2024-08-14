@@ -1034,19 +1034,20 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
-http://streamer2.fokks.ru:10003/index.m3u8
+http://tv.tuva.ru:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
 http://185.112.140.28/Match_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
-http://188.113.190.11/97/tracks-v1a1/index.m3u8
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://188.113.190.15/325/video.m3u8
+http://195.158.222.115:8000/play/182/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
-http://188.113.190.11/126/video.m3u8
+http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="Спорт", Матч! Боец HD
-http://195.211.27.149:8887/8027/index.m3u8?token=test
+http://195.158.222.115:8001/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://87.120.142.11:18000/Match!Igra
+# Исправить
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
 http://188.113.190.15/326/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
