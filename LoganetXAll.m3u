@@ -1130,7 +1130,9 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт", QazSport 
 http://80.90.184.111/qazsport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
-http://178.16.151.67/rus-extrim/index.m3u8
+http://178.163.99.241:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="Спорт", Russian Extreme HD
+http://185.78.112.17/rus-extrim-hd/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
@@ -1164,8 +1166,6 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="Спорт", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="Спорт", Sunset Sport
-https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="Спорт", TNT Sport 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Спорт", TNT Sport 2
@@ -1177,9 +1177,9 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Viju+ Sport HD
-http://77.106.252.178:4022/udp/233.33.221.31:5050
+http://iptv.mega.net.ru:8888/Viasat_Sport_HD/mono.m3u8
 
-# Исправить
+
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыка", Жар птица 
@@ -1282,6 +1282,8 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка", Sunset Music
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="Музыка", Sunset Music Live
+https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="Музыка", TMTV 
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
