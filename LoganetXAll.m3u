@@ -1047,33 +1047,32 @@ http://87.120.142.11:18000/Match!
 http://195.158.222.115:8001/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://87.120.142.11:18000/Match!Igra
-# Исправить
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
 http://188.113.190.15/326/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://188.113.190.15/103/tracks-v1a1/index.m3u8
+http://185.78.112.17/nash-football/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://89.104.114.2:8080/nash_football_hd/index.m3u8
+http://195.158.222.115:8000/play/162/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://188.113.190.15/95/tracks-v1a1/index.m3u8
+http://80.90.184.111/match-strana/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Страна HD 
+http://195.158.222.115:8001/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://188.113.190.15/175/video.m3u8
+http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://89.104.114.2:8080/football1_hd/index.m3u8
+http://195.158.222.115:8001/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://188.113.190.15/176/video.m3u8
+http://195.158.222.115:8000/play/81/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://89.104.114.2:8080/football2_hd/index.m3u8
+http://195.158.222.115:8001/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://188.113.190.15/177/tracks-v1a1/index.m3u8
+http://195.158.222.115:8000/play/82/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://89.104.114.2:8080/football3_hd/index.m3u8
+http://195.158.222.115:8001/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://tv.light-net.ru:8005/play/a03m
-#EXTINF:-1 group-title="Спорт", Спортивный HD
-http://tv.light-net.ru:8003/play/a079
+http://iptv.mega.net.ru:8888/RTD/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
