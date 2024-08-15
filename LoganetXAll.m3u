@@ -246,9 +246,13 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое HD
 http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Любимое кино 
-http://188.113.190.11/53/video.m3u8
+http://91.205.199.3/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="Кино", Любимое кино HD
+http://195.158.222.115:8001/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала 
-http://188.113.190.15/188/video.m3u8
+http://80.90.184.111/mir-seriala/index.m3u8
+#EXTINF:-1 group-title="Кино", Мир сериала HD
+http://195.158.222.115:8000/play/75/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
 http://94.232.104.237:8011/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино
