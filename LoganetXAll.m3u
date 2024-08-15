@@ -280,7 +280,7 @@ http://195.211.27.149:8887/8184/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Премиальное HD
 rtmp://5.182.229.90//7222
 #EXTINF:-1 group-title="Кино", Родное кино 
-http://188.113.190.15/317/video.m3u8
+http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
