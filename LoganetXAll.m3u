@@ -218,21 +218,21 @@ https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
 http://80.90.184.111/kinosat/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://188.113.190.15/310/video.m3u8
+http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
 rtmp://5.182.229.90//7245
 #EXTINF:-1 group-title="Кино", Киносемья 
-http://188.113.190.15/311/video.m3u8
+https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
-http://91.218.160.212:8015/play/a042/index.m3u8
+http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
-http://188.113.190.15/312/video.m3u8
+http://195.158.222.115:8000/play/43/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия HD
 http://94.232.104.237:8011/kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
 http://94.232.104.237:8011/kinohithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас HD
-http://188.113.190.15/323/mono.m3u8
+http://80.90.184.111/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит
 http://185.112.140.28/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
