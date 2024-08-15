@@ -330,7 +330,7 @@ http://188.134.76.176:81/udp/235.10.10.107:1234
 #EXTINF:-1 group-title="Кино", Cinema HD
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Comedy Central
-http://185.163.194.185:7432/206/mpegts
+http://80.90.184.111/paramount_comedy/index.m3u8
 #EXTINF:-1 group-title="Кино", Duo3
 http://81.7.108.21:9000/play/SonyChannelHD-DVBC402-sti4400018360108 
 #EXTINF:-1 group-title="Кино", Duo6 
