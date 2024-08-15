@@ -452,14 +452,18 @@ http://185.112.140.28/VIPComedy/index.m3u8
 http://91.218.160.212:8015/play/a05s/index.m3u8
 
 
-#EXTINF:-1 group-title="Детские", В гостях у сказки
-http://188.113.190.15/43/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские", В гостях у сказки HD
+http://195.158.222.115:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир HD
+http://81.198.190.9:7878/detski_mir/video.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика
+https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
-https://streamer3.connectto.com/376/mono.m3u8
+http://81.23.189.54:4022/udp/234.0.0.152:2000
 #EXTINF:-1 group-title="Детские", Карусель
 http://91.142.158.107:8092/play/8/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
@@ -470,16 +474,22 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", Карусель International 
 https://cdn1.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Детские", КиноМульт
+http://195.158.222.115:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Детские", Лëва
+http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Детские", Лëва HD
 http://188.134.76.176:81/udp/235.10.10.166:1234
 #EXTINF:-1 group-title="Детские", Мульт 
-http://188.113.190.15/171/tracks-v1a1/index.m3u8
+http://195.158.222.115:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
 http://188.113.190.15/108/video.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия HD
+http://188.134.76.176:81/udp/235.10.10.77:1234
 #EXTINF:-1 group-title="Детские", Мультимания
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
@@ -501,19 +511,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://188.113.190.15/132/tracks-v1a1/index.m3u8
+http://iptv.mega.net.ru:8888/CTC_Kids/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://94.232.104.237:8011/stskids/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://188.113.190.15/41/tracks-v1a1/index.m3u8
+http://195.158.222.115:8000/play/123/index.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time 
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
-http://130.193.124.214:8024/play/mm12/index.m3u8
+http://195.158.222.115:8001/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoonito 
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoonito HD
@@ -521,19 +531,21 @@ http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://94.232.104.237:8011/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV
-https://stream3.itv.uz/1271/index.m3u8
+https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam
 http://de.kineskop.club/site2/1808/1009756_c4a0cdbe72577186_0_0_fs2.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://91.218.160.212:8015/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV 
+http://195.158.222.115:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV HD
 http://31.211.77.158:8000/play/a165/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://stream01.vnet.am/Channel_114/mono.m3u8
+http://hls.seversk.ru:8080/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
+http://80.90.184.111/nickjr/index.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", Relax TV Губка Боб
