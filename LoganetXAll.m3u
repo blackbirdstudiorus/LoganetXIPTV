@@ -236,7 +236,9 @@ http://80.90.184.111/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит
 http://185.112.140.28/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
-http://185.112.140.28:80/Kinohit/index.m3u8
+http://91.205.199.3/kinoxithd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
+http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
 http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Комедия 
