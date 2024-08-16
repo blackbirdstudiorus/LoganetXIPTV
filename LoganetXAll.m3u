@@ -712,6 +712,8 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Родной канал
+http://iptv.mega.net.ru:8888/Slavyanskiy_mir/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1  group-title="Познавательные", Светлое ТВ
@@ -794,8 +796,12 @@ http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 http://81.7.108.21:9000/play/AnimalPlanetHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные", Big Planet 
 http://tv.light-net.ru:8005/play/a08g
+#EXTINF:-1 group-title="Познавательные", Curiosity Stream
+http://185.177.112.234:8000/play/a03i
+#EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
+http://88.218.242.237:8000/play/a00j
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
-http://188.113.190.15/161/tracks-v1a1/index.m3u8
+https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
