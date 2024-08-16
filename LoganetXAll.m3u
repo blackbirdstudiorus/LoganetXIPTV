@@ -551,7 +551,7 @@ http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
 http://hls.seversk.ru:8080/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-http://80.90.184.111/nickjr/index.m3u8
+http://185.160.141.247:8080/nickjr/mpegts
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", Relax TV Губка Боб
@@ -1074,7 +1074,7 @@ http://185.78.112.17/nash-football/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://195.158.222.115:8000/play/162/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://80.90.184.111/match-strana/index.m3u8
+http://195.158.222.115:8000/play/86/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна HD 
 http://195.158.222.115:8001/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
@@ -1106,7 +1106,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол HD
-https://kinescope.io/dwy2fEmxCjP4urMH7A6GSa/master.m3u8
+http://188.134.76.176:81/udp/235.10.10.39:1234
 #EXTINF:-1 group-title="Спорт", Футбольный
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Хоккейный
@@ -1146,7 +1146,7 @@ https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
 https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт", QazSport 
-http://80.90.184.111/qazsport/index.m3u8
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://178.163.99.241:4022/udp/234.0.0.173:2000
 #EXTINF:-1 group-title="Спорт", Russian Extreme HD
