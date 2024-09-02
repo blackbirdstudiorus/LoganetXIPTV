@@ -1096,13 +1096,11 @@ http://95.216.40.210/matchigra/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://185.78.112.17/nash-football/index.m3u8
+http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://195.158.222.115:8000/play/162/index.m3u8
+http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://195.158.222.115:8000/play/86/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Страна HD 
-http://195.158.222.115:8001/play/a06t/index.m3u8
+http://78.140.39.3/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
