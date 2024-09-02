@@ -1104,7 +1104,7 @@ http://78.140.39.3/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://195.158.222.115:8001/play/a00t/index.m3u8
+http://95.216.40.210/football1/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://195.158.222.115:8000/play/81/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
