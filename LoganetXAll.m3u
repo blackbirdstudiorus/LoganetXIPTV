@@ -1156,26 +1156,30 @@ http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
-http://178.163.99.241:4022/udp/234.0.0.14:2000
+http://91.196.37.133:4000/play/a01k
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
-https://stream2.cinerama.uz/1027/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/m1_global/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD 
+http://91.196.37.133:4000/play/a02r
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 group-title="Спорт", QazSport 
+#EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
-http://178.163.99.241:4022/udp/234.0.0.173:2000
-#EXTINF:-1 group-title="Спорт", Russian Extreme HD
-http://185.78.112.17/rus-extrim-hd/index.m3u8
+http://91.224.169.250:5000/c61
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+rtmp://92.119.88.58//271
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+rtmp://92.119.88.58//270
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Qazaqstan 
