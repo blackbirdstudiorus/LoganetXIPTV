@@ -590,19 +590,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", 360 HD 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
-http://185.112.140.28/365_dnej/index.m3u8
+http://77.243.112.149:8080/365_dnej/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
-https://stream2.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
-https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных HD
 http://hls.seversk.ru:8080/play/a017/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
-https://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+http://91.207.115.228:12000/play/a04v
 #EXTINF:-1 group-title="Познавательные", Время 
 http://iptv.mega.net.ru:8888/VREMA/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
