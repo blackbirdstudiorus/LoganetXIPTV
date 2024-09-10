@@ -1096,7 +1096,7 @@ http://78.62.135.122:8082/MatchPremierHD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://78.140.39.3/play/a00r/index.m3u8
+http://hls.seversk.ru:8080/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
@@ -1126,7 +1126,7 @@ http://135.181.115.81:8000/play/a00o/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Футбольный
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
-http://78.140.39.3/play/a01b/index.m3u8
+http://hls.seversk.ru:8080/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
@@ -1177,7 +1177,7 @@ https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2
 rtmp://92.119.88.58//270
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Qazaqstan 
 http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
