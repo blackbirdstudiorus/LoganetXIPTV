@@ -1110,13 +1110,13 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://iptv.mega.net.ru:8888/RTD/mono.m3u8
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Мир баскетбола HD
 http://88.218.242.237:8000/play/a00e
 #EXTINF:-1 group-title="Спорт", Старт
-http://iptv.mega.net.ru:8888/DTX/mono.m3u8
+http://77.243.112.149:8080/start_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт HD
-http://iptv.mega.net.ru:8888/start_hd/mono.m3u8
+http://95.216.40.210/start/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
 http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 group-title="Спорт", Удар
@@ -1144,7 +1144,7 @@ http://81.23.189.54:4022/udp/234.0.0.113:2000
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://95.156.76.230:33001/udp/230.4.34.86:1234
 #EXTINF:-1 group-title="Спорт", FightBox
-http://iptv.mega.net.ru:8888/FightBox/mono.m3u8
+http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
@@ -1156,7 +1156,7 @@ http://91.196.37.133:4000/play/a01k
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
-http://iptv.mega.net.ru:8888/m1_global/mono.m3u8
+https://stream1.cinerama.uz/1027/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD 
 http://91.196.37.133:4000/play/a02r
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
@@ -1214,8 +1214,6 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
-http://iptv.mega.net.ru:8888/Viasat_Sport_HD/mono.m3u8
 
 
 #EXTINF:-1 group-title="Музыка", 1HD
