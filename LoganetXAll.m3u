@@ -604,19 +604,19 @@ http://hls.seversk.ru:8080/play/a017/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 http://91.207.115.228:12000/play/a04v
 #EXTINF:-1 group-title="Познавательные", Время 
-http://iptv.mega.net.ru:8888/VREMA/mono.m3u8
+http://91.207.115.228:12000/play/a01g
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
-https://stream2.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://185.112.140.28/Glazami_Turista/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Глазами туриста 4k
-http://5.188.156.134:80/GLAZAMITURISTA4K/index.m3u8?token=s1fkzaoxq7
+http://s5.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://188.113.190.15/29/tracks-v1a1/index.m3u8
+http://88.85.172.243:7004/play/a01l
+#EXTINF:-1 group-title="Познавательные", Доктор HD
+http://77.243.112.149:8080/doctor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
-http://94.232.104.237:8011/zootv/index.m3u8
+http://91.207.115.228:12000/play/a04d
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
-http://camera.global-x.ru/EGETV/mono.m3u8
+http://81.23.189.170:4022/udp/234.0.0.212:2000
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://94.232.104.237:8011/zhivayaplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
