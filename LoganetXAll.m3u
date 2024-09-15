@@ -618,35 +618,33 @@ http://91.207.115.228:12000/play/a04d
 #EXTINF:-1 group-title="Познавательные", ЕГЭ 
 http://81.23.189.170:4022/udp/234.0.0.212:2000
 #EXTINF:-1 group-title="Познавательные", Живая планета
-http://94.232.104.237:8011/zhivayaplaneta/index.m3u8
+http://77.243.112.149:8080/zhivaya-planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
-http://95.156.76.230:33001/udp/230.4.34.25:1234
+https://stream2.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
 http://178.212.71.253:8002/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Зал суда
-http://91.218.160.212:8015/play/a061/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зал суда HD 
-http://95.83.111.209:4022/udp/239.255.40.112:5500
+rtmp://5.182.229.90//7141
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://185.112.140.28/zoo_tv/index.m3u8
+http://185.112.140.28:8080/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Инсайт ТВ HD
 https://stream2.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", История
-http://195.158.222.115:8000/play/102/index.m3u8
+http://185.112.140.28:8080/istoria/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
-http://91.205.199.3/kvntv/index.m3u8
+http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Ключ
 http://hls127.homeiptv.org:8880/Kluch/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://195.158.222.115:8000/play/192/index.m3u8
+http://91.207.114.220:9001/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -661,10 +659,8 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
 http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
-https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Наша сибирь
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Познавательные", Наша сибирь HD
+https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
