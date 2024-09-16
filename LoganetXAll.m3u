@@ -740,6 +740,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! HD
 http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Танцуй!
+http://iptv.mega.net.ru:8888/Super/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
 https://stream2.cinerama.uz/1453/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
