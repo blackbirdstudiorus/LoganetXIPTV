@@ -666,32 +666,32 @@ https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 group-title="Познавательные", Ностальгия
+http://91.207.115.228:9001/play/a0d2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Океан
 http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные", Открытый мир
-http://146.158.0.56:80/OtkritiyMir/index.m3u8
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
 https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
-http://hls.seversk.ru:8080/play/a01a/index.m3u8
+http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Перец
-http://178.124.179.122:8088/Peretz/index.m3u8
+http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Победа
 http://91.205.199.3/pobeda/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Победа HD
-http://94.232.104.237:8011/pobeda/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
-http://91.247.68.229:8000/play/Poehali/index.m3u8
+https://cdn1.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
 http://135.181.115.81:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Психология 21
-http://flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Познавательные", Психология21
+http://91.224.169.250:5000/c39
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="piatnica", Пятница! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
@@ -699,15 +699,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница!
-http://195.158.222.115:8000/play/16/index.m3u8
+http://s83.chas.tv:8081/chas/pyatnicatv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+http://77.243.112.149:8080/pyatnica_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! International
-http://stream01.vnet.am/Pyatnica/mono.m3u8
+http://s5.merlive.am/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
-http://109.239.208.82:80/retro/index.m3u8
+http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Родной канал
@@ -739,11 +739,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! HD
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://94.232.104.237:8011/teleputeshestviya/index.m3u8
+https://stream2.cinerama.uz/1453/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
-http://185.112.140.28/24_Tehno/index.m3u8
+http://185.112.140.28:8080/24_Tehno/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
 http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt", ТНТ (Архив)
@@ -753,9 +753,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ
-http://185.112.140.28/TNT/index.m3u8
+http://s83.chas.tv:8081/chas/tnttv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ HD
-http://91.205.199.3/tnthd/index.m3u8
+http://185.112.140.28:8080/TNT_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4", ТНТ4 (Архив)
@@ -766,16 +766,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ4
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", ТНТ4 HD
+http://s83.chas.tv:8081/chas/comedytv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Тонус 
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва 
 https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка ТВ 
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Успех 
-http://camera.global-x.ru/Uspeh/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
-http://195.158.222.115:8001/play/a083/index.m3u8
+http://77.243.112.149:8080/ctv/index.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
