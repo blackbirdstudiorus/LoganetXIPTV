@@ -1070,7 +1070,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://91.196.37.133:4000/play/a01i
+http://s5.merlive.am/BoxTV/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -1104,7 +1104,7 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://91.196.37.133:4000/play/a02a
+http://77.243.112.149:8080/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
@@ -1134,7 +1134,7 @@ http://hls.seversk.ru:8080/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://91.196.37.133:4000/play/a01e
+http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
 http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
@@ -1155,14 +1155,10 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
-http://91.196.37.133:4000/play/a01k
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 https://stream1.cinerama.uz/1027/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD 
-http://91.196.37.133:4000/play/a02r
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
