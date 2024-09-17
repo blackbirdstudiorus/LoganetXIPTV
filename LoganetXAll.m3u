@@ -864,6 +864,8 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 http://iptv.mega.net.ru:8888/National_Geographic/mono.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
 http://31.130.63.173:1011/national_geographic_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", The Explorers
+http://88.218.242.237:8000/play/a00m
 #EXTINF:-1 group-title="Познавательные", TLC 
 http://edge02.odtv.az/o5/tlc/playlist.m3u8 
 #EXTINF:-1 group-title="Познавательные", TLC HD
