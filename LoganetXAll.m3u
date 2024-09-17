@@ -843,30 +843,29 @@ http://88.218.242.237:8000/play/a00g
 #EXTINF:-1 group-title="Познавательные", MyZen TV HD
 https://stream2.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
-http://edge02.odtv.az/o3/natgeowild/q_1/playlist.m3u8
+https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
-http://81.7.108.21:9000/play/NatGeoHD-DVBC402-sti4400018360108
+rtmp://5.182.229.90//7320
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG TV 
+http://31.130.63.173:1011/rtg_tv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-http://188.42.198.244:9230/rtl4k/index.m3u8?token=s1fkzaoxq7
+http://31.130.63.173:1011/rtg_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", RTVi 
-http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
-#EXTINF:-1 group-title="Познавательные", San Porto
-http://188.113.190.15/209/tracks-v1a1/index.m3u8
+http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
 https://stream.sunset-media.ru/Free/Free/3.m3u8
-#EXTINF:-1 group-title="Познавательные", Silkway HD
-http://188.113.190.15/163/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Silkway TV
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
-http://188.113.190.15/78/tracks-v1a1/index.m3u8
+http://iptv.mega.net.ru:8888/National_Geographic/mono.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
+http://31.130.63.173:1011/national_geographic_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC 
-http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089 
+http://edge02.odtv.az/o5/tlc/playlist.m3u8 
 #EXTINF:-1 group-title="Познавательные", TLC HD
 http://tv.light-net.ru:8002/play/a0c0
 #EXTINF:-1 group-title="Познавательные", Top Secret
