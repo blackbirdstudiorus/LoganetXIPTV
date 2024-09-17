@@ -867,7 +867,7 @@ http://31.130.63.173:1011/national_geographic_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC 
 http://edge02.odtv.az/o5/tlc/playlist.m3u8 
 #EXTINF:-1 group-title="Познавательные", TLC HD
-http://tv.light-net.ru:8002/play/a0c0
+http://91.224.169.250:5000/c164
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
@@ -875,29 +875,21 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", TVM Channel 
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://188.113.190.15/106/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://81.7.108.21:9000/play/TravelChanNelhd-dvbc330-sti4400019110542 
-#EXTINF:-1 group-title="Познавательные", Travel XP 4k
-http://5.188.156.134:80/TRAVEL_XP_4K/index.m3u8?token=s1fkzaoxq7
+http://91.207.115.228:12000/play/a041 
 #EXTINF:-1 group-title="Познавательные", Viju Nature
-http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
-http://188.134.76.176:81/udp/235.10.10.228:1234
+http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju History HD
-http://141.95.55.143/CH3871/index.m3u8
+http://185.112.140.28:8080/ViasatHistory/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
-http://188.113.190.11/32/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju Explore HD
-http://188.134.76.176:81/udp/235.10.10.227:1234
-#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://91.218.160.212:8015/play/a04f/index.m3u8
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
-http://109.239.208.82:80/zoo/index.m3u8
+http://31.130.63.173:1011/zoopark/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Новости", 360 Новости
