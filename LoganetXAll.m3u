@@ -617,8 +617,6 @@ http://88.85.172.243:7004/play/a01l
 http://77.243.112.149:8080/doctor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://91.207.115.228:12000/play/a04d
-#EXTINF:-1 group-title="Познавательные", ЕГЭ 
-http://81.23.189.170:4022/udp/234.0.0.212:2000
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://77.243.112.149:8080/zhivaya-planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
@@ -791,11 +789,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+http://185.112.140.28:8080/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://81.7.108.21:9000/play/AnimalPlanetHD-DVBC394-sti4400018360108
+http://hls.seversk.ru:8080/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet 
-http://tv.light-net.ru:8005/play/a08g
+http://91.207.114.220:9001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Big Planet HD
+http://88.218.242.237:8000/play/a00k
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream
 http://185.177.112.234:8000/play/a03i
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
@@ -805,21 +805,17 @@ https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025 
+http://hls.seversk.ru:8080/play/a01g/index.m3u8 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Docubox
-http://188.113.190.15/146/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", DTX
-http://edge02.odtv.az/o5/dtx/playlist.m3u8
+http://iptv.mega.net.ru:8888/DocuBOX_HD/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
-http://188.113.190.15/159/mono.m3u8
+http://78.140.39.3:8080/play/a014/index.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Epic HD
-http://188.134.76.176:81/udp/235.10.10.100:1234
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
-rtmp://5.182.229.90//7142
+http://188.190.222.48:8765/Gagsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
@@ -827,19 +823,21 @@ http://94.232.104.237:8011/hdlife/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV
 http://195.211.27.149:8887/8355/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", HGTV HD
-http://31.131.136.4:8001/play/e017
+https://free-tv.me/iptv/src/s/secret_token/hgtv-hd.m3u8
 #EXTINF:-1 group-title="Познавательные", History
-http://195.211.27.149:8887/8356/index.m3u8?token=test
-#EXTINF:-1 group-title="Познавательные", Home 4k
-http://89.104.114.2:8080/home4k/index.m3u8
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные", Home HD
+http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery 
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
-http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108 
+http://91.207.115.228:12000/play/a042
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
-http://188.42.198.244:9230/FashionOne4K/index.m3u8?token=s1fkzaoxq7
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV
 https://stream2.cinerama.uz/1451/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Museum TV HD
-http://81.7.108.21:9000/play/DTXHD-DVBC386-sti4400018360108
+#EXTINF:-1 group-title="Познавательные", Museum TV 4k
+http://88.218.242.237:8000/play/a00g
 #EXTINF:-1 group-title="Познавательные", MyZen TV HD
 https://stream2.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
