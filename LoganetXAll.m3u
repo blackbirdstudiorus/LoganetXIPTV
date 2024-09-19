@@ -600,7 +600,7 @@ http://91.207.115.228:12000/play/a01g
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://s5.merlive.am/glazamituristahd/index.m3u8
+http://185.112.140.28:8080/Glazami_Turista/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://88.85.172.243:7004/play/a01l
 #EXTINF:-1 group-title="Познавательные", Доктор HD
@@ -812,10 +812,8 @@ http://188.190.222.48:8765/Gagsnetwork/tracks-v1a1/mono.m3u8
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 http://31.130.63.173:1011/hdl/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", HGTV
-http://195.211.27.149:8887/8355/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", HGTV HD
-https://free-tv.me/iptv/src/s/secret_token/hgtv-hd.m3u8
+http://195.211.27.149:8887/8355/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Home HD
