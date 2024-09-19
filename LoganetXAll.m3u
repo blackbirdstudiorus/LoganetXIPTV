@@ -540,42 +540,34 @@ http://77.243.112.149:8080/malish/index.m3u8
 http://31.130.63.173:1011/unikum/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Детские", Baby Time 
-http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
-http://195.158.222.115:8001/play/a08g/index.m3u8
+http://88.218.242.237:8000/play/a00f
 #EXTINF:-1 group-title="Детские", Cartoonito 
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoonito HD
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://94.232.104.237:8011/cartoonnetwork/index.m3u8
+http://s5.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Детские", Duck TV
-https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", FamilyJam
-http://de.kineskop.club/site2/1808/1009756_c4a0cdbe72577186_0_0_fs2.m3u8
+https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", FamilyJam HD
+http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://91.218.160.212:8015/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV 
-http://195.158.222.115:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV HD
-http://31.211.77.158:8000/play/a165/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://hls.seversk.ru:8080/play/a00t/index.m3u8
+http://s5.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-http://185.160.141.247:8080/nickjr/mpegts
+rtmp://212.0.213.132//NickJr
+#EXTINF:-1 group-title="Детские", Nick Jr. HD
+http://45.141.76.176/nickjr/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 group-title="Детские", Relax TV Губка Боб
-http://45.92.176.122:8080/relaxSpongeBob/index.m3u8?token=s1fkzaoxq7
-#EXTINF:-1 group-title="Детские", Relax TV Kids
-http://45.92.176.122:8080/relaxkids/index.m3u8?token=s1fkzaoxq7
 #EXTINF:-1 group-title="Детские", Sunset Kids 
 https://stream.sunset-media.ru/Free/Free/4.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+http://31.130.63.173:1011/tiji/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", 2x2
