@@ -241,8 +241,6 @@ http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
 http://31.131.136.4:8001/play/e014
 #EXTINF:-1 group-title="Кино", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 group-title="Кино", Любимое HD
-http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://91.205.199.3/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино HD
