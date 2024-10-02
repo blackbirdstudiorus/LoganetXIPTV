@@ -182,6 +182,10 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://185.50.148.2:7703/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ HD
 http://88.218.242.237:8000/play/a009
+#EXTINF:-1 group-title="Кино", КиноМеню HD
+http://77.235.1.13/kinomenu/index.m3u8
+#EXTINF:-1 group-title="Кино", КиноСезон HD
+http://77.235.1.13/kinosezon/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -244,6 +248,8 @@ rtmp://5.182.229.90//7347
 https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
 http://77.235.1.13/nashe_krutoe/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше мужское HD
+http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD
@@ -370,6 +376,8 @@ http://195.158.222.115:8001/play/a01u/index.m3u8
 http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Кино", Kino24
 http://camera.global-x.ru/Pro100TV/mono.m3u8
+#EXTINF:-1 group-title="Кино", Movie Classic
+http://193.242.204.28:10061/61
 #EXTINF:-1 group-title="Кино", Plan B
 http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино", Plan B HD 
