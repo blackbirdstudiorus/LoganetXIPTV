@@ -261,7 +261,9 @@ http://77.235.1.13/premialnoe/index.m3u8
 #EXTINF:-1 group-title="Кино", Премиальное HD
 rtmp://5.182.229.90//7222
 #EXTINF:-1 group-title="Кино", Родное кино 
-http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
+http://185.112.140.28:8080/Rodnoe_Kino/index.m3u8
+#EXTINF:-1 group-title="Кино", Романтичное
+http://193.242.190.6:8099/31/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
@@ -271,9 +273,11 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман HD
-http://188.113.190.15/221/tracks-v1a1/index.m3u8
+http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Сапфир
+http://109.200.130.123:7537/play/a028
 #EXTINF:-1 group-title="Кино", Сапфир HD
-http://188.113.190.15/182/tracks-v1a1/index.m3u8
+http://91.207.115.228:12000/play/a02e
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинодетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинокомедия
@@ -286,18 +290,16 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 http://91.207.115.228:9001/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="Кино", Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1 group-title="Кино", Страшное
-http://195.211.27.149:8887/8198/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Страшное HD
 rtmp://5.182.229.90//7247
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
-http://78.140.39.3/play/a010/index.m3u8
-#EXTINF:-1 group-title="Кино", Хит
-http://iptv.mega.net.ru:8888/hit_hd/mono.m3u8
+http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Феникс Плюс Кино HD
+http://88.218.242.237:8000/play/a007
 #EXTINF:-1 group-title="Кино", Хит HD
-http://hls127.homeiptv.org:8880/XitHD/video.m3u8
+http://77.235.1.13/hit/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее HD
-http://iptv.mega.net.ru:8888/Kinopokaz_HD_1/mono.m3u8
+http://31.131.136.4:8001/play/e013
 #EXTINF:-1 group-title="Кино", A1
 http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 group-title="Кино", A1 HD
