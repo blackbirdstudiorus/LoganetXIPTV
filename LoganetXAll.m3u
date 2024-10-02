@@ -143,14 +143,13 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Общие", ТСВ Приднестровье
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
-http://hls.seversk.ru:8080/play/a00i/index.m3u8
+http://91.205.199.3/black/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red HD
-http://iptv2.mega.net.ru:8888/TVRU1/SONY_HD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
+http://91.207.114.220:9001/play/a0ct/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
@@ -162,29 +161,21 @@ https://streaming.goodstream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
-http://193.242.204.28:10081/81
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Day-Victory.png", День Победы HD
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/mono.m3u8
+http://185.112.140.28:8080/DomKinoPremium/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
 https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
 http://193.242.190.6:8099/37/index.m3u8
-#EXTINF:-1 group-title="Кино", Душевное HD
-http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
-http://91.205.199.3/eurokino/index.m3u8
+http://78.62.135.122:8082/evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://91.207.115.228:12000/play/a04o
 #EXTINF:-1 group-title="Кино", Индийское кино 
 https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино", Камеди HD
-http://iptv.mega.net.ru:8888/kamedi_hd/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://185.50.148.2:7703/Fox/index.m3u8
-#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
-http://188.190.222.48:8765/Kineko_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ
@@ -216,9 +207,9 @@ http://185.112.140.28:8080/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
-http://188.190.222.48:8765/Kinosat/tracks-v1a1/mono.m3u8
+http://193.242.204.28:10058/58
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
+http://91.207.115.228:12000/play/a018
 #EXTINF:-1 group-title="Кино", Киносвидание HD
 rtmp://5.182.229.90//7245
 #EXTINF:-1 group-title="Кино", Киносемья 
@@ -235,8 +226,6 @@ http://77.235.1.13/kinoujas/index.m3u8
 http://91.207.114.220:9001/play/a0d3/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://193.242.204.28:10046/46
-#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
-http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
 http://31.131.136.4:8001/play/e014
 #EXTINF:-1 group-title="Кино", Комедия 
@@ -244,7 +233,7 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://45.143.108.110:2200/lubimoekino
 #EXTINF:-1 group-title="Кино", Любимое кино HD
-http://s5.merlive.am/lubimoekino/index.m3u8
+http://ge-net.duckdns.org:7110/live?channel=19&client=15
 #EXTINF:-1 group-title="Кино", Мир сериала 
 http://45.143.108.110:2200/mirseriala
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
@@ -253,14 +242,10 @@ http://193.242.190.6:8099/98/index.m3u8
 rtmp://5.182.229.90//7347
 #EXTINF:-1 group-title="Кино", Мужское кино
 https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Наше
-http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
 http://77.235.1.13/nashe_krutoe/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://178.212.71.253:8002/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Кино", Наш кинопоказ
-http://iptv.mega.net.ru:8888/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD
 http://77.235.1.13/nash_kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино", НСТ 
@@ -269,14 +254,12 @@ http://185.112.140.28:8080/NSTV/index.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Остросюжетное
-http://195.211.27.149:8887/8184/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+http://31.131.136.4:8001/play/e012
+#EXTINF:-1 group-title="Кино", Премиальное
+http://77.235.1.13/premialnoe/index.m3u8
 #EXTINF:-1 group-title="Кино", Премиальное HD
 rtmp://5.182.229.90//7222
-#EXTINF:-1 group-title="Кино", Про Любовь 
-http://iptv.mega.net.ru:8888/pro_lubov_hd/mono.m3u8
-#EXTINF:-1 group-title="Кино", Про Любовь HD
-http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино 
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский бестселлер
