@@ -159,7 +159,7 @@ https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 https://streaming.goodstream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
-http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+http://193.242.204.28:10081/81
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://185.112.140.28:8080/DomKinoPremium/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
