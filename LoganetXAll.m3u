@@ -315,31 +315,29 @@ http://31.131.136.4:8001/play/e013
 #EXTINF:-1 group-title="Кино", A1
 http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 group-title="Кино", A2 
-http://195.158.222.115:8000/play/62/index.m3u8
+http://185.50.148.2:7707/A2/index.m3u8
 #EXTINF:-1 group-title="Кино", A2 HD
 http://45.143.108.104/AMEDIA2_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
-http://91.218.160.212:8015/play/a04a/index.m3u8
+http://91.207.115.228:12000/play/a01k
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
-http://94.232.104.237:8011/amediahithd/index.m3u8
+http://77.235.1.13/amedia_hit/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium
-http://iptv.mega.net.ru:8888/Amedia_Premium_HD/mono.m3u8
+http://91.207.114.220:9001/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
-http://78.62.135.122:8082/amediapremiumhd/index.m3u8
+http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood
 https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
-http://195.158.222.115:8000/play/169/index.m3u8
+http://193.242.204.28:10083/83
 #EXTINF:-1 group-title="Кино", Bolt
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Bolt HD
-http://81.198.190.9:7878/BOLT/video.m3u8
+#EXTINF:-1 group-title="Кино", Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema HD
-http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/cinema
 #EXTINF:-1 group-title="Кино", Comedy Central
-http://80.90.184.111/paramount_comedy/index.m3u8
-#EXTINF:-1 group-title="Кино", Epic Drama
-http://185.160.141.247:8080/epicdramahd/mpegts 
+http://193.242.204.28:10065/65
 #EXTINF:-1 group-title="Кино", FAN
 http://94.232.104.237:8011/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
