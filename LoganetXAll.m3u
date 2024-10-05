@@ -372,6 +372,8 @@ http://193.242.204.28:10082/82
 http://77.235.1.13/planb/index.m3u8
 #EXTINF:-1 group-title="Кино", Romance HD
 http://88.218.242.237:8000/play/a004
+#EXTINF:-1 group-title="Кино", Scream HD
+http://88.218.242.237:8000/play/a00c
 #EXTINF:-1 group-title="Кино", Shot TV
 http://91.207.114.220:9001/play/a032/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
