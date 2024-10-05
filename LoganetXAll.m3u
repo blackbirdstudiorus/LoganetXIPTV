@@ -430,11 +430,14 @@ http://185.112.140.28:8080/VIPComedy/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
 http://77.235.1.13/vip_serial/index.m3u8
 
-
+#EXTINF:-1 group-title="Детские", В гостях у сказки
+http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 group-title="Детские", В гостях у сказки HD
 https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детские", Детское кино
+http://77.235.1.13/detskoe_kino/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
