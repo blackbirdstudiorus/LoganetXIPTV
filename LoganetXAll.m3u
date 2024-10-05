@@ -338,16 +338,14 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://45.143.108.110:2200/cinema
 #EXTINF:-1 group-title="Кино", Comedy Central
 http://193.242.204.28:10065/65
-#EXTINF:-1 group-title="Кино", FAN
-http://94.232.104.237:8011/fan/index.m3u8
+#EXTINF:-1 group-title="Кино", FAN 
+http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", FAN HD
+http://77.235.1.13/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
-http://iptv.mega.net.ru:8888/FilmBOX/mono.m3u8
-#EXTINF:-1 group-title="Кино", FilmBox Arthouse
-http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
-#EXTINF:-1 group-title="Кино", Filmzone
-http://81.198.190.9:7878/FilmZone/video.m3u8 
+http://45.143.108.110:2200/FilmBOX 
 #EXTINF:-1 group-title="Кино", Film.UA Drama
-http://81.198.190.9:7878/FILMUADRAMA/video.m3u8
+http://ge-net.duckdns.org:7110/live?channel=26&client=15
 #EXTINF:-1 group-title="Кино", FlixSnip HD
 http://78.140.39.3/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Кино", FX
