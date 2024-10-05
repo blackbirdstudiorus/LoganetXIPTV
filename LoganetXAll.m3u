@@ -458,8 +458,6 @@ http://109.200.130.123:7537/play/a024
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские", Лëва
 http://91.205.199.3/planb/index.m3u8
-#EXTINF:-1 group-title="Детские", Лëва HD
-http://s5.merlive.am/planb/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
 http://185.112.140.28:8080/Mult/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
@@ -471,17 +469,15 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
-http://31.130.63.173:1011/o!/tracks-v1a1/playlist.m3u8
+http://91.194.191.241:8081/chid405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
 https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Советские мультфильмы
-http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
-http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
+http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce", Солнце (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -489,15 +485,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://iptv.mega.net.ru:8888/CTC_Kids/mono.m3u8
+http://185.112.140.28:8080/STS_Kids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои HD
-http://77.243.112.149:8080/malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://31.130.63.173:1011/unikum/tracks-v1a1/playlist.m3u8
+https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
