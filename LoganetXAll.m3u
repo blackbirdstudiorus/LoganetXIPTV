@@ -406,27 +406,27 @@ http://91.205.199.3/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 HD
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://195.158.222.115:8000/play/36/index.m3u8
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
-https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино HD
-http://iptv4.mega.net.ru:8888/TVRU1/tv1000_russkoe_kino_hd/index.m3u8
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
-http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
+http://193.242.204.28:10072/72
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
-http://94.232.104.237:8011/natgeowild/index.m3u8
+http://185.112.140.28:8080/VIPPremiere/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Megahit 
-http://195.158.222.115:8000/play/38/index.m3u8
+http://193.242.204.28:10071/71
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
-http://185.112.140.28/VIPMegahit/index.m3u8
+http://185.112.140.28:8080/VIPMegahit/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Comedy
-http://185.112.140.28/VIPComedy/index.m3u8
+http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://195.158.222.115:8000/play/40/index.m3u8
+http://185.112.140.28:8080/VIPComedy/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
-http://iptv3.mega.net.ru:8888/TVRU1/VIP_Serial/index.m3u8
+http://77.235.1.13/vip_serial/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки HD
