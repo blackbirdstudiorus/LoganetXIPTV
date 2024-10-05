@@ -494,6 +494,8 @@ http://178.124.179.122:8088/Malish/index.m3u8
 https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Baby Time
+http://212.75.128.233:4022/udp/238.1.1.43:1234
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://88.218.242.237:8000/play/a00f
 #EXTINF:-1 group-title="Детские", Cartoonito 
@@ -501,7 +503,7 @@ http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoonito HD
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://s5.merlive.am/CartoonNetwork/index.m3u8
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Duck TV
 https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam HD
@@ -511,17 +513,13 @@ http://91.218.160.212:8015/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://s5.merlive.am/Nickelodeon/index.m3u8
+http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 rtmp://212.0.213.132//NickJr
-#EXTINF:-1 group-title="Детские", Nick Jr. HD
-http://45.141.76.176/nickjr/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 group-title="Детские", Sunset Kids 
-https://stream.sunset-media.ru/Free/Free/4.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://31.130.63.173:1011/tiji/tracks-v1a1/playlist.m3u8
+http://78.62.135.122:8082/tiji/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", 2x2
