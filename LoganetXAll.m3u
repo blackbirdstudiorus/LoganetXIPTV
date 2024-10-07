@@ -530,19 +530,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", 360 HD 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
-http://77.243.112.149:8080/365_dnej/index.m3u8
+http://91.207.115.228:9001/play/a04m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
 https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://45.143.108.104/arsenal/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Арт
-http://s83.chas.tv:8081/chas/art.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных HD
-http://hls.seversk.ru:8080/play/a017/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 http://91.207.115.228:12000/play/a04v
 #EXTINF:-1 group-title="Познавательные", Время 
@@ -553,12 +549,10 @@ https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 http://185.112.140.28:8080/Glazami_Turista/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://88.85.172.243:7004/play/a01l
-#EXTINF:-1 group-title="Познавательные", Доктор HD
-http://77.243.112.149:8080/doctor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://91.207.115.228:12000/play/a04d
 #EXTINF:-1 group-title="Познавательные", Живая планета
-http://77.243.112.149:8080/zhivaya-planeta/index.m3u8
+http://91.224.169.250:5000/c7
 #EXTINF:-1 group-title="Познавательные", Живая природа
 https://stream2.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
@@ -580,7 +574,7 @@ http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
 http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Ключ
-http://hls127.homeiptv.org:8880/Kluch/video.m3u8
+http://193.242.204.28:10184/184
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
@@ -598,7 +592,9 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
+https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь HD
 https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
@@ -609,21 +605,23 @@ http://91.207.115.228:9001/play/a0d2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Океан
-http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
+http://77.235.1.13/ocean_tv/index.m3u8
 #EXTINF:-1  group-title="Познавательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
 https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
-http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
+http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Перец
-http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8
+rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Познавательные", Победа
 http://91.205.199.3/pobeda/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 https://cdn1.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
+#EXTINF:-1 group-title="Познавательные", Приключения
+https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
-http://135.181.115.81:8000/play/a00k/index.m3u8?token=livetv
+http://stream01.vnet.am/PriklyucheniyaHd/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
