@@ -435,7 +435,7 @@ https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино
-http://77.235.1.13/detskoe_kino/index.m3u8
+http://77.235.1.17/detskoe_kino/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
@@ -457,7 +457,7 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские", Лëва
 http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
-http://185.112.140.28:8080/Mult/index.m3u8
+http://91.142.158.107:8092/play/23/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
@@ -485,7 +485,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://185.112.140.28:8080/STS_Kids/index.m3u8
+https://stream1.cinerama.uz/1437/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
