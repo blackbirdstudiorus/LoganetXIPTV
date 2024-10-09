@@ -381,11 +381,11 @@ http://77.235.1.17/star_cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Family 
 http://77.235.1.17/star_family/index.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air
-http://77.235.1.13/start_air/index.m3u8
+http://77.235.1.17/start_air/index.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air HD
 http://193.242.204.28:10063/63
 #EXTINF:-1 tvg-id="start-world" group-title="Кино" tvg-id="start-world", Start World
-http://77.235.1.13/start_world/index.m3u8
+http://77.235.1.17/start_world/index.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
 http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино", TV XXI
