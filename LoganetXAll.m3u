@@ -733,15 +733,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://185.112.140.28:8080/AnimalPlanet/index.m3u8
+http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://hls.seversk.ru:8080/play/a01e/index.m3u8
+http://193.242.204.28:10032/32
 #EXTINF:-1 group-title="Познавательные", Big Planet 
 http://91.207.114.220:9001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet HD
 http://88.218.242.237:8000/play/a00k
-#EXTINF:-1 group-title="Познавательные", Curiosity Stream
-http://185.177.112.234:8000/play/a03i
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
 http://88.218.242.237:8000/play/a00j
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
@@ -751,11 +749,9 @@ http://88.218.242.237:8000/play/a00a
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-http://hls.seversk.ru:8080/play/a01g/index.m3u8 
+http://77.235.1.17/discovery_channel/index.m3u8 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Docubox
-http://iptv.mega.net.ru:8888/DocuBOX_HD/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
 http://78.140.39.3:8080/play/a014/index.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club
