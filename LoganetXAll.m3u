@@ -752,18 +752,18 @@ http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 http://77.235.1.17/discovery_channel/index.m3u8 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", English Class
-http://78.140.39.3:8080/play/a014/index.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
-http://188.190.222.48:8765/Gagsnetwork/tracks-v1a1/mono.m3u8
+http://185.223.125.136:1984/play/Gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Gagsnetwork HD
+rtmp://5.182.229.90//7142
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
-http://31.130.63.173:1011/hdl/tracks-v1a1/playlist.m3u8
+http://94.230.128.105:8080/HDLife/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HGTV HD
-http://195.211.27.149:8887/8355/index.m3u8?token=test
+http://31.131.136.4:8001/play/e017
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Home HD
