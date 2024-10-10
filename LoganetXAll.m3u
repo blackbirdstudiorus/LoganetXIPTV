@@ -548,7 +548,7 @@ http://91.207.115.228:12000/play/a01g
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://92.118.134.244:8001/play/Glazami_turista/index.m3u8
+http://91.205.199.3/glazamituristahd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста 4k
 http://77.235.1.17/glazami_turista_4k/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
@@ -685,11 +685,11 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Твоë ТВ Юмор HD 
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 
-https://stream2.cinerama.uz/1453/tracks-v1a1/mono.m3u8
+http://91.207.115.228:12000/play/a02h
 #EXTINF:-1 group-title="Познавательные", Техно 24
 https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Театр
-http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -699,7 +699,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ
 http://31.210.208.171:8080/tnt/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", ТНТ HD
-http://92.118.134.244:8002/play/THT_HD/index.m3u8
+http://91.205.199.3/tnthd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4", ТНТ4 (Архив)
