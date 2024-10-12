@@ -945,33 +945,31 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
 rtmp://5.182.229.90//7349
 #EXTINF:-1 group-title="Хобби", Мужской 
-http://188.113.190.11/64/tracks-v1a1/index.m3u8
+http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", Наша тема 
-http://188.113.190.15/218/tracks-v1a1/index.m3u8
+http://91.207.114.220:9001/play/a07i/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
-http://188.113.190.15/155/mono.m3u8
+http://193.242.204.28:10160/160
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://188.113.190.15/69/tracks-v1a1/index.m3u8
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов
 https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://91.218.160.212:8015/play/a00k/index.m3u8
+http://185.223.125.136:1984/play/perviyvegeter/index.m3u8
 #EXTINF:-1 group-title="Хобби", Пес и Ко
-http://89.104.114.2:8080/pes_i_ko/index.m3u8
+http://88.218.242.237:8000/play/a00o
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://86.57.178.105:9952/oh
 #EXTINF:-1 group-title="Хобби", Рыболов
-http://178.16.151.67/ohotnik/index.m3u8
+http://91.207.115.228:12000/play/a02x
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://188.113.190.11/117/tracks-v1a1/index.m3u8
+http://94.230.128.105:8080/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
-http://188.113.190.15/71/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
-http://188.113.190.15/60/tracks-v1a1/index.m3u8
+http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
