@@ -903,39 +903,41 @@ http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Хобби", Авто 24
-http://109.239.208.82:80/auto24/index.m3u8
+http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
-http://178.16.151.67/avto-plus/index.m3u8
+http://91.207.115.228:12000/play/a02y
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
-http://188.113.190.15/131/tracks-v1a1/index.m3u8
+http://193.242.204.28:10163/163
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://91.218.160.212:8015/play/a04t/index.m3u8
+http://193.242.204.28:10117/117
+#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке HD
+rtmp://92.119.88.58//2394
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://94.232.104.237:8011/eurosport1/index.m3u8
+http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
-http://95.156.76.230:33001/udp/230.4.34.78:1234
+http://91.207.115.228:12000/play/a02m
 #EXTINF:-1 group-title="Хобби", Драйв
-http://188.113.190.15/68/tracks-v1a1/index.m3u8
+http://77.235.1.17/drive/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
-http://195.211.27.149:8887/8140/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Еда HD
-http://188.134.76.176:81/udp/235.10.10.240:1234
+http://88.218.242.237:8000/play/a00r
 #EXTINF:-1 group-title="Хобби", Живи
-http://178.16.151.67/jivi/index.m3u8
+http://193.242.204.28:10178/178
 #EXTINF:-1 group-title="Хобби", Живи Активно
 https://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
-http://188.113.190.15/123/tracks-v1a1/index.m3u8
+http://193.242.204.28:10180/180
 #EXTINF:-1 group-title="Хобби", Загородный 
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
-http://188.113.190.15/76/tracks-v1a1/index.m3u8
+http://77.235.1.17/konniy_mir/index.m3u8
 #EXTINF:-1 group-title="Хобби", КтоКуда
-http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Кухня ТВ
-http://188.113.190.15/314/tracks-v1a1/index.m3u8
+http://185.223.125.136:1984/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Хобби", Кухня
+http://91.207.114.220:9001/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Хобби", Кухня HD 
+http://88.218.242.237:8000/play/a00s
 #EXTINF:-1 group-title="Хобби", Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
