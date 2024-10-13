@@ -190,8 +190,6 @@ http://77.235.1.17/kinosezon/index.m3u8
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
 http://live-3.otcnet.ru/kinotvplus4/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ +7
-http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
 http://91.205.199.3/kinotvhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
