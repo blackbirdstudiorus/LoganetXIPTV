@@ -607,7 +607,7 @@ http://91.207.115.228:9001/play/a0d2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Океан
-http://77.235.1.17/ocean_tv/index.m3u8
+http://s1.merlive.am:80/oceantv/index.m3u8
 #EXTINF:-1  group-title="Познавательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
@@ -645,13 +645,13 @@ http://s1.merlive.am/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
-http://178.124.179.122:8088/Retro/index.m3u8
+http://91.207.115.228:12000/play/a04r
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Родной канал HD
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 group-title="Познавательные", Сарафан
-http://178.124.179.122:8088/Sarafan/index.m3u8
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Познавательные", Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts", СТС (Архив)
@@ -968,18 +968,16 @@ http://94.230.128.105:8080/Telekafe/index.m3u8
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
-http://89.104.114.2:8080/fashion_one_hd/index.m3u8
-#EXTINF:-1 group-title="Хобби", Fashion & Style 4k
-http://130.193.124.214:8028/play/a062/index.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
-http://188.113.190.15/194/tracks-v1a1/index.m3u8
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion TV UHD
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 group-title="Хобби", FashionBox
-http://camera.global-x.ru/FashionBox/index.m3u8
+http://185.223.125.136:1984/play/FashionBOX/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1 group-title="Хобби", Food Time
-http://89.104.114.2:8080/eda_hd/index.m3u8
+rtmp://212.0.213.132//Joy_Cook
+#EXTINF:-1 group-title="Хобби", Food Network HD
+rtmp://92.119.88.58//2419
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
