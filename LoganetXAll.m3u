@@ -534,7 +534,7 @@ http://91.207.115.228:9001/play/a04m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
 https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://45.143.108.104/arsenal/index.m3u8
+http://193.242.204.28:10157/157
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
@@ -1001,7 +1001,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://s5.merlive.am/BoxTV/index.m3u8
+http://103.97.89.234/bokstv/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -1011,7 +1011,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://77.243.112.149:8080/match_hd/index.m3u8
+http://103.97.89.234/match/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
@@ -1025,29 +1025,31 @@ http://95.216.40.210/matchigra/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
+http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://78.62.135.122:8082/MatchPremierHD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://hls.seversk.ru:8080/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+http://103.97.89.234/football1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://77.243.112.149:8080/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+http://91.207.115.228:12000/play/a033
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+http://95.216.40.210/football3/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Мир баскетбола HD
 http://88.218.242.237:8000/play/a00e
+#EXTINF:-1 group-title="Спорт", Мяч
+http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Старт
-http://77.243.112.149:8080/start_hd/index.m3u8
+http://185.23.80.28:8080/START/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Старт HD
 http://95.216.40.210/start/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
@@ -1055,13 +1057,9 @@ http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 group-title="Спорт", Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
-http://135.181.115.81:8000/play/a00o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Спорт", Футбольный
-http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Хоккейный
-https://free-tv.me/iptv/src/s/secret_token/hokkejnyj-hd.m3u8
-#EXTINF:-1 group-title="Спорт", Хоккейный HD
-http://hls.seversk.ru:8080/play/a01b/index.m3u8
+http://185.23.80.28:8080/Football/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Футбол HD
+http://91.207.115.228:12000/play/a02q
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
