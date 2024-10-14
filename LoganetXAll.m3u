@@ -1222,17 +1222,17 @@ http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 90's
 http://5.153.180.133:8004/play/a094
 #EXTINF:-1 group-title="Музыка", MusicBox Gold 
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+http://37.205.83.56:81/udp/239.54.5.7:1224
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 https://89.187.167.247/polsatmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:-1 group-title="Музыка", Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Музыка", RU.TV 
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 group-title="Музыка", Russian MusicBox
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыка", RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыка", Russian MusicBox HD
+http://94.230.128.105:8080/MUSIC/index.m3u8
 #EXTINF:-1 group-title="Музыка", Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка", Sunset Music
@@ -1246,6 +1246,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", V2BEAT
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Viva TV Russia
-https://ipv4.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
