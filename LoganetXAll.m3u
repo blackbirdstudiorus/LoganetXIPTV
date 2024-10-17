@@ -169,7 +169,7 @@ https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
-http://78.62.135.122:8082/evrokino/index.m3u8
+http://185.50.148.2:7709/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://91.207.115.228:12000/play/a04o
 #EXTINF:-1 group-title="Кино", Индийское кино 
@@ -177,11 +177,11 @@ https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
-http://185.50.148.2:7703/Fox/index.m3u8
+http://193.242.204.28:10080/80
+#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
+http://77.235.1.17/kineko/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино без границ
-http://185.50.148.2:7703/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ HD
 http://88.218.242.237:8000/play/a009
 #EXTINF:-1 group-title="Кино", КиноМеню HD
@@ -234,6 +234,8 @@ http://193.242.204.28:10046/46
 http://31.131.136.4:8001/play/e014
 #EXTINF:-1 group-title="Кино", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:-1 group-title="Кино", Кошмар
+http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://193.242.204.28:10091/91
 #EXTINF:-1 group-title="Кино", Любимое кино HD
@@ -306,8 +308,6 @@ https://autopilot.catcast.tv/content/34100/index.m3u8
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Советское кино
 http://91.207.115.228:9001/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="Кино", Страх HD
-http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино", Страшное HD
 rtmp://5.182.229.90//7247
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
@@ -349,11 +349,11 @@ http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", FAN HD
 http://77.235.1.17/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
-http://213.169.39.30:5009 
+http://185.223.125.136:1984/play/FilmBOX/index.m3u8 
 #EXTINF:-1 group-title="Кино", Film.UA Drama
 http://ge-net.duckdns.org:7110/live?channel=26&client=15
 #EXTINF:-1 group-title="Кино", FlixSnip
-http://185.50.148.2:7703/FlixSnip/index.m3u8
+http://91.207.115.228:12000/play/a01n
 #EXTINF:-1 group-title="Кино", FX
 http://45.143.108.110:2203/FOX 
 #EXTINF:-1 group-title="Кино", FX HD
@@ -491,7 +491,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 https://stream1.cinerama.uz/1437/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
-http://78.62.135.122:8082/STSKidsHD/index.m3u8
+http://91.207.115.228:9001/play/a03v/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
@@ -513,7 +513,7 @@ https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam HD
 http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 group-title="Детские", Gulli Girl
-http://78.62.135.122:8082/gulli/index.m3u8
+http://86.57.198.251:8181/play/1091/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
@@ -523,11 +523,11 @@ rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://78.62.135.122:8082/tiji/index.m3u8
+http://91.205.199.3/tijitv/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", 2x2
-http://78.62.135.122:8082/2x2/index.m3u8
+http://91.224.169.250:5000/c22
 #EXTINF:-1 group-title="Познавательные", 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Познавательные", 2х2 (Архив)
@@ -796,8 +796,6 @@ https://hls.rt.com/hls/rtdru.m3u8
 http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 http://91.205.199.3/rtghd/index.m3u8
-#EXTINF:-1 group-title="Познавательные", RTG Int.
-http://213.169.39.30:5264
 #EXTINF:-1 group-title="Познавательные", RTVi 
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
@@ -825,13 +823,13 @@ http://77.235.1.17/travel_adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
 http://91.207.115.228:12000/play/a041 
 #EXTINF:-1 group-title="Познавательные", Viju Nature
-http://185.50.148.2:7703/ViasatNature/index.m3u8
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
 http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
+http://31.47.199.45:1401/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
-http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+http://82.215.111.227/1045/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
 http://31.131.136.4:8001/play/e006
 #EXTINF:-1 group-title="Познавательные", Zooпарк
@@ -908,8 +906,6 @@ http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://91.207.115.228:12000/play/a02y
-#EXTINF:-1 group-title="Хобби", Аппетитный
-http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://193.242.204.28:10163/163
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
@@ -973,7 +969,7 @@ http://91.207.115.228:12000/play/a02x
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://94.230.128.105:8080/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
-http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
@@ -1009,7 +1005,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://103.97.89.234/bokstv/index.m3u8 
+http://95.216.40.210/bokstv/tracks-v1a1/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -1019,7 +1015,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://103.97.89.234/match/index.m3u8
+http://77.235.1.17/match/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
@@ -1035,13 +1031,15 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://78.62.135.122:8082/MatchPremierHD/index.m3u8
+http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://hls.seversk.ru:8080/play/a00r/index.m3u8
+http://193.242.204.28:10099/99
+#EXTINF:-1 group-title="Спорт", Матч! Страна HD
+http://91.207.115.228:12000/play/a02u
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://103.97.89.234/football1/index.m3u8
+http://95.216.40.210/football1/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://193.242.204.28:10101/101
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
@@ -1145,8 +1143,6 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Viju+ Sport HD
-http://103.97.89.234/viasatsport/index.m3u8
 
 
 #EXTINF:-1 group-title="Музыка", 1HD
