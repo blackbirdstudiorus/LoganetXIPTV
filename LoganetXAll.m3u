@@ -514,6 +514,8 @@ https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://86.57.198.251:8181/play/1091/index.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV HD
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
