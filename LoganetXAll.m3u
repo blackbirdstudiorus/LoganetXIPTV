@@ -1213,8 +1213,6 @@ http://109.200.130.123:7537/play/a029
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live HD
 http://91.207.115.228:12000/play/a03d
-#EXTINF:-1 group-title="Музыка", MTV Hits 
-http://213.169.39.30:5257
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Music
@@ -1222,9 +1220,7 @@ http://193.242.204.28:10193/193
 #EXTINF:-1 group-title="Музыка", MTV 00's
 http://193.242.204.28:10190/190
 #EXTINF:-1 group-title="Музыка", MTV 80's
-http://213.169.39.30:5137
-#EXTINF:-1 group-title="Музыка", MTV 90's
-http://213.169.39.30:5203
+http://193.242.204.28:10191/191
 #EXTINF:-1 group-title="Музыка", MusicBox Gold 
 http://37.205.83.56:81/udp/239.54.5.7:1224
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
