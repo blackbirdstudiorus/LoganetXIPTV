@@ -984,6 +984,8 @@ http://185.223.125.136:1984/play/FashionBOX/index.m3u8
 rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 group-title="Хобби", Food Network HD
 rtmp://92.119.88.58//2419
+#EXTINF:-1 group-title="Хобби", Women's Magazine HD
+http://88.218.242.237:8000/play/a00l
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
@@ -1171,6 +1173,8 @@ http://185.223.125.136:1984/play/O2TV/index.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия
 https://bozztv.com/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", Русский корабль 
+https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
