@@ -53,8 +53,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-Belarus.png", НТВ-Беларусь
-http://194.158.222.36:6106/
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-Belarus.png", НТВ-Беларусь HD
+http://93.189.224.246:52900/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-America.png", НТВ-Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru" tvg-logo="http://loganet.ru/images/channels/Fifth.png", Пятый канал (Архив)
@@ -113,7 +113,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TV-3-Belarus.png", ТВ3 Беларусь
-http://91.207.114.220:9001/play/a0e2/index.m3u8
+http://93.189.224.246:52900/play/a00f/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda" tvg-logo="http://loganet.ru/images/channels/Star.png", Звезда (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
@@ -161,7 +161,7 @@ http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 https://streaming.goodstream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
-http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+http://91.194.191.241:8081/chid294/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://193.242.204.28:10081/81
 #EXTINF:-1 group-title="Кино", Дорама
@@ -781,11 +781,11 @@ http://91.207.115.228:12000/play/a042
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV
-https://stream2.cinerama.uz/1451/tracks-v1a1/mono.m3u8
+http://31.184.197.124/museum_hd/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV 4k
 http://88.218.242.237:8000/play/a00g
 #EXTINF:-1 group-title="Познавательные", MyZen TV HD
-https://stream2.cinerama.uz/1452/tracks-v1a1/mono.m3u8
+http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
 https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
@@ -829,7 +829,7 @@ http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
 http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://31.47.199.45:1401/history/index.m3u8
+http://86.57.198.251:8181/play/1017/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://82.215.111.227/1045/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
@@ -1172,7 +1172,7 @@ http://185.223.125.136:1984/play/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия
-https://bozztv.com/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
+http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка", Русский корабль 
 https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
@@ -1184,9 +1184,9 @@ http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
-http://31.47.199.45:1401/bridge/index.m3u8
+http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
-http://31.47.199.45:1401/bridgeclassic/index.m3u8
+http://185.223.125.136:1984/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe
 http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
@@ -1194,11 +1194,11 @@ http://91.207.114.220:9001/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
-http://31.47.199.45:1401/bridgerusskiyhit/index.m3u8
+http://91.207.115.228:12000/play/a036
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыка", Bridge Фрэш
 http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
-http://31.47.199.45:1401/bridgeshlyager/index.m3u8
+http://193.242.204.28:10197/197
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
