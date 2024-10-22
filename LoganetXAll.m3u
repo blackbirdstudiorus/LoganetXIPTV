@@ -444,6 +444,8 @@ http://77.235.1.17/detskoe_kino/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
 https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
+http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
 http://91.142.158.107:8092/play/8/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
@@ -974,6 +976,8 @@ http://94.230.128.105:8080/Telekafe/index.m3u8
 http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion & Lifestyle HD
+http://91.194.191.241:8081/chid169/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV UHD
