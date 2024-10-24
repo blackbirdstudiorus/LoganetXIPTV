@@ -1027,19 +1027,19 @@ http://77.235.1.17/match/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://95.216.40.210/matcharena/tracks-v1a1/index.m3u8
+http://91.207.115.228:12000/play/a02r
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://95.216.40.210/matchigra/tracks-v1a1/index.m3u8
+http://91.207.115.228:12000/play/a02s
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
+http://77.235.1.17/match_premier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
+http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://193.242.204.28:10099/99
 #EXTINF:-1 group-title="Спорт", Матч! Страна HD
@@ -1047,7 +1047,7 @@ http://91.207.115.228:12000/play/a02u
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://95.216.40.210/football1/tracks-v1a1/index.m3u8
+http://193.242.204.28:10100/100
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://193.242.204.28:10101/101
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
@@ -1055,7 +1055,7 @@ http://91.207.115.228:12000/play/a033
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://95.216.40.210/football3/tracks-v1a1/index.m3u8
+http://193.242.204.28:10102/102
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Мир баскетбола HD
@@ -1065,7 +1065,7 @@ http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Старт
 http://185.23.80.28:8080/START/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Старт HD
-http://95.216.40.210/start/tracks-v1a1/index.m3u8
+http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
 http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 group-title="Спорт", Удар
@@ -1155,8 +1155,6 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 group-title="Музыка", Жар птица 
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Жара 
 http://91.207.115.228:12000/play/a03e
 #EXTINF:-1 group-title="Музыка", Курай
@@ -1184,7 +1182,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Музыка", Туган Тел
-http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+https://stream2.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
