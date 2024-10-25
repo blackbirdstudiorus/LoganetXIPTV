@@ -910,6 +910,8 @@ http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://91.207.115.228:12000/play/a02y
+#EXTINF:-1 group-title="Хобби", Аппетитный
+http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://193.242.204.28:10163/163
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
