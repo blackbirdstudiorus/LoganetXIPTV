@@ -1158,11 +1158,11 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыка", Жара 
-http://91.207.115.228:12000/play/a03e
+http://31.210.208.171:8080/jara/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
-http://91.207.115.228:12000/play/a03f
+http://31.210.208.171:8080/la_minor/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -1194,11 +1194,11 @@ http://185.223.125.136:1984/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe
 http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
-http://91.207.114.220:9001/play/a0ca/index.m3u8
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
-http://91.207.115.228:12000/play/a036
+http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыка", Bridge Фрэш
 http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
@@ -1222,7 +1222,7 @@ http://109.200.130.123:7537/play/a029
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live HD
-http://91.207.115.228:12000/play/a03d
+http://93.125.121.75:80/MezzoLiveHD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Music
