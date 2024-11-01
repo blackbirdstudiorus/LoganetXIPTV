@@ -621,7 +621,7 @@ rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Познавательные", Победа
 http://91.205.199.3/pobeda/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
-https://cdn1.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
+http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
@@ -639,7 +639,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница!
-http://91.142.158.107:8092/play/16/index.m3u8
+http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! International
@@ -755,15 +755,13 @@ https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
-http://185.223.125.136:1984/play/Gagsnetwork/index.m3u8
+http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork HD
 rtmp://5.182.229.90//7142
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", HDL
 http://77.235.1.17/hd_life/index.m3u8
-#EXTINF:-1 group-title="Познавательные", HGTV HD
-http://31.131.136.4:8001/play/e017
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Home HD
@@ -827,7 +825,7 @@ http://86.57.198.251:8181/play/1017/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://82.215.111.227/1045/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://31.131.136.4:8001/play/e006
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://91.205.199.3/zoopark/index.m3u8
 
@@ -931,7 +929,7 @@ http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://77.235.1.17/konniy_mir/index.m3u8
 #EXTINF:-1 group-title="Хобби", КтоКуда
-http://185.223.125.136:1984/play/a05b/index.m3u8
+http://91.194.191.241:8081/chid446/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
 http://94.230.128.105:8080/KuhnyaTV/index.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня HD 
@@ -957,7 +955,7 @@ https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://185.223.125.136:1984/play/perviyvegeter/index.m3u8
+http://88.85.172.243:7012/play/a02m
 #EXTINF:-1 group-title="Хобби", Пес и Ко
 http://88.218.242.237:8000/play/a00o
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
@@ -976,8 +974,6 @@ http://91.194.191.241:8081/chid169/tracks-v1a1/mono.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 group-title="Хобби", FashionBox
-http://185.223.125.136:1984/play/FashionBOX/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 group-title="Хобби", Food Network HD
@@ -1017,7 +1013,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
-http://91.142.158.107:8092/play/33/index.m3u8
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
 http://77.235.1.17/match/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
@@ -1040,8 +1036,6 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://193.242.204.28:10100/100
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://193.242.204.28:10101/101
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
@@ -1071,11 +1065,11 @@ http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
 http://77.235.1.17/eurosport_2/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://185.223.125.136:1984/play/Eurosport2/index.m3u8
+rtmp://5.182.229.90//7203
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://94.230.128.105:8080/extreme_sport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
-http://185.223.125.136:1984/play/FastNFunBOx/index.m3u8
+http://95.156.76.230:33001/udp/230.4.34.86:1234
 #EXTINF:-1 group-title="Спорт", FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
@@ -1160,7 +1154,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
 http://91.205.199.3/roos-muzika1/manifest.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
-http://185.223.125.136:1984/play/O2TV/index.m3u8
+http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия
@@ -1178,7 +1172,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
 http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
-http://185.223.125.136:1984/play/a05n/index.m3u8
+http://77.235.1.17/bridge_classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe
 http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
