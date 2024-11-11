@@ -158,6 +158,8 @@ http://50.7.92.98:8887/8115/video.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+http://50.7.92.98:8887/8939/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино", День Победы HD
@@ -182,6 +184,8 @@ http://50.7.92.98:8887/8134/video.m3u8
 https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Камеди HD
+http://50.7.92.98:8887/8942/video.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://185.50.148.2:7703/Fox/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
@@ -238,10 +242,14 @@ http://77.235.1.17/kinoujas/index.m3u8
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 https://flussonic.salomtv.uz/Kinoxit/video.m3u8
+#EXTINF:-1 group-title="Кино", Комедийное HD
+http://50.7.92.98:8887/8323/video.m3u8
 #EXTINF:-1 group-title="Кино", Комедия 
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="Кино", Кошмар
 http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Кино", Лавстори HD
+http://50.7.92.98:8887/8970/video.m3u8
 #EXTINF:-1 group-title="Кино", Любимое HD 
 http://50.7.92.98:8887/8310/video.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
@@ -320,6 +328,8 @@ http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 http://88.218.242.237:8000/play/a007
 #EXTINF:-1 group-title="Кино", Хит HD
 http://77.235.1.17/hit/index.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее HD
+http://50.7.92.98:8887/8322/video.m3u8
 #EXTINF:-1 group-title="Кино", A1
 http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 group-title="Кино", A2 
@@ -372,6 +382,8 @@ rtmp://5.182.229.90//7261
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 group-title="Кино", Kinoliving HD
 http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", KIONХИТ HD
+http://50.7.92.98:8887/8966/video.m3u8
 #EXTINF:-1 group-title="Кино", Plan B
 http://50.7.92.98:8887/8947/video.m3u8
 #EXTINF:-1 group-title="Кино", Plan B HD 
@@ -394,6 +406,8 @@ http://77.235.1.17/start_world/index.m3u8
 http://88.218.242.237:8000/play/a005
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
 http://194.158.222.36:6086
+#EXTINF:-1 group-title="Кино", Trash HD
+http://50.7.92.98:8887/8945/video.m3u8
 #EXTINF:-1 group-title="Кино", TV XXI
 http://91.194.191.241:8081/chid265/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
@@ -411,6 +425,8 @@ http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Viju TV1000 Новелла HD
+http://50.7.92.98:8887/8973/video.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино HD
