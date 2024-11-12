@@ -354,6 +354,8 @@ http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema HD
 http://77.235.1.17/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central
+http://50.7.92.98:8887/8171/video.m3u8
 #EXTINF:-1 group-title="Кино", FAN 
 http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", FAN HD
@@ -526,6 +528,8 @@ http://stream01.vnet.am/Channel_120/mono.m3u8
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Duck TV
 https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Duck TV HD
+http://82.215.111.227/1271/index.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam HD
 http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 group-title="Детские", Gulli Girl
