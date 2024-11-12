@@ -461,7 +461,7 @@ https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
-http://193.242.190.6:8099/8/index.m3u8
+http://77.235.1.17/karusel/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -469,13 +469,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", Карусель International 
-http://stream02.vnet.am/Karusel/mono.m3u8
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="Детские", КиноМульт
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
-#EXTINF:-1 group-title="Детские", Лëва
-http://91.205.199.3/planb/index.m3u8
+#EXTINF:-1 group-title="Детские", Лëва HD
+http://s5.merlive.am/planb/index.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
@@ -487,7 +487,7 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", О!
-http://193.242.204.28:10124/124
+http://91.194.191.241:8081/chid405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
@@ -541,7 +541,7 @@ rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://91.205.199.3/tijitv/index.m3u8
+http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
 
 
 #EXTINF:-1 group-title="Познавательные", 2x2
