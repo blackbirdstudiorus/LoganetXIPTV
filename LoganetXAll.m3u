@@ -562,7 +562,7 @@ http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
 https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://193.242.204.28:10157/157
+http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
@@ -574,13 +574,13 @@ http://77.235.1.17/vremya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://91.205.199.3/glazamituristahd/index.m3u8
+http://5.134.87.10:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста 4k
 http://77.235.1.17/glazami_turista_4k/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://88.85.172.243:7004/play/a01l
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
-http://193.242.204.28:10030/30
+http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://91.224.169.250:5000/c7
 #EXTINF:-1 group-title="Познавательные", Живая природа
@@ -604,11 +604,11 @@ http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
 http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Ключ
-http://193.242.204.28:10184/184
+http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://193.242.204.28:10165/165
+http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -631,11 +631,11 @@ https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Ностальгия
-http://91.205.199.3/nostalgia/index.m3u8
+http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Океан
-http://s1.merlive.am:80/oceantv/index.m3u8
+http://5.134.87.10:8000/play/a06i/index.m3u8
 #EXTINF:-1  group-title="Познавательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
@@ -645,7 +645,7 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Перец
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Познавательные", Победа
-http://91.205.199.3/pobeda/index.m3u8
+http://185.50.148.2:7707/Pobeda/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
@@ -669,7 +669,7 @@ http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! International
-http://s1.merlive.am/Pyatnica/index.m3u8
+http://s5.merlive.am/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
@@ -689,7 +689,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", СТС International
-https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts-love", СТС Love (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
@@ -725,7 +725,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ
 http://31.210.208.171:8080/tnt/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", ТНТ HD
-http://91.205.199.3/tnthd/index.m3u8
+http://5.134.87.10:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4", ТНТ4 (Архив)
