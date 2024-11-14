@@ -144,24 +144,18 @@ http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black HD
-http://50.7.92.98:8887/8663/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red HD
-http://50.7.92.98:8887/8929/video.m3u8
+http://5.134.87.10:8000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
 http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 group-title="Кино", .sci-fi HD
-http://50.7.92.98:8887/8115/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Блокбастер HD
-http://50.7.92.98:8887/8939/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
-https://v2.catcast.tv/content/37925/index.m3u8
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", День Победы HD
 http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
@@ -178,14 +172,12 @@ http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 http://86.57.198.251:8181/play/1022/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="Кино", Иллюзион+ HD
-http://50.7.92.98:8887/8134/video.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино", Камеди HD
-http://50.7.92.98:8887/8942/video.m3u8
+#EXTINF:-1 group-title="Кино", Камеди
+http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://185.50.148.2:7703/Fox/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
