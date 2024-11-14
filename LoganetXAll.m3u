@@ -761,7 +761,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://193.242.204.28:10032/32
+http://5.134.87.10:8000/play/a0id/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet 
 http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet HD
@@ -781,7 +781,7 @@ https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
-http://91.205.199.3/gagsnetwork/index.m3u8
+http://5.134.87.10:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork HD
 rtmp://5.182.229.90//7142
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
@@ -795,7 +795,7 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery 
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
-http://193.242.204.28:10152/152
+http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV
@@ -815,7 +815,7 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG TV 
 http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
-http://91.205.199.3/rtghd/index.m3u8
+http://77.235.1.17/rtg_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTVi 
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
@@ -841,19 +841,23 @@ https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
 http://77.235.1.17/travel_adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel HD
-http://193.242.204.28:10158/158 
+http://91.224.169.250:5000/c166 
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
-http://91.205.199.3/viasatnature/index.m3u8
+https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
 http://86.57.198.251:8181/play/1017/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju History HD
+https://flussonic.salomtv.uz/Viasat_History/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://82.215.111.227/1045/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Explore HD
+https://flussonic.salomtv.uz/Viasat_Explorer/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+http://5.134.87.10:8000/play/a0j4/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
-http://91.205.199.3/zoopark/index.m3u8
+http://185.37.150.40:8092/Zoo/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Новости", 360° Новости HD
