@@ -883,7 +883,7 @@ http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
 http://edge02.odtv.az/o1/euronews/playlist.m3u8
 #EXTINF:-1 group-title="Новости", France 24
-http://185.19.190.1:8090/FRANCE24/index.m3u8
+https://stream1.cinerama.uz/1241/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
