@@ -907,15 +907,15 @@ http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Хобби", Авто 24
-http://91.205.199.3/avto24/index.m3u8
+http://82.215.111.227/1430/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://82.215.111.227/1036/index.m3u8
 #EXTINF:-1 group-title="Хобби", Аппетитный
 http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
-http://193.242.204.28:10163/163
+http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://193.242.204.28:10117/117
+http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке HD
 rtmp://92.119.88.58//2394
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
@@ -929,11 +929,11 @@ http://77.235.1.17/drive/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
 http://88.218.242.237:8000/play/a00r
 #EXTINF:-1 group-title="Хобби", Живи
-http://193.242.204.28:10178/178
+http://77.235.1.17/jivi/index.m3u8
 #EXTINF:-1 group-title="Хобби", Живи Активно
 https://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
-http://193.242.204.28:10180/180
+http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
@@ -957,7 +957,7 @@ http://91.194.191.241:8081/chid301/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
-http://193.242.204.28:10160/160
+http://91.194.191.241:8081/chid115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов
