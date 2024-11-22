@@ -11,8 +11,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy-pl9" tvg-logo="http://loganet.ru/images/channels/First.png", Первый канал +9 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD 
-http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал FHD
 http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
@@ -1013,7 +1011,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://77.235.1.17/box_tv/index.m3u8
+http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 group-title="Спорт", Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
@@ -1025,7 +1023,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://77.235.1.17/match/index.m3u8
+http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
@@ -1035,45 +1033,39 @@ http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://77.235.1.17/match_premier/index.m3u8
+http://91.224.169.250:5000/c169
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://193.242.204.28:10099/99
+http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://193.242.204.28:10100/100
+http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://193.242.204.28:10101/101
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://193.242.204.28:10102/102
+rtmp://92.119.88.58//2408
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Мир баскетбола HD
 http://88.218.242.237:8000/play/a00e
-#EXTINF:-1 group-title="Спорт", Мяч
-http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Старт
 http://185.23.80.28:8080/START/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Старт HD
-http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
 http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 group-title="Спорт", Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол
 http://185.23.80.28:8080/Football/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Футбол HD
-https://kinescope.io/dwy2fEmxCjP4urMH7A6GSa/master.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
-http://77.235.1.17/eurosport_2/index.m3u8
+http://91.224.169.250:5000/c168
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
 rtmp://5.182.229.90//7203
 #EXTINF:-1 group-title="Спорт", Extreme Sports
