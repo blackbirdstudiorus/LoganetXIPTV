@@ -510,7 +510,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", 360° HD 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
-http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l413/mpegts
 #EXTINF:-1 group-title="Познавательные", Арсенал
 https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
@@ -522,15 +522,11 @@ https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 https://stream1.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
-http://77.235.1.17/vremya/index.m3u8
+http://185.37.150.40:8092/Vremya/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
-http://5.134.87.10:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Глазами туриста 4k
-http://77.235.1.17/glazami_turista_4k/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://88.85.172.243:7004/play/a01l
+http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 group-title="Познавательные", Живая планета
@@ -546,7 +542,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 https://stream1.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://91.194.191.241:8081/chid25/tracks-v1a1/mono.m3u8
+http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Инсайт ТВ HD
 https://stream2.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", История
