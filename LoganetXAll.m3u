@@ -159,7 +159,7 @@ http://93.189.224.246:52900/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
-http://77.235.1.17/dom_kino_premium/index.m3u8
+http://213.226.137.140:81/tl/l75/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
 https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
