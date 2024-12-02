@@ -988,8 +988,6 @@ http://87.120.142.11:18000/Match!
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://91.224.169.250:5000/c169
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Страна
@@ -1021,7 +1019,7 @@ https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
-http://91.224.169.250:5000/c168
+http://s7.merlive.am/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
 rtmp://5.182.229.90//7203
 #EXTINF:-1 group-title="Спорт", Extreme Sports
@@ -1037,7 +1035,7 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
-https://stream1.cinerama.uz/1027/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l404/mpegts
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
@@ -1092,7 +1090,7 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт", TNT Sport 4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
-http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+http://213.226.137.140:81/tl/l97/mpegts
 
 
 #EXTINF:-1 group-title="Музыка", 1HD
@@ -1110,7 +1108,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
-http://91.205.199.3/roos-muzika1/manifest.m3u8
+http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
@@ -1128,21 +1126,19 @@ https://stream2.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
-http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
-http://77.235.1.17/bridge_classic/index.m3u8
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe
-http://91.197.104.34/AAC/mono.m3u8
+http://213.226.137.140:81/tl/l322/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
 http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка", Bridge Rock
-http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
 http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыка", Bridge Фрэш
 http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
-http://193.242.204.28:10197/197
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
@@ -1162,19 +1158,13 @@ http://109.200.130.123:7537/play/a029
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live HD
-http://93.125.121.75:80/MezzoLiveHD/index.m3u8?token=test
+http://213.226.137.140:81/tl/l56/mpegts
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Music
-http://193.242.204.28:10193/193
-#EXTINF:-1 group-title="Музыка", MTV 00's
-http://193.242.204.28:10190/190
 #EXTINF:-1 group-title="Музыка", MTV 80's
-http://193.242.204.28:10191/191
+http://213.226.137.140:81/tl/l108/mpegts
 #EXTINF:-1 group-title="Музыка", MTV 90's
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка", MusicBox Gold 
-http://37.205.83.56:81/udp/239.54.5.7:1224
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 https://89.187.167.247/polsatmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Radio M2O 
