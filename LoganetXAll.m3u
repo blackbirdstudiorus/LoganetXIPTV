@@ -885,7 +885,7 @@ http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Хобби", Драйв
 http://stream2.cinerama.uz/1421/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
-http://88.218.242.237:8000/play/a00r
+http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Живи Активно
