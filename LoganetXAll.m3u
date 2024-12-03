@@ -252,6 +252,8 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Премиальное HD
 rtmp://5.182.229.90//7222
+#EXTINF:-1 group-title="Кино", Про любовь
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="Кино", Про любовь HD
 http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино 
