@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Общие", Сайт
 http://iptvin.ru/iptv/1000859--loganet
-#EXTINF:-1 group-title="Общие", Новый канал в Telegram
+#EXTINF:-1 group-title="Общие", Канал в Telegram
 https://t.me/loganet2
-#EXTINF:-1 group-title="Общие", Новый чат в Telegram
+#EXTINF:-1 group-title="Общие", Чат в Telegram
 https://t.me/loganet2support
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy" tvg-logo="http://loganet.ru/images/channels/First.png", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
