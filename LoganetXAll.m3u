@@ -226,6 +226,8 @@ https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Наш Кинопоказ HD
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", НСТ 
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
