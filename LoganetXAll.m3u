@@ -332,6 +332,8 @@ rtmp://5.182.229.90//7261
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 group-title="Кино", Romance HD
 http://88.218.242.237:8000/play/a004
+#EXTINF:-1 group-title="Кино", Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="Кино", Scream HD
 http://88.218.242.237:8000/play/a00c
 #EXTINF:-1 group-title="Кино", Shot TV
@@ -752,6 +754,8 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", The Explorers
 http://88.218.242.237:8000/play/a00m
+#EXTINF:-1 group-title="Познавательные", TLC
+rtmp://212.0.213.132//TLC
 #EXTINF:-1 group-title="Познавательные", TLC HD
 http://80.245.93.242:9030/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
@@ -1022,6 +1026,8 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 http://213.226.137.140:81/tl/l404/mpegts
+#EXTINF:-1 group-title="Спорт", Okko Спорт HD
+rtmp://5.182.229.90//6554
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
