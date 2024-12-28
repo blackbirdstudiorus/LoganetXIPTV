@@ -339,6 +339,8 @@ http://45.143.108.110:2203/FOX
 http://stream01.vnet.am/KXLTV/mono.m3u8
 #EXTINF:-1 group-title="Кино", FX Life HD
 rtmp://5.182.229.90//7318
+#EXTINF:-1 group-title="Кино", High Cinema Citkom
+http://ott.high-net.ru/High_Cinema_Citkom/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Кино", High Cinema On Demand
 http://ott.high-net.ru/high_cinema_ondemand/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Кино", High Cinema Premiere
@@ -1059,6 +1061,8 @@ http://95.156.76.230:33001/udp/230.4.34.86:1234
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Спорт", High Network Welnes
+http://ott.high-net.ru/HighNetwork_WELLNESS/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
@@ -1178,6 +1182,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
 http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Музыка", High Network Doomer
+http://ott.high-net.ru/HighNetwork_DOOMER/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Музыка", High Network Music
 http://ott.high-net.ru/HighNetwork_music/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
