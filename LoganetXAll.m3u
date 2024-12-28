@@ -114,10 +114,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/World.png", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Tatarstan.png", ТНВ Татарстан
-http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Planet.png", ТНВ Планета
-http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/BST.png", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTK.png", НТК
@@ -127,6 +124,12 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Общие", ТСВ Приднестровье
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Tatarstan.png", ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Planet.png", ТНВ Планета
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие", CGTN Русский
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
@@ -498,6 +501,8 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam HD
 http://88.218.242.237:8000/play/a00b
+#EXTINF:-1 group-title="Детские", Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://86.57.198.251:8181/play/1091/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV HD
@@ -1173,6 +1178,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
 http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Музыка", High Network Music
+http://ott.high-net.ru/HighNetwork_music/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Kronehit
