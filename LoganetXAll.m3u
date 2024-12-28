@@ -134,6 +134,10 @@ http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
 http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 group-title="Кино", 1FILMAX
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Кино", 2FILMAX
+http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
@@ -222,6 +226,8 @@ http://hls.goodgame.ru:8080/hls/204709.m3u8
 http://88.218.242.237:8000/play/a00v
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://86.57.198.251:8181/play/1031/index.m3u8
+#EXTINF:-1 group-title="Кино", Мир сериала
+http://185.23.80.28:8080/MirSeriala/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция +4
@@ -312,6 +318,8 @@ http://s7.merlive.am/Bollywood/index.m3u8
 http://95.142.88.250/Bolt/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central
+http://live.admuspeh.my/8171/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", FAN 
 http://109.200.130.123:7537/play/a02a
 #EXTINF:-1 group-title="Кино", FilmBox
@@ -356,6 +364,10 @@ http://live.admuspeh.my/8935/index.m3u8?token=test
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="Кино", Star Family HD
 http://live.admuspeh.my/8936/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Start Air
+http://live.admuspeh.my/8398/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Start World
+http://live.admuspeh.my/8402/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Suspense
 http://88.218.242.237:8000/play/a005
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
@@ -428,6 +440,8 @@ https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Детские", Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
