@@ -1140,6 +1140,14 @@ https://7pal.short.gy/ssportspl
 rtmp://5.182.229.90//7335
 #EXTINF:-1 group-title="Спорт", Sky Sports Tennis HD
 rtmp://5.182.229.90//6546
+#EXTINF:-1 group-title="Спорт", Polsat Sport 1 HD 
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 group-title="Спорт", Polsat Sport 2 HD 🔇
+rtmp://5.182.229.90//7310
+#EXTINF:-1 group-title="Спорт", Polsat Sport 3 HD 
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 group-title="Спорт", Polsat Sport Fight 🔇
+rtmp://5.182.229.90//7311
 #EXTINF:-1 group-title="Спорт", TNT Sport 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Спорт", TNT Sport 2
