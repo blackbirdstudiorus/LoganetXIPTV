@@ -367,8 +367,6 @@ http://109.200.130.123:7537/play/a02k
 http://live.admuspeh.my/8966/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Romance HD
 http://88.218.242.237:8000/play/a004
-#EXTINF:-1 group-title="Кино", Saga TV
-http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="Кино", Scream HD
 http://88.218.242.237:8000/play/a00c
 #EXTINF:-1 group-title="Кино", Shot TV
