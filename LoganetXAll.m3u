@@ -1148,6 +1148,10 @@ rtmp://5.182.229.90//7310
 http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1 group-title="Спорт", Polsat Sport Fight 🔇
 rtmp://5.182.229.90//7311
+#EXTINF:-1 group-title="Спорт", Polsat Sport Premium 1 Super HD
+rtmp://5.182.229.90//7304
+#EXTINF:-1 group-title="Спорт", Polsat Sport Premium 2 Super HD
+rtmp://5.182.229.90//7305
 #EXTINF:-1 group-title="Спорт", TNT Sport 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Спорт", TNT Sport 2
