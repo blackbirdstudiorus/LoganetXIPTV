@@ -384,13 +384,11 @@ http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 group-title="Детские", В гостях у сказки HD
-https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+http://live.admuspeh.my/8133/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Детские", Капитан Фантастика
-https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Карусель
@@ -426,7 +424,7 @@ http://130.193.73.10:8937/play/a016
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
-https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+http://178.57.121.38:8080/ryzhiy/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
@@ -440,15 +438,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
-https://stream1.cinerama.uz/1437/tracks-v1a1/mono.m3u8
+http://130.193.73.10:8937/play/a017
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+http://178.57.121.38:8080/detsky/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
-http://88.218.242.237:8000/play/a00f
+http://178.163.88.106:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="Детские", Cartoonito 
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoonito HD
@@ -457,8 +455,6 @@ http://stream01.vnet.am/Channel_120/mono.m3u8
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Duck TV
 https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", FamilyJam HD
-http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
