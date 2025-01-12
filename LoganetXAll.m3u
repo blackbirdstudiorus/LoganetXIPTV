@@ -688,21 +688,17 @@ http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet 
 http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet HD
-http://88.218.242.237:8000/play/a00k
-#EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
-http://88.218.242.237:8000/play/a00j
+http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
-https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", DetectiveJam HD
-http://88.218.242.237:8000/play/a00a
+http://185.50.148.2:7703/DaVinciLearning/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", English Club
-https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", English Class
+http://live.admuspeh.my/8208/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
@@ -720,11 +716,9 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV 4k
 http://31.184.197.124/museum_hd/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
-https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-rtmp://92.119.88.58//2336
-#EXTINF:-1 group-title="Познавательные", National Geographic HD
-rtmp://5.182.229.90//7320
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG TV 
