@@ -148,7 +148,9 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://213.226.137.140:81/tl/l75/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
-https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Дорама HD
+https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
@@ -156,7 +158,7 @@ http://86.57.198.251:8181/play/1022/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="Кино", Индийское кино 
-https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Индия
 http://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="Кино", Камеди
@@ -178,7 +180,7 @@ http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD +7
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
 http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Киномикс
@@ -192,9 +194,9 @@ http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://91.205.199.3/kinopremerahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
-http://88.218.242.237:8000/play/a002
+http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://86.57.198.251:8181/play/1028/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
