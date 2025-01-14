@@ -1024,7 +1024,7 @@ https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 http://213.226.137.140:81/tl/l404/mpegts
 #EXTINF:-1 group-title="Спорт", Okko Спорт HD
-rtmp://5.182.229.90//6554
+http://103.241.66.27/okko-sport/video.m3u8?token=dY1LxEeVSf9SU1
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
