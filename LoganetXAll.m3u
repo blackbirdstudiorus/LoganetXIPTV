@@ -969,6 +969,8 @@ http://s1.merlive.am/match-boec/index.m3u8
 http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
+http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Матч! Страна
