@@ -543,7 +543,7 @@ http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
+https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -820,9 +820,7 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Deutsche Welle
 http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Новости", France 24
-https://stream1.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+http://185.37.150.40:8092/Euronews/playlist.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
@@ -842,7 +840,7 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 group-title="Политические", ЛДПР ТВ 
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Политические", ПРНК
-http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
+http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Хобби", Авто 24
@@ -855,8 +853,6 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке HD
-rtmp://92.119.88.58//2394
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
 http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
@@ -864,31 +860,27 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Хобби", Драйв
-http://stream2.cinerama.uz/1421/mono.m3u8
+http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Еда
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Живи Активно
-https://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", КтоКуда
-http://s7.merlive.am/ktokuda/index.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
 http://213.226.137.140:81/tl/l65/index.m3u8
-#EXTINF:-1 group-title="Хобби", Кухня HD 
-http://88.218.242.237:8000/play/a00s
 #EXTINF:-1 group-title="Хобби", Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Хобби", Моя стихия 
-rtmp://5.182.229.90//7349
+http://130.193.73.10:8937/play/a02f
 #EXTINF:-1 group-title="Хобби", Мужской 
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
@@ -898,7 +890,7 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов
-https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net:8080/Ohotnik_i_Ribolov_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
