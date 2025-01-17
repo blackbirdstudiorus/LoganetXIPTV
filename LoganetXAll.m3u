@@ -896,15 +896,13 @@ http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
 http://185.23.80.28:8080/PervyjVegetarianskij/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Пес и Ко
-http://88.218.242.237:8000/play/a00o
-#EXTINF:-1 group-title="Хобби", Рыбалка и охота
-http://86.57.178.105:9952/oh
+http://185.23.80.28:8080/PyosIKo/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Рыболов
 http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
-http://178.124.179.122:8088/Usadba/index.m3u8
+http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
@@ -914,9 +912,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #EXTINF:-1 group-title="Хобби", Food Network 
 rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 group-title="Хобби", Food Network HD
-rtmp://92.119.88.58//2419
-#EXTINF:-1 group-title="Хобби", Women's Magazine HD
-http://88.218.242.237:8000/play/a00l
+http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
