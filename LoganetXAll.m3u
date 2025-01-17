@@ -953,6 +953,8 @@ http://213.226.137.140:81/tl/l320/mpegts
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://s1.merlive.am/match-boec/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец HD
+http://185.37.150.40:8092/Boec/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Планета
@@ -1117,7 +1119,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Музыка", Туган Тел
-https://stream2.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
