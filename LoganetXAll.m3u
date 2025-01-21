@@ -154,7 +154,7 @@ https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
-http://86.57.198.251:8181/play/1022/index.m3u8
+http://91.205.199.3/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="Кино", Индийское кино 
@@ -198,7 +198,7 @@ http://91.205.199.3/kinopremerahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
 http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://86.57.198.251:8181/play/1028/index.m3u8
+http://185.50.148.2:7711/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
 https://flussonic.salomtv.uz/Kinosvidanie/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
@@ -222,7 +222,7 @@ http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино", Лавстори HD
 http://live.admuspeh.my/8970/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Любимое кино 
-http://86.57.198.251:8181/play/1031/index.m3u8
+http://91.205.199.3:80/roos-nashelyubimoekino/manifest.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://185.23.80.28:8080/MirSeriala/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
@@ -355,6 +355,8 @@ http://87.76.32.36:9104/udp/238.1.0.240:2000
 http://live.admuspeh.my/8402/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Start World HD
 http://87.76.32.36:9104/udp/238.1.0.241:2000
+#EXTINF:-1 group-title="Кино", Sunset Fantastic
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 group-title="Кино", Suspense
 http://live.admuspeh.my/8971/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
@@ -389,7 +391,7 @@ http://213.226.137.140:81/tl/l319/mpegts
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
 http://130.193.73.10:8937/play/a03g
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://2.57.217.197:8080/play/a08i/index.m3u8
+http://91.205.199.3/vipcomedi/index.m3u8
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
@@ -470,7 +472,7 @@ http://178.219.128.68:64888/DUCKTV
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
-http://86.57.198.251:8181/play/1091/index.m3u8
+http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 group-title="Детские", Kids TV HD
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
@@ -707,8 +709,6 @@ http://185.50.148.2:7703/DaVinciLearning/index.m3u8
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8 
-#EXTINF:-1 group-title="Познавательные", Discovery Science
-https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", English Class
 http://live.admuspeh.my/8208/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Gagsnetwork
@@ -719,6 +719,8 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://fs2.persik.by/HDL/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные", History 2
+https://woobl.ru/stream/2033.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery 
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
@@ -762,11 +764,11 @@ http://130.193.73.10:8937/play/a026
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
 http://31.184.197.124/TravelAdventureHD/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
-http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+http://213.226.137.140:81/tl/l96/mpegts
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
 https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://86.57.198.251:8181/play/1017/index.m3u8
+http://213.226.137.140:81/tl/l95/mpegts
 #EXTINF:-1 group-title="Познавательные", Viju History HD
 https://flussonic.salomtv.uz/Viasat_History/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
@@ -962,15 +964,15 @@ http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://live.admuspeh.my/8023/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+http://141.95.55.143/CH3839/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
@@ -984,7 +986,7 @@ http://live.admuspeh.my/8319/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Футбол
 http://185.23.80.28:8080/Football/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 
@@ -1018,16 +1020,6 @@ http://195.26.83.96:7029/play/a008
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1
-rtmp://92.119.88.58//271
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2
-rtmp://92.119.88.58//270
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports+ Qazaqstan 
-http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
