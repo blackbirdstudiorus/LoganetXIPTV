@@ -802,7 +802,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 #EXTINF:-1 group-title="Новости", Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/3d9c7787-a522-4b8b-86a6-b0217fa278a3
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Новости", Соловьёв.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Новости", ТАСС
@@ -850,7 +850,7 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
-http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 group-title="Хобби", Драйв
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Еда
@@ -877,12 +877,8 @@ http://130.193.73.10:8937/play/a02f
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Оружие
-http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Хобби", Охотник и рыболов
-http://tv.streams.baikal-telecom.net:8080/Ohotnik_i_Ribolov_HD/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9034
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
