@@ -940,35 +940,33 @@ http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
-http://s1.merlive.am/match-boec/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец HD
-http://185.37.150.40:8092/Boec/playlist.m3u8
+http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://live.admuspeh.my/8023/index.m3u8?token=iptv50na50
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+http://tv.ttk.mx:9108
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://tv.ttk.mx:9114
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://141.95.55.143/CH3839/index.m3u8
+http://tv.ttk.mx:9115
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+http://130.193.73.10:8937/play/a04m
 #EXTINF:-1 group-title="Спорт", Мяч
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
 #EXTINF:-1 group-title="Спорт", Старт
 http://185.23.80.28:8080/START/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Удар
-http://live.admuspeh.my/8319/index.m3u8?token=test
+http://cdn.admuspeh.my/8319/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Футбол
 http://185.23.80.28:8080/Football/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Eurosport 1
