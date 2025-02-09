@@ -972,9 +972,11 @@ http://185.23.80.28:8080/Football/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://live.admuspeh.my/8013/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Eurosport 2 
-http://live.admuspeh.my/8014/index.m3u8?token=test
+http://cdn.admuspeh.my/8013/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
+http://cdn.admuspeh.my/8014/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Eurosport 4K
+https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
@@ -995,6 +997,10 @@ http://213.226.137.140:81/tl/l404/mpegts
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
 https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://cdn.admuspeh.my/8379/video.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://cdn.admuspeh.my/8676/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
