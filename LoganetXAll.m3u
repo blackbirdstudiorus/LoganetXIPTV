@@ -1160,4 +1160,4 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="Релакс", Loupe 4k
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="Релакс", Quadro 4k
-http://live.admuspeh.my/8681/video.m3u8?token=test
+http://cdn.admuspeh.my/8681/video.m3u8?token=test
