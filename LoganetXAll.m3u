@@ -132,9 +132,9 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="Кино", 2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
+http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер 
 http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Блокбастер HD
@@ -488,7 +488,8 @@ https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 http://130.193.73.10:8937/play/a05k
 
-
+#EXTINF:-1 group-title="Познавательные", 1+2
+https://wowza4.leisertv.com/live/1plus2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", 2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", 2x2 HD
@@ -504,6 +505,8 @@ http://213.226.137.140:81/tl/l413/mpegts
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://185.23.80.28:8080/Arsenal_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Арт
+http://s83.chas.tv:8081/chas/art.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
@@ -575,6 +578,8 @@ http://v4.proofix.ru/0mir/index.m3u8
 http://185.23.80.28:8080/Evrika_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Первый космический HD 
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Перший Автомобільный UA
+http://141.95.55.143/CH1849/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Перец
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Познавательные", Победа
