@@ -801,7 +801,7 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Deutsche Welle
 http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://185.37.150.40:8092/Euronews/playlist.m3u8
+http://cdn.admuspeh.my/8084/index.m3u8?token=test
 #EXTINF:-1 group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
@@ -828,8 +828,6 @@ http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://213.226.137.140:81/tl/l105/index.m3u8
-#EXTINF:-1 group-title="Хобби", Аппетитный
-http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
@@ -867,7 +865,7 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://tv.ttk.mx:9034
+http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
@@ -939,15 +937,13 @@ http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://tv.ttk.mx:9114
+http://cdn.admuspeh.my/8021/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://194.26.203.25/8022/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://tv.ttk.mx:9115
+http://141.95.55.143/CH3839/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://130.193.73.10:8937/play/a04m
 #EXTINF:-1 group-title="Спорт", Мяч
@@ -990,6 +986,8 @@ https://7pal.short.gy/prsport2
 http://cdn.admuspeh.my/8379/video.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2
 http://cdn.admuspeh.my/8676/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", QazSport
+http://87.76.32.36:9100/udp/238.1.0.30:2000
 #EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
@@ -1064,7 +1062,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
-http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
+http://213.226.137.140:81/tl/l102/mpegts
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
