@@ -122,7 +122,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
-http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
@@ -156,7 +156,7 @@ https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
-http://185.50.148.2:7709/Evrokino/index.m3u8
+http://213.226.137.140:81/tl/l407/mpegts
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Индийское кино 
@@ -166,25 +166,21 @@ http://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="Кино", Камеди
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
-http://185.50.148.2:7703/Fox/index.m3u8
+http://77.239.125.42:8070/@Dimonovich1982_foxhd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино без границ
-http://185.50.148.2:7703/Detskiy/index.m3u8
+http://cdn.admuspeh.my/8972/video.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ +4
-http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
 http://193.242.190.6:8099/88/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ HD +7
-http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:-1 group-title="Кино", Киномикс
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ HD
@@ -196,7 +192,7 @@ http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
 http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://185.50.148.2:7711/Kinosvidanie/index.m3u8
+http://77.239.125.42:8070/@Dimonovich1982_kinodatehd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
@@ -206,9 +202,9 @@ http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="Кино", Киноужас HD
 http://cdn.admuspeh.my/8357/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кинохит
-http://185.50.148.2:7711/Kinohit/index.m3u8
+http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 group-title="Кино", Комедийное HD
-http://31.131.136.4:8001/play/e014
+http://141.95.55.143/CH231/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедия 
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="Кино", Кошмар
@@ -220,7 +216,7 @@ http://130.193.73.10:8937/play/a037
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://185.23.80.28:8080/MirSeriala/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция +4 HD
 http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция HD
@@ -242,7 +238,7 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Остросюжетное HD
-http://31.131.136.4:8001/play/e012
+http://141.95.55.143/CH547/index.m3u8
 #EXTINF:-1 group-title="Кино", Премиальное
 http://live.admuspeh.my/8028/video.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Премиальное HD
