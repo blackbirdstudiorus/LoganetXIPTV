@@ -739,7 +739,7 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости", Москва 24
 http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Новости", Москва. Доверие
-http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=test
+http://flu.ttk.mx:90/Doverie/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 group-title="Новости", Первый информационный
@@ -763,7 +763,7 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Deutsche Welle
 http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://cdn.admuspeh.my/8084/index.m3u8?token=test
+http://45.159.74.14:80/Channel_119/manifest.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
@@ -783,17 +783,17 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 group-title="Политические", ЛДПР ТВ 
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Политические", ПРНК
-http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
-http://213.226.137.140:81/tl/l105/index.m3u8
+http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
+http://185.23.80.29:8080/DialogiORybalke/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
 http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
@@ -801,13 +801,11 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 group-title="Хобби", Драйв
-http://185.23.80.28:8080/Draiv/index.m3u8?token=test
+http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Хобби", Еда
-http://185.23.80.28:8080/Eda/index.m3u8?token=test
+http://185.23.80.29:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="Хобби", Живи Активно
-https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
@@ -815,7 +813,7 @@ http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
-http://213.226.137.140:81/tl/l65/index.m3u8
+http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 group-title="Хобби", Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
@@ -831,11 +829,11 @@ http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://185.23.80.28:8080/PervyjVegetarianskij/index.m3u8?token=test
+http://185.23.80.29:8080/PervyjVegetarianskij/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Пес и Ко
-http://185.23.80.28:8080/PyosIKo/index.m3u8?token=test
+http://185.23.80.29:8080/PyosIKo/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Рыболов
-http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
+http://185.23.80.29:8080/OxotnikIRybolov/index.m3u8?token=test
 #EXTINF:-1 group-title="Хобби", Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
@@ -848,8 +846,6 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 rtmp://212.0.213.132//Joy_Cook
-#EXTINF:-1 group-title="Хобби", Food Network HD
-http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
