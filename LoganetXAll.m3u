@@ -313,6 +313,8 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 group-title="Кино", Saga TV
+http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино", Scream
 http://185.23.80.29:8080/Scream/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Shot TV
