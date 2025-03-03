@@ -363,16 +363,12 @@ https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
-#EXTINF:-1 group-title="Детские", В гостях у сказки HD
-http://cdn.admuspeh.my/8133/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Детские", Капитан Фантастика
-http://cdn.admuspeh.my/8321/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
-http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=test
+http://185.23.80.29:8080/KapitanFantastika/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Карусель
 http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
