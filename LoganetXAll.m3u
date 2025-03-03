@@ -151,6 +151,8 @@ http://185.23.80.29:8080/DomKinoPremium/index.m3u8?token=test
 http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Дорама HD
 https://jekalich.github.io/smtk/channels/dorama.m3u8
+#EXTINF:-1 group-title="Кино", Душевное
+http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Иллюзион+
@@ -313,6 +315,8 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 group-title="Кино", Romance
+http://130.193.73.10:8937/play/a01o
 #EXTINF:-1 group-title="Кино", Saga TV
 http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино", Scream
@@ -600,6 +604,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
 http://185.23.80.29:8080/Super/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Тайна
+http://185.23.80.29:8080/Tayna/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Танцуй!
 http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 group-title="Познавательные", Твоë ТВ HD 
@@ -760,10 +766,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Новости", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости", BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="Новости", CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Deutsche Welle
-http://sc.id-tv.kz/DW.m3u8
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
 http://45.159.74.14:80/Channel_119/manifest.m3u8
 #EXTINF:-1 group-title="Новости", NHK World Japan
@@ -938,6 +946,8 @@ http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 http://radio.tvs.by:8088/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 http://213.226.137.140:81/tl/l404/mpegts
+#EXTINF:-1 group-title="Спорт", Okko Спорт
+http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sports 1
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sports 2
@@ -1051,6 +1061,10 @@ http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", CHD TV Rock HD
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка", CHD TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
