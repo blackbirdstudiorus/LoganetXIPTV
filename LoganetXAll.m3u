@@ -879,7 +879,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://213.226.137.140:81/tl/l104/mpegts
+http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
@@ -891,37 +891,33 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://213.226.137.140:81/tl/l320/mpegts
+http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
-http://213.226.137.140:81/tl/l304/mpegts
+http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://213.226.137.140:81/tl/l73/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://cdn.admuspeh.my/8021/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://194.26.203.25/8022/index.m3u8?token=test
+http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://141.95.55.143/CH3839/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://185.57.68.33/110/mpegts
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://130.193.73.10:8937/play/a04m
 #EXTINF:-1 group-title="Спорт", Мяч
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
 #EXTINF:-1 group-title="Спорт", Старт
-http://185.23.80.28:8080/START/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт", Удар
-http://cdn.admuspeh.my/8319/index.m3u8?token=test
+http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Футбол
-http://185.23.80.28:8080/Football/index.m3u8?token=test
+http://93.189.224.246:52900/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
