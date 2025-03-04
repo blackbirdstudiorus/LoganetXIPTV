@@ -156,7 +156,7 @@ http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Иллюзион+
-http://tv.ttk.mx:9028
+http://31.210.208.171:8080/illuzion_plus/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
@@ -172,7 +172,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://tv.ttk.mx:9113
+http://185.23.80.29:8080/Kino_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Киномикс
@@ -194,7 +194,7 @@ http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
-http://tv.ttk.mx:9161
+http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Киносерия
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киноужас
@@ -217,8 +217,6 @@ http://185.23.80.29:8080/MirSeriala/index.m3u8?token=test
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино", Мужское кино HD
-http://tv.ttk.mx:9165
 #EXTINF:-1 group-title="Кино", Наше мужское HD
 http://185.23.80.29:8080/NasheMuzhskoe/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Наше новое кино 
@@ -246,7 +244,7 @@ http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 group-title="Кино", Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
-http://178.57.121.38:8080/rusrom/index.m3u8?token=test
+http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 group-title="Кино", Сапфир
 http://109.200.130.123:7537/play/a028
 #EXTINF:-1 group-title="Кино", Сапфир HD
@@ -274,7 +272,7 @@ http://185.23.80.29:8080/Xit/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Шокирующее
 http://141.95.55.143/CH229/index.m3u8
 #EXTINF:-1 group-title="Кино", A1
-http://178.57.121.38:8080/amedia/index.m3u8?token=test
+http://flu.ttk.mx:90/A-1/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Кино", A2 
 http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Кино", Akudji TV HD
@@ -284,7 +282,7 @@ http://130.193.73.10:8937/play/a02o
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium
-http://s1.merlive.am/amediapremium/index.m3u8
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
@@ -326,8 +324,6 @@ http://109.200.130.123:7537/play/a02b
 #EXTINF:-1 group-title="Кино", Star Cinema
 http://185.23.80.29:8080/StarCinema/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Star Family
-http://185.23.80.28:8080/StarFamily/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино", Star Family HD
 http://185.23.80.29:8080/StarFamily/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -408,7 +404,7 @@ http://130.193.73.10:8937/play/a016
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
-http://178.57.121.38:8080/ryzhiy/index.m3u8?token=test
+http://185.23.80.29:8080/Ryzhij/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
@@ -426,7 +422,7 @@ http://130.193.73.10:8937/play/a017
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
-http://178.57.121.38:8080/detsky/index.m3u8?token=test
+http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Cartoonito HD
@@ -480,7 +476,7 @@ http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", Время 
 http://flu.ttk.mx:90/Vremya/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://178.57.121.38:8080/doctor/index.m3u8?token=test
+http://flu.ttk.mx:90/Doktor/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 group-title="Познавательные", Живая планета
@@ -679,7 +675,7 @@ http://141.95.55.143/CH4039/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History
-http://stream01.vnet.am/Channel_123/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery 
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
