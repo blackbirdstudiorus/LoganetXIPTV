@@ -895,7 +895,7 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://195.18.23.20:8000/play/88/index.m3u8
+https://tv.movielab.pro/250/video.m3u8?token=a523b88136fdd03d873f3ffebe1219605214765f-4326e5727fb1abb7dc2d14568cd9364c-1741513417-1741427017
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
