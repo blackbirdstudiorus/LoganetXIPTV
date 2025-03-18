@@ -209,24 +209,14 @@ http://45.82.13.48:8081/iptv/mir-seriala-channel/playlist.m3u8
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино", Наше мужское HD
-http://185.23.80.29:8080/NasheMuzhskoe/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Наше новое кино 
-http://178.57.121.38:8080/kinohit/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино", Наш Кинопоказ HD
-http://185.23.80.29:8080/NashKinopokaz/index.m3u8?token=test
+http://s3.merlive.am/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Кино", НСТ 
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Остросюжетное
-http://141.95.55.143/CH547/index.m3u8
-#EXTINF:-1 group-title="Кино", Премиальное
-http://141.95.55.143/CH545/index.m3u8
-#EXTINF:-1 group-title="Кино", Про любовь
-http://185.23.80.29:8080/ProLyubov/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Родное кино 
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский бестселлер
@@ -258,11 +248,7 @@ https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем Play 
 https://autopilot.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
-http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино", Хит HD
-http://185.23.80.29:8080/Xit/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино", Шокирующее
-http://141.95.55.143/CH229/index.m3u8
+rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 group-title="Кино", A1
 http://flu.ttk.mx:90/A-1/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Кино", A2 
