@@ -124,7 +124,7 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
-http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 group-title="Кино", 1FILMAX
@@ -135,34 +135,30 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
-#EXTINF:-1 group-title="Кино", Блокбастер 
-http://185.23.80.29:8080/Blockbaster/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
-http://93.189.224.246:52900/play/a00z/index.m3u8
+http://193.242.190.6:8099/38/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
-http://185.23.80.29:8080/DomKinoPremium/index.m3u8?token=test
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
-http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
+http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD
 https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино", Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
-http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино", Иллюзион+
-http://31.210.208.171:8080/illuzion_plus/index.m3u8?token=+W2MSER
+http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 group-title="Кино", Камеди
-http://185.23.80.29:8080/Camedi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
@@ -171,40 +167,36 @@ http://130.193.73.10:8937/play/a03d
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ +4
+http://91.205.199.3/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://185.23.80.29:8080/Kino_TV/index.m3u8?token=test
+http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
-http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Кинопоказ HD
-http://185.23.80.29:8080/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://radio.tvs.by:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Киносат
-http://185.23.80.29:8080/KinoSat/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://fs2.persik.by/Kinosvidanie/index.m3u8
+http://s3.merlive.am/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
 http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
-http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
+http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
-http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+http://s3.merlive.am/roos-kinoseria/manifest.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
-http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="Кино", Кинохит
-http://93.189.224.246:52900/play/a00q/index.m3u8
+http://stream02.vnet.am/Kinokhit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
-http://178.212.71.253:8000/play/123/index.m3u8
-#EXTINF:-1 group-title="Кино", Комедийное HD
-http://141.95.55.143/CH231/index.m3u8
+http://s3.merlive.am/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедия 
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="Кино", Кошмар
@@ -212,11 +204,11 @@ http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 group-title="Кино", Мир сериала
-http://185.23.80.29:8080/MirSeriala/index.m3u8?token=test
+http://45.82.13.48:8081/iptv/mir-seriala-channel/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="Кино", Мужское кино
-http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
+http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше мужское HD
 http://185.23.80.29:8080/NasheMuzhskoe/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Наше новое кино 
