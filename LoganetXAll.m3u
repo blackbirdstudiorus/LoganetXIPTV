@@ -405,6 +405,8 @@ http://178.219.128.68:64888/DUCKTV
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://130.193.73.10:8937/play/a00v
+#EXTINF:-1 group-title="Детские", JimJam
+http://91.146.94.234:10000/play/a061
 #EXTINF:-1 group-title="Детские", Kids TV HD
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
