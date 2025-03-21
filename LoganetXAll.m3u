@@ -141,8 +141,6 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 http://109.200.130.123:7537/play/a02d
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png", Дом кино Премиум
-http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
@@ -156,7 +154,7 @@ http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
-http://stream01.vnet.am/ZeeTV/mono.m3u8
+http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
@@ -178,7 +176,7 @@ http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://radio.tvs.by:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
-http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
+http://s3.merlive.am/kinopremerahd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://s3.merlive.am/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
@@ -191,8 +189,6 @@ http://91.205.199.3/kinosemyahd/index.m3u8
 http://s3.merlive.am/roos-kinoseria/manifest.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
 http://109.200.130.123:7537/play/a021
-#EXTINF:-1 group-title="Кино", Кинохит
-http://stream02.vnet.am/Kinokhit/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://s3.merlive.am/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедия 
@@ -202,11 +198,11 @@ http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 group-title="Кино", Мир сериала
-http://45.82.13.48:8081/iptv/mir-seriala-channel/playlist.m3u8
+http://s3.merlive.am/mirseriala/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="Кино", Мужское кино
-http://stream01.vnet.am/MujskoeKino/index.m3u8
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://s3.merlive.am/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Кино", НСТ 
@@ -256,11 +252,11 @@ http://hls.goodgame.ru:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://130.193.73.10:8937/play/a02o
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
-http://stream01.vnet.am/Nauka/index.m3u8
+http://s3.merlive.am/amediahithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium
 http://s3.merlive.am/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
+http://s3.merlive.am/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
 http://130.193.73.10:8937/play/a02l
 #EXTINF:-1 group-title="Кино", Bolt
@@ -281,8 +277,6 @@ http://130.193.73.10:8937/play/a02r
 http://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Кино", FX
 http://45.143.108.110:2203/FOX
-#EXTINF:-1 group-title="Кино", FX Life
-http://stream01.vnet.am/KXLTV/mono.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 group-title="Кино", Hollywood HD 
@@ -395,8 +389,8 @@ http://178.124.179.122:8088/Malish/index.m3u8
 http://130.193.73.10:8937/play/a015
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Детские", Cartoonito HD
-http://stream01.vnet.am/Channel_120/mono.m3u8
+#EXTINF:-1 group-title="Детские", Cartoonito
+http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Duck TV
@@ -410,11 +404,11 @@ http://91.146.94.234:10000/play/a061
 #EXTINF:-1 group-title="Детские", Kids TV HD
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
-http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
+rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-rtmp://212.0.213.132//NickJr
+http://95.142.88.250/Nick_Jr./index.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", Sunset Kids 
