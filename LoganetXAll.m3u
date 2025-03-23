@@ -635,9 +635,9 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG TV 
@@ -647,7 +647,7 @@ http://130.193.73.10:8937/play/a01h
 #EXTINF:-1 group-title="Познавательные", RTVi 
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
-https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 group-title="Познавательные", Silkway TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
@@ -666,12 +666,16 @@ http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://130.193.73.10:8937/play/a026
+#EXTINF:-1 group-title="Познавательные", Viasat History
+http://213.91.178.133:8000/play/a03r
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://130.193.73.10:8937/play/a01k
 #EXTINF:-1 group-title="Познавательные", Viju History
 http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://flu.ttk.mx:90/Explorer/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Познавательные", Viju+ Planet
+http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
 
