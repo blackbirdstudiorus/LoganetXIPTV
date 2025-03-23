@@ -618,26 +618,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", Animal Planet HD 
-http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 group-title="Познавательные", Discovery
-http://stream01.vnet.am/DiscoveryChannel/index.m3u8
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8 
+http://91.146.94.234:10000/play/a041 
 #EXTINF:-1 group-title="Познавательные", English Class
 http://141.95.55.143/CH4039/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery 
-http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
-http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
