@@ -446,9 +446,9 @@ http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Живая природа
-http://185.23.80.29:8080/ZhivayaPriroda_HD/index.m3u8?token=test
+http://178.212.71.253:8002/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
-http://flu.ttk.mx:90/Zhivaya_Priroda_HD/mono.m3u8?token=hs06e
+http://91.205.199.3/jivayaprirodahd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зал суда HD 
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -462,19 +462,17 @@ http://109.200.130.123:7537/play/a025
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
-http://93.189.224.246:52900/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Ключ
-http://185.23.80.29:8080/Klyuch/index.m3u8?token=test
+http://91.205.199.3/kvntv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
+http://193.35.224.154/8105/index.m3u8?token=panda
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные", Моя планета HD
-http://31.210.208.171:8080/planeta_hd/index.m3u8?token=+W2MSER
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta_HD
 #EXTINF:-1 group-title="Познавательные", Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Нано HD
@@ -484,9 +482,9 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
-http://95.156.76.230:33001/udp/230.4.34.100:1234
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
 #EXTINF:-1 group-title="Познавательные", Наша сибирь HD
-http://185.23.80.29:8080/NashaSibir/index.m3u8?token=test
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
