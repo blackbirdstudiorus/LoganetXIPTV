@@ -148,7 +148,7 @@ http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD
 https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
-http://87.120.142.11:18000/STSLove
+http://91.205.199.3/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
@@ -309,23 +309,23 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
 http://91.205.199.3/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
-https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+http://193.35.224.154/8119/index.m3u8?token=panda
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
 http://130.193.73.10:8937/play/a03g
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+http://s3.merlive.am/vipcomedi/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+http://s3.merlive.am/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju+ Serial HD
+http://91.205.199.3/vipserialhd/index.m3u8
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
@@ -406,11 +406,9 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://stream01.vnet.am/Channel_114/mono.m3u8
+http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 http://95.142.88.250/Nick_Jr./index.m3u8
-#EXTINF:-1 group-title="Детские", Nicktoons
-http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", Sunset Kids 
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
@@ -430,19 +428,19 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
 http://s3.merlive.am/roos-365-dnej/manifest.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
-http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
+http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://185.23.80.29:8080/Arsenal_HD/index.m3u8?token=test
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных HD
-http://185.23.80.29:8080/VMireZhivotnyx/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", В мире животных
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
-http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
+http://193.35.224.154/8053/index.m3u8?token=panda
 #EXTINF:-1 group-title="Познавательные", Время 
-http://flu.ttk.mx:90/Vremya/mono.m3u8?token=hs06e
+https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
-http://flu.ttk.mx:90/Doktor/mono.m3u8?token=hs06e
+http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 group-title="Познавательные", Живая планета
