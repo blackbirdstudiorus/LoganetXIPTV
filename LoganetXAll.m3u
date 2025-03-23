@@ -671,13 +671,13 @@ http://213.91.178.133:8000/play/a03r
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://130.193.73.10:8937/play/a01k
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
+http://188.190.222.53/Viasat_History/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
-http://flu.ttk.mx:90/Explorer/mono.m3u8?token=hs06e
+http://s3.merlive.am/viasatexplorer/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательные", Zooпарк
-http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
+http://s3.merlive.am/zoopark/index.m3u8
 
 
 #EXTINF:-1 group-title="Новости", 360° Новости HD
