@@ -755,23 +755,25 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://185.23.80.29:8080/DialogiORybalke/index.m3u8?token=test
+http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://stream01.vnet.am/Channel_127/mono.m3u8
+http://s3.merlive.am/dikayaoxotahd/index.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка
+http://s3.merlive.am/dikayaribalkahd/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-http://stream01.vnet.am/Channel_126/mono.m3u8
+http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 group-title="Хобби", Драйв
-http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
+https://jekalich.github.io/smtk/channels/drive.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
-http://185.23.80.29:8080/Eda/index.m3u8?token=test
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Хобби", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
-http://stream01.vnet.am/DTX/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
@@ -787,15 +789,13 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
+http://213.91.178.133:8000/play/a07r
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
-http://stream01.vnet.am/Channel_124/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://185.23.80.29:8080/PervyjVegetarianskij/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Пес и Ко
-http://185.23.80.29:8080/PyosIKo/index.m3u8?token=test
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 group-title="Хобби", Рыболов
-http://185.23.80.29:8080/OxotnikIRybolov/index.m3u8?token=test
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
 #EXTINF:-1 group-title="Хобби", Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
@@ -808,6 +808,8 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network 
 rtmp://212.0.213.132//Joy_Cook
+#EXTINF:-1 group-title="Хобби", FoodTime
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
