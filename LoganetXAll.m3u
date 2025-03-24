@@ -317,7 +317,7 @@ http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
-http://193.35.224.154/8119/index.m3u8?token=panda
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
 http://130.193.73.10:8937/play/a03g
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
@@ -436,7 +436,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
-http://193.35.224.154/8053/index.m3u8?token=panda
+http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Время 
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
@@ -466,7 +466,7 @@ http://91.205.199.3/kvntv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://193.35.224.154/8105/index.m3u8?token=panda
+http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -533,7 +533,7 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Родной канал HD
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 group-title="Познавательные", Сарафан
-http://193.35.224.154/8020/index.m3u8?token=panda
+http://31.148.48.15/Sarafan/index.m3u8
 #EXTINF:-1  group-title="Познавательные", Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts", СТС (Архив)
@@ -653,7 +653,7 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 group-title="Познавательные", TLC
-http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
+http://91.146.94.234:10000/play/a05k
 #EXTINF:-1 group-title="Познавательные", TLC HD
 rtmp://212.0.213.132//TLC
 #EXTINF:-1 group-title="Познавательные", Top Secret
@@ -833,7 +833,9 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+http://5.101.0.202:8080/2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
+http://31.184.194.43:8080/2/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -843,17 +845,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
+http://s3.merlive.am/matchtvhd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
-http://87.120.142.11:18000/Match!
+http://178.212.71.253:8000/play/55/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
-http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Матч! Планета
-http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
+http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=a523b88136fdd03d873f3ffebe1219605214765f-4326e5727fb1abb7dc2d14568cd9364c-1741513417-1741427017
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
