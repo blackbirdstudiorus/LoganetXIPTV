@@ -833,7 +833,9 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
+http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -856,22 +858,36 @@ http://178.212.71.253:8000/play/57/index.m3u8
 http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
-http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
+http://5.166.64.254:81/udp/225.0.56.60:1234
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+http://5.166.64.254:81/udp/225.0.56.62:1234
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
+http://5.166.64.254:81/udp/225.0.56.69:1234
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://130.193.73.10:8937/play/a04m
-#EXTINF:-1 group-title="Спорт", Мяч
-http://31.210.208.171:8080/football/index.m3u8?token=+W2MSE
+#EXTINF:-1 group-title="Спорт", Мяч HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
 #EXTINF:-1 group-title="Спорт", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Старт Триумф HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
+#EXTINF:-1 group-title="Спорт", ТВ Спорт
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
 #EXTINF:-1 group-title="Спорт", Футбол
 http://93.189.224.246:52900/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Спорт", Хоккей ТВ HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+http://109.197.192.121:8080/eurosport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2
+http://213.91.178.133:8000/play/a04b
 #EXTINF:-1 group-title="Спорт", Eurosport 4K
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
@@ -879,30 +895,38 @@ http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://95.156.76.230:33001/udp/230.4.34.86:1234
 #EXTINF:-1 group-title="Спорт", FightBox
-http://stream01.vnet.am/Fightbox/mono.m3u8
+http://188.190.222.53/FightBOX/index.m3u8
 #EXTINF:-1 group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
-http://stream01.vnet.am/Channel_113/mono.m3u8
+http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+http://109.197.192.121:8080/khl/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
 http://radio.tvs.by:8088/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
 http://95.142.88.250/MMA-TV.com/index.m3u8
-#EXTINF:-1 group-title="Спорт", Okko Спорт
-http://89.23.113.132/oksphd/video.m3u8
-#EXTINF:-1 group-title="Спорт", Premier Sports 1
+#EXTINF:-1 group-title="Спорт", Premier Sport 1 
 https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="Спорт", Premier Sports 2
+#EXTINF:-1 group-title="Спорт", Premier Sport 2
 https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", QazSport HD
+http://87.76.32.36:9106/udp/238.1.1.116:1234
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Qazaqstan HD
+http://87.76.32.36:9106/udp/238.1.1.161:1234
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+http://87.76.32.36:9106/udp/238.1.1.162:1234
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://87.76.32.36:9106/udp/238.1.1.163:1234
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
@@ -952,7 +976,7 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт", TNT Sport 4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
-http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e
+http://109.197.192.121:8080/viasats/index.m3u8
 
 
 #EXTINF:-1 group-title="Музыка", 1HD
