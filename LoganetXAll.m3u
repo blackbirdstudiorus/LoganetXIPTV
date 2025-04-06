@@ -833,9 +833,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://5.101.0.202:8080/2/index.m3u8
-#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
-http://31.184.194.43:8080/2/index.m3u8
+http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -845,17 +843,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
-http://s3.merlive.am/matchtvhd/index.m3u8
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://178.212.71.253:8000/play/55/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://31.148.48.15/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
+http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
+http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
 http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
@@ -962,7 +962,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhara
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
-http://87.76.32.36:9105/udp/238.1.0.21:2000
+http://5.166.64.254:81/udp/225.0.55.161:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
