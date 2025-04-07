@@ -344,7 +344,7 @@ http://109.200.130.123:7537/play/a024
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские", Лëва
-http://s3.merlive.am/planb/index.m3u8
+http://5.166.64.254:81/udp/225.0.55.98:1234
 #EXTINF:-1 group-title="Детские", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", Мамонтëнок ТВ
@@ -354,7 +354,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
-http://s3.merlive.am/multilandia/index.m3u8
+http://176.113.48.221:8986/69
 #EXTINF:-1 group-title="Детские", Мультимания LV 
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
