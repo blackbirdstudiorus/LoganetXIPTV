@@ -107,7 +107,7 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/STV-Belarus.png", СТВ Беларусь
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+http://194.158.222.36:6103
 #EXTINF:-1 group-title="Общие", ТСВ Приднестровье
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Tatarstan.png", ТНВ Татарстан
@@ -329,6 +329,8 @@ http://109.200.130.123:7537/play/a02m
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
+http://5.166.64.254:81/udp/225.0.56.41:1234
 #EXTINF:-1 group-title="Детские", Карусель
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
@@ -381,16 +383,24 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 http://130.193.73.10:8937/play/a017
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
+#EXTINF:-1 group-title="Детские", Тооку ТВ HD
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
 http://130.193.73.10:8937/play/a015
+#EXTINF:-1 group-title="Детские", Шаян ТВ
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Baby Time
+http://31.173.165.29:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoonito
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Детские", Cartoon Classics
+http://31.173.165.29:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Duck TV
-http://178.219.128.68:64888/DUCKTV
+http://5.166.64.254:81/udp/225.0.55.19:1234
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -400,11 +410,11 @@ http://91.146.94.234:10000/play/a061
 #EXTINF:-1 group-title="Детские", Kids TV HD
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
-rtmp://212.0.213.132//NickJr
+http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
-http://95.142.88.250/Nick_Jr./index.m3u8
+rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Sunset Kids 
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
