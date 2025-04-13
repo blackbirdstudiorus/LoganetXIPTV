@@ -255,16 +255,22 @@ http://hls.goodgame.ru:8080/hls/5346.m3u8
 http://31.173.165.29:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://95.142.88.250/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Кино", Bollywood
+http://31.130.16.62:4022/udp/239.1.10.29:1234
 #EXTINF:-1 group-title="Кино", Bollywood HD
 http://130.193.73.10:8937/play/a02l
 #EXTINF:-1 group-title="Кино", Bolt
 http://95.142.88.250/Bolt/index.m3u8
+#EXTINF:-1 group-title="Кино", Bolt HD
+http://31.130.16.62:4022/udp/239.1.9.25:1234
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Космос TV
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", FAN 
-http://109.200.130.123:7537/play/a02a
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", FAN HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 group-title="Кино", FilmBox
 http://130.193.73.10:8937/play/a03s 
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
