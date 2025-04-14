@@ -144,7 +144,7 @@ http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD
 http://31.130.16.62:4022/udp/239.1.10.38:1234
 #EXTINF:-1 group-title="Кино", Еврокино
-http://91.205.199.3/eurokino/index.m3u8
+http://188.190.222.53/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
@@ -281,6 +281,8 @@ http://130.193.73.10:8937/play/a02r
 http://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Кино", FX
 http://45.143.108.110:2203/FOX
+#EXTINF:-1 group-title="Кино", FX Life HD
+http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино", Hollywood
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 group-title="Кино", Hollywood HD 
@@ -288,11 +290,15 @@ http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 group-title="Кино", Romance
-http://130.193.73.10:8937/play/a01o
+http://31.130.16.62:4022/udp/239.1.10.16:1234
 #EXTINF:-1 group-title="Кино", Saga TV
 http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="Кино", Shot TV
 http://109.200.130.123:7537/play/a02b
+#EXTINF:-1 group-title="Кино", Star Cinema
+http://31.130.16.62:4022/udp/239.1.9.27:1234
+#EXTINF:-1 group-title="Кино", Star Family
+http://31.130.16.62:4022/udp/239.1.9.26:1234
 #EXTINF:-1 group-title="Кино", Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино", Start World HD
@@ -304,22 +310,22 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
 http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино", TV XXI
-http://s3.merlive.am/tvxxi/index.m3u8
+http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
-http://91.205.199.3/tv1000/index.m3u8
+http://tv.ttk.mx:9181
 #EXTINF:-1 group-title="Кино", Viju TV1000 HD
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://tv.ttk.mx:9182
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
+http://tv.ttk.mx:9183
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
