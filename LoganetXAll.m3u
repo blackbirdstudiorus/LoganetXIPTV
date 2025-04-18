@@ -144,7 +144,7 @@ http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD
 http://31.130.16.62:4022/udp/239.1.10.38:1234
 #EXTINF:-1 group-title="Кино", Еврокино
-http://188.190.222.53/Evrokino/index.m3u8
+http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
@@ -152,7 +152,7 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
-http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
+http://109.200.130.123:7537/play/a027
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 group-title="Кино", Кино 1 International
@@ -331,11 +331,11 @@ http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
 http://130.193.73.10:8937/play/a03g
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://s3.merlive.am/vipcomedi/index.m3u8
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
-http://s3.merlive.am/vipmegahit/index.m3u8
+http://95.156.76.230:33001/udp/230.4.34.108:1234
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
-http://91.205.199.3/vipserialhd/index.m3u8
+http://5.166.64.254:81/udp/225.0.56.75:1234
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
@@ -370,7 +370,9 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
-http://176.113.48.221:8986/69
+http://130.193.73.10:8937/play/a00z
+#EXTINF:-1 group-title="Детские", Мультиландия HD
+http://5.166.64.254:81/udp/225.0.55.95:1234
 #EXTINF:-1 group-title="Детские", Мультимания LV 
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
@@ -384,7 +386,7 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
-http://tv.streams.baikal-telecom.net:8080/Disney/index.m3u8
+http://31.210.208.171:8080/solnce/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce", Солнце (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
