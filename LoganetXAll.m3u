@@ -723,7 +723,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="Политические", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Политические", Вместе-РФ 
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Политические", Дума ТВ 
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Политические", Красная линия 
@@ -742,10 +742,6 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
-#EXTINF:-1 group-title="Хобби", Дикая охота HD 
-http://s3.merlive.am/dikayaoxotahd/index.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая рыбалка
-http://s3.merlive.am/dikayaribalkahd/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 group-title="Хобби", Дикий 
@@ -1066,5 +1062,3 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="Релакс", Loupe 4k
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="Релакс", Quadro 4k
-http://cdn.admuspeh.my/8681/video.m3u8?token=test
