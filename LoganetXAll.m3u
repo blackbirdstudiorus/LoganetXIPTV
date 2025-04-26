@@ -221,6 +221,8 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Остросюжетное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:-1 group-title="Кино", Патриот
+http://31.130.16.62:4022/udp/239.1.10.4:1234
 #EXTINF:-1 group-title="Кино", Про любовь
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pro_Love_HD
 #EXTINF:-1 group-title="Кино", Премиальное
