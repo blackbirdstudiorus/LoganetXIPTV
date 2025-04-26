@@ -129,10 +129,18 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
+#EXTINF:-1 group-title="Кино", Блокбастер
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+http://31.130.16.62:4022/udp/239.1.12.2:1234
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кино", День Победы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
+#EXTINF:-1 group-title="Кино", День Победы HD
+http://31.130.16.62:4022/udp/239.1.11.13:1234
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 http://109.200.130.123:7537/play/a02d
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
@@ -178,13 +186,17 @@ http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киноужас
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинохит
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv, 
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://95.142.88.250/kinohit_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Комедийное
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
 #EXTINF:-1 group-title="Кино", Комедия 
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="Кино", Кошмар
 http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Кино", Лавстори
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
 #EXTINF:-1 group-title="Кино", Любимое кино 
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
@@ -193,16 +205,32 @@ http://130.193.73.10:8937/play/a03i
 http://31.130.16.62:4022/udp/239.1.10.22:1234
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Наше крутое
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_krutoe_HD
+#EXTINF:-1 group-title="Кино", Наше мужское
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Наш кинопоказ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
 #EXTINF:-1 group-title="Кино", НСТ 
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:-1 group-title="Кино", Про любовь
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pro_Love_HD
+#EXTINF:-1 group-title="Кино", Премиальное
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
+#EXTINF:-1 group-title="Кино", Премиальное +4
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD_4
 #EXTINF:-1 group-title="Кино", Родное кино 
 http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 group-title="Кино", Романтичное
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
 #EXTINF:-1 group-title="Кино", Русский бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
@@ -233,8 +261,12 @@ https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем Play 
 https://autopilot.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Кино", Советская киноклассика
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 rtmp://212.0.213.132//Fenix_Kino
+#EXTINF:-1 group-title="Кино", Хит
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
 #EXTINF:-1 group-title="Кино", A1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", A2
@@ -275,12 +307,26 @@ http://188.237.47.212:6008
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 group-title="Кино", Hollywood HD 
 http://130.193.73.10:8937/play/a02k
+#EXTINF:-1 group-title="Кино", Kinojam 1
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
+#EXTINF:-1 group-title="Кино", Kinojam 1 HD
+http://31.130.16.62:4022/udp/239.1.12.15:1234
+#EXTINF:-1 group-title="Кино", Kinojam 2
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+#EXTINF:-1 group-title="Кино", Kinojam 2 HD
+http://31.130.16.62:4022/udp/239.1.12.16:1234
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 group-title="Кино", KION ХИТ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 group-title="Кино", Romance
 http://31.130.16.62:4022/udp/239.1.10.16:1234
 #EXTINF:-1 group-title="Кино", Saga TV
 http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 group-title="Кино", Scream
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
+#EXTINF:-1 group-title="Кино", Scream HD
+http://31.130.16.62:4022/udp/239.1.11.15:1234
 #EXTINF:-1 group-title="Кино", Shot TV
 http://109.200.130.123:7537/play/a02b
 #EXTINF:-1 group-title="Кино", Star Cinema
@@ -302,6 +348,8 @@ http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="Кино", VHS-ка
+http://31.130.16.62:4022/udp/239.1.9.14:1234
 #EXTINF:-1 group-title="Кино", Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
@@ -405,6 +453,8 @@ http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 rtmp://212.0.213.132//NickJr
+#EXTINF:-1 group-title="Детские", Sumiko HD
+http://31.130.16.62:4022/udp/239.1.11.35:1234
 #EXTINF:-1 group-title="Детские", Sunset Kids 
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
