@@ -12,7 +12,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал FHD
-http://89.23.180.212:4022/udp/239.1.9.36:1234
+http://31.130.16.62:4022/udp/239.1.9.36:1234
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 group-title="Общие", Первый канал Евразия
@@ -136,7 +136,7 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 http://109.200.130.123:7537/play/a02d
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
-http://tv.ttk.mx:9084
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 group-title="Кино", Дорама
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD
@@ -168,21 +168,17 @@ http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://radio.tvs.by:8088/Kinopremiera/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинопремьера HD
-http://tv.ttk.mx:9162
+http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://tv.ttk.mx:9164
-#EXTINF:-1 group-title="Кино", Киносвидание HD
 http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
-http://tv.ttk.mx:9161
+http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киноужас
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинохит
-http://tv.ttk.mx:9163
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv, 
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://95.142.88.250/kinohit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедия 
@@ -197,8 +193,6 @@ http://130.193.73.10:8937/play/a03i
 http://31.130.16.62:4022/udp/239.1.10.22:1234
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино", Мужское кино HD
-http://tv.ttk.mx:9165
 #EXTINF:-1 group-title="Кино", Наше новое кино 
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", НСТ 
@@ -216,7 +210,7 @@ http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 group-title="Кино", Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
-http://tv.ttk.mx:9085
+http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 group-title="Кино", Русский роман HD
 http://31.130.16.62:4022/udp/239.1.11.14:1234
 #EXTINF:-1 group-title="Кино", Сапфир
@@ -242,15 +236,11 @@ https://autopilot.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 group-title="Кино", A1
-http://tv.ttk.mx:9155
+http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", A2
 http://130.193.73.10:8937/play/a02n
-#EXTINF:-1 group-title="Кино", A2 HD
-http://tv.ttk.mx:9156
 #EXTINF:-1 group-title="Кино", Akudji TV HD
 http://hls.goodgame.ru:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="Кино", Amedia Hit
-http://31.173.165.29:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://95.142.88.250/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood
@@ -315,15 +305,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
-http://tv.ttk.mx:9181
+http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 group-title="Кино", Viju TV1000 HD
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://tv.ttk.mx:9182
+http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://tv.ttk.mx:9183
+http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
@@ -332,8 +322,6 @@ http://130.193.73.10:8937/play/a03g
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
 http://95.156.76.230:33001/udp/230.4.34.108:1234
-#EXTINF:-1 group-title="Кино", Viju+ Serial HD
-http://5.166.64.254:81/udp/225.0.56.75:1234
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
