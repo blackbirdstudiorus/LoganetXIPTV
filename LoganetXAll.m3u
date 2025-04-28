@@ -174,14 +174,16 @@ http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ
-http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
+http://31.130.16.62:4022/udp/239.1.10.9:1234
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Киносемья 
+#EXTINF:-1 group-title="Кино", Киносемья
+http://85.192.30.10:8070/kinofamilyhd/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносемья HD
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
@@ -232,11 +234,11 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 #EXTINF:-1 group-title="Кино", Премиальное +4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD_4
 #EXTINF:-1 group-title="Кино", Родное кино 
-http://31.148.48.15/Rodnoe_kino/index.m3u8
+http://85.192.30.10:8070/ntvplusnashekino/index.m3u8
 #EXTINF:-1 group-title="Кино", Романтичное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
 #EXTINF:-1 group-title="Кино", Русский бестселлер
-http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+http://85.192.30.10:8070/russianbestseller/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив 
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 group-title="Кино", Русский иллюзион
@@ -340,6 +342,8 @@ http://31.130.16.62:4022/udp/239.1.11.15:1234
 #EXTINF:-1 group-title="Кино", Shot TV
 http://109.200.130.123:7537/play/a02b
 #EXTINF:-1 group-title="Кино", Star Cinema
+http://85.192.30.10:8070/starcinemahd/index.m3u8
+#EXTINF:-1 group-title="Кино", Star Cinema HD
 http://31.130.16.62:4022/udp/239.1.9.27:1234
 #EXTINF:-1 group-title="Кино", Star Family
 http://31.130.16.62:4022/udp/239.1.9.26:1234
@@ -465,8 +469,6 @@ http://130.193.73.10:8937/play/a00v
 http://31.173.165.29:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Детские", Nickelodeon HD
-http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr.
 rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Sumiko HD
@@ -518,7 +520,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://31.148.48.15/Zoo_TV/index.m3u8
+http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", История
 http://109.200.130.123:7537/play/a025
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
@@ -593,7 +595,7 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Родной канал HD
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 group-title="Познавательные", Сарафан
-http://31.148.48.15/Sarafan/index.m3u8
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Познавательные", Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts", СТС (Архив)
@@ -617,7 +619,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
+http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
 http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 group-title="Познавательные", Твоë ТВ HD 
@@ -659,9 +661,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва 
 http://130.193.73.10:8937/play/a021
 #EXTINF:-1 group-title="Познавательные", Точка РФ
-http://31.148.48.15/HD_Life/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Точка ТВ 
-http://31.148.48.15/Tochka_TV/index.m3u8
+http://178.212.71.253:8000/play/61/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
 http://ott-cdn.ucom.am/s20/03.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
