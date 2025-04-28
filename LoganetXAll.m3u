@@ -811,7 +811,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
-http://31.148.48.15/Avto_Plus/index.m3u8
+http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
@@ -892,8 +892,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
-http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -919,7 +917,7 @@ http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
+http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
@@ -933,7 +931,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
 #EXTINF:-1 group-title="Спорт", ТВ Спорт
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
 #EXTINF:-1 group-title="Спорт", Футбол
-http://93.189.224.246:52900/play/a00c/index.m3u8
+http://31.130.16.62:4022/udp/239.1.10.31:1234
 #EXTINF:-1 group-title="Спорт", Хоккей ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
 #EXTINF:-1 group-title="Спорт", Eurosport 1
