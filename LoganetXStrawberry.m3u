@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Эротика", Сайт
-
-#EXTINF:-1 group-title="Эротика", Новый канал в Telegram https://t.me/loganet2
+http://iptvin.ru/iptv/1000859--loganet
+#EXTINF:-1 group-title="Эротика", Канал в Telegram
 https://t.me/loganet2
-#EXTINF:-1 group-title="Эротика", Новый чат в Telegram https://t.me/loganet2support
+#EXTINF:-1 group-title="Эротика", Чат в Telegram
 https://t.me/loganet2support
 #EXTINF:-1 group-title="Эротика", Adult IPTV Big Ass 
 http://cdn.adultiptv.net/bigass.m3u8
@@ -47,18 +47,12 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="Эротика", Babestation 24
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="Эротика", Babes TV
-http://31.131.136.5:9004/play/a0ag
 #EXTINF:-1 group-title="Эротика", Babes TV HD
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Эротика", Barely Legal
-http://31.131.136.5:9004/play/a0ad
 #EXTINF:-1 group-title="Эротика", Brazzers TV Europe
-http://cdn-nvm-chicago3.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
-#EXTINF:-1 group-title="Эротика", Blue Hustler
-http://31.131.136.5:9004/play/a0aa
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Dorcel TV
-https://cdn-nvm-chicago3.lolokoko.tv/DorcelTV.stream/chunks.m3u8
+http://213.215.119.236:88/Dorcel/index.m3u8
 #EXTINF:-1 group-title="Эротика", Dorcel TV HD 
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Erox HD
@@ -71,8 +65,6 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 group-title="Эротика", Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Эротика", Hustler HD
-http://cdn-nvm-chicago3.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1 group-title="Эротика", Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Penthouse Gold
@@ -93,9 +85,5 @@ http://141.95.55.143/CH745/index.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Vivid Red
 http://141.95.55.143/CH1187/index.m3u8
-#EXTINF:-1 group-title="Эротика", XXL
-https://cdn-nvm-chicago3.lolokoko.tv/xxl.stream/chunks.m3u8
 #EXTINF:-1 group-title="Эротика", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="Эротика", Русская ночь
-http://93.189.224.246:52900/play/a00s
