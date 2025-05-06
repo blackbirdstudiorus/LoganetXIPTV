@@ -12,7 +12,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал FHD
-http://31.130.16.62:4022/udp/239.1.9.36:1234
+http://130.193.73.10:8937/play/a00g
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 group-title="Общие", Первый канал Евразия
@@ -131,16 +131,12 @@ http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
-#EXTINF:-1 group-title="Кино", Блокбастер HD
-http://31.130.16.62:4022/udp/239.1.12.2:1234
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", День Победы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
-#EXTINF:-1 group-title="Кино", День Победы HD
-http://31.130.16.62:4022/udp/239.1.11.13:1234
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
 http://109.200.130.123:7537/play/a02d
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
