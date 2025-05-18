@@ -116,7 +116,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
-http://109.200.130.123:7537/play/a02s
+http://185.50.148.2:7707/A1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
@@ -138,13 +138,11 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", День Победы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
-http://109.200.130.123:7537/play/a02d
+http://31.210.208.171:8080/domkino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 group-title="Кино", Дорама
 http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:-1 group-title="Кино", Дорама HD
-http://31.130.16.62:4022/udp/239.1.10.38:1234
 #EXTINF:-1 group-title="Кино", Еврокино
 http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Иллюзион+
@@ -154,7 +152,7 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
-http://109.200.130.123:7537/play/a027
+http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 group-title="Кино", Кино 1 International
@@ -170,7 +168,9 @@ http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ
-http://31.130.16.62:4022/udp/239.1.10.9:1234
+http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Кинопоказ HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
@@ -178,7 +178,7 @@ http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья
-http://85.192.30.10:8070/kinofamilyhd/index.m3u8
+http://109.248.236.51/kinosemya/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
