@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Общие", Сайт
-http://iptvin.ru/iptv/1000859--loganet 
 #EXTINF:-1 group-title="Общие", Канал в Telegram
 https://t.me/loganet2
 #EXTINF:-1 group-title="Общие", Чат в Telegram
