@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Эротика", Сайт
-http://iptvin.ru/iptv/1000859--loganet
 #EXTINF:-1 group-title="Эротика", Канал в Telegram
 https://t.me/loganet2
 #EXTINF:-1 group-title="Эротика", Чат в Telegram
@@ -51,8 +49,6 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Brazzers TV Europe
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Эротика", Dorcel TV
-http://213.215.119.236:88/Dorcel/index.m3u8
 #EXTINF:-1 group-title="Эротика", Dorcel TV HD 
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Erox HD
@@ -69,8 +65,6 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", PassionXXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 group-title="Эротика", Penthouse Gold
-http://141.95.55.143/CH3479/index.m3u8
 #EXTINF:-1 group-title="Эротика", Penthouse Passion
 http://141.95.55.143/CH3517/index.m3u8
 #EXTINF:-1 group-title="Эротика", Playboy HD
@@ -87,7 +81,5 @@ http://141.95.55.143/CH745/index.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Vivid Red
 http://141.95.55.143/CH1187/index.m3u8
-#EXTINF:-1 group-title="Эротика", Vixen
-http://213.215.119.236:88/Vixen/index.m3u8
 #EXTINF:-1 group-title="Эротика", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
