@@ -434,29 +434,25 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time
-http://31.130.16.62:4022/udp/239.1.12.25:1234
+http://178.212.236.3:8802/play/a01a
 #EXTINF:-1 group-title="Детские", Cartoonito
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Cartoon Classics
-http://31.130.16.62:4022/udp/239.1.10.21:1234
+http://178.212.236.3:8802/play/425
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+http://s7.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
-http://130.193.73.10:8937/play/a00v
+http://178.212.236.3:8802/play/a01i
 #EXTINF:-1 group-title="Детские", Kids TV
 http://31.173.165.29:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", Nick Jr.
-rtmp://212.0.213.132//NickJr
-#EXTINF:-1 group-title="Детские", Sumiko HD
-http://31.130.16.62:4022/udp/239.1.11.35:1234
-#EXTINF:-1 group-title="Детские", Sunset Kids 
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
+http://95.142.88.250/Nick_Jr./index.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://130.193.73.10:8937/play/a05k
+http://109.248.236.51/tiji/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 1+2
 https://wowza4.leisertv.com/live/1plus2.stream/playlist.m3u8
