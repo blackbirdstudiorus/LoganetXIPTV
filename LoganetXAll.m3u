@@ -1016,7 +1016,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
 #EXTINF:-1 group-title="Музыка", Музыка Live
-http://31.210.208.171:8080/la_minor/index.m3u8?token=+W2MSER
+https://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
@@ -1034,13 +1034,13 @@ http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
 https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe HD
-http://31.130.16.62:4022/udp/239.1.9.31:1234
+http://178.212.71.253:8000/play/98/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://31.173.165.29:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
-http://31.130.16.62:4022/udp/239.1.9.12:1234
+http://31.173.165.29:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD TV Rock HD
@@ -1061,8 +1061,6 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка", MCM Top
-http://109.200.130.123:7537/play/a029
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Classic
@@ -1070,7 +1068,7 @@ http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Club
 http://213.91.178.133:8000/play/a0an
 #EXTINF:-1 group-title="Музыка", MTV Live HD
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV 80's
 http://146.59.85.40:89/MTV80s/mpegts
 #EXTINF:-1 group-title="Музыка", MTV 90's
@@ -1085,8 +1083,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка", Sunset Music
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Viva TV Russia
