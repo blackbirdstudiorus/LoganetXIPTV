@@ -156,7 +156,7 @@ http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
-http://130.193.73.10:8937/play/a03d
+http://s1.merlive.am/kineko/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
@@ -164,17 +164,21 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://130.193.73.10:8937/play/a030
+http://tv.ttk.mx:9113
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://178.212.71.253:8000/play/85/index.m3u8
+http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия HD
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Киномикс HD
+http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://178.212.71.253:8000/play/125/index.m3u8
+http://tv.ttk.mx:9162
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
@@ -194,19 +198,23 @@ http://95.142.88.250/kinohit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедийное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
 #EXTINF:-1 group-title="Кино", Комедия 
-http://130.193.73.10:8937/play/a03k
+http://tv.ttk.mx:9050
 #EXTINF:-1 group-title="Кино", Кошмар
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино", Лавстори
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
-#EXTINF:-1 group-title="Кино", Любимое кино 
-http://130.193.73.10:8937/play/a037
+#EXTINF:-1 group-title="Кино", Любимое кино
+http://45.143.108.110:2200/lubimoekino
+#EXTINF:-1 group-title="Кино", Любимое кино HD
+http://s7.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
+http://109.248.236.51/mosfilm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Мужское кино HD
+http://tv.ttk.mx:9165
 #EXTINF:-1 group-title="Кино", Наше крутое
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_krutoe_HD
 #EXTINF:-1 group-title="Кино", Наше мужское
@@ -216,7 +224,7 @@ http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Наш кинопоказ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
 #EXTINF:-1 group-title="Кино", НСТ 
-http://130.193.73.10:8937/play/a03c
+http://45.143.108.110:2200/nst
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
@@ -234,13 +242,13 @@ http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Романтичное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
 #EXTINF:-1 group-title="Кино", Русский бестселлер
-http://178.212.236.3:8802/play/421
+http://tv.ttk.mx:9043
 #EXTINF:-1 group-title="Кино", Русский детектив 
-http://130.193.73.10:8937/play/a03o
+http://tv.ttk.mx:9051
 #EXTINF:-1 group-title="Кино", Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
-http://130.193.73.10:8937/play/a03n
+http://tv.ttk.mx:9085
 #EXTINF:-1 group-title="Кино", Русский роман HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:-1 group-title="Кино", Сапфир
