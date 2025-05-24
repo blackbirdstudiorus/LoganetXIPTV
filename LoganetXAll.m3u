@@ -95,51 +95,53 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="mir" tvg-logo="http://loganet.ru/images/channels/World.png", Мир (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="mir-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/World.png", Мир +7 (Архив)
+#EXTINF:-1 tvg-id="mir-pl7" group-title="Общие", Мир +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/World.png", Мир HD
+#EXTINF:-1 group-title="Общие", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/BST.png", БСТ
+#EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTK.png", НТК
+#EXTINF:-1 group-title="Общие", НТК
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/STV-Belarus.png", СТВ Беларусь
+#EXTINF:-1 group-title="Общие", СТВ Беларусь
 http://194.158.222.36:6103
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Tatarstan.png", ТНВ Татарстан
+#EXTINF:-1 group-title="Общие", ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Planet.png", ТНВ Планета
+#EXTINF:-1 group-title="Общие", ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", CGTN Русский
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
-http://185.50.148.2:7707/A1/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
+#EXTINF:-1 group-title="Кино", .black
+http://s1.merlive.am/black/index.m3u8
+#EXTINF:-1 group-title="Кино", .red
 http://178.124.152.238:8088/sony
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png", .sci-fi 
-http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 group-title="Кино", .sci-fi 
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Кино", 1FILMAX
 http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="Кино", 2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312.png", 312
+#EXTINF:-1 group-title="Кино", 312
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/312-Movie.png", 312 Кино
+#EXTINF:-1 group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
+#EXTINF:-1 group-title="Кино", Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", День Победы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie.png", Дом кино
+#EXTINF:-1 group-title="Кино", Дом кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
+#EXTINF:-1 group-title="Кино", Дом кино Премиум
+http://109.248.236.51/dom_kino_premium/mono.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 group-title="Кино", Дорама
 http://ott-cdn.ucom.am/s95/index.m3u8
