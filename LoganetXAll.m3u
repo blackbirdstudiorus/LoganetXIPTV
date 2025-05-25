@@ -312,11 +312,9 @@ http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", FAN HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 group-title="Кино", FilmBox
-http://130.193.73.10:8937/play/a03s 
-#EXTINF:-1 group-title="Кино", FilmBox Arthouse
-http://130.193.73.10:8937/play/a03t
+http://45.143.108.110:2200/FilmBOX 
 #EXTINF:-1 group-title="Кино", FlixSnip
-http://130.193.73.10:8937/play/a02r
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 group-title="Кино", FMC
 http://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Кино", FX
@@ -324,9 +322,9 @@ http://45.143.108.110:2203/FOX
 #EXTINF:-1 group-title="Кино", FX Life HD
 http://109.248.236.51/red/mono.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood
-https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/hollywood/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD 
-http://130.193.73.10:8937/play/a02k
+http://92.242.110.52:9835/udp/238.1.3.3:1234
 #EXTINF:-1 group-title="Кино", Kinojam 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 group-title="Кино", Kinojam 2
@@ -334,7 +332,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 group-title="Кино", Romance
-http://130.193.73.10:8937/play/a01o
+http://92.242.110.52:9835/udp/238.1.7.15:1234
 #EXTINF:-1 group-title="Кино", Saga TV
 http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="Кино", Scream
