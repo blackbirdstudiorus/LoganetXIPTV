@@ -948,6 +948,20 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорт", Хоккей ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Спорт", Bein Sports 1
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт", Bein Sports 2
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт", Bein Sports 3
+http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт", Bein Sports 4
+http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт", Bein Sports XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Спорт", Eleven Sports 1 4K
+https://7pal.short.gy/11sports1
 #EXTINF:-1 group-title="Спорт", Eurosport 1
 http://s7.merlive.am/eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
@@ -962,6 +976,20 @@ https://7pal.short.gy/eusport4k
 http://ott-cdn.ucom.am/s76/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://95.156.76.230:33001/udp/230.4.34.86:1234
+#EXTINF:-1 group-title="Спорт", Fox Sports 501
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="Спорт", Fox Sports 502
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="Спорт", Fox Sports 503
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="Спорт", Fox Sports 504
+https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="Спорт", Fox Sports 505
+https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="Спорт", Fox Sports 506
+https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="Спорт", Fox Sports 507
+https://7pal.short.gy/fox507au
 #EXTINF:-1 group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
@@ -1009,6 +1037,10 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="Спорт", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спорт", Sport1
+https://32tech0steam0dp01.org/live/Sport1FHD/chunks.m3u8
+#EXTINF:-1 group-title="Спорт", Sportdigital Fussball HD
+https://32tech0steam0dp01.org/live/SPORTDIGITAL_FUSSBALL/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Polsat Sport 1
 http://185.236.229.62:9981/play/a07n
 #EXTINF:-1 group-title="Спорт", Polsat Sport 2
