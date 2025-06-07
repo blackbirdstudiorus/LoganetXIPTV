@@ -12,7 +12,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал FHD
-http://130.193.73.10:8937/play/a00g
+http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 group-title="Общие", Первый канал Евразия
@@ -116,7 +116,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", .black
-http://s1.merlive.am/black/index.m3u8
+http://31.130.19.207:4022/udp/239.1.11.7:1234
 #EXTINF:-1 group-title="Кино", .red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино", .sci-fi 
@@ -140,7 +140,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
-http://109.248.236.51/dom_kino_premium/mono.m3u8
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 group-title="Кино", Дорама
@@ -156,7 +156,7 @@ http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
-http://s1.merlive.am/kineko/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
@@ -166,13 +166,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
 http://tv.ttk.mx:9113
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://217.113.25.29:8001/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино", Киномикс HD
-http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ HD
@@ -182,9 +178,9 @@ http://tv.ttk.mx:9162
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья
-http://109.248.236.51/kinosemya/mono.m3u8
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
@@ -192,9 +188,9 @@ http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киноужас
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинохит
-http://109.248.236.51/kinohit/tracks-v1a1/mono.m3u8
+http://217.113.25.29:8001/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
-http://95.142.88.250/kinohit_hd/index.m3u8
+http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедийное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
 #EXTINF:-1 group-title="Кино", Комедия 
