@@ -382,9 +382,13 @@ https://s1.merlive.am/vijumegahit/index.m3u8
 http://s7.merlive.am/vipserial/index.m3u8
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
-http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/Black/index.m3u8
+#EXTINF:-1 group-title="Детские", В гостях у сказки HD
+http://5.3.176.223:81/udp/235.10.10.167:1234
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир HD
+http://92.242.110.52:9835/udp/238.1.8.30:1234
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
