@@ -377,6 +377,8 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
 http://194.158.222.36:6086
+#EXTINF:-1 group-title="Кино", TV1000 Русское кино
+http://213.91.178.133:8000/play/a0bx
 #EXTINF:-1 group-title="Кино", TV XXI
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
@@ -384,28 +386,22 @@ http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", VHS-ка
 http://176.196.166.171:81/udp/239.255.42.88:1234
+#EXTINF:-1 group-title="Кино", Viasat Kino Comedy 🛡️
+http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
-http://109.248.236.51/viju_tv1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 HD
-http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+http://31.173.165.29:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://109.248.236.51/viju_tv1000_russkoe/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/tv1000rukino
 #EXTINF:-1 group-title="Кино", Viju+ Premiere
-http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино", Viju+ Premiere HD
 http://92.242.110.52:9835/udp/238.1.3.8:1234
-#EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Comedy
 http://92.242.110.52:9835/udp/238.1.3.6:1234
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
 https://s1.merlive.am/vijumegahit/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial
-http://s7.merlive.am/vipserial/index.m3u8
+http://5.3.176.223:81/udp/235.10.10.72:1234
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
