@@ -730,7 +730,7 @@ http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 http://s1.merlive.am/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные", One Planet
+#EXTINF:-1 group-title="Познавательные", One Planet 🛡️
 http://95.67.12.82:9088
 #EXTINF:-1 group-title="Познавательные", RT Doc 
 http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
