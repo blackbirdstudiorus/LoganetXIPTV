@@ -299,28 +299,32 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
 #EXTINF:-1 group-title="Кино", A1
 http://45.143.108.110:2200/amedia1
+#EXTINF:-1 group-title="Кино", A1 HD
+http://178.217.72.66:8080/A1/video.m3u8
 #EXTINF:-1 group-title="Кино", A2
 http://s1.merlive.am/Amedia2/index.m3u8
 #EXTINF:-1 group-title="Кино", A2 HD
-http://tv.ttk.mx:9156
+http://45.143.108.110:2200/amedia2
 #EXTINF:-1 group-title="Кино", Akudji TV HD
 http://hls.goodgame.ru:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://45.143.108.110:2200/amediahit
 #EXTINF:-1 group-title="Кино", Amedia Hit HD
-http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/Amediahithd/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
-http://109.248.236.51/amedia_premium_hd/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 group-title="Кино", Bollywood HD
 http://s1.merlive.am/Bollywood/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
-http://95.142.88.250/Bolt/index.m3u8
+http://31.130.19.207:4022/udp/239.1.9.25:1234
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Cinema HD
+http://45.143.108.110:2200/cinema
 #EXTINF:-1 group-title="Кино", Cinema Космос TV
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", FAN 
@@ -336,7 +340,7 @@ http://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Кино", FX
 http://45.143.108.110:2203/FOX
 #EXTINF:-1 group-title="Кино", FX Life HD
-http://109.248.236.51/red/mono.m3u8
+http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино", Hollywood
 http://s1.merlive.am/hollywood/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD 
@@ -345,6 +349,8 @@ http://92.242.110.52:9835/udp/238.1.3.3:1234
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 group-title="Кино", Kinojam 2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+#EXTINF:-1 group-title="Кино", Kinoliving
+http://92.242.110.52:9835/udp/238.1.8.1:1234
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 group-title="Кино", Plan_B HD
@@ -356,17 +362,17 @@ http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="Кино", Scream
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
 #EXTINF:-1 group-title="Кино", Shot TV
-http://95.142.88.250/SHOT_TV/index.m3u8
+http://s1.merlive.am/SHOTTV/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema
-http://s7.merlive.am/starsinema/index.m3u8
+http://s1.merlive.am/starsinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Star Cinema HD
+http://5.3.176.223:81/udp/235.10.10.159:1234
 #EXTINF:-1 group-title="Кино", Star Family
 https://jekalich.github.io/smtk/channels/star-family.m3u8
 #EXTINF:-1 group-title="Кино", Start Air
-http://109.248.236.51/start_air_hd/tracks-v1a1/mono.m3u8
+http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 group-title="Кино", Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 group-title="Кино", Start World
-http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
