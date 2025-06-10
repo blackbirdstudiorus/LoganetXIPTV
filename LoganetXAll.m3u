@@ -495,6 +495,8 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней ТВ HD
 http://5.3.176.223:81/udp/235.10.10.223:1234
+#EXTINF:-1 group-title="Познавательные", Анекдот ТВ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 #EXTINF:-1 group-title="Познавательные", Арсенал
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
@@ -712,6 +714,8 @@ http://s1.merlive.am/DaVinci/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
 #EXTINF:-1 group-title="Познавательные", Discovery
 http://195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Epic
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy HD
@@ -720,6 +724,8 @@ http://5.3.176.223:81/udp/235.10.10.152:1234
 http://95.67.12.81:10619
 #EXTINF:-1 group-title="Познавательные", History 2 🛡️
 http://95.67.12.81:10620
+#EXTINF:-1 group-title="Познавательные", Investigation Discovery
+http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum TV HD
