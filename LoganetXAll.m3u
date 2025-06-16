@@ -120,7 +120,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", .black
-http://s1.merlive.am/black/index.m3u8
+http://92.242.110.52:9835/udp/238.1.8.3:1234
 #EXTINF:-1 group-title="Кино", .red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино", .sci-fi 
@@ -174,13 +174,13 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 
-http://s1.merlive.am/kinotvhd/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киномикс HD
-http://s1.merlive.am/kinomix/index.m3u8
+http://5.3.176.223:81/udp/235.10.10.188:1234
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопоказ HD
@@ -200,7 +200,7 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киноужас HD
 http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит
-http://s1.merlive.am/KinoxitHD/index.m3u8
+http://109.74.174.83:1234/udp/239.255.0.197:1234
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедийное
@@ -214,7 +214,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
 #EXTINF:-1 group-title="Кино", Любимое кино
 http://45.143.108.110:2200/lubimoekino
 #EXTINF:-1 group-title="Кино", Любимое кино HD
-http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
+http://178.212.71.253:8000/play/50/index.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://45.143.108.110:2200/mirseriala
 #EXTINF:-1 group-title="Кино", Мир сериала HD
