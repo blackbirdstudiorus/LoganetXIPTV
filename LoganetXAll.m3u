@@ -1112,7 +1112,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
 #EXTINF:-1 group-title="Музыка", Музыка Live
-http://92.242.110.52:9835/udp/238.1.6.17:1234
+http://80.245.95.243:8888/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
@@ -1128,7 +1128,9 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+http://77.235.1.19:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe
+http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe HD
 http://178.212.71.253:8000/play/98/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
@@ -1145,12 +1147,14 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", Classic Music
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Classic_Music_HD
-#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
-https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Lounge
+http://jmp2.uk/sam-CHAJ0500413A.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Music 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Rap
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
@@ -1162,13 +1166,17 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo Live HD
-http://92.242.110.52:9835/udp/238.1.3.4:1234
+http://77.235.1.19:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Club
 http://213.91.178.133:8000/play/a0an
+#EXTINF:-1 group-title="Музыка", MTV Hits
+http://213.169.39.30:5257
 #EXTINF:-1 group-title="Музыка", MTV Live HD
 http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV 80's
+http://213.169.39.30:5137
 #EXTINF:-1 group-title="Музыка", MTV 90's
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MusicBox Gold
