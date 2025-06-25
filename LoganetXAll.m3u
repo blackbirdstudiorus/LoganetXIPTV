@@ -948,28 +948,34 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
 http://s7.merlive.am/matchboec/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://109.248.236.51/match_planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://s1.merlive.am/matchpremier/index.m3u8
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://tv.ttk.mx:9154
+http://77.235.1.19:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://s1.merlive.am/matchfutbol1/index.m3u8
+http://77.235.1.19:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
-http://tv.ttk.mx:9114
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://77.235.1.19:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://tv.ttk.mx:9111
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://tv.ttk.mx:9116
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+http://77.235.1.19:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мяч HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
 #EXTINF:-1 group-title="Спорт", Старт
@@ -979,33 +985,23 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
 #EXTINF:-1 group-title="Спорт", ТВ Спорт
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
 #EXTINF:-1 group-title="Спорт", Футбол
-http://tv.ttk.mx:9065
+http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккей ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
 #EXTINF:-1 group-title="Спорт", Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Спорт", Canal+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Спорт", Bein Sports 1
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Спорт", Bein Sports 2
-http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Спорт", Bein Sports 3
-http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Спорт", Bein Sports 4
-http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Bein Sports XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="Спорт", Eleven Sports 1 4K
 https://7pal.short.gy/11sports1
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://s7.merlive.am/eurosport1/index.m3u8
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
-http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport 2
-http://s7.merlive.am/eurosport2/index.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD
-http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4K
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
@@ -1033,7 +1029,7 @@ http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
-http://109.248.236.51/khl_prime/mono.m3u8
+http://77.235.1.19:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
@@ -1073,10 +1069,8 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="Спорт", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="Спорт", Sport1
-https://32tech0steam0dp01.org/live/Sport1FHD/chunks.m3u8
-#EXTINF:-1 group-title="Спорт", Sportdigital Fussball HD
-https://32tech0steam0dp01.org/live/SPORTDIGITAL_FUSSBALL/chunks.m3u8
+#EXTINF:-1 group-title="Спорт", Sport 1 Baltic
+http://80.245.95.243:8888/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Спорт", Polsat Sport 1
 http://185.236.229.62:9981/play/a07n
 #EXTINF:-1 group-title="Спорт", Polsat Sport 2
@@ -1094,7 +1088,7 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт", TNT Sport 4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
-http://217.11.177.56/streams/media/viasat-sport_720x576/index.m3u8
+http://178.134.1.158:8081/viasatsport/index.m3u8
 
 
 #EXTINF:-1 group-title="Музыка", 1HD
