@@ -361,6 +361,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
+#EXTINF:-1 group-title="Кино", Romance
+http://77.235.1.19:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV HD
 http://95.85.109.218:7000/play/a05w
 #EXTINF:-1 group-title="Кино", Scream
@@ -533,6 +535,8 @@ http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u
+#EXTINF:-1 group-title="Познавательные", Глазами туриста HD
+http://95.85.109.218:7000/play/a01e
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор HD
@@ -569,6 +573,8 @@ http://77.235.1.19:8000/play/a064/index.m3u8х
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 http://31.173.165.29:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Министерство идей
+http://109.74.167.95:1234/udp/239.255.0.81:1234
 #EXTINF:-1 group-title="Познавательные", Мир вокруг
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
@@ -594,6 +600,10 @@ https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 group-title="Познавательные", НВВ
+http://77.235.1.19:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Познавательные", НИК
+http://77.235.1.19:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
@@ -705,7 +715,7 @@ http://77.235.1.19:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка РФ
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка РФ HD
-http://178.212.71.253:8000/play/61/index.m3u8
+http://109.74.167.95:1234/udp/239.255.0.225:1234
 #EXTINF:-1 group-title="Познавательные", Точка ТВ
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
@@ -738,6 +748,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
 http://80.245.95.243:8888/play/a016/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Docubox
+http://77.235.1.19:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Epic
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
