@@ -328,7 +328,7 @@ http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 group-title="Кино", Bollywood HD
-http://178.212.71.253:8002/play/a00t/index.m3u8
+http://178.217.72.66:8080/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema 1
@@ -342,7 +342,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 group-title="Кино", FilmBox
 http://77.235.1.19:8000/play/a081/index.m3u8 
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
-http://5.134.87.11:4600/FilmBoxArthouse/index.m3u8
+http://158.160.149.81:8080/1967/index.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 group-title="Кино", FMC
@@ -361,8 +361,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
-#EXTINF:-1 group-title="Кино", Saga TV
-http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 group-title="Кино", Saga TV HD
+http://95.85.109.218:7000/play/a05w
 #EXTINF:-1 group-title="Кино", Scream
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
 #EXTINF:-1 group-title="Кино", Shot TV
@@ -425,8 +425,6 @@ http://195.26.83.96:7007/play/14/index.m3u8
 http://80.245.95.243:8888/play/ert4862/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
-http://5.3.176.223:81/udp/235.10.10.105:1234
 #EXTINF:-1 group-title="Детские", Карусель
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
@@ -460,7 +458,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий 
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл ТВ
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
 http://31.210.208.171:8080/solnce/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Детские" tvg-id="solnce", Солнце (Архив)
@@ -540,13 +538,13 @@ http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
 #EXTINF:-1 group-title="Познавательные", Живая природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
+http://95.85.109.218:7000/play/a01f
 #EXTINF:-1 group-title="Познавательные", Живая природа HD 
-http://178.212.71.253:8000/play/79/index.m3u8
+http://77.235.1.19:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зал суда HD 
-http://95.156.76.230:33001/udp/230.4.34.6:1234
+http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
@@ -623,7 +621,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! International
-http://45.11.139.43:8555/pyatnica/index.m3u8
+http://s1.merlive.am/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник 
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ретро
@@ -659,7 +657,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
-http://178.212.71.253:8000/play/81/index.m3u8
+http://77.235.1.19:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Твоë ТВ HD 
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Твоë ТВ Юмор HD 
@@ -957,13 +955,13 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец 
-http://s7.merlive.am/matchboec/index.m3u8
+http://77.235.1.19:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра 
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
-http://109.248.236.51/match_planeta/tracks-v1a1/mono.m3u8
+http://80.245.95.243:8888/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
@@ -1044,8 +1042,6 @@ http://95.142.88.250/MMA-TV.com/index.m3u8
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sport 2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 group-title="Спорт", QazSport
-http://109.248.236.51/qazsport_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
@@ -1164,7 +1160,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo 
-http://178.212.71.253:8002/play/a00n/index.m3u8
+http://77.235.1.19:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo Live HD
 http://77.235.1.19:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Classic
