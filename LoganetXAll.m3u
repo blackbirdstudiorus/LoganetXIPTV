@@ -479,10 +479,14 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 http://radio.tvs.by:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Тамыр
 http://195.18.23.20:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="Детские", ТипТоп HD
+http://109.74.167.95:1234/udp/239.255.0.182:1234
 #EXTINF:-1 group-title="Детские", Тооку ТВ HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
 http://77.235.1.19:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="Детские", Чижик HD
+http://109.74.167.95:1234/udp/239.255.0.166:1234
 #EXTINF:-1 group-title="Детские", Шаян ТВ
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
@@ -568,7 +572,9 @@ http://80.245.95.243:8888/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Китай ТВ
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ключ
-http://77.235.1.19:8000/play/a064/index.m3u8х
+http://77.235.1.19:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Ключ HD
+http://109.74.167.95:1234/udp/239.255.0.218:1234
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
@@ -1039,7 +1045,7 @@ https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://ott-cdn.ucom.am/s76/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
-http://95.156.76.230:33001/udp/230.4.34.86:1234
+http://77.235.1.19:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 501
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Спорт", Fox Sports 502
@@ -1075,6 +1081,10 @@ http://195.26.83.96:7029/play/a008
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://95.85.109.218:7000/play/a067
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://95.85.109.218:7000/play/a068
 #EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
@@ -1117,6 +1127,8 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт", TNT Sport 4
 https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Спорт", Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 
@@ -1165,6 +1177,8 @@ http://31.173.165.29:8000/play/a01v/index.m3u8
 http://31.173.165.29:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Этно
+http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD TV Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD TV RU Rock HD
