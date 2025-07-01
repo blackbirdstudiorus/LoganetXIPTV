@@ -383,6 +383,8 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 http://77.235.1.19:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="Кино", Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="Кино", Suspense
+http://77.235.1.19:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
 http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино", TV1000 Русское кино
@@ -493,12 +495,16 @@ http://193.27.209.122/ducktv/index.m3u8
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://77.235.1.19:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV
-http://31.173.165.29:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Детские", JimJam
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV HD
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://195.245.99.242/Nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
 http://178.134.1.158:8081/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детские", Nick Jr. 
+http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 http://195.245.99.242/Tiji/playlist.m3u8
 
