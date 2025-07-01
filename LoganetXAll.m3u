@@ -555,6 +555,8 @@ http://195.245.99.242/Istoriya/playlist.m3u8
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
 http://80.245.95.243:8888/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Китай ТВ
+http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ключ
 http://77.235.1.19:8000/play/a064/index.m3u8х
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
