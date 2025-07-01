@@ -884,10 +884,18 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://80.245.95.243:8888/play/a003/index.m3u8
+#EXTINF:-1 group-title="Хобби", Аппетитный
+http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
+http://95.85.109.218:7000/play/a02d
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://178.217.72.66:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая охота HD
+http://109.74.167.95:1234/udp/239.255.0.169:1234
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
+http://109.74.167.95:1234/udp/239.255.0.170:1234
 #EXTINF:-1 group-title="Хобби", Драйв
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
