@@ -200,10 +200,16 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 #EXTINF:-1 group-title="Кино", Кинозалы Анна-детективъ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
+#EXTINF:-1 group-title="Кино", Кинозалы Балабол
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
 #EXTINF:-1 group-title="Кино", Кинозалы Боевики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
 #EXTINF:-1 group-title="Кино", Кинозалы Глухарь
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
+#EXTINF:-1 group-title="Кино", Кинозалы Горюнов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
+#EXTINF:-1 group-title="Кино", Кинозалы Женский детектив
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
 #EXTINF:-1 group-title="Кино", Кинозалы Комедии
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
 #EXTINF:-1 group-title="Кино", Кинозалы Мажор
@@ -216,10 +222,14 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
 #EXTINF:-1 group-title="Кино", Кинозалы Солдаты
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
+#EXTINF:-1 group-title="Кино", Кинозалы Таксистка
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
 #EXTINF:-1 group-title="Кино", Кинозалы Ужасы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
 #EXTINF:-1 group-title="Кино", Кинозалы Улицы разбитых фонарей
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
+#EXTINF:-1 group-title="Кино", Кинозалы Шерлок Холмс и доктор Ватсон
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
@@ -476,6 +486,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
 #EXTINF:-1 group-title="Детские", Кинозалы Детские песенки
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
+#EXTINF:-1 group-title="Детские", Кинозалы Робозуна
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
 #EXTINF:-1 group-title="Детские", Кинозалы Смешарики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
 #EXTINF:-1 group-title="Детские", Кинозалы Три кота
@@ -608,7 +620,9 @@ http://195.245.99.242/Istoriya/playlist.m3u8
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", КВН ТВ
 http://80.245.95.243:8888/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Кинозал Исторический
+#EXTINF:-1 group-title="Познавательные", Кинозалы Доказательства вины
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
+#EXTINF:-1 group-title="Познавательные", Кинозалы Исторический
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_20_hd
 #EXTINF:-1 group-title="Познавательные", Китай ТВ
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
