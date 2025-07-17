@@ -12,7 +12,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал FHD
-http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8
+http://77.235.1.19:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 group-title="Общие", Первый канал Евразия
@@ -48,8 +48,6 @@ http://194.158.222.36:6107
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru", Пятый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие", Пятый канал HD
-http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/video.m3u8
 #EXTINF:-1 group-title="Общие", Пятый канал Int. 
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru-pl7", Пятый канал +7 (Архив)
@@ -67,8 +65,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr", ТВ Центр (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие", ТВ Центр HD
-http://vs6.cdn.mrf.tvime.ru/tvchd_MSK/video.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tvcentr-pl7", ТВ Центр +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
@@ -82,21 +78,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Общие", Рен ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
-#EXTINF:-1 group-title="Общие", Рен ТВ Int
-http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 group-title="Общие", Рен ТВ Int.
+http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Общие", Домашний HD
-http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
+http://95.85.109.218:7000/play/a01r
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Общие", Домашний +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Общие", Домашний Int.
+http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru", ТВ3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Общие", ТВ3 HD
-http://vs6.cdn.mrf.tvime.ru/tv3hd_MSK/video.m3u8
+http://77.235.1.19:8000/play/a053/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Общие", ТВ3 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
@@ -177,11 +175,11 @@ http://176.96.241.40/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Иллюзион+
-http://31.173.165.29:8000/play/a04l/index.m3u8
+http://158.160.149.81:8080/88/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
-http://31.173.165.29:8000/play/a05x/index.m3u8
+http://195.245.99.242/ZeeTV/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Камеди
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kamedi_HD
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
@@ -371,7 +369,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:-1 group-title="Кино", Bollywood HD
 http://178.217.72.66:8080/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
-http://80.245.95.243:8888/play/a00u/index.m3u8
+http://77.235.1.19:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Космос TV
@@ -392,14 +390,10 @@ http://195.245.99.242/FOX/playlist.m3u8
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино", Hollywood
 http://5.134.87.11:4600/Hollywood/index.m3u8
-#EXTINF:-1 group-title="Кино", Hollywood HD 
-http://31.173.165.29:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Кино", Kinojam 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 group-title="Кино", Kinojam 2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
-#EXTINF:-1 group-title="Кино", Kinoliving
-http://31.173.165.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 group-title="Кино", Romance
@@ -436,7 +430,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy 🛡️
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
-http://31.173.165.29:8000/play/a011/index.m3u8
+http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Romantica
@@ -528,12 +522,8 @@ http://77.235.1.19:8000/play/a079/index.m3u8
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Baby Time
-http://31.173.165.29:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Детские", Duck TV
-http://31.173.165.29:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
