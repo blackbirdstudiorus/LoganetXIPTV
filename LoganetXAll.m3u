@@ -524,6 +524,8 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Network
+http://s7.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -605,7 +607,7 @@ http://77.235.1.19:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс ТВ
 http://77.235.1.19:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
-http://31.173.165.29:8000/play/a05f/index.m3u8
+http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мир вокруг
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
@@ -742,7 +744,7 @@ http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка ТВ
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
-http://31.173.165.29:8000/play/a01y/index.m3u8
+http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -760,7 +762,7 @@ http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD
 http://5.134.87.11:4600/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
-http://31.173.165.29:8000/play/a01h/index.m3u8
+http://178.217.72.66:8080/big_planet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Detective Jam
@@ -777,6 +779,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History 🛡️
 http://95.67.12.81:10619
+#EXTINF:-1 group-title="Познавательные", History HD
+http://45.159.74.22/Channel_123/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", History 2 🛡️
 http://95.67.12.81:10620
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery
@@ -820,21 +824,21 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", TVM Channel 
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
 #EXTINF:-1 group-title="Познавательные", Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TravelplusAdventure_HD
 #EXTINF:-1 group-title="Познавательные", Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
-http://31.173.165.29:8000/play/a016/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://80.245.95.243:8888/play/a00h/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://77.235.1.19:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Women's Magazine
-http://31.173.165.29:8000/play/a01k/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=WomensMagazine_SD
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://77.235.1.19:8000/play/a06n/index.m3u8
 
@@ -906,19 +910,17 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
-http://80.245.95.243:8888/play/a003/index.m3u8
+http://195.245.99.242/Avto_plus/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://95.85.109.218:7000/play/a02d
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://178.217.72.66:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD
-http://5.16.37.27:81/udp/235.10.10.134:1234
+http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-http://5.16.37.27:81/udp/235.10.10.239:1234
+http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Драйв
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 group-title="Хобби", Еда
@@ -936,9 +938,7 @@ http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 group-title="Хобби", Лапки Live
-http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 group-title="Хобби", Моя стихия 
-http://178.124.193.53:8181/play/1098/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской 
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
