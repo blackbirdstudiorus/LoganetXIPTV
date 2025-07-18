@@ -1053,12 +1053,26 @@ http://195.206.227.30:1234/udp/239.255.0.100:1234
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Хоккей ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:-1 group-title="Спорт", Arena Sport 1
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Спорт", Bein Sports HD
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Спорт", Bein Sports Xtra 🛡️
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Спорт", Canal+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Спорт", Bein Sports XTRA
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 3
+http://145.239.19.144:18088/340/mpegts
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 4
+http://145.239.19.144:18088/341/mpegts
+#EXTINF:-1 group-title="Спорт", Diema Sport
+http://87.118.142.91:6064/play/a06n
+#EXTINF:-1 group-title="Спорт", Diema Sport 2
+http://87.118.142.91:6064/play/a071
+#EXTINF:-1 group-title="Спорт", Diema Sport 3
+http://87.118.142.91:6064/play/a06y
 #EXTINF:-1 group-title="Спорт", Eleven Sports 1 4k 🛡️
 https://7pal.short.gy/11sports1
 #EXTINF:-1 group-title="Спорт", Eleven Sports 1 🛡️
@@ -1081,6 +1095,8 @@ https://7pal.short.gy/eusport4k
 http://ott-cdn.ucom.am/s76/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Спорт", Fox Sports 2 🛡️
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Спорт", Fox Sports 502 🛡️
