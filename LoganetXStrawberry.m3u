@@ -45,8 +45,6 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="Эротика", Adult IPTV Threesome 
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="Эротика", Babestation 24
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Эротика", Babes TV HD
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Brazzers TV Europe
@@ -71,8 +69,6 @@ http://213.169.39.30:5115
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 #EXTINF:-1 group-title="Эротика", Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Эротика", PassionXXX
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Pink Club TV
 https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Playboy HD
@@ -83,13 +79,15 @@ http://213.169.39.30:5036
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика", Red Lips
+http://77.235.1.19:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Эротика", Venus
 http://181.188.216.5:18000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Эротика" tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Vivid Red
-http://95.216.97.235:7776/vividredhd
-#EXTINF:-1 group-title="Эротика", XY Plus
-http://95.216.97.235:7776/erox
+http://103.49.40.100:30010/VIVIDREDHD
 #EXTINF:-1 group-title="Эротика", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="Эротика", Русская ночь
+http://77.235.1.19:8000/play/a007/index.m3u8
