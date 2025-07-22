@@ -146,6 +146,8 @@ http://178.124.152.238:8088/sony
 http://77.235.1.19:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="Кино", .sci-fi 
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="Кино", .sci-fi HD
+http://45.159.74.22/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="Кино", 312
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 group-title="Кино", 312 Кино
@@ -372,6 +374,8 @@ http://178.217.72.66:8080/Bollywood_HD/index.m3u8
 http://77.235.1.19:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Cinema HD
+http://77.235.1.19:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema Космос TV
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", FAN 
@@ -394,6 +398,8 @@ http://5.134.87.11:4600/Hollywood/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 group-title="Кино", Kinojam 2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+#EXTINF:-1 group-title="Кино", Kinoliving
+http://31.133.36.244:8000/51
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 group-title="Кино", Romance
@@ -474,6 +480,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Детские", Лёва HD
+http://31.133.36.244:8000/125
 #EXTINF:-1 group-title="Детские", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Мамонтëнок ТВ
@@ -522,6 +530,8 @@ http://77.235.1.19:8000/play/a079/index.m3u8
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Baby Time
+http://31.133.36.244:8000/136
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
@@ -670,7 +680,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Пятница! HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+http://178.217.72.66:8080/Pyatnitsa/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Пятница! Int. 
+http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1 group-title="Познавательные", Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
