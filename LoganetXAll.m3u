@@ -254,6 +254,8 @@ http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 http://77.235.1.19:8000/play/a06a/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносерия
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Киносерия HD
+http://s7.merlive.am/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинохит
@@ -402,6 +404,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 http://31.133.36.244:8000/51
 #EXTINF:-1 group-title="Кино", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
+#EXTINF:-1 group-title="Кино", Plan_B
+http://77.235.1.19:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Кино", Plan_B HD
+http://31.133.36.244:8000/90
 #EXTINF:-1 group-title="Кино", Romance
 http://77.235.1.19:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV
@@ -578,6 +584,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 http://178.212.71.253:8000/play/97/index.m3u
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
 http://77.235.1.19:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Глазами туриста HD
+http://s7.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 
 http://77.235.1.19:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор HD
@@ -651,7 +659,7 @@ http://77.235.1.19:8000/play/a01j/index.m3u8
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="Познавательные", НТВ Право 
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Познавательные", Открытый мир
+#EXTINF:-1 group-title="Познавательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
@@ -752,7 +760,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва 
 http://77.235.1.19:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка РФ
-http://31.148.48.15/HD_Life/index.m3u8
+http://s7.merlive.am/HDLife/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Точка РФ HD
+http://176.62.72.48:8001/play/a054/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка ТВ
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЦТВ
@@ -775,6 +785,8 @@ http://31.148.48.15/Animal_Planet_HD/index.m3u8
 http://5.134.87.11:4600/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
+http://31.133.36.244:8000/174
 #EXTINF:-1 group-title="Познавательные", Da Vinci
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Detective Jam
@@ -1028,7 +1040,7 @@ http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://80.245.95.243:8888/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
+http://s7.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://77.235.1.19:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
