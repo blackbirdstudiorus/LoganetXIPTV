@@ -388,16 +388,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel-pl7", Карусель +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Детские", Кинозалы Бодо Бородо
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
-#EXTINF:-1 group-title="Детские", Кинозалы Детские песенки
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
-#EXTINF:-1 group-title="Детские", Кинозалы Робозуна
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
-#EXTINF:-1 group-title="Детские", Кинозалы Смешарики
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
-#EXTINF:-1 group-title="Детские", Кинозалы Три кота
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские", Лёва HD
@@ -407,7 +397,7 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Мамонтëнок ТВ
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мульт 
-http://195.245.99.242/Mult/playlist.m3u8
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Детские", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
@@ -462,14 +452,16 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 http://77.235.1.19:8000/play/a084/index.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://158.160.149.81:8080/269/index.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV HD
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 group-title="Детские", Kids TV
+http://31.133.36.244:8000/137
 #EXTINF:-1 group-title="Детские", Nickelodeon
-http://195.245.99.242/Nickelodeon/playlist.m3u8
+http://s1.merlive.am/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon HD
+http://178.134.1.158:8081/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr. 
 http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://195.245.99.242/Tiji/playlist.m3u8
+http://176.62.72.48:8001/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 2x2
 http://178.217.72.66:8080/2x2/index.m3u8
