@@ -897,8 +897,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Игра
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -919,8 +917,6 @@ http://77.235.1.19:8000/play/a008/index.m3u8
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт", Матч! Игра HD
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Планета
-http://80.245.95.243:8888/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://s7.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
@@ -939,26 +935,16 @@ http://185.57.68.33/110/mpegts
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола 
 http://77.235.1.19:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Спорт", Мяч HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
-#EXTINF:-1 group-title="Спорт", Поединок
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
-#EXTINF:-1 group-title="Спорт", Сила
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
-#EXTINF:-1 group-title="Спорт", Спортмастер ТВ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE1
 #EXTINF:-1 group-title="Спорт", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Старт Триумф
+http://77.235.1.19:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
-#EXTINF:-1 group-title="Спорт", ТВ Спорт
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+http://31.133.36.244:8000/109
 #EXTINF:-1 group-title="Спорт", Футбол
-http://195.206.227.30:1234/udp/239.255.0.100:1234
+https://s1.merlive.am/futboltv/index.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол HD
 http://31.148.48.15/Futbol_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Хоккей ТВ HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
 #EXTINF:-1 group-title="Спорт", Arena Sport 1
 http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Спорт", Bein Sports HD
@@ -998,7 +984,7 @@ http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4k 🛡️
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
-http://ott-cdn.ucom.am/s76/index.m3u8
+http://31.133.36.244:8000/115
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 2 🛡️
@@ -1025,8 +1011,6 @@ http://178.124.152.238:8088/khl
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
 http://77.235.1.19:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
 http://95.142.88.250/MMA-TV.com/index.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sport 1 🛡️
@@ -1062,8 +1046,6 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="Спорт", Sky Sports Premier League 🛡️
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="Спорт", Sport 1 Baltic
-http://80.245.95.243:8888/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Спорт", Polsat Sport 1
 http://185.236.229.62:9981/play/a07n
 #EXTINF:-1 group-title="Спорт", Polsat Sport 2
@@ -1089,7 +1071,7 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 group-title="Музыка", 1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыка", Жара 
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhara
+http://31.133.36.244:8000/155
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
@@ -1099,9 +1081,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+http://31.133.36.244:8000/149
 #EXTINF:-1 group-title="Музыка", Музыка Live
-http://80.245.95.243:8888/play/a03s/index.m3u8
+http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
@@ -1123,11 +1105,11 @@ http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe HD
 http://178.212.71.253:8000/play/98/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
+http://31.133.36.244:8000/144
 #EXTINF:-1 group-title="Музыка", Bridge Rock
-http://31.173.165.29:8000/play/a01v/index.m3u8
+http://31.133.36.244:8000/143
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
-http://31.173.165.29:8000/play/a02f/index.m3u8
+http://178.217.72.66:8080/Rusong_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно
@@ -1136,8 +1118,6 @@ http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="Музыка", Classic Music
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Classic_Music_HD
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Lounge
@@ -1147,7 +1127,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 group-title="Музыка", Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
+http://77.235.1.19:8000/play/a06h/index.m3u8
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Kronehit
@@ -1171,21 +1151,17 @@ http://213.169.39.30:5137
 #EXTINF:-1 group-title="Музыка", MTV 90's
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MusicBox Gold
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Music_Box_GOLD
+http://77.106.252.178:4022/udp/233.33.210.70:5050
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 https://89.187.167.247/polsatmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Музыка", Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:-1 group-title="Музыка", Russian MusicBox
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
+http://77.106.252.178:4022/udp/233.33.210.71:5050
 #EXTINF:-1 group-title="Музыка", Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыка", Stingray CMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка", Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Viva TV Russia
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
