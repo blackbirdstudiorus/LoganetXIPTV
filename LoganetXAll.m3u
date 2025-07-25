@@ -14,7 +14,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал FHD
 http://77.235.1.19:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал HD +4
-https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+http://77.235.1.19:8000/play/a073/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал Евразия
 http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал Европа
@@ -135,7 +135,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", .black
-http://5.134.87.11:4600/Black/index.m3u8
+http://176.62.72.48:8001/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Кино", .red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино", .red HD
@@ -153,7 +153,7 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
-https://streaming.televizor-24-tochka.ru/live/44.m3u8
+https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
 http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD
@@ -317,7 +317,9 @@ http://45.159.74.22/Fox/mono.m3u8
 #EXTINF:-1 group-title="Кино", FX Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино", Hollywood
-http://5.134.87.11:4600/Hollywood/index.m3u8
+http://176.62.72.48:8001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Кино", Hollywood HD
+http://31.133.36.244:8000/52
 #EXTINF:-1 group-title="Кино", Kinoliving
 http://31.133.36.244:8000/51
 #EXTINF:-1 group-title="Кино", Plan_B
@@ -356,7 +358,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy 🛡️
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
-http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
+http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Action
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 Romantica
@@ -381,7 +383,7 @@ http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
-https://streaming.televizor-24-tochka.ru/live/232.m3u8
+https://streaming.goodstream.cyou/live/232.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -678,7 +680,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet HD
-http://5.134.87.11:4600/AnimalPlanet/index.m3u8
+http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
@@ -822,7 +824,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
-http://195.245.99.242/Avto_plus/playlist.m3u8
+http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
@@ -835,16 +837,12 @@ http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Драйв
 http://178.212.71.253:8000/play/92/index.m3u8
-#EXTINF:-1 group-title="Хобби", Еда
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Хобби", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
-#EXTINF:-1 group-title="Хобби", Загородный Int HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorodniy_int_HD&serviceArea=GLOBAL
+http://178.217.72.66:8080/zagorodnyi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
@@ -856,27 +854,23 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
-http://195.245.99.242/Ohota_i_ribalka/playlist.m3u8
+http://85.117.61.97:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:-1 group-title="Хобби", Охотник и рыболов Int. 
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
-#EXTINF:-1 group-title="Хобби", Первый вегетарианский
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
+http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://213.169.39.30:5262
 #EXTINF:-1 group-title="Хобби", Рыболов
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
+http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://195.245.99.242/Telecafe/playlist.m3u8
+http://31.133.36.244:8000/40
 #EXTINF:-1 group-title="Хобби", Усадьба
-http://195.245.99.242/Usadba/playlist.m3u8
+http://31.133.36.244:8000/181
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="Хобби", FoodTime
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
