@@ -691,7 +691,7 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 http://s1.merlive.am/discovery/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Docubox
+#EXTINF:-1 group-title="Познавательные", DocuBox
 http://77.235.1.19:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
@@ -867,6 +867,8 @@ http://31.133.36.244:8000/40
 http://31.133.36.244:8000/181
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", FashionBox
+http://31.133.36.244:8000/183
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="Хобби", FoodTime
@@ -987,6 +989,8 @@ https://7pal.short.gy/eusport4k
 http://31.133.36.244:8000/115
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Спорт", FightBox
+http://31.133.36.244:8000/107
 #EXTINF:-1 group-title="Спорт", Fox Sports 2 🛡️
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
