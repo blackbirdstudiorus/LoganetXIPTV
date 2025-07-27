@@ -252,7 +252,7 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион HD
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
-http://85.208.223.249:8888/play/a007
+http://176.62.72.48:8001/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман HD
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Сапфир
@@ -1018,8 +1018,8 @@ http://178.124.152.238:8088/khl
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
 http://77.235.1.19:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV HD
-http://95.142.88.250/MMA-TV.com/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+http://31.148.48.15/M1_Global/index.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sport 1 🛡️
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sport 2 🛡️
