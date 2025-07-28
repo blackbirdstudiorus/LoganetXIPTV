@@ -470,8 +470,6 @@ http://176.62.72.48:8001/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 2x2
 http://178.217.72.66:8080/2x2/index.m3u8
-#EXTINF:-1 group-title="Познавательные", 2x2 HD
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Познавательные", 2х2 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
