@@ -259,7 +259,7 @@ http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 http://31.133.36.244:8000/85
 #EXTINF:-1 group-title="Кино", Сапфир HD
 http://31.133.36.244:8000/86
-#EXTINF:-1 group-title="Кино", Синема
+#EXTINF:-1 group-title="Кино", Синема HD
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноазия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
