@@ -279,13 +279,13 @@ https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="Кино", A1
+#EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино", A1 HD
+#EXTINF:-1 group-title="Кино", Amedia 1 HD
 http://178.217.72.66:8080/A1/video.m3u8
-#EXTINF:-1 group-title="Кино", A2
+#EXTINF:-1 group-title="Кино", Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="Кино", A2 HD
+#EXTINF:-1 group-title="Кино", Amedia 2 HD
 http://178.217.72.66:8080/A2/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://178.217.72.66:8080/Amedia_Hit/index.m3u8
