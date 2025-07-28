@@ -259,6 +259,8 @@ http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 http://31.133.36.244:8000/85
 #EXTINF:-1 group-title="Кино", Сапфир HD
 http://31.133.36.244:8000/86
+#EXTINF:-1 group-title="Кино", Синема
+http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноазия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинодок
@@ -303,8 +305,6 @@ http://77.235.1.19:8000/play/a04d/index.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema HD
 http://77.235.1.19:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Кино", Cinema Космос TV
-http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", FAN 
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", FAN HD
