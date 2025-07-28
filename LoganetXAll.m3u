@@ -986,7 +986,7 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4k 🛡️
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 group-title="Спорт", Extreme Sports
+#EXTINF:-1 group-title="Спорт", Extreme
 http://31.133.36.244:8000/115
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
