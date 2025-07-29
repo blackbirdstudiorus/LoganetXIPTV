@@ -323,7 +323,7 @@ http://188.237.47.212:6008
 http://176.62.72.48:8001/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
 http://31.133.36.244:8000/52
-#EXTINF:-1 group-title="Кино", Kinoliving
+#EXTINF:-1 group-title="Кино", KinoLiving
 http://31.133.36.244:8000/51
 #EXTINF:-1 group-title="Кино", Plan_B
 http://77.235.1.19:8000/play/a04z/index.m3u8
