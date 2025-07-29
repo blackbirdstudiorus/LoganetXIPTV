@@ -622,6 +622,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Тайны Галактики
+http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
 http://77.235.1.19:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Твоë ТВ HD 
@@ -694,8 +696,6 @@ http://s1.merlive.am/discovery/index.m3u8
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 group-title="Познавательные", DocuBox
 http://77.235.1.19:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy TV
-http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History 🛡️
 http://95.67.12.81:10619
 #EXTINF:-1 group-title="Познавательные", History HD
