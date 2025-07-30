@@ -936,6 +936,8 @@ http://31.133.36.244:8000/40
 http://31.133.36.244:8000/181
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion&LifeStyle HD
+http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 group-title="Хобби", FashionBox
 http://31.133.36.244:8000/183
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
