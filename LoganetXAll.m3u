@@ -537,10 +537,6 @@ http://194.143.148.28:8080/Nauka20/mpegts
 http://77.235.1.19:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мы
 http://77.235.1.19:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Нано
-http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Нано HD
-http://tv.streams.baikal-telecom.net:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
@@ -706,9 +702,13 @@ http://95.67.12.81:10620
 http://45.159.74.22/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
+#EXTINF:-1 group-title="Познавательные", Nano
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Nano HD
+http://tv.streams.baikal-telecom.net:8080/NanoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild 
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild HD
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://s7.merlive.am/NationalGeographic/index.m3u8
