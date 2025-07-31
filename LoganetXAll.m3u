@@ -329,6 +329,8 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://77.235.1.19:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Кино", Comedy Central
 http://185.26.157.3:8080/live/paramount_comedy/mono.m3u8
+#EXTINF:-1 group-title="Кино", DetectiveJam HD
+http://158.160.149.81:8080/8426/index.m3u8
 #EXTINF:-1 group-title="Кино", FAN 
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", FAN HD
@@ -484,7 +486,7 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
-http://radio.tvs.by:8088/Malish/index.m3u8
+http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские", Тамыр
 http://195.18.23.20:8000/play/2/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку ТВ HD
@@ -1034,10 +1036,6 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Спорт", Canal+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Спорт", Canal+ Sport 3
-http://145.239.19.144:18088/340/mpegts
-#EXTINF:-1 group-title="Спорт", Canal+ Sport 4
-http://145.239.19.144:18088/341/mpegts
 #EXTINF:-1 group-title="Спорт", Diema Sport
 http://87.118.142.91:6064/play/a06n
 #EXTINF:-1 group-title="Спорт", Diema Sport 2
@@ -1070,8 +1068,6 @@ http://77.235.1.19:8000/play/a07z/index.m3u8
 http://31.133.36.244:8000/107
 #EXTINF:-1 group-title="Спорт", FightBox HD
 http://85.117.61.97:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="Спорт", Fox Sports 2 🛡️
-https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Спорт", Fox Sports 502 🛡️
@@ -1086,8 +1082,6 @@ https://7pal.short.gy/fox505au
 https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="Спорт", Fox Sports 507 🛡️
 https://7pal.short.gy/fox507au
-#EXTINF:-1 group-title="Спорт", Golf Channel English
-http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
 http://178.124.152.238:8088/khl
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
@@ -1151,8 +1145,6 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт", TNT Sport 4 🛡️
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="Спорт", Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Спорт", Udar HD
 http://95.85.109.219:7000/play/a066
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
