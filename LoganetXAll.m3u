@@ -317,6 +317,30 @@ http://77.235.1.19:8000/play/a05f/index.m3u8
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 
 http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Action HD
+http://178.217.72.66:8080/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Catastrophe HD
+http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Cinema HD
+http://178.217.72.66:8080/BCUCinemaHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Comedy HD
+http://178.217.72.66:8080/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Fantastic HD
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU FilMystic HD
+http://178.217.72.66:8080/BCUFilMysticHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU History HD
+http://178.217.72.66:8080/BCUHistoryHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Kinorating HD
+http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Premiere HD
+http://178.217.72.66:8080/BCUPremiereHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Romantic HD
+http://178.217.72.66:8080/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU Stars HD
+http://178.217.72.66:8080/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="Кино", BCU VHS HD
+http://178.217.72.66:8080/BCUVHSHD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood
 http://178.217.72.66:8080/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
