@@ -405,9 +405,9 @@ http://158.160.149.81:8080/8327/index.m3u8
 http://77.235.1.19:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Кино", Plan_B HD
 http://31.133.36.244:8000/90
-#EXTINF:-1 group-title="Кино", Red Premium
+#EXTINF:-1 group-title="Кино", Red Premium HD
 http://95.85.109.219:7000/play/a06e
-#EXTINF:-1 group-title="Кино", Red Thriller
+#EXTINF:-1 group-title="Кино", Red Thriller HD
 http://95.85.109.219:7000/play/a06h
 #EXTINF:-1 group-title="Кино", Romance
 http://77.235.1.19:8000/play/a050/index.m3u8
