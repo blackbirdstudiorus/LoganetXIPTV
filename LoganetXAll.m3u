@@ -181,6 +181,8 @@ http://31.133.36.244:8000/84
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Кино24
 http://77.235.1.19:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино 7 HD
+http://81.198.190.9:7878/kino7/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -379,6 +381,10 @@ http://31.148.48.15/Fan/index.m3u8
 http://77.235.1.19:8000/play/a081/index.m3u8 
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
 http://158.160.149.81:8080/1967/index.m3u8
+#EXTINF:-1 group-title="Кино", FilmUADrama HD
+http://81.198.190.9:7878/FILMUADRAMA/video.m3u8
+#EXTINF:-1 group-title="Кино", FilmZone HD
+http://81.198.190.9:7878/FilmZone/video.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://31.133.36.244:8000/92
 #EXTINF:-1 group-title="Кино", FX
@@ -393,6 +399,8 @@ http://188.237.47.212:6008
 http://176.62.72.48:8001/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
 http://31.133.36.244:8000/52
+#EXTINF:-1 group-title="Кино", Kino 1 HD
+http://81.198.190.9:7878/kino1/video.m3u8
 #EXTINF:-1 group-title="Кино", KinoJam 1 HD
 http://158.160.149.81:8080/8194/index.m3u8
 #EXTINF:-1 group-title="Кино", KinoLiving
@@ -440,8 +448,8 @@ http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", VHS-кв HD
 http://158.160.149.81:8080/8270/index.m3u8
-#EXTINF:-1 group-title="Кино", Viasat Kino Comedy 🛡️
-http://ukr.ukrainske.tv/493/tvainua/video.m3u8
+#EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD
+http://81.198.190.9:7878/VIPComedyHD/video.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 
 http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 HD
@@ -726,6 +734,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Супер+ HD
+http://81.198.190.9:7878/superplus/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Тайны Галактики
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
@@ -852,10 +862,16 @@ http://45.159.74.22/TLC/mono.m3u8
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", TV Extra
+http://81.198.190.9:7878/tvextra/video.m3u8
+#EXTINF:-1 group-title="Познавательные", TVRUS
+http://85.187.13.40:18000/sts
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://31.133.36.244:8000/171
 #EXTINF:-1 group-title="Познавательные", Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Viasat Nature HD
+http://85.187.13.40:18000/viasatnat
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные", Viju Nature HD
