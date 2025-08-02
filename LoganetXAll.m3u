@@ -844,7 +844,7 @@ http://195.26.83.96:7007/play/a00n/index.m3u8
 http://77.235.1.19:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTVi 
 http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Silkway TV
+#EXTINF:-1 group-title="Познавательные", Silk Way HD
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
 http://77.235.1.19:8000/play/a076/index.m3u8
