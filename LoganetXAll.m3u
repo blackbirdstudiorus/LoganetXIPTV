@@ -858,7 +858,7 @@ http://185.26.157.3:8080/live/tlc/mono.m3u8
 http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
 http://178.124.152.238:8088/sovsec
-#EXTINF:-1 group-title="Познавательные", TV Brics 
+#EXTINF:-1 group-title="Познавательные", TV BRICS HD
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Extra
 http://81.198.190.9:7878/tvextra/video.m3u8
