@@ -450,29 +450,27 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 http://158.160.149.81:8080/8270/index.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD
 http://81.198.190.9:7878/VIPComedyHD/video.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 
+#EXTINF:-1 group-title="Кино", viju TV1000 
 http://178.134.1.158:8081/tv1000/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 HD
+#EXTINF:-1 group-title="Кино", viju TV1000 HD
 http://95.85.109.219:7000/play/a08v
-#EXTINF:-1 group-title="Кино", Viju TV1000 Action
+#EXTINF:-1 group-title="Кино", viju TV1000 action
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Action HD
+#EXTINF:-1 group-title="Кино", viju TV1000 action HD
 http://95.85.109.219:7000/play/a013
-#EXTINF:-1 group-title="Кино", Viju TV1000 Romantica
+#EXTINF:-1 group-title="Кино", viju TV1000 romantica
 http://77.235.1.19:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
+#EXTINF:-1 group-title="Кино", viju TV1000 русское
 http://85.117.61.97:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино HD
+#EXTINF:-1 group-title="Кино", viju TV1000 русское HD
 http://95.85.109.219:7000/play/a08x
-#EXTINF:-1 group-title="Кино", Viju+ Comedy
+#EXTINF:-1 group-title="Кино", viju+ Comedy HD
 http://77.235.1.19:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Comedy HD
-http://77.235.1.19:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Megahit HD
+#EXTINF:-1 group-title="Кино", viju+ Megahit HD
 http://77.235.1.19:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Premiere HD
+#EXTINF:-1 group-title="Кино", viju+ Premiere HD
 http://77.235.1.19:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Serial HD
+#EXTINF:-1 group-title="Кино", viju+ Serial HD
 http://77.235.1.19:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
@@ -870,19 +868,19 @@ http://31.133.36.244:8000/171
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Viasat Nature HD
 http://85.187.13.40:18000/viasatnat
-#EXTINF:-1 group-title="Познавательные", Viju Nature
+#EXTINF:-1 group-title="Познавательные", viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="Познавательные", Viju Nature HD
+#EXTINF:-1 group-title="Познавательные", viju Nature HD
 http://185.26.157.3:8080/live/viasat_nature/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju History
+#EXTINF:-1 group-title="Познавательные", viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="Познавательные", Viju History HD
+#EXTINF:-1 group-title="Познавательные", viju History HD
 http://185.26.157.3:8080/live/viasat-history/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju Explore
+#EXTINF:-1 group-title="Познавательные", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Познавательные", Viju Explore HD
+#EXTINF:-1 group-title="Познавательные", viju Explore HD
 http://185.26.157.3:8080/live/viasat_explore/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju+ Planet
+#EXTINF:-1 group-title="Познавательные", viju+ Planet
 http://77.235.1.19:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://77.235.1.19:8000/play/a06n/index.m3u8
