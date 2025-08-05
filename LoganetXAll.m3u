@@ -880,7 +880,7 @@ http://185.26.157.3:8080/live/viasat-history/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Познавательные", viju Explore HD
 http://185.26.157.3:8080/live/viasat_explore/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", viju+ Planet
+#EXTINF:-1 group-title="Познавательные", viju+ Planet HD
 http://77.235.1.19:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Zooпарк
 http://77.235.1.19:8000/play/a06n/index.m3u8
