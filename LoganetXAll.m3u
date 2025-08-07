@@ -171,12 +171,10 @@ http://158.160.149.81:8080/88/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="Кино", Камеди
-http://194.169.59.222:1234/udp/239.255.0.159:1234
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
-http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/kineko/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
-http://194.169.59.222:1234/udp/239.255.0.158:1234
+http://77.235.1.19:8000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Кино24
@@ -230,7 +228,7 @@ http://178.217.72.66:8080/komediynoe/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедия 
 http://178.217.72.66:8080/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
-http://31.133.36.244:8000/76
+http://77.235.1.19:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино HD
 http://77.235.1.19:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала
@@ -485,8 +483,6 @@ http://195.26.83.96:7007/play/14/index.m3u8
 http://178.217.72.66:8080/Detskiy_Mir/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Детские", Капитан Фантастика
-http://194.169.59.222:1234/udp/239.255.0.136:1234
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 http://158.160.149.81:8080/1578/index.m3u8
 #EXTINF:-1 group-title="Детские", Карусель
@@ -541,14 +537,10 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские", Тамыр
 http://195.18.23.20:8000/play/2/index.m3u8
-#EXTINF:-1 group-title="Детские", ТипТоп HD
-http://194.169.59.222:1234/udp/239.255.0.182:1234
 #EXTINF:-1 group-title="Детские", Тооку ТВ HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 
 http://77.235.1.19:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="Детские", Чижик HD
-http://194.169.59.222:1234/udp/239.255.0.166:1234
 #EXTINF:-1 group-title="Детские", Шаян ТВ
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ani
@@ -566,7 +558,7 @@ http://77.235.1.19:8000/play/a084/index.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV
-http://194.169.59.222:1234/udp/239.255.0.74:1234
+http://77.235.1.19:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Детские", Kids TV HD
 http://158.160.149.81/8502/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
@@ -597,8 +589,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 http://86.57.209.210/AnimalFamily/index.m3u8
-#EXTINF:-1 group-title="Познавательные", В мире животных HD
-http://194.169.59.222:1234/udp/239.255.0.160:1234
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
@@ -612,7 +602,7 @@ http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ ТВ
-http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+http://77.235.1.19:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://158.160.149.81:8080/1491/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
@@ -645,8 +635,6 @@ http://77.235.1.19:8000/play/a064/index.m3u8
 http://77.235.1.19:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кто есть кто 
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:-1 group-title="Познавательные", Министерство Идей
-http://194.169.59.222:1234/udp/239.255.0.81:1234
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -687,7 +675,7 @@ https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://178.217.72.66:8080/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
-http://194.169.59.222:1234/udp/239.255.0.178:1234
+http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение 
@@ -825,7 +813,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano HD
-http://tv.streams.baikal-telecom.net:8080/NanoTV/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://158.160.149.81:8080/43/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
@@ -874,8 +862,6 @@ http://85.187.13.40:18000/viasatnat
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные", viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="Познавательные", viju History HD
-http://185.26.157.3:8080/live/viasat-history/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Познавательные", viju+ Planet HD
@@ -1075,8 +1061,6 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 http://77.235.1.19:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф
 http://77.235.1.19:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Спорт", Футбол
-http://194.169.59.222:1234/udp/239.255.0.100:1234
 #EXTINF:-1 group-title="Спорт", Футбол HD
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Arena Sport 1
@@ -1160,6 +1144,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 http://158.160.149.81:8080/4536/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://95.85.109.219:7000/play/a067
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://vod2.stb.tvime.ru/Setanta_Sports_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 http://95.85.109.219:7000/play/a068
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ HD
@@ -1223,7 +1209,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
-http://194.169.59.222:1234/udp/239.255.0.106:1234
+http://31.148.48.15/Muzika_Pervogo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Live
 http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
@@ -1249,7 +1235,7 @@ http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge Deluxe HD
 http://178.212.71.253:8000/play/98/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
-http://194.169.59.222:1234/udp/239.255.0.110:1234
+http://178.212.71.253:8000/play/134/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge Русский Хит
