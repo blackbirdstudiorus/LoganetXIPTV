@@ -153,8 +153,6 @@ http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Видеокассета Киномир
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
@@ -379,6 +377,8 @@ http://158.160.149.81:8080/8426/index.m3u8
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", FAN HD
 http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 group-title="Кино", FilmBest
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
 http://77.235.1.19:8000/play/a081/index.m3u8 
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
