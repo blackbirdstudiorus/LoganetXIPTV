@@ -239,6 +239,8 @@ http://31.148.48.15/Mir_Seriala/index.m3u8
 http://178.217.72.66:8080/Mir_Seriala/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция HD
+http://str6.oxtve.live:8080/mosfilm/mpegts
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино", Мужское кино HD
@@ -301,6 +303,8 @@ http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино", Хит HD
 http://178.217.72.66:8080/hithd/index.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее HD
+http://str6.oxtve.live:8080/shokiruysheehd/mpegts
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино", Amedia 1 HD
@@ -1358,30 +1362,42 @@ http://95.85.109.219:7000/play/a068
 http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:-1 group-title="Спорт", Sky High Fight HD
 http://str6.oxtve.live:8080/SKYHIGHFIGHT/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport 1 HD
+http://str6.oxtve.live:8080/skysport1hd/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport 2 HD
+http://str6.oxtve.live:8080/skysport2hd/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport 1 NZ 🛡️
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport 2 NZ 🛡️
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="Спорт", Sky Sports 3 NZ 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport 3 NZ 🛡️
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="Спорт", Sky Sports 4 NZ 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport 4 NZ 🛡️
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-action", Sky Sports Action / NFL 🛡️
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 group-title="Спорт", Sky Sports Golf 🛡️
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 group-title="Спорт", Sky Sports F1 🛡️
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="Спорт", Sky Sports F1 UHD 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport Austria 1 HD
+http://str6.oxtve.live:8080/skysportaustriahd/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport F1
+http://str6.oxtve.live:8080/skysportf1/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport Golf 🛡️
+https://7pal.short.gy/ssportsg
+#EXTINF:-1 group-title="Спорт", Sky Sport F1
+http://str6.oxtve.live:8080/skysportf1/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport F1 UHD 🛡️
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="Спорт", Sky Sports Football 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport Football 🛡️
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="Спорт", Sky Sports Main Event 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport Main Event 🛡️
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="Спорт", Sky Sports News 🛡️
+#EXTINF:-1 group-title="Спорт", Sky Sport Mix HD
+http://str6.oxtve.live:8080/DE_Sky_Sport_Mix/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport News 🛡️
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="Спорт", Sky Sports Premier League 🛡️
-https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спорт", Sky Sport Premier League HD
+http://str6.oxtve.live:8080/DE_Sky_Sport_Premier_League/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport Tennis HD
+http://str6.oxtve.live:8080/DE_Sky_Sport_Tennis/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sport Top Event HD
+http://str6.oxtve.live:8080/DE_Sky_Sport_Top_Event/mpegts
 #EXTINF:-1 group-title="Спорт", Polsat Sport 1
 http://185.236.229.62:9981/play/a07n
 #EXTINF:-1 group-title="Спорт", Polsat Sport 2
