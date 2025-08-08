@@ -479,8 +479,12 @@ http://str6.oxtve.live:8080/KBC_shpionskoe/mpegts
 http://81.198.190.9:7878/kino1/video.m3u8
 #EXTINF:-1 group-title="Кино", Kino 2 HD
 http://81.198.190.9:7878/kino2/video.m3u8
+#EXTINF:-1 group-title="Кино", KinoJam 1
+http://str6.oxtve.live:8080/kinodzhem_1/mpegts
 #EXTINF:-1 group-title="Кино", KinoJam 1 HD
 http://158.160.149.81:8080/8194/index.m3u8
+#EXTINF:-1 group-title="Кино", KinoJam 2 HD
+http://str6.oxtve.live:8080/kinodzhem_2/mpegts
 #EXTINF:-1 group-title="Кино", KinoLiving HD
 http://95.85.109.219:7000/play/a05x
 #EXTINF:-1 group-title="Кино", Magic Action HD
@@ -579,6 +583,16 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 http://77.235.1.19:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi 
 http://77.235.1.19:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="Кино", Top Budo HD
+http://str6.oxtve.live:8080/topbudohd/mpegts
+#EXTINF:-1 group-title="Кино", Top Cinema HD
+http://str6.oxtve.live:8080/topcinemahd/mpegts
+#EXTINF:-1 group-title="Кино", Top USSR HD
+http://str6.oxtve.live:8080/topussr/mpegts
+#EXTINF:-1 group-title="Кино", Top Великолепный век HD
+http://str6.oxtve.live:8080/topVelikolepnyyVek/mpegts
+#EXTINF:-1 group-title="Кино", Ultra HD Cinema
+http://str6.oxtve.live:8080/UltraHDCinema4K/mpegts
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -1038,6 +1052,8 @@ http://85.187.13.40:18000/sts
 http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Unknown Planet
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viasat Nature HD
 http://85.187.13.40:18000/viasatnat
 #EXTINF:-1 group-title="Познавательные", viju Nature
@@ -1241,12 +1257,14 @@ http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 http://77.235.1.19:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Старт HD
+http://str6.oxtve.live:8080/RU_START_HD/mpegts
 #EXTINF:-1 group-title="Спорт", Старт Триумф
 http://77.235.1.19:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Триумф
 http://77.235.1.19:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол HD
-http://31.148.48.15/Futbol_HD/index.m3u8
+http://str6.oxtve.live:8080/futbolhd/mpegts
 #EXTINF:-1 group-title="Спорт", Arena Sport 1
 http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Спорт", Bein Sports HD
@@ -1392,6 +1410,8 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 http://77.235.1.19:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ММТВ HD
+http://178.217.72.66:8080/MMTV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -1488,6 +1508,8 @@ http://str6.oxtve.live:8080/SKYHIGHDANCEHD/mpegts
 http://str6.oxtve.live:8080/SKYHIGHLOFIHD/mpegts
 #EXTINF:-1 group-title="Музыка", Sky High Music HD
 http://str6.oxtve.live:8080/SKYHIGHMUSICHD/mpegts
+#EXTINF:-1 group-title="Музыка", Stingray iConcerts HD
+http://str6.oxtve.live:8080/iconcerts/mpegts
 #EXTINF:-1 group-title="Музыка", Viva TV Russia
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
