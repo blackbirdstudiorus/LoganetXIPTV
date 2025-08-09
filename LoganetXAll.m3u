@@ -16,7 +16,7 @@ http://77.235.1.19:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал HD +4
 http://77.235.1.19:8000/play/a073/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+http://158.160.149.81:8080/749/index.m3u8
 #EXTINF:-1 group-title="Общие", Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
@@ -138,7 +138,9 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", .Black
-http://176.62.72.48:8001/play/a03j/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="Кино", .Black HD
+http://str6.oxtve.live:8080/sonyturbo/mpegts
 #EXTINF:-1 group-title="Кино", .Red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино", .Red HD
@@ -181,8 +183,6 @@ http://77.235.1.19:8000/play/a06z/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Кино24
 http://77.235.1.19:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино 7 HD
-http://81.198.190.9:7878/kino7/video.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
@@ -272,7 +272,7 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион HD
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
-http://176.62.72.48:8001/play/a03r/index.m3u8
+http://77.235.1.19:8000/play/a08e/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман HD
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Сапфир
