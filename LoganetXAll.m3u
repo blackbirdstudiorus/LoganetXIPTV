@@ -348,7 +348,7 @@ http://178.217.72.66:8080/BCUVHSHD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood
 http://178.217.72.66:8080/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD
-http://178.212.71.253:8002/play/a00t/index.m3u8
+http://158.160.149.81:8080/1520/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
 http://77.235.1.19:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt HD
@@ -389,14 +389,12 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 http://77.235.1.19:8000/play/a081/index.m3u8 
 #EXTINF:-1 group-title="Кино", FilmBox Arthouse
 http://158.160.149.81:8080/1967/index.m3u8
-#EXTINF:-1 group-title="Кино", FilmUADrama HD
-http://81.198.190.9:7878/FILMUADRAMA/video.m3u8
-#EXTINF:-1 group-title="Кино", FilmZone HD
-http://81.198.190.9:7878/FilmZone/video.m3u8
+#EXTINF:-1 group-title="Кино", FilmZone
+http://str6.oxtve.live:8080/722/mpegts
 #EXTINF:-1 group-title="Кино", FilmZone+ HD
 http://str6.oxtve.live:8080/1105/mpegts
 #EXTINF:-1 group-title="Кино", FlixSnip
-http://176.62.72.48:8001/play/a039/index.m3u8
+http://str6.oxtve.live:8080/flixsnip/mpegts
 #EXTINF:-1 group-title="Кино", FlixSnip HD
 http://178.217.72.66:8080/flixsnip/video.m3u8
 #EXTINF:-1 group-title="Кино", Fresh Adventure HD
@@ -436,7 +434,7 @@ http://158.160.149.81:8080/4510/index.m3u8
 #EXTINF:-1 group-title="Кино", FX Life HD
 http://95.85.109.219:7000/play/a065
 #EXTINF:-1 group-title="Кино", Hollywood
-http://176.62.72.48:8001/play/a02x/index.m3u8
+http://178.217.72.66:8080/hollywood/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
 http://178.217.72.66:8080/hollywoodhd/index.m3u8
 #EXTINF:-1 group-title="Кино", KBC Comics HD
@@ -479,10 +477,6 @@ http://str6.oxtve.live:8080/KBC_sportmix/mpegts
 http://str6.oxtve.live:8080/KBC_stranaUSSR/mpegts
 #EXTINF:-1 group-title="Кино", KBC Шпионское HD
 http://str6.oxtve.live:8080/KBC_shpionskoe/mpegts
-#EXTINF:-1 group-title="Кино", Kino 1 HD
-http://81.198.190.9:7878/kino1/video.m3u8
-#EXTINF:-1 group-title="Кино", Kino 2 HD
-http://81.198.190.9:7878/kino2/video.m3u8
 #EXTINF:-1 group-title="Кино", KinoJam 1
 http://str6.oxtve.live:8080/kinodzhem_1/mpegts
 #EXTINF:-1 group-title="Кино", KinoJam 1 HD
@@ -602,8 +596,8 @@ http://str6.oxtve.live:8080/UltraHDCinema4K/mpegts
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", VHS-ка HD
 http://158.160.149.81:8080/8270/index.m3u8
-#EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD
-http://81.198.190.9:7878/VIPComedyHD/video.m3u8
+#EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD 🛡
+http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 group-title="Кино", viju TV1000 
 http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", viju TV1000 HD
@@ -740,7 +734,7 @@ http://str6.oxtve.live:8080/SKYHIGHKIDSUSSR/mpegts
 #EXTINF:-1 group-title="Детские", Sumiko HD
 http://158.160.149.81:8080/8709/index.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
-http://176.62.72.48:8001/play/a00q/index.m3u8
+http://178.217.72.66:8080/TiJi/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 2x2
 http://178.217.72.66:8080/2x2/index.m3u8
@@ -792,7 +786,7 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Инсайт ТВ HD
 http://178.217.72.66:8080/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
-http://176.62.72.48:8001/play/a03k/index.m3u8
+http://178.217.72.66:8080/Istoriya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", История HD
 http://176.96.241.40/History/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
@@ -939,7 +933,7 @@ http://77.235.1.19:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка РФ
 http://178.217.72.66:8080/HDL/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка РФ HD
-http://176.62.72.48:8001/play/a054/index.m3u8
+http://87.246.54.249:8085/HDL/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка ТВ
 http://178.217.72.66:8080/Tochka_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Успех
@@ -1038,8 +1032,6 @@ http://str6.oxtve.live:8080/SKYHIGHNATURE4KHDR/mpegts
 http://77.235.1.19:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
 http://77.235.1.19:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="Познавательные", The Explorers
-http://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 group-title="Познавательные", The Explorers HD
 http://77.235.1.19:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC HD
@@ -1048,12 +1040,12 @@ http://45.159.74.22/TLC/mono.m3u8
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 group-title="Познавательные", TV BRICS HD
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", TV Extra
-http://81.198.190.9:7878/tvextra/video.m3u8
 #EXTINF:-1 group-title="Познавательные", TVRUS
 http://85.187.13.40:18000/sts
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
+http://str6.oxtve.live:8080/TravelplusAdventureHD/mpegts
 #EXTINF:-1 group-title="Познавательные", Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Unknown Planet
@@ -1116,7 +1108,7 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Deutsche Welle
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
-http://81.198.190.9:7878/96/video.m3u8
+http://87.118.142.91:6060/play/a044
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
@@ -1242,7 +1234,7 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://178.219.160.169:8880/139/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://158.160.149.81:8080/777/index.m3u8
+http://178.219.160.169:8880/193/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://77.235.1.19:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
@@ -1303,8 +1295,10 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4k 🛡️
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 group-title="Спорт", Extreme
-http://176.62.72.48:8001/play/a035/index.m3u8
+#EXTINF:-1 group-title="Спорт", Extreme Sports
+http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Extreme Sports HD
+http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
@@ -1493,7 +1487,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", MCM Top
-http://176.62.72.48:8001/play/a02q/index.m3u8
+http://str6.oxtve.live:8080/MCMTOPHD/mpegts
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://77.235.1.19:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo Live HD
@@ -1524,6 +1518,8 @@ http://str6.oxtve.live:8080/SKYHIGHDANCEHD/mpegts
 http://str6.oxtve.live:8080/SKYHIGHLOFIHD/mpegts
 #EXTINF:-1 group-title="Музыка", Sky High Music HD
 http://str6.oxtve.live:8080/SKYHIGHMUSICHD/mpegts
+#EXTINF:-1 group-title="Музыка", SongTV Russia
+http://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 group-title="Музыка", Stingray iConcerts HD
 http://str6.oxtve.live:8080/iconcerts/mpegts
 #EXTINF:-1 group-title="Музыка", Viva TV Russia
