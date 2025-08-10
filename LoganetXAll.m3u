@@ -842,7 +842,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://178.217.72.66:8080/Poehali/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Приключение
+#EXTINF:-1 group-title="Познавательные", Приключения
 http://178.217.72.66:8080/priklucheniyahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD
 http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
@@ -894,8 +894,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Супер+ HD
-http://81.198.190.9:7878/superplus/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Тайны Галактики
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Танцуй!
@@ -1302,7 +1300,7 @@ http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4k 🛡️
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
-http://45.11.139.43:8555/extsport/index.m3u8
+http://31.133.36.244:8000/115
 #EXTINF:-1 group-title="Спорт", Extreme Sports HD
 http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
