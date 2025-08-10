@@ -644,6 +644,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские", Лёва
+http://31.133.36.244:8000/125
+#EXTINF:-1 group-title="Детские", Лёва HD
 http://158.160.149.81:8080/8062/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
@@ -908,6 +910,8 @@ http://178.217.72.66:8080/teleputeshestviya/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Познавательные", Театр
 http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Терра Инкогнита HD
+http://178.124.153.123:44400/terra
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -958,6 +962,8 @@ http://31.148.48.15/Animal_Planet_HD/index.m3u8
 http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Curiosity Stream
+http://31.133.36.244:8000/174
 #EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
 http://178.217.72.66:8080/curiositystream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
@@ -1257,8 +1263,8 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 http://str6.oxtve.live:8080/RU_START_HD/mpegts
 #EXTINF:-1 group-title="Спорт", Старт Триумф
 http://77.235.1.19:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Спорт", Старт Триумф
-http://77.235.1.19:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Спорт", Старт Триумф HD
+http://31.133.36.244:8000/109
 #EXTINF:-1 group-title="Спорт", Футбол HD
 http://str6.oxtve.live:8080/futbolhd/mpegts
 #EXTINF:-1 group-title="Спорт", Arena Sport 1
