@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG", "https://api.catcast.tv/api/timetable/epg.xml"
 #EXTINF:-1 group-title="Общие", Telegram-канал
 https://t.me/loganet2
 #EXTINF:-1 group-title="Общие", Telegram-чат
@@ -287,15 +287,15 @@ https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноклассика
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киномистика 
+#EXTINF:-1 group-title="Кино" tvg-id="40783", Сити Эдем — Киномистика 
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киносемья
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киноэкшен 
+#EXTINF:-1 group-title="Кино" tvg-id="41333", Сити Эдем — Киноэкшен 
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Теленовелла
+#EXTINF:-1 group-title="Кино" tvg-id="46209", Сити Эдем — Теленовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем Христианский
+#EXTINF:-1 group-title="Кино" tvg-id="34246", Сити Эдем Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", ТВ-21
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
