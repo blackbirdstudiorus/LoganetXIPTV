@@ -705,9 +705,11 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Неизвестная планета HD
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Первый космический
+#EXTINF:-1 group-title="Знания", Первый космический
+http://89.23.181.114:4022/udp/239.1.11.3:1234
+#EXTINF:-1 group-title="Знания", Первый космический HD
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательные", Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Познавательные", Плюс Минус 16
