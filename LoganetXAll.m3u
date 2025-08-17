@@ -525,49 +525,41 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 http://77.235.1.19:8000/play/a079/index.m3u8
 #EXTINF:-1 group-title="Детям", Шаян HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Ani
+#EXTINF:-1 group-title="Детям", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Baby Time
+#EXTINF:-1 group-title="Детям", Baby Time
 http://158.160.149.81/8185/index.m3u8
-#EXTINF:-1 group-title="Детские", Cartoon Classics
+#EXTINF:-1 group-title="Детям", Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Детские", Cartoonito
-http://str6.oxtve.live:8080/boomerang/mpegts
-#EXTINF:-1 group-title="Детские", Cartoon Network HD
-http://str6.oxtve.live:8080/CartoonNetworkHD/mpegts
-#EXTINF:-1 group-title="Детские", FamilyJam HD
+#EXTINF:-1 group-title="Детям", Cartoonito HD
+http://45.159.74.22/Channel_120/index.m3u8
+#EXTINF:-1 group-title="Детям", Cartoon Network
+http://217.113.25.67:8000/play/62
+#EXTINF:-1 group-title="Детям", FamilyJam HD
 http://158.160.149.81:8080/8425/index.m3u8
-#EXTINF:-1 group-title="Детские", Fox Kids
+#EXTINF:-1 group-title="Детям", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 group-title="Детские", Fresh Kids
-http://str6.oxtve.live:8080/Fresh_Kids/mpegts
-#EXTINF:-1 group-title="Детские", Gulli Girl
+#EXTINF:-1 group-title="Детям", Gulli Girl
 http://77.235.1.19:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="Детские", JimJam
+#EXTINF:-1 group-title="Детям", JimJam
 http://158.160.149.81:8080/269/index.m3u8
-#EXTINF:-1 group-title="Детские", KBC Family Animation HD
-http://str6.oxtve.live:8080/KBC_FamilyAnimation/mpegts
-#EXTINF:-1 group-title="Детские", KBC Союзмультзал
-http://str6.oxtve.live:8080/KBC_soyuzmultzal/mpegts
-#EXTINF:-1 group-title="Детские", Kids TV
+#EXTINF:-1 group-title="Детям", Kids TV
 http://77.235.1.19:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Детские", Kids TV HD
+#EXTINF:-1 group-title="Детям", Kids TV HD
 http://158.160.149.81/8502/index.m3u8
-#EXTINF:-1 group-title="Детские", MS Animated HD
-http://str6.oxtve.live:8080/MSANIMATED/mpegts
-#EXTINF:-1 group-title="Детские", Magic Disney HD
-http://str6.oxtve.live:8080/Magic_Disney/mpegts
-#EXTINF:-1 group-title="Детские", Nickelodeon HD
+#EXTINF:-1 group-title="Детям", Nickelodeon
+http://217.113.25.67:8000/play/65
+#EXTINF:-1 group-title="Детям", Nickelodeon HD
 http://178.134.1.158:8081/nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Детские", Nick Jr. 
+#EXTINF:-1 group-title="Детям", Nick Jr. 
 http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Детские", Sky High Bunny HD
-http://str6.oxtve.live:8080/BUNNYHD/mpegts
-#EXTINF:-1 group-title="Детские", Sky High Kids USSR
-http://str6.oxtve.live:8080/SKYHIGHKIDSUSSR/mpegts
-#EXTINF:-1 group-title="Детские", Sumiko HD
+#EXTINF:-1 group-title="Детям", Nicktoons HD
+http://45.159.74.22/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Детям", Sumiko
+http://89.23.181.114:4022/udp/239.1.11.35:1234
+#EXTINF:-1 group-title="Детям", Sumiko HD
 http://158.160.149.81:8080/8709/index.m3u8
-#EXTINF:-1 group-title="Детские", TiJi
+#EXTINF:-1 group-title="Детям", TiJi
 http://178.217.72.66:8080/TiJi/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Развлечение", Домашний (Архив)
