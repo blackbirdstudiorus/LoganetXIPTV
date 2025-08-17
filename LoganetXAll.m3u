@@ -620,6 +620,28 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Развлечение", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Перец Int.
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="Развлечение", Поехали!
+http://178.217.72.66:8080/Poehali/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Приключения
+http://178.217.72.66:8080/priklucheniyahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Приключения HD
+http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Продвижение 
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Пятница
+https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="piatnica", Пятница! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="piatnica-pl7", Пятница! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Пятница! HD
+http://178.217.72.66:8080/Pyatnitsa/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Пятница! Int. 
+http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="Развлечение", Россия Культура (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
@@ -695,9 +717,9 @@ http://192.162.64.99:5000/play/a029/index.m3u8
 http://77.235.1.19:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Знания", Мы
 http://77.235.1.19:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Знания", Наука 2.0
+#EXTINF:-1 group-title="Знания", Наука
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Знания", Наука 2.0 HD
+#EXTINF:-1 group-title="Знания", Наука HD
 http://77.235.1.19:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Знания", Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
@@ -705,39 +727,22 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Неизвестная планета HD
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Знания", Океан
+http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 group-title="Знания", Первый космический
 http://89.23.181.114:4022/udp/239.1.11.3:1234
 #EXTINF:-1 group-title="Знания", Первый космический HD
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="Познавательные", Плюс Минус 16
+#EXTINF:-1 group-title="Знания", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Познавательные", Победа
+#EXTINF:-1 group-title="Знания", Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Познавательные", Поехали!
-http://178.217.72.66:8080/Poehali/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Приключения
-http://178.217.72.66:8080/priklucheniyahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Приключения HD
-http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Продвижение 
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Просвещение 
+#EXTINF:-1 group-title="Знания", Просвещение 
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Психология21
+#EXTINF:-1 group-title="Знания", Психология
 http://178.212.71.253:8000/play/96/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="piatnica", Пятница! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="piatnica-pl7", Пятница! +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", Пятница! HD
-http://178.217.72.66:8080/Pyatnitsa/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Пятница! Int. 
-http://158.101.222.193:88/georgia_play.php?id=friday
+
+
 #EXTINF:-1 group-title="Познавательные", Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="Познавательные", РЖД HD 
