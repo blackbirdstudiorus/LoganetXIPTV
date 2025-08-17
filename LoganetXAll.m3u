@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG","https://api.catcast.tv/api/timetable/epg.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG", url-tvg="https://api.catcast.tv/api/timetable/epg.xml"
 #EXTINF:-1 group-title="Общие", Telegram-канал
 https://t.me/loganet2
 #EXTINF:-1 group-title="Общие", Telegram-чат
@@ -123,6 +123,8 @@ http://77.235.1.19:8000/play/a07e/index.m3u8
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Кино", .Sci-Fi HD
 http://45.159.74.22/Kinoseriya/mono.m3u8
+#EXTINF:-1 group-title="Кино", День Победы HD
+http://89.23.181.114:4022/udp/239.1.11.13:1234
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
@@ -145,7 +147,7 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://178.217.72.66:8080/kineko/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
 http://77.235.1.19:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино 1 International
+#EXTINF:-1 group-title="Кино", Кино 1 Int.
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
@@ -259,7 +261,7 @@ https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" tvg-source="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46209", Сити Эдем — Теленовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-source="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246", Сити Эдем Христианский
+#EXTINF:-1 group-title="Кино" tvg-source="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246", Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", ТВ21
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
@@ -449,15 +451,15 @@ http://77.235.1.19:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Кино", viju+ Serial HD
 http://77.235.1.19:8000/play/a05n/index.m3u8
 
-#EXTINF:-1 group-title="Детские", В гостях у сказки
+#EXTINF:-1 group-title="Детям", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
-#EXTINF:-1 group-title="Детские", В гостях у сказки HD
+#EXTINF:-1 group-title="Детям", В гостях у сказки HD
 http://158.160.149.81:8080/8845/index.m3u8
-#EXTINF:-1 group-title="Детские", Детский мир
+#EXTINF:-1 group-title="Детям", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
-#EXTINF:-1 group-title="Детские", Детский мир HD
+#EXTINF:-1 group-title="Детям", Детский мир HD
 http://178.217.72.66:8080/Detskiy_Mir/index.m3u8
-#EXTINF:-1 group-title="Детские", Детское кино International
+#EXTINF:-1 group-title="Детские", Детское кино Int.
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 http://158.160.149.81:8080/1578/index.m3u8
