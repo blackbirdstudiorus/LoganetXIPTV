@@ -686,14 +686,13 @@ http://192.162.64.99:5000/play/a029/index.m3u8
 http://77.235.1.19:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Знания", Мы
 http://77.235.1.19:8000/play/a02z/index.m3u8
-
+#EXTINF:-1 group-title="Знания", Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Знания", Наука 2.0 HD
+http://77.235.1.19:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Наука 2.0
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
-http://77.235.1.19:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша сибирь HD
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
