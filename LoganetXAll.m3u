@@ -431,9 +431,6 @@ http://77.235.1.19:8000/play/a083/index.m3u8
 http://213.169.39.30:5006
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema
 http://89.23.181.114:4022/udp/239.1.12.8:1234
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино", VHS-ка HD
 http://158.160.149.81:8080/8270/index.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD 🛡
@@ -611,6 +608,18 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Китай ТВ HD
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Народ всë видит
+http://77.235.1.19:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Новый игровой канал
+http://77.235.1.19:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="Развлечение", НТВ-Право 
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", НТВ-Стиль
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение", Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="Развлечение", Россия Культура (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
@@ -690,24 +699,13 @@ http://77.235.1.19:8000/play/a02z/index.m3u8
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Знания", Наука 2.0 HD
 http://77.235.1.19:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Знания", Неизвестная Россия
+http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Неизвестная Россия HD
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Неизвестная планета HD
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Наша сибирь HD
-https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nasha-sibir-4k" group-title="Познавательные", Наша Сибирь 4k (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", НВВ
-http://77.235.1.19:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Познавательные", НИК
-http://77.235.1.19:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Ностальгия
-http://178.124.152.238:8088/nostalgia
-#EXTINF:-1 group-title="Познавательные", НТВ Право 
-http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Открытый мир
-http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Перец
@@ -902,8 +900,6 @@ http://85.187.13.40:18000/sts
 http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Unknown Planet
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viasat Nature
 http://87.246.54.249:8085/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viasat Nature HD
@@ -1013,8 +1009,6 @@ http://178.124.152.238:8088/kuhnya
 http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской 
 http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF:-1 group-title="Хобби", НТВ Стиль
-http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
 http://85.117.61.97:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
