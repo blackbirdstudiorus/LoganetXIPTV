@@ -385,7 +385,7 @@ http://95.85.109.219:7000/play/a06h
 http://77.235.1.19:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV
 http://178.212.71.253:8001/play/144/index.m3u8
-#EXTINF:-1 group-title="Кино", Saga TV РВ
+#EXTINF:-1 group-title="Кино", Saga TV HD
 http://95.85.109.219:7000/play/a05w
 #EXTINF:-1 group-title="Кино", Scream
 http://89.23.181.114:4022/udp/239.1.11.15:1234
@@ -393,42 +393,6 @@ http://89.23.181.114:4022/udp/239.1.11.15:1234
 http://158.160.149.81:8080/8229/index.m3u8
 #EXTINF:-1 group-title="Кино", Shot TV
 http://77.235.1.19:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Кино", Sky High Adult HD
-http://str6.oxtve.live:8080/SKYHIGHADULTHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Anime HD
-http://str6.oxtve.live:8080/SKYHIGHANIMEHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High CHBU HD
-http://str6.oxtve.live:8080/SKYHIGHBYSLONKA/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Drama 4K HDR
-http://str6.oxtve.live:8080/SKYHIGH3D/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Epoch HD
-http://str6.oxtve.live:8080/SKYHIGHEPOCHHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Fresh HD
-http://str6.oxtve.live:8080/SKYHIGHFRESHHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Fresh HDR
-http://str6.oxtve.live:8080/SKYHIGHFRESHHDR/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Heroes HD
-http://str6.oxtve.live:8080/SKYHIGHHEROESHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Man HD
-http://str6.oxtve.live:8080/SKYHIGHMANHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Mix 4K
-http://str6.oxtve.live:8080/SKYHIGHMIX4K/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Noir HD
-http://str6.oxtve.live:8080/SKYHIGHNEW60/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Orig HD
-http://str6.oxtve.live:8080/SKYHIGHORIGHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Russian HD
-http://str6.oxtve.live:8080/SKYHIGHRUSSIANHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Series HD
-http://str6.oxtve.live:8080/SKYHIGHSERIESHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Space 4K HDR
-http://str6.oxtve.live:8080/SKYHIGHFUTUREHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High Spirit HD
-http://str6.oxtve.live:8080/SKYHIGHSPIRITHD/mpegts
-#EXTINF:-1 group-title="Кино", Sky High UHD HDR
-http://str6.oxtve.live:8080/SKYHIGHUHDHDR/mpegts
-#EXTINF:-1 group-title="Кино", Sky High VHS UHD
-http://str6.oxtve.live:8080/SKYHIGHVHSUHD/mpegts
 #EXTINF:-1 group-title="Кино", Star Cinema
 http://77.235.1.19:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Family
@@ -443,18 +407,12 @@ http://77.235.1.19:8000/play/a07l/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино", Suspense
 http://77.235.1.19:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="Кино", Timeless Dizi 
+#EXTINF:-1 group-title="Кино", Timeless Dizi
 http://77.235.1.19:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="Кино", Top Budo HD
-http://str6.oxtve.live:8080/topbudohd/mpegts
-#EXTINF:-1 group-title="Кино", Top Cinema HD
-http://str6.oxtve.live:8080/topcinemahd/mpegts
-#EXTINF:-1 group-title="Кино", Top USSR HD
-http://str6.oxtve.live:8080/topussr/mpegts
-#EXTINF:-1 group-title="Кино", Top Великолепный век HD
-http://str6.oxtve.live:8080/topVelikolepnyyVek/mpegts
+#EXTINF:-1 group-title="Кино", TV1000 Русское
+http://213.169.39.30:5006
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema
-http://str6.oxtve.live:8080/UltraHDCinema4K/mpegts
+http://89.23.181.114:4022/udp/239.1.12.8:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -476,10 +434,16 @@ http://77.235.1.19:8000/play/a05p/index.m3u8
 http://85.117.61.97:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="Кино", viju TV1000 русское HD
 http://95.85.109.219:7000/play/a08x
+#EXTINF:-1 group-title="Кино", viju+ Comedy
+http://87.246.54.249:8085/Viju_Comedy/mpegts
 #EXTINF:-1 group-title="Кино", viju+ Comedy HD
 http://77.235.1.19:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Кино", viju+ Megahit
+http://31.133.36.244:8000/54
 #EXTINF:-1 group-title="Кино", viju+ Megahit HD
 http://77.235.1.19:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Кино", viju+ Premiere
+http://87.246.54.249:8085/Viju_Premiere/mpegts
 #EXTINF:-1 group-title="Кино", viju+ Premiere HD
 http://77.235.1.19:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Кино", viju+ Serial HD
@@ -947,6 +911,8 @@ http://str6.oxtve.live:8080/TravelplusAdventureHD/mpegts
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Unknown Planet
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viasat Nature
+http://87.246.54.249:8085/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viasat Nature HD
 http://85.187.13.40:18000/viasatnat
 #EXTINF:-1 group-title="Познавательные", viju Nature
