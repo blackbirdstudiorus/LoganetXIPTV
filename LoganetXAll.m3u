@@ -535,6 +535,8 @@ http://77.235.1.19:8000/play/a052/index.m3u8
 http://45.159.74.22/Channel_120/index.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Network
 http://217.113.25.67:8000/play/62
+#EXTINF:-1 group-title="Детям", Da Vinci
+http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Детям", FamilyJam HD
 http://158.160.149.81:8080/8425/index.m3u8
 #EXTINF:-1 group-title="Детям", Fox Kids
