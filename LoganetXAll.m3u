@@ -377,8 +377,6 @@ http://158.160.149.81:8080/8327/index.m3u8
 http://77.235.1.19:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Кино", Plan_B HD
 http://85.117.61.97:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Кино", Red Docu HD
-http://95.85.109.219:7000/play/a06f
 #EXTINF:-1 group-title="Кино", Red Premium HD
 http://95.85.109.219:7000/play/a06e
 #EXTINF:-1 group-title="Кино", Red Thriller HD
@@ -387,6 +385,10 @@ http://95.85.109.219:7000/play/a06h
 http://77.235.1.19:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV
 http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:-1 group-title="Кино", Saga TV РВ
+http://95.85.109.219:7000/play/a05w
+#EXTINF:-1 group-title="Кино", Scream
+http://89.23.181.114:4022/udp/239.1.11.15:1234
 #EXTINF:-1 group-title="Кино", Scream HD
 http://158.160.149.81:8080/8229/index.m3u8
 #EXTINF:-1 group-title="Кино", Shot TV
@@ -600,15 +602,15 @@ http://158.160.149.81:8080/8709/index.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 http://178.217.72.66:8080/TiJi/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Общие", Домашний (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Развлечение", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Общие", Домашний +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Развлечение", Домашний +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", Домашний HD
+#EXTINF:-1 group-title="Развлечение", Домашний HD
 http://178.217.72.66:8080/Domashniy/index.m3u8
-#EXTINF:-1 group-title="Общие", Домашний Int.
+#EXTINF:-1 group-title="Развлечение", Домашний Int.
 http://85.117.61.97:8000/play/a01i/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="Развлечение", Россия Культура (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -618,14 +620,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru", ТВ3 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tv3-ru", ТВ3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Общие", ТВ3 +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Развлечение", ТВ3 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", ТВ3 HD
+#EXTINF:-1 group-title="Развлечение", ТВ3 HD
 http://77.235.1.19:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Red Docu HD
+http://95.85.109.219:7000/play/a06f
 
 #EXTINF:-1 group-title="Познавательные", 2x2
 http://178.217.72.66:8080/2x2/index.m3u8
