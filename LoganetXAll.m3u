@@ -128,6 +128,8 @@ http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Общие", CGTN Русский HD
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Общие", RTVi 
+http://178.134.1.158:8081/rtvi/index.m3u8
 
 #EXTINF:-1 group-title="Кино", .Black
 http://158.101.222.193:88/georgia_play.php?id=black
@@ -221,8 +223,6 @@ http://31.148.48.15/Mir_Seriala/index.m3u8
 http://178.217.72.66:8080/Mir_Seriala/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция HD
-http://str6.oxtve.live:8080/mosfilm/mpegts
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино", Мужское кино HD
@@ -243,6 +243,8 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Премиальное HD
 http://178.217.72.66:8080/kinopremium/index.m3u8
+#EXTINF:-1 group-title="Кино", Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино 
 http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Романтичное HD
@@ -642,6 +644,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Пятница! Int. 
 http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 group-title="Развлечение", РЖД
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение", РЖД HD 
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение", Родной канал
+https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="Развлечение", Россия Культура (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
@@ -650,6 +658,46 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Сарафан
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Развлечение", Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Светлое ТВ HD
+http://82.209.254.71:7881/
+#EXTINF:-1 group-title="Развлечение", СТС
+http://158.160.149.81:8080/94/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="sts", СТС (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="sts-pl7", СТС +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС HD
+http://158.160.149.81:8080/5340/index.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС International
+http://178.134.1.158:8081/CTC/index.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС Love
+http://31.133.36.244:8000/105
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="sts-love", СТС Love (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="sts-love-pl7", СТС Love +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="super", Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="super", Суббота! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="super-pl7", Суббота! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Танцуй!
+http://77.235.1.19:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="Развлечение", ТВ3
+http://158.160.149.81:8080/1719/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tv3-ru", ТВ3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -658,8 +706,90 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", ТВ3 HD
 http://77.235.1.19:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Твоë ТВ HD 
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Твоë ТВ Юмор HD 
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Театр
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Телепутешествия 
+http://178.217.72.66:8080/teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt", ТНТ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt-pl7", ТНТ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ HD
+http://178.217.72.66:8080/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ Int.
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ4
+http://178.217.72.66:8080/TNT4/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt4", ТНТ4 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt4-pl7", ТНТ4 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Точка ТВ
+http://178.217.72.66:8080/Tochka_TV/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Успех
+http://178.217.72.66:8080/uspeh/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ЦТВ
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Че
+http://37.186.120.3:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che-pl7", Че! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Ю ТВ
+http://178.134.1.158:8081/U/index.m3u8
+#EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu", Ю ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7", Ю ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Discovery
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:-1 group-title="Развлечение", Gagsnetwork
+http://192.162.64.99:5000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Развлечение", History
+http://95.85.109.219:7000/play/a069
+#EXTINF:-1 group-title="Развлечение", History HD
+http://45.159.74.22/Channel_123/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Investigation Discovery
+http://178.217.72.66:8080/ID_Xtra/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Investigation Discovery HD
+http://45.159.74.22/InvestigationDiscovery/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Nano
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 group-title="Развлечение", Nano HD
+http://178.217.72.66:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Red Docu HD
 http://95.85.109.219:7000/play/a06f
+#EXTINF:-1 group-title="Развлечение", RTG TV 
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Развлечение", RTG HD
+http://77.235.1.19:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Развлечение", RTG Int.
+http://212.70.131.12:8000/play/a0fl
+#EXTINF:-1 group-title="Развлечение", TLC HD
+http://45.159.74.22/TLC/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Travel+Adventure
+http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Travel Channel
+http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#EXTINF:-1 group-title="Развлечение", TVRUS
+http://85.187.13.40:18000/sts
 
 #EXTINF:-1 group-title="Знания", 360°
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
@@ -741,185 +871,87 @@ https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Знания", Психология
 http://178.212.71.253:8000/play/96/index.m3u8
-
-
-#EXTINF:-1 group-title="Познавательные", Ретро
-http://178.212.71.253:8000/play/90/index.m3u8
-#EXTINF:-1 group-title="Познавательные", РЖД HD 
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Родной канал HD
-https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
-#EXTINF:-1 group-title="Познавательные", Сарафан
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Познавательные", Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts", СТС (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts-pl7", СТС +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", СТС International
-http://178.134.1.158:8081/CTC/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts-love", СТС Love (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="sts-love-pl7", СТС Love +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="super", Суббота! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="super-pl7", Суббота! +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
-http://hls2.hd-tv.club/2_super/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Тайны Галактики
+#EXTINF:-1 group-title="Знания", Тайны Галактики
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Танцуй!
-http://77.235.1.19:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Твоë ТВ HD 
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Твоë ТВ Юмор HD 
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Телепутешествия 
-http://178.217.72.66:8080/teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Техно 24
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="Познавательные", Театр
-http://195.26.83.96:7005/play/16/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Терра Инкогнита HD
+#EXTINF:-1 group-title="Знания", Тайны Галактики HD
+http://178.217.72.66:8080/galaxyhd/index.m3u8
+#EXTINF:-1 group-title="Знания", Терра Инкогнита HD
 http://178.124.153.123:44400/terra
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt", ТНТ (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt-pl7", ТНТ +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
-#EXTINF:-1 group-title="Познавательные", ТНТ HD
-http://178.217.72.66:8080/TNT_HD/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4", ТНТ4 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="tnt4-pl7", ТНТ4 +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", ТНТ4
-http://178.217.72.66:8080/TNT4/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Тонус 
-http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Точка Отрыва 
+#EXTINF:-1 group-title="Знания", Точка Отрыва 
 http://77.235.1.19:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Точка РФ
+#EXTINF:-1 group-title="Знания", Точка Отрыва HD
+http://217.113.25.67:8000/play/264
+#EXTINF:-1 group-title="Знания", Точка.РФ
 http://178.217.72.66:8080/HDL/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Точка РФ HD
-http://178.217.72.66:8080/HDL/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Точка ТВ
-http://178.217.72.66:8080/Tochka_TV/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Успех
-http://178.217.72.66:8080/uspeh/index.m3u8
-#EXTINF:-1 group-title="Познавательные", ЦТВ
-http://178.212.71.253:8000/play/41/index.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che", Че! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che-pl7", Че! +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu", Ю (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7", Ю +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные", Animal Planet
-http://31.148.48.15/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Animal Planet HD
+#EXTINF:-1 group-title="Знания", Точка.РФ HD
+http://87.246.54.249:8085/HDL/index.m3u8
+#EXTINF:-1 group-title="Знания", Animal Planet
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Animal Planet HD
 http://45.159.74.22/AnimalPlanet/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Big Planet
+#EXTINF:-1 group-title="Знания", Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Curiosity Stream
+#EXTINF:-1 group-title="Знания", Curiosity Stream
 http://31.133.36.244:8000/174
-#EXTINF:-1 group-title="Познавательные", Curiosity Stream HD
+#EXTINF:-1 group-title="Знания", Curiosity Stream HD
 http://178.217.72.66:8080/curiositystream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Da Vinci
-http://178.217.72.66:8080/Da_Vinchi/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery
-http://45.159.74.22/DiscoveryChannel/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery HD
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 group-title="Познавательные", DocuBox
+#EXTINF:-1 group-title="Знания", DocuBox
 http://77.235.1.19:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="Познавательные", DocuBox HD
+#EXTINF:-1 group-title="Знания", DocuBox HD
 http://85.117.61.97:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Познавательные", History
-http://95.85.109.219:7000/play/a069
-#EXTINF:-1 group-title="Познавательные", History HD
-http://45.159.74.22/Channel_123/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", History 2 HD 🛡️
+#EXTINF:-1 group-title="Знания", History 2 HD 🛡️
 http://95.67.12.81:10620
-#EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
-http://45.159.74.22/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Love Nature 4k
+#EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
+http://95.67.12.82:9098
+#EXTINF:-1 group-title="Знания", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="Познавательные", Nano
-http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Nano HD
-http://178.217.72.66:8080/NANO_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic
+#EXTINF:-1 group-title="Знания", National Geographic
 http://158.160.149.81:8080/43/index.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic HD
+#EXTINF:-1 group-title="Знания", National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild 
+#EXTINF:-1 group-title="Знания", National Geographic Wild 
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild HD
+#EXTINF:-1 group-title="Знания", National Geographic Wild HD
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Познавательные", One Planet 🛡️
+#EXTINF:-1 group-title="Знания", One Planet 🛡️
 http://95.67.12.82:9088
-#EXTINF:-1 group-title="Познавательные", RTД HD
+#EXTINF:-1 group-title="Знания", RTД
 http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
-#EXTINF:-1 group-title="Познавательные", RTG TV 
-http://195.26.83.96:7007/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Познавательные", RTG HD
-http://77.235.1.19:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", RTVi 
-http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Silk Way HD
+#EXTINF:-1 group-title="Знания", RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="Знания", Silk Way
+http://77.235.1.19:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Знания", Silk Way HD
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
+#EXTINF:-1 tvg-id="terra-ru" group-title="Знания", Terra
 http://77.235.1.19:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra HD
+#EXTINF:-1 tvg-id="terra-ru" group-title="Знания", Terra HD
 http://77.235.1.19:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="Познавательные", The Explorers HD
+#EXTINF:-1 group-title="Знания", The Explorers
+http://31.133.36.244:8000/172
+#EXTINF:-1 group-title="Знания", The Explorers HD
 http://77.235.1.19:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="Познавательные", TLC HD
-http://45.159.74.22/TLC/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Top Secret
-http://178.124.152.238:8088/sovsec
-#EXTINF:-1 group-title="Познавательные", TV BRICS HD
+#EXTINF:-1 group-title="Знания", TV BRICS
+http://origin5.mediacdn.ru/live/brics/index.m3u8
+#EXTINF:-1 group-title="Знания", TV BRICS HD
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", TVRUS
-http://85.187.13.40:18000/sts
-#EXTINF:-1 group-title="Познавательные", Travel+Adventure
-http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel Channel
-http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat Nature
+#EXTINF:-1 group-title="Знания", Top Secret
+http://178.124.152.238:8088/sovsec
+#EXTINF:-1 group-title="Знания", Viasat Nature
 http://87.246.54.249:8085/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat Nature HD
+#EXTINF:-1 group-title="Знания", Viasat Nature HD
 http://85.187.13.40:18000/viasatnat
-#EXTINF:-1 group-title="Познавательные", viju Nature
+#EXTINF:-1 group-title="Знания", viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="Познавательные", viju History
+#EXTINF:-1 group-title="Знания", viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="Познавательные", viju Explore
+#EXTINF:-1 group-title="Знания", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Познавательные", viju+ Planet HD
+#EXTINF:-1 group-title="Знания", viju+ Planet
+http://192.162.64.99:5000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Знания", viju+ Planet HD
 http://77.235.1.19:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Zooпарк
+#EXTINF:-1 group-title="Знания", Zooпарк
 http://77.235.1.19:8000/play/a06n/index.m3u8
 
 
@@ -1024,6 +1056,8 @@ http://158.160.149.81:8080/689/index.m3u8
 http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 group-title="Хобби", Телекафе
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Тонус 
+http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://158.160.149.81:8080/145/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
