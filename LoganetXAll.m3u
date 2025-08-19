@@ -1003,6 +1003,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="Хобби", Авто 24 HD
+http://89.221.57.5:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Аппетитный
@@ -1011,30 +1013,44 @@ http://77.235.1.19:8000/play/a031/index.m3u8
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий 
 http://178.217.72.66:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая охота
+http://192.162.64.99:5000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка
+http://192.162.64.99:5000/play/a039/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Драйв
-http://178.212.71.253:8000/play/92/index.m3u8
-#EXTINF:-1 group-title="Хобби", Живи
+http://85.117.61.97:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Хобби", Драйв HD
+http://89.221.57.5:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Хобби", Живи!
 http://195.18.23.20:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="Хобби", Живи! HD
+http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Хобби", Загородный 
 http://178.217.72.66:8080/zagorodnyi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Конный мир 
-http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Кухня
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 group-title="Хобби", Лапки Live
 http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской 
 http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1 group-title="Хобби", Мужской HD
+http://158.160.149.81:8080/8850/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка 
 http://85.117.61.97:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Хобби", Охота и рыбалка HD
+http://89.221.57.5:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов
+http://45.159.74.22/Channel_124/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://158.160.149.81:8080/689/index.m3u8
+#EXTINF:-1 group-title="Хобби", Рыбалка и охота
+http://213.169.39.30:5262
 #EXTINF:-1 group-title="Хобби", Рыболов
 http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 group-title="Хобби", Телекафе
@@ -1043,22 +1059,28 @@ http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://158.160.149.81:8080/145/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
+#EXTINF:-1 group-title="Хобби", Усадьба HD
+http://89.221.57.5:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
+http://192.162.64.99:5000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", English Clasd
-http://str6.oxtve.live:8080/EnglishClub/mpegts
+#EXTINF:-1 group-title="Хобби", Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion TV HD
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion&LifeStyle HD
 http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 group-title="Хобби", FashionBox
 http://85.187.13.40:18000/FashionBox
-#EXTINF:-1 group-title="Хобби", Fashion TV HD
-http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 group-title="Хобби", Food Time HD
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Хобби", World Fashion Channel HD
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
 
 #EXTINF:-1 group-title="Религия", Союз
@@ -1089,6 +1111,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Конный мир 
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
