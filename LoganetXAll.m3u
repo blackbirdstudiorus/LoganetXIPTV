@@ -1349,9 +1349,10 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия HD
 http://rtmp.one.by:2200
-
-#EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
+#EXTINF:-1 group-title="Музыка", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music
+http://85.117.61.97:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
@@ -1376,65 +1377,61 @@ http://178.217.72.66:8080/Rusong_TV/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Этно HD
+http://217.114.185.58:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка", Clubbing TV HD
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Dance 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Lounge
-http://jmp2.uk/sam-CHAJ0500413A.m3u8
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="Музыка", Deluxe Music 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV
 http://77.235.1.19:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="Музыка", KBC Наш Rock HD
-http://str6.oxtve.live:8080/KBC_nashrock/mpegts
+#EXTINF:-1 group-title="Музыка", Europa Plus TV HD
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка", MCM Top
-http://str6.oxtve.live:8080/MCMTOPHD/mpegts
 #EXTINF:-1 group-title="Музыка", Mezzo 
 http://77.235.1.19:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Музыка", Mezzo Live
+http://178.217.72.66:8080/Mezzo_Live_HD/index.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo Live HD
 http://77.235.1.19:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Live HD
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV 80's
+http://213.169.39.30:5137
 #EXTINF:-1 group-title="Музыка", MTV 90's
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", MTV Classic
+http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Hits
+http://213.169.39.30:5257
+#EXTINF:-1 group-title="Музыка", MTV Livep
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 http://103.49.40.100:27014/POLSATMUSICHD
 #EXTINF:-1 group-title="Музыка", Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 group-title="Музыка", Russian MusicBox
-http://178.212.71.253:8000/play/65/index.m3u8
 #EXTINF:-1 group-title="Музыка", Retro Music
 http://78.130.250.2:8023/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Музыка", RU.TV
+http://213.230.65.254:8000/play/a01g
 #EXTINF:-1 group-title="Музыка", RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыка", Sky High Classic HD
-http://str6.oxtve.live:8080/SKYHIGHCLASSICHD/mpegts
-#EXTINF:-1 group-title="Музыка", Sky High Concert HD
-http://str6.oxtve.live:8080/SKYHIGHCONCERTHD/mpegts
-#EXTINF:-1 group-title="Музыка", Sky High Dance HD
-http://str6.oxtve.live:8080/SKYHIGHDANCEHD/mpegts
-#EXTINF:-1 group-title="Музыка", Sky High Lo-Fi HD
-http://str6.oxtve.live:8080/SKYHIGHLOFIHD/mpegts
-#EXTINF:-1 group-title="Музыка", Sky High Music HD
-http://str6.oxtve.live:8080/SKYHIGHMUSICHD/mpegts
-#EXTINF:-1 group-title="Музыка", SongTV Russia
+#EXTINF:-1 group-title="Музыка", SongTV Россия
 http://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 group-title="Музыка", Stingray iConcerts HD
-http://str6.oxtve.live:8080/iconcerts/mpegts
-#EXTINF:-1 group-title="Музыка", Viva TV Russia
+#EXTINF:-1 group-title="Музыка", VIVA HD
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
