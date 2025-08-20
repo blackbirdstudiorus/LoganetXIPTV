@@ -95,7 +95,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общие", Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
+http://185.46.16.239:8000/Mir
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="mir", Мир (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
@@ -1092,21 +1092,31 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel HD
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
-
 #EXTINF:-1 group-title="Религия", Союз
+http://31.148.48.15/Soyuz/index.m3u8
+#EXTINF:-1 group-title="Религия", Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Религия", МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Религия", МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Религия", ТБВ
-https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
-#EXTINF:-1 group-title="Религия", Три ангела
-https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Религия", Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+#EXTINF:-1 group-title="Религия", ТБВ HD
+https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
+#EXTINF:-1 group-title="Религия", ТБН
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+
 
 
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png", Астрахань Спорт
