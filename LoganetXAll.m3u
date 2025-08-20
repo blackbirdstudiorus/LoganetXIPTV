@@ -1313,28 +1313,43 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыка", Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Жара 
 http://77.235.1.19:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="Музыка", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Матур ТВ
+http://213.59.128.165:8080/Matur_TV/index.m3u8
+#EXTINF:-1 group-title="Музыка", Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка", ММТВ HD
 http://178.217.72.66:8080/MMTV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
+#EXTINF:-1 group-title="Музыка", Муз-ТВ
+http://45.11.139.43:8555/muz/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз-ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз-ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Музыка", Муз-ТВ HD 
+http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Первого 
-http://31.148.48.15/Muzika_Pervogo/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/Muzyka_Pervogo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Музыка Live
-http://31.148.48.15/La-Minor_TV/index.m3u8
+http://37.186.120.3:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный
-http://hz1.teleport.cc/HLS/HD.m3u8
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="Музыка", Первый Музыкальный HD
+http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия
 http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия HD
+http://rtmp.one.by:2200
+
 #EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
