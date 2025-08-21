@@ -183,6 +183,8 @@ http://77.235.1.19:8000/play/a05l/index.m3u8
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Киноман
+http://77.235.1.19:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Киномикс HD
@@ -195,8 +197,6 @@ http://178.217.72.66:8080/kinopokazhd/index.m3u8
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
-#EXTINF:-1 group-title="Кино", Киносат
-http://77.235.1.19:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья
@@ -492,7 +492,7 @@ http://87.246.54.249:8085/Karusel/index.m3u8
 http://158.160.149.81:8080/8062/index.m3u8
 #EXTINF:-1 group-title="Детям", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-#EXTINF:-1 group-title="Детям", Мамонтëнок
+#EXTINF:-1 group-title="Детям", Мамонтенок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Мульт
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
@@ -586,6 +586,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://77.235.1.19:8000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u
+#EXTINF:-1 group-title="Развлечение", Время
+http://178.217.72.66:8080/Vremya/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Глазами туриста
 http://77.235.1.19:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Глазами туриста HD
@@ -608,7 +610,9 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Китай ТВ HD
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="Развлечение", Народ всë видит
+#EXTINF:-1 group-title="Развлечение", Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Народ все видит
 http://77.235.1.19:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Новый игровой канал
 http://77.235.1.19:8000/play/a01j/index.m3u8
@@ -630,7 +634,7 @@ http://178.217.72.66:8080/priklucheniyahd/tracks-v1a1/mono.m3u8
 http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 group-title="Развлечение", Пятница
+#EXTINF:-1 group-title="Развлечение", Пятница!
 https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="piatnica", Пятница! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -642,9 +646,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Пятница! Int.
 http://158.101.222.193:88/georgia_play.php?id=friday
-#EXTINF:-1 group-title="Развлечение", РЖД
+#EXTINF:-1 group-title="Развлечение", РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Развлечение", РЖД HD
+#EXTINF:-1 group-title="Развлечение", РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлечение", Родной канал
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
@@ -672,7 +676,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", СТС HD
 http://158.160.149.81:8080/5340/index.m3u8
-#EXTINF:-1 group-title="Развлечение", СТС International
+#EXTINF:-1 group-title="Развлечение", СТС Int.
 http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлечение", СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
@@ -704,9 +708,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", ТВ3 HD
 http://77.235.1.19:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Развлечение", Твоë ТВ HD
+#EXTINF:-1 group-title="Развлечение", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Развлечение", Твоë ТВ Юмор HD
+#EXTINF:-1 group-title="Развлечение", Твое ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Театр
 http://195.26.83.96:7005/play/16/index.m3u8
@@ -787,6 +791,8 @@ http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Развлечение", TVRUS
 http://85.187.13.40:18000/sts
 
+#EXTINF:-1 group-title="Знания", #КтоКуда
+http://77.235.1.19:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="Знания", 360°
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", 360° HD
@@ -805,6 +811,8 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://86.57.209.210/AnimalFamily/index.m3u8
 #EXTINF:-1 group-title="Знания", Вкус
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
+#EXTINF:-1 group-title="Знания", Госфильмофонд. Машина времени HD
+http://89.221.57.5:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Знания", Доктор
 http://77.235.1.19:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="Знания", Доктор HD
@@ -815,6 +823,8 @@ http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
 http://77.235.1.19:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Знания", Живая планета
 http://158.160.149.81:8080/1491/index.m3u8
+#EXTINF:-1 group-title="Знания", Живи активно HD
+http://77.235.1.19:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="Знания", Звезда Плюс
 http://192.162.64.99:5000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Знания", Звезда Плюс HD
@@ -861,6 +871,8 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 group-title="Знания", Первый космический HD
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Про бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Победа
@@ -877,9 +889,9 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://178.217.72.66:8080/galaxyhd/index.m3u8
 #EXTINF:-1 group-title="Знания", Терра Инкогнита HD
 http://178.124.153.123:44400/terra
-#EXTINF:-1 group-title="Знания", Точка Отрыва
+#EXTINF:-1 group-title="Знания", Точка отрыва
 http://77.235.1.19:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="Знания", Точка Отрыва HD
+#EXTINF:-1 group-title="Знания", Точка отрыва HD
 http://89.221.57.5:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Знания", Точка.РФ
 http://178.217.72.66:8080/HDL/index.m3u8
@@ -903,6 +915,8 @@ http://95.67.12.81:10620
 http://95.67.12.82:9098
 #EXTINF:-1 group-title="Знания", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Знания", Luxury HD
+http://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 group-title="Знания", National Geographic
 http://158.160.149.81:8080/43/index.m3u8
 #EXTINF:-1 group-title="Знания", National Geographic HD
@@ -929,6 +943,8 @@ http://77.235.1.19:8000/play/a07d/index.m3u8
 http://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 group-title="Знания", The Explorers HD
 http://77.235.1.19:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Знания", Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Знания", TV BRICS
 http://origin5.mediacdn.ru/live/brics/index.m3u8
 #EXTINF:-1 group-title="Знания", TV BRICS HD
@@ -1020,8 +1036,10 @@ http://89.221.57.5:8000/play/a00i/index.m3u8
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
+#EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобер
 http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
+http://37.186.120.3:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий
 http://178.217.72.66:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота
@@ -1052,6 +1070,10 @@ http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мужской HD
 http://158.160.149.81:8080/8850/index.m3u8
+#EXTINF:-1 group-title="Хобби", Наша тема
+http://213.230.65.254:8000/play/a013
+#EXTINF:-1 group-title="Хобби", Оружие
+http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка
 http://85.117.61.97:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка HD
@@ -1311,14 +1333,13 @@ http://95.85.109.219:7000/play/a066
 #EXTINF:-1 group-title="Спорт", Viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 
-
 #EXTINF:-1 group-title="Музыка", 1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыка", Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Жара
 http://77.235.1.19:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Музыка", Курай
+#EXTINF:-1 group-title="Музыка", Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Матур ТВ
 http://213.59.128.165:8080/Matur_TV/index.m3u8
@@ -1342,13 +1363,13 @@ http://178.217.72.66:8080/Muzyka_Pervogo/tracks-v1a1/mono.m3u8
 http://37.186.120.3:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Музыка", О!2
 http://195.26.83.96:7006/play/1/index.m3u8
-#EXTINF:-1 group-title="Музыка", Первый Музыкальный
+#EXTINF:-1 group-title="Музыка", Первый музыкальный
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="Музыка", Первый Музыкальный HD
+#EXTINF:-1 group-title="Музыка", Первый музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия
+#EXTINF:-1 group-title="Музыка", Первый музыкальный Россия
 http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Музыка", Первый Музыкальный Россия HD
+#EXTINF:-1 group-title="Музыка", Первый музыкальный Россия HD
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -1410,9 +1431,9 @@ http://77.235.1.19:8000/play/a02x/index.m3u8
 http://178.217.72.66:8080/Mezzo_Live_HD/index.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo Live HD
 http://77.235.1.19:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV 80's
+#EXTINF:-1 group-title="Музыка", MTV 80s
 http://213.169.39.30:5137
-#EXTINF:-1 group-title="Музыка", MTV 90's
+#EXTINF:-1 group-title="Музыка", MTV 90s
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
