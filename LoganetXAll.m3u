@@ -57,7 +57,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="5kanal-ru-pl7", Пятый канал +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", Пятый канал Int. 
+#EXTINF:-1 group-title="Общие", Пятый канал Int.
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Общие", ОТР
 http://178.217.72.66:8080/OTR/index.m3u8
@@ -132,7 +132,7 @@ http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Общие", CGTN Русский HD
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Общие", RTVi 
+#EXTINF:-1 group-title="Общие", RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 
 #EXTINF:-1 group-title="Кино", .Black
@@ -141,7 +141,7 @@ http://158.101.222.193:88/georgia_play.php?id=black
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Кино", .Red HD
 http://77.235.1.19:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="Кино", .Sci-Fi 
+#EXTINF:-1 group-title="Кино", .Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Кино", .Sci-Fi HD
 http://45.159.74.22/Kinoseriya/mono.m3u8
@@ -163,13 +163,13 @@ http://89.221.57.5:8000/play/a00o/index.m3u8
 http://158.160.149.81:8080/88/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+ HD
 http://89.221.57.5:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Кино", Индийское кино 
+#EXTINF:-1 group-title="Кино", Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://178.217.72.66:8080/kineko/index.m3u8
-#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD 
+#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
 http://77.235.1.19:8000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино 1 Int.
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
@@ -177,7 +177,7 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ +4
 http://77.235.1.19:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ HD 
+#EXTINF:-1 group-title="Кино", Кино ТВ HD
 http://77.235.1.19:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
@@ -217,7 +217,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 http://77.235.1.19:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедийное HD
 http://178.217.72.66:8080/komediynoe/index.m3u8
-#EXTINF:-1 group-title="Кино", Комедия 
+#EXTINF:-1 group-title="Кино", Комедия
 http://178.217.72.66:8080/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
 http://77.235.1.19:8000/play/a08h/index.m3u8
@@ -237,11 +237,11 @@ http://77.235.1.19:8000/play/a08d/index.m3u8
 http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше крутое HD
 http://178.217.72.66:8080/nashekrutoe/index.m3u8
-#EXTINF:-1 group-title="Кино", Наше новое кино 
+#EXTINF:-1 group-title="Кино", Наше новое кино
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Наше новое кино HD
 http://87.246.54.249:8085/NasheKino/index.m3u8
-#EXTINF:-1 group-title="Кино", НСТ 
+#EXTINF:-1 group-title="Кино", НСТ
 http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -251,13 +251,13 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://178.217.72.66:8080/kinopremium/index.m3u8
 #EXTINF:-1 group-title="Кино", Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
-#EXTINF:-1 group-title="Кино", Родное кино 
+#EXTINF:-1 group-title="Кино", Родное кино
 http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Романтичное HD
 http://158.160.149.81:8080/8823/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский бестселлер
 http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский детектив 
+#EXTINF:-1 group-title="Кино", Русский детектив
 http://77.235.1.19:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
@@ -279,11 +279,11 @@ https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноклассика
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-id="40783", Сити Эдем — Киномистика 
+#EXTINF:-1 group-title="Кино" tvg-id="40783", Сити Эдем — Киномистика
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киносемья
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-id="41333", Сити Эдем — Киноэкшен 
+#EXTINF:-1 group-title="Кино" tvg-id="41333", Сити Эдем — Киноэкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" tvg-id="46209", Сити Эдем — Теленовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
@@ -309,7 +309,7 @@ http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 http://77.235.1.19:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="Кино", Amedia Premium HD 
+#EXTINF:-1 group-title="Кино", Amedia Premium HD
 http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
@@ -367,7 +367,7 @@ http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
 http://158.160.149.81:8080/523/index.m3u8
 #EXTINF:-1 group-title="Кино", DetectiveJam HD
 http://158.160.149.81:8080/8426/index.m3u8
-#EXTINF:-1 group-title="Кино", FAN 
+#EXTINF:-1 group-title="Кино", FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", FAN HD
 http://31.148.48.15/Fan/index.m3u8
@@ -437,7 +437,7 @@ http://213.169.39.30:5006
 http://158.160.149.81:8080/8270/index.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD 🛡
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="Кино", viju TV1000 
+#EXTINF:-1 group-title="Кино", viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", viju TV1000 HD
 http://95.85.109.219:7000/play/a08v
