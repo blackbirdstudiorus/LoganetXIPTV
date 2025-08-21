@@ -951,6 +951,10 @@ http://origin5.mediacdn.ru/live/brics/index.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Знания", Top Secret
 http://178.124.152.238:8088/sovsec
+#EXTINF:-1 group-title="Знания", Univer
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Знания", Univer HD
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Знания", Viasat Nature
 http://87.246.54.249:8085/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Знания", Viasat Nature HD
@@ -1019,14 +1023,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 http://87.118.142.91:6060/play/a044
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://178.124.152.238:8088/auto24
